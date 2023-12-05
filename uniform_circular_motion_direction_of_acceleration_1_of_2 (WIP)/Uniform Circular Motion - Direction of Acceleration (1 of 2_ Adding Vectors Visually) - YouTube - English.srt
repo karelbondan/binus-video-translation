@@ -1,0 +1,1095 @@
+1
+00:00:00,240 --> 00:00:03,520
+this is the simplest kind of circular
+
+2
+00:00:02,240 --> 00:00:05,680
+motion
+
+3
+00:00:03,520 --> 00:00:08,320
+and it's where you have a constant
+
+4
+00:00:05,680 --> 00:00:09,280
+angular speed constant angular speed
+
+5
+00:00:08,320 --> 00:00:10,880
+right
+
+6
+00:00:09,280 --> 00:00:12,480
+now we're going to need to draw a new
+
+7
+00:00:10,880 --> 00:00:14,880
+diagram without people on it so draw me
+
+8
+00:00:12,480 --> 00:00:16,800
+a circle
+
+9
+00:00:14,880 --> 00:00:17,920
+okay roughly
+
+10
+00:00:16,800 --> 00:00:19,359
+and
+
+11
+00:00:17,920 --> 00:00:21,359
+we're going to think about this circular
+
+12
+00:00:19,359 --> 00:00:22,640
+motion okay so
+
+13
+00:00:21,359 --> 00:00:24,480
+i actually we're going to do some
+
+14
+00:00:22,640 --> 00:00:26,240
+constructions off of this okay and for
+
+15
+00:00:24,480 --> 00:00:27,599
+that reason you need to make your
+
+16
+00:00:26,240 --> 00:00:29,359
+drawing fairly accurate which is why i
+
+17
+00:00:27,599 --> 00:00:31,439
+got all the equipment out okay
+
+18
+00:00:29,359 --> 00:00:32,399
+significantly i want to ask you a couple
+
+19
+00:00:31,439 --> 00:00:33,760
+of things
+
+20
+00:00:32,399 --> 00:00:36,000
+firstly
+
+21
+00:00:33,760 --> 00:00:37,920
+this linear velocity right
+
+22
+00:00:36,000 --> 00:00:38,960
+if we're talking about uniform circular
+
+23
+00:00:37,920 --> 00:00:42,160
+motion
+
+24
+00:00:38,960 --> 00:00:44,559
+where the angular speed angle velocity
+
+25
+00:00:42,160 --> 00:00:45,680
+is constant so we're going around at a
+
+26
+00:00:44,559 --> 00:00:48,000
+constant
+
+27
+00:00:45,680 --> 00:00:49,600
+rate okay so we're making laps
+
+28
+00:00:48,000 --> 00:00:52,719
+consistently we're not speeding i'm not
+
+29
+00:00:49,600 --> 00:00:56,079
+slowing down okay
+
+30
+00:00:52,719 --> 00:00:58,079
+a constant here a constant omega is
+
+31
+00:00:56,079 --> 00:01:00,480
+going to imply a constant linear
+
+32
+00:00:58,079 --> 00:01:02,800
+velocity because r is a constant omega
+
+33
+00:01:00,480 --> 00:01:04,400
+constant whole thing's constant okay so
+
+34
+00:01:02,800 --> 00:01:06,000
+therefore if these two things are going
+
+35
+00:01:04,400 --> 00:01:09,360
+to go sort of complex numbers on you
+
+36
+00:01:06,000 --> 00:01:11,840
+right if these two lines represent
+
+37
+00:01:09,360 --> 00:01:14,080
+the velocity if they represent vectors
+
+38
+00:01:11,840 --> 00:01:15,840
+right it's got a direction that's why
+
+39
+00:01:14,080 --> 00:01:18,479
+i've got an arrow on there but this
+
+40
+00:01:15,840 --> 00:01:20,000
+length is important okay these lengths
+
+41
+00:01:18,479 --> 00:01:22,080
+in fact because it's constant they
+
+42
+00:01:20,000 --> 00:01:24,000
+should be the same okay so what however
+
+43
+00:01:22,080 --> 00:01:24,840
+big your circle is you know on mine one
+
+44
+00:01:24,000 --> 00:01:27,360
+of
+
+45
+00:01:24,840 --> 00:01:28,240
+these something like 20 centimeters
+
+46
+00:01:27,360 --> 00:01:30,640
+sorry
+
+47
+00:01:28,240 --> 00:01:32,640
+25. whatever they are i want them to be
+
+48
+00:01:30,640 --> 00:01:34,000
+the same on your diagram it doesn't seem
+
+49
+00:01:32,640 --> 00:01:36,960
+like it's going to be that important but
+
+50
+00:01:34,000 --> 00:01:38,479
+it will be okay
+
+51
+00:01:36,960 --> 00:01:39,439
+now i don't know if you've noticed i've
+
+52
+00:01:38,479 --> 00:01:41,280
+been a bit
+
+53
+00:01:39,439 --> 00:01:44,960
+funny with my language
+
+54
+00:01:41,280 --> 00:01:46,000
+i want to talk about this velocity okay
+
+55
+00:01:44,960 --> 00:01:48,240
+now we've already established that the
+
+56
+00:01:46,000 --> 00:01:49,520
+linear speed is constant
+
+57
+00:01:48,240 --> 00:01:50,479
+but
+
+58
+00:01:49,520 --> 00:01:53,600
+is
+
+59
+00:01:50,479 --> 00:01:55,280
+the linear velocity constant
+
+60
+00:01:53,600 --> 00:01:57,840
+it's my question
+
+61
+00:01:55,280 --> 00:02:00,399
+is the linear velocity
+
+62
+00:01:57,840 --> 00:02:00,399
+constant
+
+63
+00:02:03,119 --> 00:02:06,880
+now don't forget just to refresh your
+
+64
+00:02:05,119 --> 00:02:09,360
+memory right we've got two different
+
+65
+00:02:06,880 --> 00:02:12,560
+kinds of quantities in this in this
+
+66
+00:02:09,360 --> 00:02:14,319
+world that's 2d okay we've got scalars
+
+67
+00:02:12,560 --> 00:02:15,920
+and we've got vectors do you remember
+
+68
+00:02:14,319 --> 00:02:18,560
+what they mean what does it mean for
+
+69
+00:02:15,920 --> 00:02:20,319
+something to be scalar
+
+70
+00:02:18,560 --> 00:02:22,720
+it's just a value with a magnitude it's
+
+71
+00:02:20,319 --> 00:02:24,560
+just the size right so you can add up
+
+72
+00:02:22,720 --> 00:02:26,319
+scalar numbers together there's you know
+
+73
+00:02:24,560 --> 00:02:28,319
+like three and five they're scalars and
+
+74
+00:02:26,319 --> 00:02:31,040
+you get eight okay
+
+75
+00:02:28,319 --> 00:02:33,519
+but a vector makes it more complex not
+
+76
+00:02:31,040 --> 00:02:35,840
+only does it have a magnitude
+
+77
+00:02:33,519 --> 00:02:38,480
+but as we've been mentioning it has a
+
+78
+00:02:35,840 --> 00:02:39,760
+direction right so it's it's a scalar
+
+79
+00:02:38,480 --> 00:02:42,160
+right
+
+80
+00:02:39,760 --> 00:02:44,160
+plus another scalar
+
+81
+00:02:42,160 --> 00:02:46,560
+namely magnitude and direction so it's
+
+82
+00:02:44,160 --> 00:02:47,840
+got two values to it two parts and so
+
+83
+00:02:46,560 --> 00:02:49,360
+you know under complex numbers we talked
+
+84
+00:02:47,840 --> 00:02:51,040
+about the real part and the imaginary
+
+85
+00:02:49,360 --> 00:02:52,640
+part right
+
+86
+00:02:51,040 --> 00:02:53,920
+in this case we've got direction now can
+
+87
+00:02:52,640 --> 00:02:56,080
+you see
+
+88
+00:02:53,920 --> 00:03:00,000
+as you go around the circle
+
+89
+00:02:56,080 --> 00:03:01,280
+direction is constantly changing
+
+90
+00:03:00,000 --> 00:03:03,040
+you see that direction is constantly
+
+91
+00:03:01,280 --> 00:03:07,920
+changing at every different point let's
+
+92
+00:03:03,040 --> 00:03:09,680
+name them say p1 versus p2 okay
+
+93
+00:03:07,920 --> 00:03:11,360
+the velocity is changing because the
+
+94
+00:03:09,680 --> 00:03:13,200
+direction is changing the magnitude is
+
+95
+00:03:11,360 --> 00:03:14,720
+the same
+
+96
+00:03:13,200 --> 00:03:16,239
+right you've got the magnitude but the
+
+97
+00:03:14,720 --> 00:03:18,640
+direction
+
+98
+00:03:16,239 --> 00:03:21,360
+is not the same okay
+
+99
+00:03:18,640 --> 00:03:25,040
+so that means from this velocity to this
+
+100
+00:03:21,360 --> 00:03:27,280
+velocity there's a change right it's a
+
+101
+00:03:25,040 --> 00:03:29,360
+change in velocity
+
+102
+00:03:27,280 --> 00:03:32,080
+we have a name for that don't we
+
+103
+00:03:29,360 --> 00:03:33,599
+change in velocity what's that called
+
+104
+00:03:32,080 --> 00:03:35,519
+that's acceleration
+
+105
+00:03:33,599 --> 00:03:38,959
+so there's some acceleration in this
+
+106
+00:03:35,519 --> 00:03:42,720
+picture okay my question is where is the
+
+107
+00:03:38,959 --> 00:03:42,720
+acceleration going
+
+108
+00:03:42,799 --> 00:03:46,480
+now let's have a look at this okay
+
+109
+00:03:45,120 --> 00:03:48,799
+let me just walk you through that just
+
+110
+00:03:46,480 --> 00:03:50,400
+in case you lost me there's a change in
+
+111
+00:03:48,799 --> 00:03:52,480
+velocity right
+
+112
+00:03:50,400 --> 00:03:54,959
+so step one i notice there's a change in
+
+113
+00:03:52,480 --> 00:03:54,959
+velocity
+
+114
+00:03:55,519 --> 00:04:01,840
+so step two i then conclude
+
+115
+00:03:58,480 --> 00:04:01,840
+therefore there must be acceleration
+
+116
+00:04:05,200 --> 00:04:10,000
+so then my question is where
+
+117
+00:04:08,640 --> 00:04:11,280
+what direction is it going in and then
+
+118
+00:04:10,000 --> 00:04:12,959
+i'm going to go toward the language of
+
+119
+00:04:11,280 --> 00:04:14,799
+forces i get two forces from
+
+120
+00:04:12,959 --> 00:04:16,239
+acceleration okay
+
+121
+00:04:14,799 --> 00:04:17,759
+all right now here's where the scale of
+
+122
+00:04:16,239 --> 00:04:19,600
+your diagram is going to be very very
+
+123
+00:04:17,759 --> 00:04:21,280
+important okay am i gonna have enough
+
+124
+00:04:19,600 --> 00:04:22,960
+space over there probably not i'm gonna
+
+125
+00:04:21,280 --> 00:04:24,960
+do it over here
+
+126
+00:04:22,960 --> 00:04:26,479
+um you've got your scale there you're
+
+127
+00:04:24,960 --> 00:04:31,440
+gonna need to draw some parallel lines
+
+128
+00:04:26,479 --> 00:04:34,880
+as well how do you work out acceleration
+
+129
+00:04:31,440 --> 00:04:36,400
+acceleration is change in velocity right
+
+130
+00:04:34,880 --> 00:04:38,000
+so for example
+
+131
+00:04:36,400 --> 00:04:39,600
+if i was traveling
+
+132
+00:04:38,000 --> 00:04:41,520
+at one point let's see let's start from
+
+133
+00:04:39,600 --> 00:04:43,040
+this side i was starting my journey and
+
+134
+00:04:41,520 --> 00:04:44,560
+i was traveling at 10 kilometers an hour
+
+135
+00:04:43,040 --> 00:04:47,680
+right and then by the end of my journey
+
+136
+00:04:44,560 --> 00:04:50,240
+i'm traveling at 30 kilometers an hour
+
+137
+00:04:47,680 --> 00:04:53,120
+10 kilometers an hour
+
+138
+00:04:50,240 --> 00:04:56,560
+30 kilometers now
+
+139
+00:04:53,120 --> 00:04:59,440
+how much have i accelerated
+
+140
+00:04:56,560 --> 00:05:01,039
+it's not a complicated question
+
+141
+00:04:59,440 --> 00:05:03,360
+i've accelerated
+
+142
+00:05:01,039 --> 00:05:05,199
+20 kilometers per hour right that's the
+
+143
+00:05:03,360 --> 00:05:07,360
+that's the net the resultant
+
+144
+00:05:05,199 --> 00:05:09,360
+acceleration okay so the way you got
+
+145
+00:05:07,360 --> 00:05:12,960
+that is you take the difference you just
+
+146
+00:05:09,360 --> 00:05:14,400
+do final speed final velocity minus
+
+147
+00:05:12,960 --> 00:05:16,479
+initial velocity and that's your
+
+148
+00:05:14,400 --> 00:05:18,479
+acceleration does that make sense so
+
+149
+00:05:16,479 --> 00:05:19,919
+obviously if i was just you know doing
+
+150
+00:05:18,479 --> 00:05:22,160
+the inertia thing and going 10
+
+151
+00:05:19,919 --> 00:05:24,080
+kilometers per hour
+
+152
+00:05:22,160 --> 00:05:25,120
+and 10 kilometers hour just uniform
+
+153
+00:05:24,080 --> 00:05:26,720
+straight line motion there's no
+
+154
+00:05:25,120 --> 00:05:28,880
+acceleration there right no force is
+
+155
+00:05:26,720 --> 00:05:29,840
+acting or at least no resultant forces
+
+156
+00:05:28,880 --> 00:05:30,880
+okay
+
+157
+00:05:29,840 --> 00:05:32,720
+so therefore let's take that
+
+158
+00:05:30,880 --> 00:05:34,880
+understanding and bring it over here
+
+159
+00:05:32,720 --> 00:05:37,360
+okay velocity
+
+160
+00:05:34,880 --> 00:05:40,080
+velocity
+
+161
+00:05:37,360 --> 00:05:40,960
+okay that's change in
+
+162
+00:05:40,080 --> 00:05:42,400
+sorry
+
+163
+00:05:40,960 --> 00:05:43,360
+acceleration that's what i'm trying to
+
+164
+00:05:42,400 --> 00:05:46,400
+work out
+
+165
+00:05:43,360 --> 00:05:46,400
+it's change in velocity
+
+166
+00:05:47,600 --> 00:05:51,680
+that's dv on dt
+
+167
+00:05:49,759 --> 00:05:53,840
+okay in this case i'm just picking two
+
+168
+00:05:51,680 --> 00:05:56,160
+particular points in time right
+
+169
+00:05:53,840 --> 00:05:58,720
+here's my final velocity and here's my
+
+170
+00:05:56,160 --> 00:06:00,319
+initial velocity just like here's my
+
+171
+00:05:58,720 --> 00:06:02,000
+final velocity and here's my initial
+
+172
+00:06:00,319 --> 00:06:04,319
+velocity so i'm going to say well this
+
+173
+00:06:02,000 --> 00:06:06,400
+is v2 minus v1
+
+174
+00:06:04,319 --> 00:06:07,919
+right in this case i got 20 kilometers
+
+175
+00:06:06,400 --> 00:06:10,000
+per hour in this case we've got zero
+
+176
+00:06:07,919 --> 00:06:10,800
+kilometers per hour what am i going to
+
+177
+00:06:10,000 --> 00:06:12,400
+get
+
+178
+00:06:10,800 --> 00:06:14,479
+here
+
+179
+00:06:12,400 --> 00:06:16,720
+now here's where you've got to be super
+
+180
+00:06:14,479 --> 00:06:18,000
+super careful okay
+
+181
+00:06:16,720 --> 00:06:19,440
+i'm going to try as best i can to
+
+182
+00:06:18,000 --> 00:06:21,120
+represent this on the board okay i
+
+183
+00:06:19,440 --> 00:06:23,840
+actually want you to draw
+
+184
+00:06:21,120 --> 00:06:26,160
+the vectors okay so if you can make your
+
+185
+00:06:23,840 --> 00:06:29,360
+lines parallel to preserve the direction
+
+186
+00:06:26,160 --> 00:06:31,759
+of each might look roughly like this
+
+187
+00:06:29,360 --> 00:06:32,960
+accept it for me okay final velocity
+
+188
+00:06:31,759 --> 00:06:36,000
+minus
+
+189
+00:06:32,960 --> 00:06:39,039
+initial velocity okay
+
+190
+00:06:36,000 --> 00:06:39,039
+no that's way too fast
+
+191
+00:06:41,280 --> 00:06:44,000
+okay that'll have to do right you can do
+
+192
+00:06:42,960 --> 00:06:45,199
+a much better job with me because you've
+
+193
+00:06:44,000 --> 00:06:47,120
+got like rulers and stuff you kind of
+
+194
+00:06:45,199 --> 00:06:49,440
+measure all that but they go
+
+195
+00:06:47,120 --> 00:06:51,599
+one vector and its velocity minus the
+
+196
+00:06:49,440 --> 00:06:53,199
+other one okay i might even label
+
+197
+00:06:51,599 --> 00:06:54,720
+there's b1
+
+198
+00:06:53,199 --> 00:06:56,240
+and there's
+
+199
+00:06:54,720 --> 00:06:57,680
+v2
+
+200
+00:06:56,240 --> 00:06:59,120
+now one of the things you may remember
+
+201
+00:06:57,680 --> 00:07:01,199
+from complex numbers is that when you
+
+202
+00:06:59,120 --> 00:07:05,360
+are subtracting vectors
+
+203
+00:07:01,199 --> 00:07:06,479
+subtracting vectors is the same as
+
+204
+00:07:05,360 --> 00:07:08,240
+adding
+
+205
+00:07:06,479 --> 00:07:10,319
+a negative vector in fact that's the
+
+206
+00:07:08,240 --> 00:07:11,599
+same in just like normal numbers right
+
+207
+00:07:10,319 --> 00:07:12,560
+like like
+
+208
+00:07:11,599 --> 00:07:14,800
+uh
+
+209
+00:07:12,560 --> 00:07:16,400
+30 minus 10
+
+210
+00:07:14,800 --> 00:07:17,919
+that's the same as
+
+211
+00:07:16,400 --> 00:07:20,400
+30 plus
+
+212
+00:07:17,919 --> 00:07:23,039
+negative 10 right so all i need to do to
+
+213
+00:07:20,400 --> 00:07:24,800
+work out what this is is to well i'll do
+
+214
+00:07:23,039 --> 00:07:26,319
+the first vector the same
+
+215
+00:07:24,800 --> 00:07:28,639
+so
+
+216
+00:07:26,319 --> 00:07:30,639
+there's v2
+
+217
+00:07:28,639 --> 00:07:33,759
+and now instead of subtracting this i'm
+
+218
+00:07:30,639 --> 00:07:36,000
+going to add now what would it mean for
+
+219
+00:07:33,759 --> 00:07:37,199
+this vector to be
+
+220
+00:07:36,000 --> 00:07:39,360
+negative
+
+221
+00:07:37,199 --> 00:07:43,039
+it means the um the line's the same
+
+222
+00:07:39,360 --> 00:07:43,039
+right it's still going to look like this
+
+223
+00:07:43,199 --> 00:07:46,400
+but because negative it's going in the
+
+224
+00:07:44,720 --> 00:07:49,840
+opposite direction
+
+225
+00:07:46,400 --> 00:07:52,000
+right that's that's the negative v1 if
+
+226
+00:07:49,840 --> 00:07:53,280
+you like okay now the reason why this is
+
+227
+00:07:52,000 --> 00:07:55,680
+useful to us is because when you add
+
+228
+00:07:53,280 --> 00:07:57,280
+vectors you just do one
+
+229
+00:07:55,680 --> 00:07:58,720
+and then you do the other right that's
+
+230
+00:07:57,280 --> 00:08:01,039
+all you have to do to add vectors
+
+231
+00:07:58,720 --> 00:08:02,879
+together so that's why i've got this
+
+232
+00:08:01,039 --> 00:08:04,319
+space over here
+
+233
+00:08:02,879 --> 00:08:06,639
+okay
+
+234
+00:08:04,319 --> 00:08:09,879
+let's put these together right something
+
+235
+00:08:06,639 --> 00:08:09,879
+like this
+
+236
+00:08:20,879 --> 00:08:25,520
+so there are my two vectors put together
+
+237
+00:08:23,520 --> 00:08:27,840
+which means that the the net result is
+
+238
+00:08:25,520 --> 00:08:27,840
+this
+
+239
+00:08:32,959 --> 00:08:37,200
+that's what the um that's what the
+
+240
+00:08:34,719 --> 00:08:38,959
+change in velocity is when you put the
+
+241
+00:08:37,200 --> 00:08:40,959
+vectors together and that distance and
+
+242
+00:08:38,959 --> 00:08:42,240
+the direction are crucial
+
+243
+00:08:40,959 --> 00:08:44,560
+they're based on these distances in
+
+244
+00:08:42,240 --> 00:08:46,080
+these directions okay now let's take
+
+245
+00:08:44,560 --> 00:08:48,640
+that vector and let's put it into the
+
+246
+00:08:46,080 --> 00:08:50,480
+picture okay because it's an average of
+
+247
+00:08:48,640 --> 00:08:55,000
+these two right i'm going to join these
+
+248
+00:08:50,480 --> 00:08:55,000
+up and get the midpoint looks like this
+
+249
+00:08:55,920 --> 00:08:59,120
+okay
+
+250
+00:08:56,880 --> 00:09:01,680
+now if you've done it well you take the
+
+251
+00:08:59,120 --> 00:09:03,279
+midpoint between those two positions and
+
+252
+00:09:01,680 --> 00:09:04,240
+you have a look at what direction that's
+
+253
+00:09:03,279 --> 00:09:07,959
+going in
+
+254
+00:09:04,240 --> 00:09:07,959
+it should be heading
+
+255
+00:09:10,160 --> 00:09:15,200
+right back toward the center at least if
+
+256
+00:09:12,560 --> 00:09:18,080
+you've drawn it accurately okay and we
+
+257
+00:09:15,200 --> 00:09:20,640
+have a um we have a word for this
+
+258
+00:09:18,080 --> 00:09:22,399
+where it's toward the center and our
+
+259
+00:09:20,640 --> 00:09:25,279
+fancy
+
+260
+00:09:22,399 --> 00:09:27,120
+long syllable word for this is
+
+261
+00:09:25,279 --> 00:09:28,959
+it's
+
+262
+00:09:27,120 --> 00:09:31,519
+centripetal right
+
+263
+00:09:28,959 --> 00:09:33,440
+aiming toward the center that's where
+
+264
+00:09:31,519 --> 00:09:35,519
+we're going
+
+265
+00:09:33,440 --> 00:09:36,399
+now i don't know how you feel about that
+
+266
+00:09:35,519 --> 00:09:38,480
+argument
+
+267
+00:09:36,399 --> 00:09:40,640
+um i i think it's quite kind of nice
+
+268
+00:09:38,480 --> 00:09:42,000
+like it's visual right but you know us
+
+269
+00:09:40,640 --> 00:09:43,360
+we're mathematicians so we want
+
+270
+00:09:42,000 --> 00:09:45,200
+something a little more rigorous than
+
+271
+00:09:43,360 --> 00:09:46,480
+this okay so here's what it looks like
+
+272
+00:09:45,200 --> 00:09:48,000
+visually
+
+273
+00:09:46,480 --> 00:09:51,760
+but we're going to need to do it
+
+274
+00:09:48,000 --> 00:09:51,760
+algebraically as well

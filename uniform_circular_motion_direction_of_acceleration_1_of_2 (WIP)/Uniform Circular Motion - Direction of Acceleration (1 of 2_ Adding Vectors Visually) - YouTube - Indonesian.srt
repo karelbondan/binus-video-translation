@@ -1,0 +1,1039 @@
+1
+00:00:00,240 --> 00:00:03,520
+ini adalah jenis gerak melingkar yang paling sederhana
+
+2
+00:00:03,520 --> 00:00:08,320
+dan di sinilah Anda memiliki
+
+3
+00:00:05,680 --> 00:00:09,280
+kecepatan sudut konstan kecepatan sudut konstan
+
+4
+00:00:09,280 --> 00:00:12,480
+sekarang kita perlu menggambar
+
+5
+00:00:10,880 --> 00:00:14,880
+diagram baru tanpa ada orang di dalamnya, jadi gambarkan saya
+
+6
+00:00:12,480 --> 00:00:16,800
+sebuah lingkaran
+
+7
+00:00:14,880 --> 00:00:17,920
+secara kasar
+
+8
+00:00:16,800 --> 00:00:19,359
+dan
+
+9
+00:00:17,920 --> 00:00:21,359
+kita akan melakukannya  pikirkan tentang gerakan melingkar ini
+
+10
+00:00:19,359 --> 00:00:22,640
+oke jadi
+
+11
+00:00:21,359 --> 00:00:24,480
+saya sebenarnya kita akan membuat beberapa
+
+12
+00:00:22,640 --> 00:00:26,240
+konstruksi dari ini oke dan untuk
+
+13
+00:00:24,480 --> 00:00:27,599
+alasan itu Anda perlu membuat
+
+14
+00:00:26,240 --> 00:00:29,359
+gambar Anda cukup akurat itulah sebabnya saya
+
+15
+00:00:27,599 --> 00:00:31,439
+mengeluarkan semua peralatan dengan baik
+
+16
+00:00:29,359 --> 00:00:32,399
+secara signifikan saya ingin bertanya kepada Anda a  beberapa
+
+17
+00:00:31,439 --> 00:00:33,760
+hal yang
+
+18
+00:00:32,399 --> 00:00:36,000
+pertama
+
+19
+00:00:33,760 --> 00:00:37,920
+adalah kecepatan linier, benar
+
+20
+00:00:36,000 --> 00:00:38,960
+jika kita berbicara tentang gerak melingkar beraturan
+
+21
+00:00:38,960 --> 00:00:44,559
+yang kecepatan sudutnya
+
+22
+00:00:42,160 --> 00:00:45,680
+konstan, jadi kita berputar dengan
+
+23
+00:00:45,680 --> 00:00:49,600
+kecepatan konstan, oke, jadi kita membuat putaran
+
+24
+00:00:48,000 --> 00:00:52,719
+secara konsisten, kita tidak ngebut i'  Saya tidak
+
+25
+00:00:49,600 --> 00:00:56,079
+melambat oke
+
+26
+00:00:52,719 --> 00:00:58,079
+konstanta di sini konstanta omega
+
+27
+00:00:56,079 --> 00:01:00,480
+akan menyiratkan kecepatan linier yang konstan
+
+28
+00:00:58,079 --> 00:01:02,800
+karena r adalah konstanta omega
+
+29
+00:01:00,480 --> 00:01:04,400
+semuanya konstan oke jadi
+
+30
+00:01:02,800 --> 00:01:06,000
+oleh karena itu jika kedua hal ini akan
+
+31
+00:01:04,400 --> 00:01:09,360
+menjadi bilangan kompleks pada Anda
+
+32
+00:01:06,000 --> 00:01:11,840
+kan jika keduanya  Garis melambangkan
+
+33
+00:01:09,360 --> 00:01:14,080
+kecepatan, jika melambangkan vektor,
+
+34
+00:01:11,840 --> 00:01:15,840
+benar, ada arah, itulah sebabnya
+
+35
+00:01:14,080 --> 00:01:18,479
+saya punya panah di sana, tetapi
+
+36
+00:01:15,840 --> 00:01:20,000
+panjang ini penting, oke,
+
+37
+00:01:18,479 --> 00:01:22,080
+sebenarnya panjang ini karena konstan,
+
+38
+00:01:20,000 --> 00:01:24,000
+harus sama, oke, jadi, seberapa
+
+39
+00:01:22,080 --> 00:01:24,840
+besar lingkaran Anda.  tahu di milikku salah satu
+
+40
+00:01:24,000 --> 00:01:27,360
+dari
+
+41
+00:01:24,840 --> 00:01:28,240
+ini sekitar 20 sentimeter
+
+42
+00:01:27,360 --> 00:01:30,640
+maaf
+
+43
+00:01:28,240 --> 00:01:32,640
+25. apa pun itu aku ingin semuanya
+
+44
+00:01:30,640 --> 00:01:34,000
+sama di diagrammu sepertinya itu tidak
+
+45
+00:01:32,640 --> 00:01:36,960
+akan terlalu penting tetapi
+
+46
+00:01:34,000 --> 00:01:38,479
+akan baik-baik saja
+
+47
+00:01:36,960 --> 00:01:39,439
+sekarang aku tidak tahu apakah  Anda telah memperhatikan saya
+
+48
+00:01:38,479 --> 00:01:41,280
+agak
+
+49
+00:01:39,439 --> 00:01:44,960
+lucu dengan bahasa saya
+
+50
+00:01:41,280 --> 00:01:46,000
+saya ingin berbicara tentang kecepatan ini oke
+
+51
+00:01:44,960 --> 00:01:48,240
+sekarang kita telah menetapkan bahwa
+
+52
+00:01:46,000 --> 00:01:49,520
+kecepatan linier adalah konstan
+
+53
+00:01:48,240 --> 00:01:50,479
+tetapi apakah
+
+54
+00:01:50,479 --> 00:01:55,280
+kecepatan linier konstan,
+
+55
+00:01:53,600 --> 00:01:57,840
+pertanyaan saya
+
+56
+00:01:55,280 --> 00:02:00,399
+adalah konstanta kecepatan linier
+
+57
+00:02:03,119 --> 00:02:06,880
+sekarang don  jangan lupa untuk menyegarkan
+
+58
+00:02:05,119 --> 00:02:09,360
+ingatanmu ya, kita punya dua
+
+59
+00:02:06,880 --> 00:02:12,560
+jenis besaran yang berbeda di
+
+60
+00:02:09,360 --> 00:02:14,319
+dunia ini, yaitu 2d, oke, kita punya skalar
+
+61
+00:02:12,560 --> 00:02:15,920
+dan kita punya vektor, apakah kamu ingat
+
+62
+00:02:14,319 --> 00:02:18,560
+apa artinya apa artinya bagi
+
+63
+00:02:15,920 --> 00:02:20,319
+sesuatu?  jadilah skalar
+
+64
+00:02:18,560 --> 00:02:22,720
+itu hanya nilai dengan besaran itu
+
+65
+00:02:20,319 --> 00:02:24,560
+ukurannya pas jadi kamu bisa menjumlahkan
+
+66
+00:02:22,720 --> 00:02:26,319
+bilangan skalar bersama-sama di sana kamu tahu
+
+67
+00:02:24,560 --> 00:02:28,319
+seperti tiga dan lima itu adalah skalar dan
+
+68
+00:02:26,319 --> 00:02:31,040
+kamu mendapatkan delapan oke
+
+69
+00:02:28,319 --> 00:02:33,519
+tetapi sebuah vektor membuatnya lebih kompleks tidak
+
+70
+00:02:31,040 --> 00:02:35,840
+hanya memiliki  sebuah magnitudo
+
+71
+00:02:33,519 --> 00:02:38,480
+tetapi seperti yang telah kita sebutkan, ia memiliki
+
+72
+00:02:35,840 --> 00:02:39,760
+arah yang benar jadi itu adalah sebuah skalar
+
+73
+00:02:38,480 --> 00:02:42,160
+yang tepat
+
+74
+00:02:39,760 --> 00:02:44,160
+ditambah skalar lain
+
+75
+00:02:42,160 --> 00:02:46,560
+yaitu besaran dan arah sehingga ia
+
+76
+00:02:44,160 --> 00:02:47,840
+mempunyai dua nilai untuk itu dua bagian dan jadi
+
+77
+00:02:46,560 --> 00:02:49,360
+Anda tahu di bawah bilangan kompleks kita berbicara
+
+78
+00:02:47,840 --> 00:02:51,040
+tentang bagian nyata dan  bagian imajinernya
+
+79
+00:02:51,040 --> 00:02:53,920
+dalam hal ini kita mempunyai arah, sekarang dapatkah
+
+80
+00:02:52,640 --> 00:02:56,080
+kamu melihat
+
+81
+00:02:53,920 --> 00:03:00,000
+ketika kamu mengelilingi lingkaran,
+
+82
+00:02:56,080 --> 00:03:01,280
+arahnya terus berubah
+
+83
+00:03:00,000 --> 00:03:03,040
+Kamu melihat bahwa arah itu terus
+
+84
+00:03:01,280 --> 00:03:07,920
+berubah di setiap titik yang berbeda,
+
+85
+00:03:03,040 --> 00:03:09,680
+sebut saja p1 versus p2 oke,
+
+86
+00:03:07,920 --> 00:03:11,360
+kecepatannya berubah karena
+
+87
+00:03:09,680 --> 00:03:13,200
+arahnya berubah besarnya sama
+
+88
+00:03:13,200 --> 00:03:16,239
+kan kamu sudah dapat besarannya tapi arahnya
+
+89
+00:03:16,239 --> 00:03:21,360
+tidak sama oke
+
+90
+00:03:18,640 --> 00:03:25,040
+jadi maksudnya dari kecepatan ini ke
+
+91
+00:03:21,360 --> 00:03:27,280
+kecepatan ini ada perubahan ya itu
+
+92
+00:03:25,040 --> 00:03:29,360
+perubahan kecepatan
+
+93
+00:03:27,280 --> 00:03:32,080
+kita punya nama untuk itu don'  kita
+
+94
+00:03:29,360 --> 00:03:33,599
+ubah kecepatannya apa namanya
+
+95
+00:03:32,080 --> 00:03:35,519
+itu percepatan jadi
+
+96
+00:03:33,599 --> 00:03:38,959
+ada percepatan di
+
+97
+00:03:35,519 --> 00:03:42,720
+gambar ini oke pertanyaan saya kemana
+
+98
+00:03:38,959 --> 00:03:42,720
+perginya percepatan
+
+99
+00:03:42,799 --> 00:03:46,480
+sekarang mari kita lihat ini oke
+
+100
+00:03:45,120 --> 00:03:48,799
+izinkan saya memandu Anda melewatinya
+
+101
+00:03:46,480 --> 00:03:50,400
+kalau-kalau Anda kehilangan saya, ada perubahan  dalam
+
+102
+00:03:48,799 --> 00:03:52,480
+kecepatan kan
+
+103
+00:03:50,400 --> 00:03:54,959
+jadi langkah pertama saya perhatikan ada perubahan
+
+104
+00:03:52,480 --> 00:03:54,959
+kecepatan
+
+105
+00:03:55,519 --> 00:04:01,840
+jadi langkah kedua saya kemudian menyimpulkan
+
+106
+00:03:58,480 --> 00:04:01,840
+oleh karena itu pasti ada percepatan jadi
+
+107
+00:04:05,200 --> 00:04:10,000
+pertanyaan saya
+
+108
+00:04:08,640 --> 00:04:11,280
+adalah arahnya ke mana dan kemudian
+
+109
+00:04:10,000 --> 00:04:12,959
+saya akan menuju ke bahasa
+
+110
+00:04:11,280 --> 00:04:14,799
+gaya i  ambil dua gaya dari
+
+111
+00:04:12,959 --> 00:04:16,239
+percepatan oke baiklah
+
+112
+00:04:14,799 --> 00:04:17,759
+sekarang di sinilah skala
+
+113
+00:04:16,239 --> 00:04:19,600
+diagrammu akan menjadi sangat
+
+114
+00:04:17,759 --> 00:04:21,280
+penting oke apakah aku akan punya cukup
+
+115
+00:04:19,600 --> 00:04:22,960
+ruang di sana mungkin tidak aku akan
+
+116
+00:04:21,280 --> 00:04:24,960
+melakukannya di sini
+
+117
+00:04:22,960 --> 00:04:26,479
+um skalamu ada di sana  kamu juga
+
+118
+00:04:24,960 --> 00:04:31,440
+perlu menggambar beberapa garis sejajar.
+
+119
+00:04:26,479 --> 00:04:34,880
+Bagaimana cara menghitung percepatan?
+
+120
+00:04:31,440 --> 00:04:36,400
+percepatan adalah perubahan kecepatan,
+
+121
+00:04:34,880 --> 00:04:38,000
+jadi misalnya
+
+122
+00:04:36,400 --> 00:04:39,600
+jika saya bepergian
+
+123
+00:04:38,000 --> 00:04:41,520
+pada satu titik, mari kita lihat, mari kita mulai dari
+
+124
+00:04:39,600 --> 00:04:43,040
+sisi ini. Saya memulai perjalanan dan
+
+125
+00:04:41,520 --> 00:04:44,560
+saya bepergian  pada kecepatan 10 kilometer per jam
+
+126
+00:04:43,040 --> 00:04:47,680
+lalu di akhir perjalanan
+
+127
+00:04:44,560 --> 00:04:50,240
+saya saya melaju dengan kecepatan 30 kilometer per jam
+
+128
+00:04:47,680 --> 00:04:53,120
+10 kilometer per jam
+
+129
+00:04:50,240 --> 00:04:56,560
+30 kilometer sekarang
+
+130
+00:04:53,120 --> 00:04:59,440
+berapa yang telah saya akselerasi
+
+131
+00:04:56,560 --> 00:05:01,039
+itu bukan pertanyaan yang rumit
+
+132
+00:04:59,440 --> 00:05:03,360
+saya telah mempercepat
+
+133
+00:05:01,039 --> 00:05:05,199
+20 kilometer per jam kan itu
+
+134
+00:05:03,360 --> 00:05:07,360
+itulah hasil bersih
+
+135
+00:05:05,199 --> 00:05:09,360
+percepatan yang dihasilkan oke jadi cara Anda mendapatkannya
+
+136
+00:05:07,360 --> 00:05:12,960
+adalah dengan mengambil selisihnya, Anda tinggal
+
+137
+00:05:09,360 --> 00:05:14,400
+menghitung kecepatan akhir, kecepatan akhir, dikurangi kecepatan
+
+138
+00:05:12,960 --> 00:05:16,479
+awal, dan itulah
+
+139
+00:05:14,400 --> 00:05:18,479
+percepatan yang Anda lakukan, itu masuk akal, jadi
+
+140
+00:05:16,479 --> 00:05:19,919
+jelas jika saya baru saja Anda tahu, melakukan
+
+141
+00:05:18,479 --> 00:05:22,160
+hal inersia dan  berjalan 10
+
+142
+00:05:19,919 --> 00:05:24,080
+kilometer per jam
+
+143
+00:05:22,160 --> 00:05:25,120
+dan 10 kilometer per jam hanya
+
+144
+00:05:24,080 --> 00:05:26,720
+gerak lurus beraturan tidak ada
+
+145
+00:05:25,120 --> 00:05:28,880
+percepatan disana kan tidak ada gaya yang
+
+146
+00:05:26,720 --> 00:05:29,840
+bekerja atau setidaknya tidak ada gaya resultan
+
+147
+00:05:28,880 --> 00:05:30,880
+oke jadi
+
+148
+00:05:29,840 --> 00:05:32,720
+oleh karena itu mari kita
+
+149
+00:05:30,880 --> 00:05:34,880
+pahami dan bawa ke sini kecepatan
+
+150
+00:05:32,720 --> 00:05:37,360
+oke
+
+151
+00:05:34,880 --> 00:05:40,080
+kecepatan
+
+152
+00:05:37,360 --> 00:05:40,960
+oke itu perubahan
+
+153
+00:05:40,960 --> 00:05:43,360
+percepatan maaf  itulah yang saya coba
+
+154
+00:05:42,400 --> 00:05:46,400
+cari tahu
+
+155
+00:05:43,360 --> 00:05:46,400
+perubahan kecepatannya
+
+156
+00:05:47,600 --> 00:05:51,680
+yaitu dv dan dt
+
+157
+00:05:49,759 --> 00:05:53,840
+oke dalam hal ini saya hanya memilih dua
+
+158
+00:05:51,680 --> 00:05:56,160
+titik waktu tertentu,
+
+159
+00:05:53,840 --> 00:05:58,720
+inilah kecepatan akhir saya dan inilah
+
+160
+00:05:56,160 --> 00:06:00,319
+kecepatan awal saya seperti inilah
+
+161
+00:05:58,720 --> 00:06:02,000
+kecepatan akhir saya dan inilah kecepatan saya
+
+162
+00:06:00,319 --> 00:06:04,319
+kecepatan awal jadi menurutku baiklah
+
+163
+00:06:02,000 --> 00:06:06,400
+ini v2 dikurangi v1
+
+164
+00:06:04,319 --> 00:06:07,919
+kan dalam hal ini aku mendapat 20 kilometer
+
+165
+00:06:06,400 --> 00:06:10,000
+per jam dalam hal ini kita mendapat nol
+
+166
+00:06:07,919 --> 00:06:10,800
+kilometer per jam apa yang akan aku
+
+167
+00:06:10,000 --> 00:06:12,400
+dapatkan
+
+168
+00:06:10,800 --> 00:06:14,479
+di sini
+
+169
+00:06:12,400 --> 00:06:16,720
+sekarang di sinilah kamu punya  untuk menjadi super super
+
+170
+00:06:14,479 --> 00:06:18,000
+hati-hati oke
+
+171
+00:06:16,720 --> 00:06:19,440
+saya akan mencoba sebaik mungkin untuk
+
+172
+00:06:18,000 --> 00:06:21,120
+mewakili ini di papan oke saya
+
+173
+00:06:19,440 --> 00:06:23,840
+sebenarnya ingin Anda menggambar
+
+174
+00:06:21,120 --> 00:06:26,160
+vektornya oke jadi jika Anda dapat membuat
+
+175
+00:06:23,840 --> 00:06:29,360
+garis Anda sejajar untuk mempertahankan arah
+
+176
+00:06:26,160 --> 00:06:31,759
+masing-masing vektor mungkin akan terlihat kira-kira seperti  ini
+
+177
+00:06:29,360 --> 00:06:32,960
+terima saja untukku oke kecepatan akhir
+
+178
+00:06:31,759 --> 00:06:36,000
+dikurangi
+
+179
+00:06:32,960 --> 00:06:39,039
+kecepatan awal oke
+
+180
+00:06:36,000 --> 00:06:39,039
+tidak itu terlalu cepat
+
+181
+00:06:41,280 --> 00:06:44,000
+oke itu harus dilakukan dengan benar kamu bisa melakukan
+
+182
+00:06:42,960 --> 00:06:45,199
+pekerjaan yang lebih baik denganku karena kamu
+
+183
+00:06:44,000 --> 00:06:47,120
+punya seperti penggaris dan benda-benda yang bisa kamu
+
+184
+00:06:45,199 --> 00:06:49,440
+ukur semua itu tapi  mereka pergi ke
+
+185
+00:06:47,120 --> 00:06:51,599
+satu vektor dan kecepatannya dikurangi yang
+
+186
+00:06:49,440 --> 00:06:53,199
+lainnya oke saya bahkan mungkin memberi label
+
+187
+00:06:51,599 --> 00:06:54,720
+ada b1
+
+188
+00:06:53,199 --> 00:06:56,240
+dan ada
+
+189
+00:06:54,720 --> 00:06:57,680
+v2
+
+190
+00:06:56,240 --> 00:06:59,120
+sekarang salah satu hal yang mungkin Anda ingat
+
+191
+00:06:57,680 --> 00:07:01,199
+dari bilangan kompleks adalah ketika Anda
+
+192
+00:06:59,120 --> 00:07:05,360
+mengurangkan vektor,
+
+193
+00:07:01,199 --> 00:07:06,479
+mengurangkan vektor sama dengan
+
+194
+00:07:05,360 --> 00:07:08,240
+menambahkan
+
+195
+00:07:06,479 --> 00:07:10,319
+vektor negatif ke dalam  faktanya
+
+196
+00:07:08,240 --> 00:07:11,599
+sama seperti bilangan normal
+
+197
+00:07:10,319 --> 00:07:12,560
+seperti
+
+198
+00:07:11,599 --> 00:07:14,800
+eh
+
+199
+00:07:12,560 --> 00:07:16,400
+30 dikurangi 10
+
+200
+00:07:14,800 --> 00:07:17,919
+itu sama dengan
+
+201
+00:07:16,400 --> 00:07:20,400
+30 ditambah
+
+202
+00:07:17,919 --> 00:07:23,039
+negatif 10 kan jadi yang perlu saya lakukan untuk
+
+203
+00:07:20,400 --> 00:07:24,800
+mencari tahu apa ini adalah baiklah saya akan melakukan hal
+
+204
+00:07:23,039 --> 00:07:26,319
+yang sama pada vektor pertama
+
+205
+00:07:24,800 --> 00:07:28,639
+jadi
+
+206
+00:07:26,319 --> 00:07:30,639
+ada v2
+
+207
+00:07:28,639 --> 00:07:33,759
+dan sekarang daripada mengurangkannya saya
+
+208
+00:07:30,639 --> 00:07:36,000
+akan menambahkan sekarang apa artinya
+
+209
+00:07:33,759 --> 00:07:37,199
+vektor ini menjadi
+
+210
+00:07:36,000 --> 00:07:39,360
+negatif
+
+211
+00:07:37,199 --> 00:07:43,039
+artinya um garisnya sama
+
+212
+00:07:39,360 --> 00:07:43,039
+kan, tetap akan terlihat seperti ini
+
+213
+00:07:43,199 --> 00:07:46,400
+tetapi karena negatif maka
+
+214
+00:07:44,720 --> 00:07:49,840
+arahnya berlawanan
+
+215
+00:07:46,400 --> 00:07:52,000
+benar itu v1 negatifnya jika
+
+216
+00:07:49,840 --> 00:07:53,280
+Anda suka oke sekarang alasan mengapa ini
+
+217
+00:07:52,000 --> 00:07:55,680
+berguna bagi kami adalah karena ketika Anda menjumlahkan
+
+218
+00:07:53,280 --> 00:07:57,280
+vektor, Anda cukup melakukan satu
+
+219
+00:07:55,680 --> 00:07:58,720
+dan kemudian Anda melakukan yang lainnya kan, hanya itu yang
+
+220
+00:07:57,280 --> 00:08:01,039
+harus Anda lakukan untuk menjumlahkan vektor
+
+221
+00:07:58,720 --> 00:08:02,879
+jadi itu sebabnya saya  ada
+
+222
+00:08:01,039 --> 00:08:04,319
+ruang di sini
+
+223
+00:08:02,879 --> 00:08:06,639
+oke mari
+
+224
+00:08:04,319 --> 00:08:09,879
+kita gabungkan semuanya kira-kira
+
+225
+00:08:06,639 --> 00:08:09,879
+seperti ini
+
+226
+00:08:20,879 --> 00:08:25,520
+jadi ada dua vektor saya yang disatukan yang
+
+227
+00:08:23,520 --> 00:08:27,840
+berarti hasil akhirnya adalah
+
+228
+00:08:25,520 --> 00:08:27,840
+ini adalah
+
+229
+00:08:32,959 --> 00:08:37,200
+um itulah
+
+230
+00:08:34,719 --> 00:08:38,959
+perubahan kecepatan ketika Anda menggabungkan
+
+231
+00:08:37,200 --> 00:08:40,959
+vektor-vektor tersebut  dan jarak serta
+
+232
+00:08:38,959 --> 00:08:42,240
+arah itu sangat penting.
+
+233
+00:08:40,959 --> 00:08:44,560
+Mereka didasarkan pada jarak dalam
+
+234
+00:08:42,240 --> 00:08:46,080
+arah ini oke sekarang mari kita ambil
+
+235
+00:08:44,560 --> 00:08:48,640
+vektor itu dan masukkan ke dalam
+
+236
+00:08:46,080 --> 00:08:50,480
+gambar oke karena ini adalah rata-rata dari
+
+237
+00:08:48,640 --> 00:08:55,000
+keduanya, kan saya akan menggabungkannya
+
+238
+00:08:50,480 --> 00:08:55,000
+dan mendapatkan  titik tengahnya terlihat seperti ini
+
+239
+00:08:55,920 --> 00:08:59,120
+oke
+
+240
+00:08:56,880 --> 00:09:01,680
+sekarang jika Anda telah melakukannya dengan baik, Anda mengambil
+
+241
+00:08:59,120 --> 00:09:03,279
+titik tengah antara dua posisi itu dan
+
+242
+00:09:01,680 --> 00:09:04,240
+Anda melihat ke arah mana arahnya
+
+243
+00:09:04,240 --> 00:09:07,959
+harus
+
+244
+00:09:10,160 --> 00:09:15,200
+kembali ke tengah setidaknya jika
+
+245
+00:09:12,560 --> 00:09:18,080
+Anda telah menggambarnya.  secara akurat oke dan kita
+
+246
+00:09:15,200 --> 00:09:20,640
+punya um, kita punya kata untuk ini
+
+247
+00:09:18,080 --> 00:09:22,399
+yang mengarah ke tengah dan
+
+248
+00:09:22,399 --> 00:09:27,120
+kata suku kata panjang kami yang bagus untuk ini adalah
+
+249
+00:09:27,120 --> 00:09:31,519
+hak sentripetal yang
+
+250
+00:09:28,959 --> 00:09:33,440
+mengarah ke tengah ke sanalah
+
+251
+00:09:31,519 --> 00:09:35,519
+tujuan kita
+
+252
+00:09:33,440 --> 00:09:36,399
+sekarang, aku tidak tahu bagaimana perasaanmu  argumen itu
+
+253
+00:09:36,399 --> 00:09:40,640
+um menurutku itu cukup bagus
+
+254
+00:09:38,480 --> 00:09:42,000
+karena secara visual, tapi tahukah kamu bahwa
+
+255
+00:09:40,640 --> 00:09:43,360
+kami adalah ahli matematika jadi kami menginginkan
+
+256
+00:09:42,000 --> 00:09:45,200
+sesuatu yang lebih teliti dari
+
+257
+00:09:43,360 --> 00:09:46,480
+ini oke jadi inilah tampilan
+
+258
+00:09:45,200 --> 00:09:48,000
+visualnya
+
+259
+00:09:46,480 --> 00:09:51,760
+tetapi kami harus melakukannya
+
+260
+00:09:48,000 --> 00:09:51,760
+secara aljabar juga

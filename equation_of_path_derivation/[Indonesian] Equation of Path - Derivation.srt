@@ -1,0 +1,1150 @@
+1
+00:00:00,240 --> 00:00:02,080
+Persamaan Lintasan. Sekarang, yang harus kita bayangkan adalah
+
+2
+00:00:02,080 --> 00:00:04,240
+Persamaan Lintasan. Sekarang, yang harus kita bayangkan adalah
+
+3
+00:00:04,240 --> 00:00:06,640
+lintasan seperti apa yang akan dilewati oleh sebuah peluru?
+
+4
+00:00:06,640 --> 00:00:08,480
+lintasan seperti apa yang akan dilewati oleh sebuah peluru?
+
+5
+00:00:08,480 --> 00:00:09,760
+Bagaimana kita bisa menggambarkan lintasannya? 
+
+6
+00:00:09,760 --> 00:00:11,920
+Bagaimana kita bisa menggambarkan lintasannya?
+
+7
+00:00:12,719 --> 00:00:14,320
+Cara lain untuk mengutarakan pertanyaan itu dalam bahasa yang mudah dimengerti adalah
+
+8
+00:00:14,320 --> 00:00:16,000
+Cara lain untuk mengutarakan pertanyaan itu dalam bahasa yang mudah dimengerti adalah
+
+9
+00:00:16,000 --> 00:00:18,720
+apa lokus dari semua titik yang akan dilewati oleh peluru tersebut? 
+
+10
+00:00:18,720 --> 00:00:20,800
+apa lokus dari semua titik yang akan dilewati oleh peluru tersebut? 
+
+11
+00:00:20,800 --> 00:00:22,400
+Itulah yang sekarang kita harus pikirkan.
+
+12
+00:00:22,400 --> 00:00:23,600
+Sekarang, coba tebak jawabannya. 
+
+13
+00:00:23,600 --> 00:00:24,960
+Sekarang, coba tebak jawabannya. 
+
+14
+00:00:24,960 --> 00:00:26,480
+Aku akan hitung sampai angka tiga, dan pada hitungan ketiga, aku ingin kalian menyebutkan bentuk apa yang kira-kira cocok dengan gambar itu? 
+
+15
+00:00:26,480 --> 00:00:28,000
+Aku akan hitung sampai angka tiga, dan pada hitungan ketiga, aku ingin kalian menyebutkan bentuk apa yang kira-kira cocok dengan gambar itu? 
+
+16
+00:00:28,000 --> 00:00:29,840
+Aku akan hitung sampai angka tiga, dan pada hitungan ketiga, aku ingin kalian menyebutkan bentuk apa yang kira-kira cocok dengan gambar itu? 
+
+17
+00:00:29,840 --> 00:00:33,120
+Satu, dua, tiga.  
+
+18
+00:00:33,120 --> 00:00:34,719
+Oke...
+
+19
+00:00:34,719 --> 00:00:36,640
+Oke, parabola adalah sebuah tebakan yang bagus, 
+
+20
+00:00:36,640 --> 00:00:39,120
+tebakan yang sangat bagus. Oke, tapi tebakan saja tidak cukup
+
+21
+00:00:39,120 --> 00:00:40,000
+tebakan yang sangat bagus. Oke, tapi tebakan saja tidak cukup. 
+
+22
+00:00:40,000 --> 00:00:41,760
+Bentuknya memang terlihat seperti sebuah parabola, tetapi hanya "terlihat seperti sesuatu" tentu tidak cukup untuk sebuah pembenaran.
+
+23
+00:00:41,760 --> 00:00:43,600
+Bentuknya memang terlihat seperti sebuah parabola, tetapi hanya "terlihat seperti sesuatu" tentu tidak cukup untuk sebuah pembenaran.
+
+24
+00:00:43,600 --> 00:00:46,239
+Bentuknya memang terlihat seperti sebuah parabola, tetapi hanya "terlihat seperti sesuatu" tentu tidak cukup untuk sebuah pembenaran.
+
+25
+00:00:46,239 --> 00:00:48,239
+Saya akan membuktikannya. Jika kamu mengambil um
+
+26
+00:00:48,239 --> 00:00:50,399
+Saya akan membuktikannya. Jika kamu mengambil um
+
+27
+00:00:50,399 --> 00:00:53,120
+kabel atau sejenisnya seperti jembatan atau
+
+28
+00:00:53,120 --> 00:00:54,719
+tali atau semacamnya dan kamu
+
+29
+00:00:54,719 --> 00:00:56,399
+menggantungkannya pada kedua ujungnya dengan benar dan
+
+30
+00:00:56,399 --> 00:00:59,199
+Anda membiarkannya menggantung dengan beratnya sendiri
+
+31
+00:00:59,199 --> 00:01:01,120
+itu bagiku itu terlihat seperti bagian bawah parabola, kan?
+
+32
+00:01:01,120 --> 00:01:03,280
+itu bagiku itu terlihat seperti bagian bawah parabola, kan?
+
+33
+00:01:03,280 --> 00:01:05,920
+Tali ini terlihat sangat mirip ya dan um
+
+34
+00:01:05,920 --> 00:01:08,000
+kamu mungkin menebak bahwa jika aku terus melakukannya, 
+
+35
+00:01:08,000 --> 00:01:09,840
+kamu tahu, mereka akan naik terus mengikuti bentuknya, seperti itu. Tapi masalahnya,
+
+36
+00:01:09,840 --> 00:01:11,360
+kamu tahu, mereka akan naik terus mengikuti bentuknya, seperti itu. Tapi masalahnya,
+
+37
+00:01:11,360 --> 00:01:13,280
+terusan talinya tidak akan seperti itu. Faktanya, bentuk ini bukanlah bentuk parabola.
+
+38
+00:01:13,280 --> 00:01:14,720
+terusan talinya tidak akan seperti itu. Faktanya, bentuk ini bukanlah bentuk parabola.
+
+39
+00:01:14,720 --> 00:01:16,320
+Bentuk ini kita sebut dengan lengkung katenari. Aku tidak tahu apakah aku mengucapkannya
+
+40
+00:01:16,320 --> 00:01:17,840
+Bentuk ini kita sebut dengan lengkung katenari. Aku tidak tahu apakah aku mengucapkannya
+
+41
+00:01:17,840 --> 00:01:19,840
+dengan benar, tapi lengkung katenari tidak ada hubungannya dengan parabola.
+
+42
+00:01:19,840 --> 00:01:21,759
+dengan benar, tapi lengkung katenari tidak ada hubungannya dengan parabola.
+
+43
+00:01:21,759 --> 00:01:23,520
+Memang kelihatannya sangat mirip, tapi hal itu tidak dijelaskan oleh fungsi kuadrat sama sekali.
+
+44
+00:01:23,520 --> 00:01:26,560
+Memang kelihatannya sangat mirip, tapi hal itu tidak dijelaskan oleh fungsi kuadrat sama sekali.
+
+45
+00:01:26,560 --> 00:01:28,799
+Memang kelihatannya sangat mirip, tapi hal itu tidak dijelaskan oleh fungsi kuadrat sama sekali.
+
+46
+00:01:28,799 --> 00:01:31,040
+Sebenarnya, hal itu dijelaskan oleh apa yang kita sebut dengan fungsi kosinus hiperbolik. Jika kamu memiliki
+
+47
+00:01:31,040 --> 00:01:32,720
+Sebenarnya, hal itu dijelaskan oleh apa yang kita sebut dengan fungsi kosinus hiperbolik. Jika kamu memiliki
+
+48
+00:01:32,720 --> 00:01:35,680
+kalkulator, setidaknya pada kalkulator saya di tengah pada bagian atas di mana kamu memiliki fungsi trigonometri,
+
+49
+00:01:35,680 --> 00:01:37,920
+kalkulator, setidaknya pada kalkulator saya di tengah pada bagian atas di mana kamu memiliki fungsi trigonometri,
+
+50
+00:01:37,920 --> 00:01:38,840
+kalkulator, setidaknya pada kalkulator saya di tengah pada bagian atas di mana kamu memiliki fungsi trigonometri,
+
+51
+00:01:38,840 --> 00:01:41,439
+kalkulator, setidaknya pada kalkulator saya di tengah pada bagian atas di mana kamu memiliki fungsi trigonometri,
+
+52
+00:01:41,439 --> 00:01:42,720
+kalkulator, setidaknya pada kalkulator saya di tengah pada bagian atas di mana kamu memiliki fungsi trigonometri,
+
+53
+00:01:42,720 --> 00:01:44,640
+kalkulator, setidaknya pada kalkulator saya di tengah pada bagian atas di mana kamu memiliki fungsi trigonometri,
+
+54
+00:01:44,640 --> 00:01:46,799
+tombolnya ada di tengah kanan, bisa kalian lihat, ada sinus cos 10 dan 
+
+55
+00:01:46,799 --> 00:01:48,159
+tombolnya ada di tengah kanan, bisa kalian lihat, ada sinus cos 10 dan
+
+56
+00:01:48,159 --> 00:01:49,200
+kemudian ada tombol aneh di tengah yang belum pernah kalian gunakan
+
+57
+00:01:49,200 --> 00:01:51,600
+kemudian ada tombol aneh di tengah yang belum pernah kalian gunakan
+
+58
+00:01:51,600 --> 00:01:53,920
+dan nama tombolnya hype kan? Hype itu singkatan dari "Hyperbolic". 
+
+59
+00:01:53,920 --> 00:01:56,479
+Jika kalian menekannya, akan ada fungsi trigonometri yang muncul di layar kalkulatornya,
+
+60
+00:01:56,479 --> 00:01:58,240
+Jika kalian menekannya, akan ada fungsi trigonometri yang muncul di layar kalkulatornya,
+
+61
+00:01:58,240 --> 00:01:59,600
+dan kemudian kalian merenung dalam hati, "itu bukan fungsi trigonometri yang kita kenal"
+
+62
+00:01:59,600 --> 00:02:02,399
+dan kemudian kalian merenung dalam hati, "itu bukan fungsi trigonometri yang kita kenal"
+
+63
+00:02:02,399 --> 00:02:04,479
+Hyperbolic sinus, hyperbolic cos, hyperbolic tan
+
+64
+00:02:04,479 --> 00:02:07,280
+Hyperbolic sinus, hyperbolic cos, hyperbolic tan. 
+
+65
+00:02:07,280 --> 00:02:09,119
+Mereka dinamakan... astaga jangan tanya [kenapa namanya seperti itu], aku tidak mengada-ada, aku hanya sekedar memberitahumu. 
+
+66
+00:02:09,119 --> 00:02:10,959
+Mereka dinamakan... astaga jangan tanya [kenapa namanya seperti itu], aku tidak mengada-ada, aku hanya sekedar memberitahumu. 
+
+67
+00:02:10,959 --> 00:02:12,160
+Jadi apa maksudnya mereka?
+
+68
+00:02:12,160 --> 00:02:14,480
+Mereka sebenarnya...
+
+69
+00:02:14,480 --> 00:02:17,200
+kosinus hiperbolik adalah persamaan fungsi ini.
+
+70
+00:02:17,200 --> 00:02:19,200
+sekarang, kamu cukup tahu untuk mengetahui seperti apa bentuknya dan ketika kalian membuat grafiknya, 
+
+71
+00:02:19,200 --> 00:02:23,440
+sekarang, kamu cukup tahu untuk mengetahui seperti apa bentuknya dan ketika kalian membuat grafiknya, 
+
+72
+00:02:23,440 --> 00:02:25,040
+ketika kamu membuatnya, grafiknya akan terlihat seperti ini. Grafiknya akan terlihat seperti ini, 
+
+73
+00:02:25,040 --> 00:02:26,160
+ketika kamu membuatnya, grafiknya akan terlihat seperti ini. Grafiknya akan terlihat seperti ini, 
+
+74
+00:02:26,160 --> 00:02:27,760
+sama sekali tidak seperti parabola kalau [kalian turun ke tangki kuningan], jadi oleh karena itu
+
+75
+00:02:27,760 --> 00:02:30,720
+sama sekali tidak seperti parabola kalau [kalian turun ke tangki kuningan], jadi oleh karena itu
+
+76
+00:02:30,720 --> 00:02:32,480
+bentuk peluru yang terlihat seperti parabola itu
+
+77
+00:02:32,480 --> 00:02:34,000
+bentuk peluru yang terlihat seperti parabola itu
+
+78
+00:02:34,000 --> 00:02:36,080
+bagus sebagai dugaan, tapi bagaimana kita
+
+79
+00:02:36,080 --> 00:02:37,280
+bagus sebagai dugaan, tapi bagaimana kita
+
+80
+00:02:37,280 --> 00:02:39,360
+membuktikannya? 
+
+81
+00:02:39,360 --> 00:02:41,840
+oke jadi inilah caranya. 
+
+82
+00:02:41,840 --> 00:02:43,280
+kita mempunyai um,
+
+83
+00:02:43,280 --> 00:02:44,319
+kita mempunyai
+
+84
+00:02:44,319 --> 00:02:45,200
+koordinat x dan um dan y. 
+
+85
+00:02:45,200 --> 00:02:48,239
+koordinat x dan um dan y. 
+
+86
+00:02:48,239 --> 00:02:52,640
+Saya ingin menghitung y sebagai fungsi dari x.
+
+87
+00:02:52,640 --> 00:02:54,640
+Saya ingin menghitung y sebagai fungsi dari x.
+
+88
+00:02:54,640 --> 00:02:56,560
+Masalahnya adalah saya tidak mempunyai y sebagai fungsi x,
+
+89
+00:02:56,560 --> 00:02:58,720
+Masalahnya adalah saya tidak mempunyai y sebagai fungsi x,
+
+90
+00:02:58,720 --> 00:03:02,280
+saya memilikinya sebagai fungsi t, kan? 
+
+91
+00:03:02,280 --> 00:03:04,319
+dan saya memiliki x sebagai fungsi yang berbeda dari t
+
+92
+00:03:04,319 --> 00:03:05,440
+dan saya memiliki x sebagai fungsi yang berbeda dari t
+
+93
+00:03:05,440 --> 00:03:06,480
+dan saya memiliki x sebagai fungsi yang berbeda dari t
+
+94
+00:03:06,480 --> 00:03:09,280
+oke, apakah kalian ingat akan hal ini?
+
+95
+00:03:09,280 --> 00:03:10,720
+kita tahu persis apa yang harus dilakukan dengan ini, jika kalian mengingat kembali ke
+
+96
+00:03:10,720 --> 00:03:13,519
+kita tahu persis apa yang harus dilakukan dengan ini, jika kalian mengingat kembali ke
+
+97
+00:03:13,519 --> 00:03:16,480
+akhir tahun 11. Izinkan saya mencoba membuat kalian ingat lagi tentang ini.
+
+98
+00:03:16,480 --> 00:03:18,159
+akhir tahun 11. Izinkan saya mencoba membuat kalian ingat lagi tentang ini.
+
+99
+00:03:18,159 --> 00:03:20,800
+Kalian dapat membuat subjudul yang menghilangkan parameter.
+
+100
+00:03:20,800 --> 00:03:24,319
+Kalian dapat membuat subjudul yang menghilangkan parameter.
+
+101
+00:03:24,319 --> 00:03:27,280
+Apa itu parameter?
+
+102
+00:03:29,840 --> 00:03:32,560
+Parameter adalah gagasan tentang variabel ketiga,
+
+103
+00:03:32,560 --> 00:03:34,720
+dan variabel lain yang dapat kalian masukkan ke dalam persamaan kalian,
+
+104
+00:03:34,720 --> 00:03:37,440
+dan variabel lain yang dapat kalian masukkan ke dalam persamaan kalian,
+
+105
+00:03:37,440 --> 00:03:39,120
+yang akan menghubungkan kedua persamaan satu sama lain. Jenis parametrik tertentu
+
+106
+00:03:39,120 --> 00:03:40,799
+yang akan menghubungkan kedua persamaan satu sama lain. Jenis parametrik tertentu
+
+107
+00:03:40,799 --> 00:03:42,560
+yang kita pikirkan adalah parameter parabola, kan? Ingatkah kalian
+
+108
+00:03:42,560 --> 00:03:44,560
+yang kita pikirkan adalah parameter parabola, kan? Ingatkah kalian
+
+109
+00:03:44,560 --> 00:03:46,480
+yang kita pikirkan adalah parameter parabola, kan? Ingatkah kalian
+
+110
+00:03:46,480 --> 00:03:48,080
+apa saja koordinat parametrik suatu titik? 
+
+111
+00:03:48,080 --> 00:03:51,560
+apa saja koordinat parametrik suatu titik? 
+
+112
+00:03:51,560 --> 00:03:52,640
+Titik mana pun pada suatu parabola? Ada yang ingat? 
+
+113
+00:03:52,640 --> 00:03:54,640
+Titik mana pun pada suatu parabola? Ada yang ingat? 
+
+114
+00:03:54,640 --> 00:03:57,360
+2×a×p, p untuk parameter, dan berapa y-nya? y=a×p², bagus!
+
+115
+00:03:57,360 --> 00:04:00,920
+2×a×p, p untuk parameter, dan berapa y-nya? y=a×p², bagus!
+
+116
+00:04:00,920 --> 00:04:01,840
+Jadi aku mau merekap kembali bagaimana cara
+
+117
+00:04:01,840 --> 00:04:03,680
+Jadi aku mau merekap kembali bagaimana cara
+
+118
+00:04:03,680 --> 00:04:04,879
+mengeliminasi parameter ketika Anda memiliki
+
+119
+00:04:04,879 --> 00:04:07,280
+dua persamaan independen ini, maaf, maksudnya keduanya
+
+120
+00:04:07,280 --> 00:04:08,720
+bisa dibilang independen (tidak bergantung satu sama lain) tapi pada dasarnya mereka tidak [independen],
+
+121
+00:04:08,720 --> 00:04:09,760
+bisa dibilang independen (tidak bergantung satu sama lain) tapi pada dasarnya mereka tidak [independen],
+
+122
+00:04:09,760 --> 00:04:11,200
+Kedua persamaan ini terhubung oleh ini, dan ini
+
+123
+00:04:11,200 --> 00:04:12,640
+Kedua persamaan ini terhubung oleh ini, dan ini
+
+124
+00:04:12,640 --> 00:04:16,160
+oke, apa yang harus kita lakukan sekarang? Apakah kalian ingat,
+
+125
+00:04:16,160 --> 00:04:18,798
+jika yang kuinginkan adalah y sebagai fungsi dari x
+
+126
+00:04:18,798 --> 00:04:21,040
+apa yang harus aku lakukan? 
+
+127
+00:04:21,040 --> 00:04:22,560
+oke jadi yang akan aku lakukan adalah aku akan mencoba
+
+128
+00:04:22,560 --> 00:04:25,120
+mengeluarkan p dari salah satu persamaan,
+
+129
+00:04:25,120 --> 00:04:26,560
+tak peduli yang mana yang kamu pilih tapi
+
+130
+00:04:26,560 --> 00:04:28,000
+mungkin yang paling mudah adalah menggunakan
+
+131
+00:04:28,000 --> 00:04:30,560
+yang ini. Jika aku hanya menginginkan variabel p, yang 
+
+132
+00:04:30,560 --> 00:04:32,560
+harus aku lakukan adalah membaginya dengan 2×a sehingga hasilnya
+
+133
+00:04:32,560 --> 00:04:35,120
+p sama dengan
+
+134
+00:04:35,120 --> 00:04:37,759
+ini. Oke dan kamu bisa memasukkannya ke
+
+135
+00:04:37,759 --> 00:04:40,000
+persamaan ini. Apa ini mengingatkan sesuatu dalam memori kalian?
+
+136
+00:04:40,000 --> 00:04:44,479
+jadi y=a×(x/2×a)², jadi
+
+137
+00:04:44,479 --> 00:04:46,080
+saya telah berhasil mengeliminasi
+
+138
+00:04:46,080 --> 00:04:47,520
+parameternya. Itulah yang saya coba lakukan tadi.
+
+139
+00:04:47,520 --> 00:04:48,400
+parameternya. Itulah yang saya coba lakukan tadi.
+
+140
+00:04:48,400 --> 00:04:50,800
+dan sekarang jika saya mengalikan semuanya ini, hasilnya akan menjadi 
+
+141
+00:04:50,800 --> 00:04:54,960
+(a×x²)/(4×a²), jadi kita bisa coret a, coret a yang atas juga, 
+
+142
+00:04:54,960 --> 00:04:58,040
+(a×x²)/(4×a²), jadi kita bisa coret a, coret a yang atas juga, 
+
+143
+00:04:58,040 --> 00:04:58,320
+
+144
+00:04:58,320 --> 00:04:59,520
+dan hal ini akan menghasilkan persamaan yang kita kenal, yaitu x²=4×a×y, yang mana a adalah panjang fokus. 
+
+145
+00:04:59,520 --> 00:05:01,759
+dan hal ini akan menghasilkan persamaan yang kita kenal, yaitu x²=4×a×y, yang mana a adalah panjang fokus. 
+
+146
+00:05:01,759 --> 00:05:03,840
+dan hal ini akan menghasilkan persamaan yang kita kenal, yaitu x²=4×a×y, yang mana a adalah panjang fokus. 
+
+147
+00:05:03,840 --> 00:05:06,639
+Jadi begitulah cara kita melakukannya jika kita tahu apa fungsi x dan
+
+148
+00:05:06,639 --> 00:05:08,240
+Jadi begitulah cara kita melakukannya jika kita tahu apa fungsi x dan
+
+149
+00:05:08,240 --> 00:05:10,000
+fungsi y kita dalam kaitannya dengan parameter, kita bisa menghilangkannya, oke?
+
+150
+00:05:10,000 --> 00:05:13,039
+fungsi y kita dalam kaitannya dengan parameter, kita bisa menghilangkannya, oke? 
+
+151
+00:05:13,039 --> 00:05:14,479
+Jadi inilah apa yang akan kita lakukan, 
+
+152
+00:05:14,479 --> 00:05:16,479
+kita akan melihat, daripada fungsi persamaan spesifik parabola ini, kita ingin mengetahui pelurunya, kan?
+
+153
+00:05:16,479 --> 00:05:18,400
+kita akan melihat, daripada fungsi persamaan spesifik parabola ini, kita ingin mengetahui pelurunya, kan?
+
+154
+00:05:18,400 --> 00:05:20,720
+kita akan melihat, daripada fungsi persamaan spesifik parabola ini, kita ingin mengetahui pelurunya, kan?
+
+155
+00:05:20,720 --> 00:05:22,000
+Jadi saya perlu memiliki x dan y sebagai fungsi dari t dan kemudian saya akan
+
+156
+00:05:22,000 --> 00:05:24,639
+Jadi saya perlu memiliki x dan y sebagai fungsi dari t dan kemudian saya akan
+
+157
+00:05:24,639 --> 00:05:28,000
+melanjutkan dan menghilangkan t sebagai parameter.
+
+158
+00:05:28,000 --> 00:05:29,360
+Jadi mari kita mulai seperti ini mari kita asumsikan proyeksi dari titik asal,
+
+159
+00:05:29,360 --> 00:05:31,280
+Jadi mari kita mulai seperti ini mari kita asumsikan proyeksi dari titik asal,
+
+160
+00:05:31,280 --> 00:05:35,280
+Jadi mari kita mulai seperti ini mari kita asumsikan proyeksi dari titik asal,
+
+161
+00:05:35,440 --> 00:05:37,759
+yang merupakan cara kita biasanya memulai
+
+162
+00:05:37,759 --> 00:05:39,360
+pertanyaan mengenai peluru hanya karena itu
+
+163
+00:05:39,360 --> 00:05:40,160
+membuat angkanya-angkanya jadi lebih mudah. Dengan kata lain,
+
+164
+00:05:40,160 --> 00:05:42,320
+membuat angkanya-angkanya jadi lebih mudah. Dengan kata lain,
+
+165
+00:05:42,320 --> 00:05:45,600
+ketika t sama dengan nol, maka x sama dengan nol dan y sama dengan nol.
+
+166
+00:05:45,600 --> 00:05:48,639
+ketika t sama dengan nol, maka x sama dengan nol dan y sama dengan nol.
+
+167
+00:05:48,639 --> 00:05:51,120
+Jadi di mana setiap pertanyaan gerak peluru dimulai,
+
+168
+00:05:51,120 --> 00:05:54,080
+Jadi di mana setiap pertanyaan gerak peluru dimulai,
+
+169
+00:05:54,080 --> 00:05:57,120
+apa yang kita harus lakukan pertama kali? 
+
+170
+00:05:58,000 --> 00:05:59,759
+Saya punya dua titik awal yang sama validnya
+
+171
+00:05:59,759 --> 00:06:00,720
+Saya punya dua titik awal yang sama validnya
+
+172
+00:06:00,720 --> 00:06:02,400
+Dua titik itu salah satunya akan menjadi persamaan percepatan
+
+173
+00:06:02,400 --> 00:06:03,759
+Dua titik itu salah satunya akan menjadi persamaan percepatan
+
+174
+00:06:03,759 --> 00:06:05,199
+Mari kita mulai dengan x karena itu sesuai abjad. Jadi,
+
+175
+00:06:05,199 --> 00:06:07,600
+Mari kita mulai dengan x karena itu sesuai abjad. Jadi,
+
+176
+00:06:07,600 --> 00:06:09,360
+percepatan horizontal dalam pertanyaan mengenai gerak peluru sama dengan...? 
+
+177
+00:06:09,360 --> 00:06:10,720
+percepatan horizontal dalam pertanyaan mengenai gerak peluru sama dengan...? 
+
+178
+00:06:10,720 --> 00:06:12,639
+nol
+
+179
+00:06:12,639 --> 00:06:14,560
+Jadi kita akan mengintegrasikannya. Saya harus terus mengintegrasikan sampai
+
+180
+00:06:14,560 --> 00:06:16,160
+Jadi kita akan mengintegrasikannya. Saya harus terus mengintegrasikan sampai
+
+181
+00:06:16,160 --> 00:06:19,840
+x menjadi sebuah fungsi waktu. Jadi, integrasi pertama saya
+
+182
+00:06:19,840 --> 00:06:21,680
+x menjadi sebuah fungsi waktu. Jadi, integrasi pertama saya
+
+183
+00:06:21,680 --> 00:06:25,280
+membuat saya mendapatkan sebuah konstanta.
+
+184
+00:06:28,000 --> 00:06:29,360
+Dan konstanta ini, dari mana kita mendapatkannya? Apa kalian ingat?
+
+185
+00:06:29,360 --> 00:06:32,479
+Dan konstanta ini, dari mana kita mendapatkannya? Apa kalian ingat?
+
+186
+00:06:33,680 --> 00:06:35,039
+Kamu harus menggambar persegi panjang seperti ini,
+
+187
+00:06:35,039 --> 00:06:36,240
+Kamu harus menggambar persegi panjang seperti ini,
+
+188
+00:06:36,240 --> 00:06:37,600
+dan akan ada beberapa kecepatan yang mempunyai sudut, dan alpha akan ada di sini sebagai sudut awal.
+
+189
+00:06:37,600 --> 00:06:39,919
+dan akan ada beberapa kecepatan yang mempunyai sudut, dan alpha akan ada di sini sebagai sudut awal.
+
+190
+00:06:39,919 --> 00:06:41,840
+dan akan ada beberapa kecepatan yang mempunyai sudut, dan alpha akan ada di sini sebagai sudut awal.
+
+191
+00:06:41,840 --> 00:06:43,039
+dan akan ada beberapa kecepatan yang mempunyai sudut, dan alpha akan ada di sini sebagai sudut awal.
+
+192
+00:06:43,039 --> 00:06:44,960
+dan akan ada beberapa kecepatan yang mempunyai sudut, dan alpha akan ada di sini sebagai sudut awal.
+
+193
+00:06:44,960 --> 00:06:47,120
+dan akan ada beberapa kecepatan yang mempunyai sudut, dan alpha akan ada di sini sebagai sudut awal.
+
+194
+00:06:47,120 --> 00:06:49,120
+Oleh karena itu kalian akan mendapatkan konstantanya, dan kalian akan mendapatkan v cos alpha
+
+195
+00:06:49,120 --> 00:06:50,800
+Oleh karena itu kalian akan mendapatkan konstantanya, dan kalian akan mendapatkan v cos alpha
+
+196
+00:06:50,800 --> 00:06:54,479
+Oleh karena itu kalian akan mendapatkan konstantanya, dan kalian akan mendapatkan v cos alpha
+
+197
+00:06:54,479 --> 00:06:57,680
+tidak masalah, integrasikan sekali lagi
+
+198
+00:06:57,680 --> 00:07:00,000
+dan kalian akan mendapatkan v t
+
+199
+00:07:00,000 --> 00:07:03,840
+cos alpha ditambah konstanta barunya,
+
+200
+00:07:05,759 --> 00:07:06,960
+dan karena kita telah menetapkan bahwa kita mulai di titik asal, maka kalian masukkan t
+
+201
+00:07:06,960 --> 00:07:08,960
+dan karena kita telah menetapkan bahwa kita mulai di titik asal, maka kalian masukkan t
+
+202
+00:07:08,960 --> 00:07:11,599
+sama dengan nol, x sama dengan nol, jadi konstanta keduanya
+
+203
+00:07:11,599 --> 00:07:13,919
+juga jadi nol. Jadi ini semacam persamaan perpindahan umum untuk pertanyaan biasa mengenai peluru.
+
+204
+00:07:13,919 --> 00:07:16,160
+juga jadi nol. Jadi ini semacam persamaan perpindahan umum untuk pertanyaan biasa mengenai peluru.
+
+205
+00:07:16,160 --> 00:07:19,039
+juga jadi nol. Jadi ini semacam persamaan perpindahan umum untuk pertanyaan biasa mengenai peluru.
+
+206
+00:07:19,039 --> 00:07:21,599
+juga jadi nol. Jadi ini semacam persamaan perpindahan umum untuk pertanyaan biasa mengenai peluru.
+
+207
+00:07:21,599 --> 00:07:24,479
+Sekarang mari kita ulangi lagi untuk y.
+
+208
+00:07:24,479 --> 00:07:26,720
+Jadi kita mulai dengan percepatan vertikal menjadi gravitasi negatif, kan?
+
+209
+00:07:26,720 --> 00:07:29,039
+Jadi kita mulai dengan percepatan vertikal menjadi gravitasi negatif, kan?
+
+210
+00:07:29,039 --> 00:07:31,199
+Jadi kita mulai dengan percepatan vertikal menjadi gravitasi negatif, kan?
+
+211
+00:07:31,199 --> 00:07:35,120
+Bagus, jadi integrasikan sekali, dan konstanta ini lagi-lagi berasal dari
+
+212
+00:07:35,120 --> 00:07:42,639
+Bagus, jadi integrasikan sekali, dan konstanta ini lagi-lagi berasal dari
+
+213
+00:07:42,639 --> 00:07:44,800
+skenario persegi panjang seperti ini di sini, jadi alih-alih v cos alpha, saya akan menggunakan...
+
+214
+00:07:44,800 --> 00:07:48,560
+skenario persegi panjang seperti ini di sini, jadi alih-alih v cos alpha, saya akan menggunakan...
+
+215
+00:07:48,960 --> 00:07:50,960
+menggunakan...?
+
+216
+00:07:50,960 --> 00:07:53,919
+b sin alpha,
+
+217
+00:07:54,479 --> 00:07:57,599
+oke, jadi ini y titik saya,
+
+218
+00:07:57,599 --> 00:07:59,840
+integrasikan sekali lagi
+
+219
+00:07:59,840 --> 00:08:02,639
+dan saya akan mendapatkan minus g t kuadrat dibagi dua
+
+220
+00:08:02,639 --> 00:08:07,039
+ditambah v dua sinus alpha
+
+221
+00:08:07,039 --> 00:08:08,879
+ditambah konstanta akhir saya yang juga akan berubah menjadi nol karena saya
+
+222
+00:08:08,879 --> 00:08:11,120
+ditambah konstanta akhir saya yang juga akan berubah menjadi nol karena saya
+
+223
+00:08:11,120 --> 00:08:14,639
+mulai dari titik asal. Jadi,
+
+224
+00:08:14,639 --> 00:08:16,479
+sekali lagi dengan perasaan inilah persamaan x generik saya, inilah persamaan y generik saya
+
+225
+00:08:16,479 --> 00:08:19,280
+sekali lagi dengan perasaan inilah persamaan x generik saya, inilah persamaan y generik saya
+
+226
+00:08:19,280 --> 00:08:20,479
+dikurangi
+
+227
+00:08:20,479 --> 00:08:23,520
+gt kuadrat dibagi 2
+
+228
+00:08:25,120 --> 00:08:27,759
+ditambah komponen sudut. Sekarang,
+
+229
+00:08:27,759 --> 00:08:29,599
+ingat apa yang kita lakukan sebelumnya untuk mengeliminasi parameter kita, kita mendapatkan
+
+230
+00:08:29,599 --> 00:08:32,719
+ingat apa yang kita lakukan sebelumnya untuk mengeliminasi parameter kita, kita mendapatkan
+
+231
+00:08:32,719 --> 00:08:34,719
+salah satu parameter, atau parameter dari salah satu persamaan.
+
+232
+00:08:34,719 --> 00:08:36,320
+salah satu parameter, atau parameter dari salah satu persamaan. 
+
+233
+00:08:36,320 --> 00:08:40,159
+Menurut kalian, persamaan mana yang harus kita pilih?
+
+234
+00:08:40,159 --> 00:08:41,440
+Yang sebelah sana, kan? karena hanya ada satu parameter di sana, sedangkan di sini ada dua, 
+
+235
+00:08:41,440 --> 00:08:42,880
+Yang sebelah sana, kan? karena hanya ada satu parameter di sana, sedangkan di sini ada dua
+
+236
+00:08:42,880 --> 00:08:45,120
+agak berantakan, aku tahu. Jadi aku hanya ingin t saja.
+
+237
+00:08:45,120 --> 00:08:46,320
+agak berantakan, aku tahu. Jadi aku hanya ingin t saja.
+
+238
+00:08:46,320 --> 00:08:49,519
+Aku akan bilang, maka, dibagi dengan v cos alpha, kelihatannya.
+
+239
+00:08:49,519 --> 00:08:51,440
+Aku akan bilang, maka, dibagi dengan v cos alpha, kelihatannya.
+
+240
+00:08:51,440 --> 00:08:55,200
+Jadi persamaannya menjadi x dibagi itu (v cos alpha)
+
+241
+00:08:55,200 --> 00:08:56,399
+Jadi persamaannya menjadi x dibagi itu (v cos alpha)
+
+242
+00:08:56,399 --> 00:08:59,399
+jadi sekarang masukkan itu ke persamaan y kamu,
+
+243
+00:08:59,399 --> 00:09:01,600
+alih-alih t kuadrat di sini.
+
+244
+00:09:01,600 --> 00:09:03,279
+dan aku akan memisahkan minus g kuadrat ini dan menaruhnya di depan supaya 
+
+245
+00:09:03,279 --> 00:09:04,959
+dan aku akan memisahkan minus g kuadrat ini dan menaruhnya di depan supaya
+
+246
+00:09:04,959 --> 00:09:06,320
+lebih jelas untuk menjabarkannya.
+
+247
+00:09:06,320 --> 00:09:08,920
+lebih jelas untuk menjabarkannya.
+
+248
+00:09:08,920 --> 00:09:13,600
+Yang di sini akan menjadi x dibagi v cos alpha kuadrat
+
+249
+00:09:13,600 --> 00:09:14,000
+Yang di sini akan menjadi x dibagi v cos alpha kuadrat
+
+250
+00:09:18,800 --> 00:09:20,080
+Yang di sini akan menjadi x dibagi v cos alpha kuadrat
+
+251
+00:09:20,080 --> 00:09:20,880
+ditambah v. Nah di sini ada t lagi, jadi kita ubah lagi menjadi
+
+252
+00:09:20,880 --> 00:09:25,279
+ditambah v. Nah di sini ada t lagi, jadi kita ubah lagi menjadi
+
+253
+00:09:25,279 --> 00:09:29,279
+x dibagi v cos alpha,
+
+254
+00:09:30,000 --> 00:09:32,800
+dan terakhir, dikalikan oleh sin alpha. 
+
+255
+00:09:32,920 --> 00:09:36,080
+dan terakhir, dikalikan oleh sin alpha. 
+
+256
+00:09:36,080 --> 00:09:37,760
+Jadi kita bisa sedikit merapikan persamaan ini, dengan cara...
+
+257
+00:09:37,760 --> 00:09:39,600
+Jadi kita bisa sedikit merapikan persamaan ini, dengan cara...
+
+258
+00:09:39,600 --> 00:09:41,760
+Jadi kita bisa sedikit merapikan persamaan ini, dengan cara...
+
+259
+00:09:43,200 --> 00:09:45,680
+Apa yang kamu punya di sini,
+
+260
+00:09:45,680 --> 00:09:48,000
+pikirkan tentang ini, ini adalah minus g dibagi 2, dan saya punya v cos alpha di sini.
+
+261
+00:09:48,000 --> 00:09:50,560
+pikirkan tentang ini, ini adalah minus g dibagi 2, dan saya punya v cos alpha di sini.
+
+262
+00:09:50,560 --> 00:09:51,839
+Sekarang g, v, alpha, semuanya adalah konstanta. 
+
+263
+00:09:51,839 --> 00:09:52,640
+Sekarang g, v, alpha, semuanya adalah konstanta. 
+
+264
+00:09:52,640 --> 00:09:55,040
+Sekarang g, v, alpha, semuanya adalah konstanta. 
+
+265
+00:09:55,040 --> 00:09:57,200
+Jadi ini bagus. Yang saya dapatkan adalah x kuadrat di sini yang merupakan apa yang kita harapkan
+
+266
+00:09:57,200 --> 00:09:58,880
+Jadi ini bagus. Yang saya dapatkan adalah x kuadrat di sini yang merupakan apa yang kita harapkan
+
+267
+00:09:58,880 --> 00:10:00,519
+Jadi ini bagus. Yang saya dapatkan adalah x kuadrat di sini yang merupakan apa yang kita harapkan
+
+268
+00:10:00,519 --> 00:10:03,120
+Jadi kalau dijabarkan,
+
+269
+00:10:03,120 --> 00:10:06,480
+akan menjadi persamaan ini
+
+270
+00:10:06,480 --> 00:10:08,560
+akan menjadi persamaan ini
+
+271
+00:10:08,560 --> 00:10:11,640
+akan menjadi persamaan ini
+
+272
+00:10:11,640 --> 00:10:12,399
+Aku hanya mencoba untuk membuat koefisien itu jelas dengan sendirinya.
+
+273
+00:10:12,399 --> 00:10:15,519
+Aku hanya mencoba untuk membuat koefisien itu jelas dengan sendirinya.
+
+274
+00:10:15,519 --> 00:10:17,200
+Dan sekarang di sebelah sini, variabel v akan habis dibagi, dan aku 
+
+275
+00:10:17,200 --> 00:10:19,680
+Dan sekarang di sebelah sini, variabel v akan habis dibagi, dan aku 
+
+276
+00:10:19,680 --> 00:10:21,839
+punya sin alpha dibagi cos alpha, yang mana akan menjadi tan.
+
+277
+00:10:21,839 --> 00:10:23,040
+punya sin alpha dibagi cos alpha, yang mana akan menjadi tan.
+
+278
+00:10:23,040 --> 00:10:23,839
+punya sin alpha dibagi cos alpha, yang mana akan menjadi tan.
+
+279
+00:10:23,839 --> 00:10:26,880
+Dengan kata lain, persamaannya akan menjadi tan alpha x
+
+280
+00:10:26,880 --> 00:10:28,399
+Dengan kata lain, persamaannya akan menjadi tan alpha x
+
+281
+00:10:28,399 --> 00:10:32,120
+Dengan kata lain, persamaannya akan menjadi tan alpha x
+
+282
+00:10:32,640 --> 00:10:35,120
+Mungkin kalian ingin persamaannya ditulis menggunakan warna berbeda, 
+
+283
+00:10:35,120 --> 00:10:37,440
+Mungkin kalian ingin persamaannya ditulis menggunakan warna berbeda, 
+
+284
+00:10:37,440 --> 00:10:39,680
+dan apa yang kita dapatkan adalah apa yang kita harapkan,
+
+285
+00:10:39,680 --> 00:10:43,200
+yakni minus a x kuadrat ditambah negatif b x,
+
+286
+00:10:43,200 --> 00:10:45,200
+yakni minus a x kuadrat ditambah negatif b x,
+
+287
+00:10:45,200 --> 00:10:47,360
+karena diproyeksikan dan ditarik ke bawah oleh gravitasi. (Alih bahasa oleh Karel Bondan)
+
+288
+00:10:47,360 --> 00:10:49,920
+karena diproyeksikan dan ditarik ke bawah oleh gravitasi. (Alih bahasa oleh Karel Bondan)
