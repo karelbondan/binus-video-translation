@@ -1,0 +1,1387 @@
+1
+00:00:00,399 --> 00:00:05,279
+kita sedang melihat gerak melingkar, itulah yang
+
+2
+00:00:02,159 --> 00:00:07,359
+sedang kita lakukan dalam mekanika oke sekarang
+
+3
+00:00:05,279 --> 00:00:09,519
+Anda sedang melakukan gerakan melingkar tadi,
+
+4
+00:00:07,359 --> 00:00:12,080
+orang Anda berada di
+
+5
+00:00:09,519 --> 00:00:15,519
+tengah kanan dan semua orang
+
+6
+00:00:12,080 --> 00:00:16,640
+bergerak mengelilinginya dalam lingkaran oke saya
+
+7
+00:00:15,519 --> 00:00:18,080
+harap Anda menemukannya  menarik ada
+
+8
+00:00:16,640 --> 00:00:20,320
+beberapa hal berbeda yang dapat kita
+
+9
+00:00:18,080 --> 00:00:21,199
+perhatikan oke pertama mari kita kembali ke awal
+
+10
+00:00:21,199 --> 00:00:24,160
+um pada awalnya hanya ada
+
+11
+00:00:22,640 --> 00:00:25,599
+beberapa dari kalian di sana hanya beberapa
+
+12
+00:00:24,160 --> 00:00:28,000
+dari kalian
+
+13
+00:00:25,599 --> 00:00:30,560
+dan menurutku berapa rekor kecepatan kita
+
+14
+00:00:28,000 --> 00:00:34,320
+menurutku seperti itu  satu poin berapa
+
+15
+00:00:30,560 --> 00:00:36,320
+1,16 1,16
+
+16
+00:00:34,320 --> 00:00:38,719
+detik
+
+17
+00:00:36,320 --> 00:00:41,280
+oke sekarang kita semua tertarik pada siapa yang bisa
+
+18
+00:00:38,719 --> 00:00:42,960
+menang dan seberapa cepat kamu bisa melaju dan kamu tahu
+
+19
+00:00:41,280 --> 00:00:45,039
+betapa tidak goyahnya kamu bisa membuat garis
+
+20
+00:00:42,960 --> 00:00:46,640
+dan seterusnya oke tapi kita punya semua
+
+21
+00:00:45,039 --> 00:00:49,360
+bahasa untuk menggambarkan seperti kita  lebih
+
+22
+00:00:46,640 --> 00:00:52,239
+dari sekedar cepat dan lambat kita dapat mengatakan lihat
+
+23
+00:00:49,360 --> 00:00:53,199
+lihat 1,16 detik skenario pertamamu
+
+24
+00:00:52,239 --> 00:00:55,440
+oke
+
+25
+00:00:53,199 --> 00:00:57,840
+um aku tidak menyuruhmu melakukan um
+
+26
+00:00:55,440 --> 00:00:59,920
+pengukuran seberapa jauh kamu tahu
+
+27
+00:00:57,840 --> 00:01:02,160
+seberapa jauh kamu sebenarnya berjalan tetapi kami memiliki
+
+28
+00:00:59,920 --> 00:01:04,239
+pengukuran yang tepat untuk seberapa jauh
+
+29
+00:01:02,160 --> 00:01:05,519
+orang di luar itu pergi jika
+
+30
+00:01:04,239 --> 00:01:08,080
+dipikir dari
+
+31
+00:01:05,519 --> 00:01:10,240
+sudut siku-siku
+
+32
+00:01:08,080 --> 00:01:11,920
+seberapa jauh sudut yang ditempuh orang itu
+
+33
+00:01:10,240 --> 00:01:13,760
+ke orang di luar orang di
+
+34
+00:01:11,920 --> 00:01:15,680
+sebelah kiri berapa jauh mereka pergi dalam waktu berapapun
+
+35
+00:01:15,680 --> 00:01:19,520
+dengan sudut yang
+
+36
+00:01:17,280 --> 00:01:21,439
+mereka tempuh 360 derajat  atau kamu tahu
+
+37
+00:01:19,520 --> 00:01:23,920
+ayolah kita berada di bidang kalkulus di sini jadi kita
+
+38
+00:01:21,439 --> 00:01:27,040
+akan menggunakan radian yaitu 2 pi radian
+
+39
+00:01:23,920 --> 00:01:29,200
+jadi sekitar 6,28
+
+40
+00:01:27,040 --> 00:01:31,759
+kira-kira oke
+
+41
+00:01:29,200 --> 00:01:34,320
+jadi karena sekarang kita memiliki
+
+42
+00:01:31,759 --> 00:01:35,920
+um perpindahan, itu tidak seperti um,
+
+43
+00:01:34,320 --> 00:01:38,000
+itu bukan perpindahan panjang itu adalah perpindahan
+
+44
+00:01:35,920 --> 00:01:40,560
+perpindahan sudut tidak apa-apa
+
+45
+00:01:38,000 --> 00:01:44,079
+kita mempunyai perpindahan dan kita mempunyai
+
+46
+00:01:40,560 --> 00:01:45,520
+waktu yang tepat jadi jika kita mempunyai perpindahan sudut
+
+47
+00:01:45,520 --> 00:01:49,680
+pada suatu waktu
+
+48
+00:01:46,720 --> 00:01:52,000
+itu berarti kita dapat menghitung
+
+49
+00:01:49,680 --> 00:01:54,320
+kecepatan sudut tidak bisakah kita seberapa cepat seseorang
+
+50
+00:01:52,000 --> 00:01:55,040
+menahannya jadi misalnya jika kita menyebutnya ini
+
+51
+00:01:55,040 --> 00:01:58,799
+ang oh itu tidak salah maaf mari kita coba
+
+52
+00:01:57,439 --> 00:02:00,880
+lagi
+
+53
+00:01:58,799 --> 00:02:02,479
+kita sebut ini perpindahan sudut
+
+54
+00:02:00,880 --> 00:02:04,560
+karena sejauh itulah
+
+55
+00:02:04,560 --> 00:02:08,520
+perpindahan sudut totalnya
+
+56
+00:02:08,800 --> 00:02:11,840
+sama dengan
+
+57
+00:02:09,840 --> 00:02:13,440
+2 pi radian oke
+
+58
+00:02:11,840 --> 00:02:15,520
+saya hanya memberi angka 6,28 agar kita bisa mendapatkan
+
+59
+00:02:13,440 --> 00:02:19,879
+beberapa angka di kepala kita oke
+
+60
+00:02:15,520 --> 00:02:19,879
+baiklah, oleh karena itu berapakah  kecepatan sudut
+
+61
+00:02:22,239 --> 00:02:26,319
+berapa sudut yang dilaluinya dengan baik saya
+
+62
+00:02:24,000 --> 00:02:29,760
+kira Anda membaginya dan saya tidak
+
+63
+00:02:26,319 --> 00:02:31,680
+mengeluarkan kalkulator saya tetapi mungkin Anda melakukannya, Anda
+
+64
+00:02:29,760 --> 00:02:33,760
+hampir mencapai enam bukankah mungkin
+
+65
+00:02:31,680 --> 00:02:35,280
+sedikit di bawah enam
+
+66
+00:02:33,760 --> 00:02:37,440
+apa yang kami punya,
+
+67
+00:02:35,280 --> 00:02:39,760
+Anda bisa melakukannya  tepatnya
+
+68
+00:02:37,440 --> 00:02:42,319
+2 pi dibagi
+
+69
+00:02:39,760 --> 00:02:45,800
+1,16
+
+70
+00:02:42,319 --> 00:02:45,800
+jadi 5,4
+
+71
+00:02:51,400 --> 00:02:55,120
+5,4
+
+72
+00:02:53,280 --> 00:02:56,959
+radian per
+
+73
+00:02:55,120 --> 00:02:57,760
+detik oke
+
+74
+00:02:56,959 --> 00:03:00,000
+jadi
+
+75
+00:02:57,760 --> 00:03:01,519
+kita punya bahasa
+
+76
+00:03:00,000 --> 00:03:03,519
+perpindahan dan kecepatan yang
+
+77
+00:03:01,519 --> 00:03:06,800
+nyaman bagi kita tapi kita hanya
+
+78
+00:03:03,519 --> 00:03:08,640
+menerapkannya pada sudut bukan masalah besar oke
+
+79
+00:03:06,800 --> 00:03:10,159
+sekarang karena itu perpindahan dan kecepatan  itu yang
+
+80
+00:03:08,640 --> 00:03:11,760
+kita kenal tapi ini
+
+81
+00:03:10,159 --> 00:03:13,519
+bukan perpindahan dan kelajuan atau
+
+82
+00:03:11,760 --> 00:03:15,680
+kelajuan yang biasa kita gunakan,
+
+83
+00:03:13,519 --> 00:03:16,640
+itu semua tentang sudut jadi oleh karena itu kamu
+
+84
+00:03:15,680 --> 00:03:18,800
+tahu
+
+85
+00:03:16,640 --> 00:03:20,000
+kalau kamu menyebut ini katakanlah baiklah itu sudut
+
+86
+00:03:18,800 --> 00:03:22,239
+apa yang biasa kita sebut
+
+87
+00:03:20,000 --> 00:03:23,680
+seperti theta
+
+88
+00:03:22,239 --> 00:03:26,959
+oke
+
+89
+00:03:23,680 --> 00:03:28,159
+ini di sini  ini akan baik-baik saja itu perubahan
+
+90
+00:03:26,959 --> 00:03:31,200
+theta
+
+91
+00:03:28,159 --> 00:03:33,040
+sehubungan dengan waktu kan jadi ini adalah d
+
+92
+00:03:31,200 --> 00:03:34,000
+theta di
+
+93
+00:03:33,040 --> 00:03:35,360
+dt
+
+94
+00:03:34,000 --> 00:03:37,519
+kan
+
+95
+00:03:35,360 --> 00:03:39,360
+tapi tentu saja kita sudah memiliki um kita
+
+96
+00:03:37,519 --> 00:03:41,040
+sudah memiliki konvensi yang ditetapkan
+
+97
+00:03:39,360 --> 00:03:42,560
+tentang bagaimana membicarakan
+
+98
+00:03:41,040 --> 00:03:44,480
+hal-hal semacam ini ketika Anda membedakannya dengan
+
+99
+00:03:42,560 --> 00:03:45,920
+sehubungan dengan waktu karena itu adalah
+
+100
+00:03:44,480 --> 00:03:47,440
+hal yang sering Anda ketahui ketika kita
+
+101
+00:03:45,920 --> 00:03:49,440
+berbicara tentang gerak garis lurus saja
+
+102
+00:03:47,440 --> 00:03:52,000
+daripada mengatakan x dan v dan a Anda
+
+103
+00:03:49,440 --> 00:03:54,799
+bisa menyebutnya x dan
+
+104
+00:03:52,000 --> 00:03:56,239
+x titik dan x titik ganda yang artinya titik
+
+105
+00:03:54,799 --> 00:03:59,360
+lebih dari sekadar tanda hubung  artinya
+
+106
+00:03:56,239 --> 00:04:00,720
+sehubungan dengan waktu oke jadi ini
+
+107
+00:04:00,720 --> 00:04:04,400
+titik theta
+
+108
+00:04:01,599 --> 00:04:05,920
+oke notasi yang sama baru saja diterapkan dalam
+
+109
+00:04:04,400 --> 00:04:07,360
+bahasa Inggris
+
+110
+00:04:05,920 --> 00:04:08,239
+sekarang izinkan saya memperluasnya lebih jauh
+
+111
+00:04:07,360 --> 00:04:11,680
+lagi
+
+112
+00:04:08,239 --> 00:04:13,439
+gagasan tentang gerak sudut ini
+
+113
+00:04:11,680 --> 00:04:16,479
+sangat penting dan
+
+114
+00:04:13,439 --> 00:04:18,720
+sering muncul dan saya tidak suka  titik-titik yang
+
+115
+00:04:16,479 --> 00:04:20,799
+kita sebut itu yang spesial, yang spesial,
+
+116
+00:04:18,720 --> 00:04:23,199
+huruf spesialnya sendiri,
+
+117
+00:04:20,799 --> 00:04:25,440
+padahal sudah lama kita tidak menggunakannya, kita sebut
+
+118
+00:04:23,199 --> 00:04:25,440
+ini, kita
+
+119
+00:04:25,600 --> 00:04:30,320
+sebut itu
+
+120
+00:04:27,440 --> 00:04:32,720
+omega oke itu huruf omega kecil, jangan
+
+121
+00:04:30,320 --> 00:04:35,840
+bingung dengan um
+
+122
+00:04:32,720 --> 00:04:37,680
+huruf besar omega yaitu ohm menurutku
+
+123
+00:04:35,840 --> 00:04:40,000
+listrik itu  semacam itu jadi
+
+124
+00:04:37,680 --> 00:04:42,080
+omega ini yang dibicarakan
+
+125
+00:04:40,000 --> 00:04:44,160
+tentang kecepatan sudut itu hanyalah
+
+126
+00:04:42,080 --> 00:04:46,479
+notasi lain kamu bisa menyebutnya titik theta atau
+
+127
+00:04:44,160 --> 00:04:48,400
+kamu bisa menyebutnya d theta di dt
+
+128
+00:04:46,479 --> 00:04:49,759
+semuanya sama saja
+
+129
+00:04:48,400 --> 00:04:52,320
+oke sekarang
+
+130
+00:04:49,759 --> 00:04:54,320
+hanya untuk menekannya sedikit lagi saja  agar
+
+131
+00:04:52,320 --> 00:04:57,360
+gambarannya lengkap, kita punya
+
+132
+00:04:54,320 --> 00:04:59,199
+perpindahan, kita punya kecepatan, kecepatan, oke,
+
+133
+00:04:57,360 --> 00:05:00,560
+apa yang akan melengkapi gambar, apa yang
+
+134
+00:04:59,199 --> 00:05:02,639
+tersisa,
+
+135
+00:05:00,560 --> 00:05:05,280
+percepatan, kanan, dan kita bisa menggunakan
+
+136
+00:05:02,639 --> 00:05:06,560
+jenis logika yang sama. Saya dapat menemukan penanda pandangan saya,
+
+137
+00:05:06,560 --> 00:05:10,400
+jenis logika yang sama dengan yang kita miliki di
+
+138
+00:05:08,240 --> 00:05:12,400
+garis lurus  gerak garis atau dalam proyektil untuk
+
+139
+00:05:10,400 --> 00:05:14,880
+mengatakan dengan baik bagaimana kita menulis bagaimana kita
+
+140
+00:05:12,400 --> 00:05:16,800
+menyatakan ini oke jadi jika kita berbicara tentang
+
+141
+00:05:14,880 --> 00:05:19,520
+kecepatan perpindahan, kecepatan dan
+
+142
+00:05:16,800 --> 00:05:19,520
+percepatan,
+
+143
+00:05:20,639 --> 00:05:23,039
+Anda dapat mengatakannya dengan berbagai
+
+144
+00:05:21,600 --> 00:05:24,320
+cara yang berbeda, itulah yang terjadi ketika
+
+145
+00:05:23,039 --> 00:05:25,520
+Anda mencapai percepatan yang telah kami perhatikan
+
+146
+00:05:24,320 --> 00:05:27,520
+ini sudah saat kita melihat
+
+147
+00:05:25,520 --> 00:05:30,800
+latihan pendahuluan kita eh dalam
+
+148
+00:05:27,520 --> 00:05:32,800
+percepatan maaf dalam mekanika
+
+149
+00:05:30,800 --> 00:05:34,960
+kita hanya bisa mengatakan
+
+150
+00:05:32,800 --> 00:05:37,280
+ini adalah kecepatan kecepatan ini
+
+151
+00:05:34,960 --> 00:05:38,960
+dibedakan terhadap waktu oke
+
+152
+00:05:37,280 --> 00:05:41,360
+jadi kamu bisa menyebutnya d
+
+153
+00:05:38,960 --> 00:05:44,000
+omega
+
+154
+00:05:41,360 --> 00:05:45,840
+di dt oke hanya saja maksudku kita sudah terbiasa
+
+155
+00:05:44,000 --> 00:05:49,520
+yang dikatakan adalah dv dt tetapi kami tidak ingin
+
+156
+00:05:45,840 --> 00:05:50,479
+mengacaukan v dengan kecepatan ini oke
+
+157
+00:05:49,520 --> 00:05:52,160
+Anda dapat menuliskannya dengan banyak
+
+158
+00:05:50,479 --> 00:05:54,000
+cara yang berbeda tentunya karena ini adalah
+
+159
+00:05:52,160 --> 00:05:55,759
+turunan pertama dari ini yang menjadikannya
+
+160
+00:05:54,000 --> 00:05:58,160
+turunan kedua
+
+161
+00:05:55,759 --> 00:05:59,520
+dari hak ini sehingga Anda dapat menulis dengan cara yang sama.
+
+162
+00:05:58,160 --> 00:06:00,720
+itu d kuadrat
+
+163
+00:05:59,520 --> 00:06:02,880
+theta
+
+164
+00:06:00,720 --> 00:06:04,400
+di dt kuadrat oke menurut saya ada
+
+165
+00:06:02,880 --> 00:06:06,240
+beberapa cara lain yang kita tahu untuk menulis
+
+166
+00:06:04,400 --> 00:06:07,680
+percepatan itu hanya
+
+167
+00:06:06,240 --> 00:06:10,400
+hal yang sama hanya dengan label yang berbeda beri saya
+
+168
+00:06:07,680 --> 00:06:10,400
+contoh lain
+
+169
+00:06:11,039 --> 00:06:15,520
+lihat titik ganda ya Anda akan melihatnya
+
+170
+00:06:12,720 --> 00:06:17,199
+berkali-kali
+
+171
+00:06:15,520 --> 00:06:18,880
+oke satu lagi kamu bisa memberi saya
+
+172
+00:06:17,199 --> 00:06:21,840
+dua lagi kita punya lima cara menulis
+
+173
+00:06:18,880 --> 00:06:21,840
+akselerasi kan
+
+174
+00:06:22,000 --> 00:06:25,600
+ganda oh oke ya baiklah ya
+
+175
+00:06:26,639 --> 00:06:29,280
+um itu ya itu
+
+176
+00:06:27,759 --> 00:06:31,280
+benar itu tidak
+
+177
+00:06:29,280 --> 00:06:32,639
+banyak muncul meskipun aku tidak tahu kenapa tapi aku
+
+178
+00:06:31,280 --> 00:06:35,120
+hampir tidak pernah melihatnya
+
+179
+00:06:32,639 --> 00:06:37,199
+um  pikirkan tentang cara kita menyatakan
+
+180
+00:06:35,120 --> 00:06:38,800
+percepatan sebelumnya yang berguna bagi
+
+181
+00:06:37,199 --> 00:06:41,840
+kita dalam hal seperti f sama dengan m a ketik
+
+182
+00:06:38,800 --> 00:06:45,199
+pertanyaan cara apa yang bisa kita tuliskan
+
+183
+00:06:41,840 --> 00:06:48,479
+ya bagus kamu bisa mulai dari sini kan dan
+
+184
+00:06:45,199 --> 00:06:50,400
+kamu bisa bilang baiklah aku bisa menulis ini sebagai
+
+185
+00:06:48,479 --> 00:06:51,919
+um
+
+186
+00:06:50,400 --> 00:06:53,199
+omega
+
+187
+00:06:51,919 --> 00:06:55,680
+d
+
+188
+00:06:53,199 --> 00:06:57,199
+tunggu aku  sudah tertulis di sini
+
+189
+00:06:55,680 --> 00:07:00,000
+d omega
+
+190
+00:06:57,199 --> 00:07:03,120
+pada d theta ingat bagaimana kita melakukannya dengan
+
+191
+00:07:00,000 --> 00:07:06,400
+aturan rantai karena omega benar itu
+
+192
+00:07:03,120 --> 00:07:08,400
+hanya d theta pada dt jadi jika saya meletakkan d theta
+
+193
+00:07:06,400 --> 00:07:10,560
+pada dt di sini Anda melihatnya dibatalkan dan itu
+
+194
+00:07:08,400 --> 00:07:12,880
+mengembalikan baris ini kepada Anda oke dan
+
+195
+00:07:10,560 --> 00:07:14,000
+ada satu cara lagi untuk menulisnya
+
+196
+00:07:12,880 --> 00:07:17,360
+daripada setengah
+
+197
+00:07:14,000 --> 00:07:18,880
+v kuadrat itu akan menjadi setengah omega kuadrat
+
+198
+00:07:17,360 --> 00:07:19,680
+kan jadi kamu bilang
+
+199
+00:07:18,880 --> 00:07:22,880
+d
+
+200
+00:07:19,680 --> 00:07:22,880
+di d theta
+
+201
+00:07:23,840 --> 00:07:27,520
+kuadrat semuanya sama
+
+202
+00:07:26,080 --> 00:07:30,080
+saja itu hanya
+
+203
+00:07:27,520 --> 00:07:32,400
+omega, bukan e, dan hanya
+
+204
+00:07:30,080 --> 00:07:34,160
+thetas, bukan  x benar karena
+
+205
+00:07:32,400 --> 00:07:36,800
+kamu punya theta yang mewakili
+
+206
+00:07:34,160 --> 00:07:39,199
+perpindahan sudut oke
+
+207
+00:07:36,800 --> 00:07:43,240
+jadi kamu punya ide ini. ini semua
+
+208
+00:07:39,199 --> 00:07:43,240
+tentang gerak sudut
+
+209
+00:07:45,520 --> 00:07:48,800
+oke jadi mari kita lakukan eksperimen pemikiran cepat
+
+210
+00:07:47,120 --> 00:07:50,319
+di sini mari
+
+211
+00:07:48,800 --> 00:07:52,639
+kita pikirkan kelompok um kita yang terdiri dari empat
+
+212
+00:07:50,319 --> 00:07:54,560
+orang dan mereka semua berputar-putar
+
+213
+00:07:52,639 --> 00:07:55,759
+oke sekarang jam berapa
+
+214
+00:07:54,560 --> 00:07:57,919
+waktu yang kita dapatkan untuk empat orang itu
+
+215
+00:07:55,759 --> 00:08:00,560
+seperti tiga detik dua koma tiga
+
+216
+00:07:57,919 --> 00:08:01,759
+kira-kira tiga detik oke jadi
+
+217
+00:08:00,560 --> 00:08:03,440
+pikirkan tentang
+
+218
+00:08:01,759 --> 00:08:05,199
+orang ini, orang kedua,
+
+219
+00:08:03,440 --> 00:08:06,960
+berapa lama waktu yang dibutuhkan bagi mereka untuk
+
+220
+00:08:05,199 --> 00:08:09,039
+berkeliling  dan kembali ke
+
+221
+00:08:06,960 --> 00:08:11,199
+tempat semula
+
+222
+00:08:09,039 --> 00:08:12,879
+itu tiga detik kan
+
+223
+00:08:11,199 --> 00:08:14,319
+bagaimana dengan orang ketiga ini berapa lama waktu yang
+
+224
+00:08:12,879 --> 00:08:16,560
+mereka butuhkan untuk berjalan jauh dan
+
+225
+00:08:14,319 --> 00:08:17,599
+kemudian kembali ke tempat semula
+
+226
+00:08:16,560 --> 00:08:18,560
+juga
+
+227
+00:08:17,599 --> 00:08:20,240
+tiga
+
+228
+00:08:18,560 --> 00:08:21,680
+detik mereka semua mengambil jumlah
+
+229
+00:08:20,240 --> 00:08:25,120
+gen yang sama itulah sebabnya bahu semua orang
+
+230
+00:08:21,680 --> 00:08:26,960
+bersatu  secara teori sih oke
+
+231
+00:08:25,120 --> 00:08:29,360
+tapi tunggu sebentar
+
+232
+00:08:26,960 --> 00:08:30,879
+kalian semua telah melalui sudut yang sama
+
+233
+00:08:29,360 --> 00:08:32,479
+dan kalian semua mengambil waktu yang sama satu
+
+234
+00:08:30,879 --> 00:08:34,560
+koma satu enam tiga detik delapan
+
+235
+00:08:32,479 --> 00:08:38,560
+detik berapa pun itu
+
+236
+00:08:34,560 --> 00:08:40,640
+jadi gerakan sudut kalian sama
+
+237
+00:08:38,560 --> 00:08:42,320
+tetapi gerakannya tidak'  Itu juga
+
+238
+00:08:40,640 --> 00:08:44,000
+hak yang sama, mintalah orang di luar untuk
+
+239
+00:08:42,320 --> 00:08:45,279
+memberi tahu Anda bahwa gerakannya jelas tidak
+
+240
+00:08:44,000 --> 00:08:47,279
+sama. Apa yang dilakukan orang di
+
+241
+00:08:45,279 --> 00:08:49,040
+luar? Mereka
+
+242
+00:08:47,279 --> 00:08:50,480
+berlari. Mereka bergerak jauh
+
+243
+00:08:49,040 --> 00:08:52,399
+lebih cepat daripada orang lain. Orang malas
+
+244
+00:08:50,480 --> 00:08:54,160
+di tengah, dia tidak pergi ke mana pun
+
+245
+00:08:52,399 --> 00:08:55,839
+benar ya,
+
+246
+00:08:54,160 --> 00:08:58,000
+saya tahu siapa yang memposisikan diri mereka
+
+247
+00:08:55,839 --> 00:09:00,080
+di tengah oke jadi oleh karena itu
+
+248
+00:08:58,000 --> 00:09:02,399
+tidak hanya gerak sudut,
+
+249
+00:09:00,080 --> 00:09:04,480
+gerak sudut tidak menceritakan keseluruhan cerita,
+
+250
+00:09:02,399 --> 00:09:06,160
+sekarang juga ada
+
+251
+00:09:04,480 --> 00:09:08,480
+beberapa nama berbeda
+
+252
+00:09:06,160 --> 00:09:10,240
+menurut saya nama yang paling berguna adalah gerak linier
+
+253
+00:09:10,240 --> 00:09:15,120
+oke karena kita tidak hanya
+
+254
+00:09:11,920 --> 00:09:17,440
+memikirkan um sudut ini di sini kan jadi
+
+255
+00:09:15,120 --> 00:09:20,640
+jika saya meletakkan sumbu di sini
+
+256
+00:09:17,440 --> 00:09:22,720
+sudut dua pi radian ini
+
+257
+00:09:20,640 --> 00:09:25,839
+kita juga memikirkan tentang
+
+258
+00:09:22,720 --> 00:09:28,240
+garis di mana mereka bergerak oke jadi
+
+259
+00:09:25,839 --> 00:09:31,920
+itu  kamu tahu hal semacam ini
+
+260
+00:09:28,240 --> 00:09:35,200
+seperti garis seperti itu oke dan tentu saja
+
+261
+00:09:31,920 --> 00:09:38,240
+semakin jauh kamu menjauh dari pusat,
+
+262
+00:09:35,200 --> 00:09:40,800
+semakin cepat gerakan itu akan
+
+263
+00:09:38,240 --> 00:09:42,320
+baik-baik saja sekarang bagaimana kita menyatakannya
+
+264
+00:09:40,800 --> 00:09:43,600
+secara aljabar
+
+265
+00:09:42,320 --> 00:09:45,519
+mari kita pikirkan
+
+266
+00:09:43,600 --> 00:09:49,279
+seperti ini mari kita pikirkan tentang kecepatan
+
+267
+00:09:45,519 --> 00:09:51,839
+oke jadi  jika saya berbicara tentang ups kecepatan linier
+
+268
+00:09:52,800 --> 00:09:57,360
+oke kecepatan adalah um
+
+269
+00:09:55,120 --> 00:09:58,480
+adalah jarak terhadap waktu tepat jarak
+
+270
+00:09:57,360 --> 00:10:01,519
+terhadap waktu
+
+271
+00:09:58,480 --> 00:10:02,480
+ini jarak ini benar itu adalah sudut
+
+272
+00:10:01,519 --> 00:10:04,720
+oke
+
+273
+00:10:02,480 --> 00:10:06,720
+bagaimana dengan jarak ini di mana
+
+274
+00:10:04,720 --> 00:10:09,760
+itu tidak dalam garis lurus kan
+
+275
+00:10:06,720 --> 00:10:09,760
+jadi bagaimana cara mengukurnya itu
+
+276
+00:10:09,839 --> 00:10:14,240
+a  itu benar keliling dan
+
+277
+00:10:11,920 --> 00:10:16,240
+karena kita berbicara dalam radian kita bisa
+
+278
+00:10:14,240 --> 00:10:17,600
+menggunakan bahasa ukuran radian untuk menyatakan
+
+279
+00:10:16,240 --> 00:10:19,760
+ini benda ini bukan hanya
+
+280
+00:10:17,600 --> 00:10:22,800
+keliling tapi itu busur kan itu
+
+281
+00:10:19,760 --> 00:10:25,279
+busur oke jadi aku akan mengubah
+
+282
+00:10:22,800 --> 00:10:27,120
+panjang busurnya kan
+
+283
+00:10:25,279 --> 00:10:28,880
+jadi  itu tidak lurus
+
+284
+00:10:27,120 --> 00:10:32,200
+dan jaraknya
+
+285
+00:10:28,880 --> 00:10:32,200
+seiring berjalannya waktu
+
+286
+00:10:32,720 --> 00:10:36,000
+oke
+
+287
+00:10:34,000 --> 00:10:37,760
+tapi kita tahu cara menghitung panjang busur
+
+288
+00:10:36,000 --> 00:10:39,200
+dengan benar jelas Anda memerlukan dua hal
+
+289
+00:10:37,760 --> 00:10:40,240
+Anda akan membutuhkan sudut Anda
+
+290
+00:10:39,200 --> 00:10:41,519
+akan membutuhkan sudut dan hal
+
+291
+00:10:40,240 --> 00:10:43,839
+lain apa yang Anda perlukan untuk bekerja  diluar
+
+292
+00:10:41,519 --> 00:10:46,240
+menurutku kamu memerlukan jari-jari yang tepat jadi aku
+
+293
+00:10:43,839 --> 00:10:48,640
+akan mengatakannya dengan baik, itulah
+
+294
+00:10:46,240 --> 00:10:49,760
+theta yang melengkung di
+
+295
+00:10:48,640 --> 00:10:51,839
+atas
+
+296
+00:10:49,760 --> 00:10:53,600
+dt oke
+
+297
+00:10:51,839 --> 00:10:55,760
+sekarang perlu diingat kita hanya memikirkan
+
+298
+00:10:53,600 --> 00:10:57,920
+tentang gerak melingkar ke kanan
+
+299
+00:10:55,760 --> 00:11:01,279
+jadi itu berarti jari-jarinya
+
+300
+00:10:57,920 --> 00:11:03,120
+sama semua  jalan keluarnya jadi ini r benar
+
+301
+00:11:01,279 --> 00:11:04,079
+ini agak membingungkan tapi menurutku kalian
+
+302
+00:11:04,079 --> 00:11:07,279
+bisa mengatasinya
+
+303
+00:11:05,440 --> 00:11:09,760
+ini r adalah konstanta
+
+304
+00:11:07,279 --> 00:11:11,440
+oke r adalah sebuah konstanta jadi oleh karena itu aku bisa
+
+305
+00:11:09,760 --> 00:11:13,279
+menariknya keluar dengan benar dan
+
+306
+00:11:11,440 --> 00:11:14,399
+mengeluarkannya jadi ini berjalan  agar
+
+307
+00:11:13,279 --> 00:11:16,720
+sama dengan
+
+308
+00:11:14,399 --> 00:11:18,399
+r di luar
+
+309
+00:11:16,720 --> 00:11:19,680
+d theta atau
+
+310
+00:11:18,399 --> 00:11:20,959
+dt
+
+311
+00:11:19,680 --> 00:11:22,160
+right
+
+312
+00:11:20,959 --> 00:11:24,240
+hold on
+
+313
+00:11:22,160 --> 00:11:28,839
+kita tahu d theta ke t adalah kita memberi
+
+314
+00:11:24,240 --> 00:11:28,839
+nama keseluruhan itu kita menyebutnya omega
+
+315
+00:11:29,600 --> 00:11:34,480
+dan tentu saja ini masuk akal kan
+
+316
+00:11:31,920 --> 00:11:36,720
+apa r itu seberapa jauh kamu dari
+
+317
+00:11:34,480 --> 00:11:38,000
+pusat semakin jauh  kamu dari
+
+318
+00:11:36,720 --> 00:11:40,000
+tengah
+
+319
+00:11:38,000 --> 00:11:41,920
+kanan benda ini konstan benda
+
+320
+00:11:40,000 --> 00:11:44,079
+ini konstan tapi lebih besar
+
+321
+00:11:41,920 --> 00:11:46,000
+kan jadi karena itu seluruh kecepatanmu
+
+322
+00:11:44,079 --> 00:11:48,079
+bergerak lebih cepat orang malang ini mengeluarkan
+
+323
+00:11:46,000 --> 00:11:49,519
+hati kecilnya oke
+
+324
+00:11:48,079 --> 00:11:50,959
+jadi
+
+325
+00:11:49,519 --> 00:11:52,880
+itulah gambarannya ini adalah
+
+326
+00:11:50,959 --> 00:11:55,279
+persamaannya kamu punya dua jenis yang berbeda
+
+327
+00:11:52,880 --> 00:11:58,160
+gerak kamu punya gerak sudut dan
+
+328
+00:11:55,279 --> 00:11:59,600
+kamu punya gerak linier oke
+
+329
+00:11:58,160 --> 00:12:01,040
+sekarang sudah kubilang ini punya beberapa
+
+330
+00:11:59,600 --> 00:12:03,200
+nama berbeda
+
+331
+00:12:01,040 --> 00:12:05,279
+jenis nama lain yang dimilikinya dan kamu
+
+332
+00:12:03,200 --> 00:12:08,639
+mungkin bisa membayangkan mengapa ini
+
+333
+00:12:05,279 --> 00:12:08,639
+di beberapa buku teks disebut
+
+334
+00:12:08,839 --> 00:12:15,360
+10 gerak kafir
+
+335
+00:12:12,000 --> 00:12:15,360
+kenapa  menurut Anda apakah mereka menyebutnya begitu ya itu
+
+336
+00:12:16,320 --> 00:12:20,320
+um jika Anda
+
+337
+00:12:18,560 --> 00:12:22,160
+mengilustrasikannya ya benar
+
+338
+00:12:20,320 --> 00:12:23,600
+ketika kita berbicara tentang kecepatan kecepatan adalah
+
+339
+00:12:22,160 --> 00:12:25,519
+turunan kanan sehingga memberi tahu Anda
+
+340
+00:12:23,600 --> 00:12:27,440
+semacam gradien pada titik tertentu
+
+341
+00:12:25,519 --> 00:12:29,839
+dan memberi tahu Anda gradien
+
+342
+00:12:27,440 --> 00:12:31,680
+garis singgung kanan  jadi jika saya mewakili
+
+343
+00:12:29,839 --> 00:12:33,519
+kecepatan di sana pada
+
+344
+00:12:31,680 --> 00:12:35,120
+titik tertentu, sepertinya garis singgungnya mengarah ke
+
+345
+00:12:33,519 --> 00:12:37,040
+sana dan saya kira kita akan
+
+346
+00:12:35,120 --> 00:12:40,800
+menggambarnya lebih lama tergantung seberapa
+
+347
+00:12:37,040 --> 00:12:40,800
+cepatnya, oke

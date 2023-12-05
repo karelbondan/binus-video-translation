@@ -1,0 +1,1427 @@
+1
+00:00:00,399 --> 00:00:05,279
+we're looking at circular motion that's
+
+2
+00:00:02,159 --> 00:00:07,359
+what we're up to in mechanics okay now
+
+3
+00:00:05,279 --> 00:00:09,519
+you were doing some circular motion just
+
+4
+00:00:07,359 --> 00:00:12,080
+now right you had your person in the
+
+5
+00:00:09,519 --> 00:00:15,519
+middle right and everyone else
+
+6
+00:00:12,080 --> 00:00:16,640
+moving around them in a circle okay i
+
+7
+00:00:15,519 --> 00:00:18,080
+hope you found it interesting there are
+
+8
+00:00:16,640 --> 00:00:20,320
+a few different things that we can
+
+9
+00:00:18,080 --> 00:00:21,199
+notice okay first let's go back to the
+
+10
+00:00:20,320 --> 00:00:22,640
+beginning
+
+11
+00:00:21,199 --> 00:00:24,160
+um at the beginning there was just a
+
+12
+00:00:22,640 --> 00:00:25,599
+couple of you right there just a couple
+
+13
+00:00:24,160 --> 00:00:28,000
+of you
+
+14
+00:00:25,599 --> 00:00:30,560
+and i think what was our record speed i
+
+15
+00:00:28,000 --> 00:00:34,320
+think it was like one point what
+
+16
+00:00:30,560 --> 00:00:36,320
+1.16 1.16
+
+17
+00:00:34,320 --> 00:00:38,719
+seconds
+
+18
+00:00:36,320 --> 00:00:41,280
+okay now we're all interested in who can
+
+19
+00:00:38,719 --> 00:00:42,960
+win and how fast you can go and you know
+
+20
+00:00:41,280 --> 00:00:45,039
+how not wiggly you can make your line
+
+21
+00:00:42,960 --> 00:00:46,640
+and so on okay but we have all this
+
+22
+00:00:45,039 --> 00:00:49,360
+language to describe like we're more
+
+23
+00:00:46,640 --> 00:00:52,239
+than just fast and slow we can say look
+
+24
+00:00:49,360 --> 00:00:53,199
+see 1.16 seconds your first scenario
+
+25
+00:00:52,239 --> 00:00:55,440
+okay
+
+26
+00:00:53,199 --> 00:00:57,840
+um i didn't make you do a um a
+
+27
+00:00:55,440 --> 00:00:59,920
+measurement of of how far like you know
+
+28
+00:00:57,840 --> 00:01:02,160
+how far you actually walked but we have
+
+29
+00:00:59,920 --> 00:01:04,239
+a precise measurement for how far that
+
+30
+00:01:02,160 --> 00:01:05,519
+person on the outside went if you just
+
+31
+00:01:04,239 --> 00:01:08,080
+think in terms of
+
+32
+00:01:05,519 --> 00:01:10,240
+an angle right an angle
+
+33
+00:01:08,080 --> 00:01:11,920
+how far was the angle that that person
+
+34
+00:01:10,240 --> 00:01:13,760
+traveled to the outside person person on
+
+35
+00:01:11,920 --> 00:01:15,680
+the left how far did they go in whatever
+
+36
+00:01:13,760 --> 00:01:17,280
+time
+
+37
+00:01:15,680 --> 00:01:19,520
+as an angle
+
+38
+00:01:17,280 --> 00:01:21,439
+they went 360 degrees or you know come
+
+39
+00:01:19,520 --> 00:01:23,920
+on we're in calculus land here so we're
+
+40
+00:01:21,439 --> 00:01:27,040
+going to go radians that's 2 pi radians
+
+41
+00:01:23,920 --> 00:01:29,200
+so it's about 6.28
+
+42
+00:01:27,040 --> 00:01:31,759
+roughly okay
+
+43
+00:01:29,200 --> 00:01:34,320
+so because now we have
+
+44
+00:01:31,759 --> 00:01:35,920
+um a displacement it's not like a um
+
+45
+00:01:34,320 --> 00:01:38,000
+it's not a length displacement it's an
+
+46
+00:01:35,920 --> 00:01:40,560
+angle displacement that's okay
+
+47
+00:01:38,000 --> 00:01:44,079
+we have a displacement and we have a
+
+48
+00:01:40,560 --> 00:01:45,520
+time right so if we have an angular
+
+49
+00:01:44,079 --> 00:01:46,720
+displacement
+
+50
+00:01:45,520 --> 00:01:49,680
+at a time
+
+51
+00:01:46,720 --> 00:01:52,000
+that means we can work out an angular
+
+52
+00:01:49,680 --> 00:01:54,320
+speed can't we how fast someone is
+
+53
+00:01:52,000 --> 00:01:55,040
+retaining so for example if we call this
+
+54
+00:01:54,320 --> 00:01:57,439
+this
+
+55
+00:01:55,040 --> 00:01:58,799
+ang oh that's not wrong sorry let's try
+
+56
+00:01:57,439 --> 00:02:00,880
+again
+
+57
+00:01:58,799 --> 00:02:02,479
+we call this angular displacement
+
+58
+00:02:00,880 --> 00:02:04,560
+because that's how far they went in
+
+59
+00:02:02,479 --> 00:02:08,520
+total
+
+60
+00:02:04,560 --> 00:02:08,520
+angular displacement
+
+61
+00:02:08,800 --> 00:02:11,840
+equals
+
+62
+00:02:09,840 --> 00:02:13,440
+2 pi radians okay
+
+63
+00:02:11,840 --> 00:02:15,520
+i'm just putting a 6.28 so we can get
+
+64
+00:02:13,440 --> 00:02:19,879
+some numbers in our head okay
+
+65
+00:02:15,520 --> 00:02:19,879
+well therefore what's the angular speed
+
+66
+00:02:22,239 --> 00:02:26,319
+what angle has it gone through well i
+
+67
+00:02:24,000 --> 00:02:29,760
+guess you you divide and i don't have my
+
+68
+00:02:26,319 --> 00:02:31,680
+calculator out but maybe you do
+
+69
+00:02:29,760 --> 00:02:33,760
+you're close to six wouldn't it maybe a
+
+70
+00:02:31,680 --> 00:02:35,280
+bit under six
+
+71
+00:02:33,760 --> 00:02:37,440
+what do we got
+
+72
+00:02:35,280 --> 00:02:39,760
+you can do it exactly
+
+73
+00:02:37,440 --> 00:02:42,319
+2 pi divided by
+
+74
+00:02:39,760 --> 00:02:45,800
+1.16
+
+75
+00:02:42,319 --> 00:02:45,800
+there we go 5.4
+
+76
+00:02:51,400 --> 00:02:55,120
+5.4
+
+77
+00:02:53,280 --> 00:02:56,959
+radians per
+
+78
+00:02:55,120 --> 00:02:57,760
+second okay
+
+79
+00:02:56,959 --> 00:03:00,000
+so
+
+80
+00:02:57,760 --> 00:03:01,519
+we have this language here of
+
+81
+00:03:00,000 --> 00:03:03,519
+displacement and speed that we're
+
+82
+00:03:01,519 --> 00:03:06,800
+comfortable with but we're just applying
+
+83
+00:03:03,519 --> 00:03:08,640
+it to angles no big deal okay
+
+84
+00:03:06,800 --> 00:03:10,159
+now because it's displacement and speed
+
+85
+00:03:08,640 --> 00:03:11,760
+that's what we're familiar with but it's
+
+86
+00:03:10,159 --> 00:03:13,519
+not the displacement and speed or
+
+87
+00:03:11,760 --> 00:03:15,680
+velocity that we're used to
+
+88
+00:03:13,519 --> 00:03:16,640
+it's all about angles so therefore you
+
+89
+00:03:15,680 --> 00:03:18,800
+know
+
+90
+00:03:16,640 --> 00:03:20,000
+if you call this say well it's an angle
+
+91
+00:03:18,800 --> 00:03:22,239
+what are we usually calling something
+
+92
+00:03:20,000 --> 00:03:23,680
+like theta
+
+93
+00:03:22,239 --> 00:03:26,959
+okay
+
+94
+00:03:23,680 --> 00:03:28,159
+this here this would be well it's change
+
+95
+00:03:26,959 --> 00:03:31,200
+in theta
+
+96
+00:03:28,159 --> 00:03:33,040
+with respect to time right so this is d
+
+97
+00:03:31,200 --> 00:03:34,000
+theta on
+
+98
+00:03:33,040 --> 00:03:35,360
+dt
+
+99
+00:03:34,000 --> 00:03:37,519
+right
+
+100
+00:03:35,360 --> 00:03:39,360
+but of course we already have a um we
+
+101
+00:03:37,519 --> 00:03:41,040
+already have a convention established
+
+102
+00:03:39,360 --> 00:03:42,560
+for how to talk about these kinds of
+
+103
+00:03:41,040 --> 00:03:44,480
+things when you're differentiating with
+
+104
+00:03:42,560 --> 00:03:45,920
+respect to time because that's such a
+
+105
+00:03:44,480 --> 00:03:47,440
+frequent thing you know when we're
+
+106
+00:03:45,920 --> 00:03:49,440
+talking about just straight line motion
+
+107
+00:03:47,440 --> 00:03:52,000
+instead of saying x and v and a you
+
+108
+00:03:49,440 --> 00:03:54,799
+could call it x and
+
+109
+00:03:52,000 --> 00:03:56,239
+x dot and x double dot that dot means it
+
+110
+00:03:54,799 --> 00:03:59,360
+means more than a dash it means with
+
+111
+00:03:56,239 --> 00:04:00,720
+respect to time okay so this is
+
+112
+00:03:59,360 --> 00:04:01,599
+theta
+
+113
+00:04:00,720 --> 00:04:04,400
+dot
+
+114
+00:04:01,599 --> 00:04:05,920
+okay same kind of notation just applied
+
+115
+00:04:04,400 --> 00:04:07,360
+english
+
+116
+00:04:05,920 --> 00:04:08,239
+right now let me extend this a little
+
+117
+00:04:07,360 --> 00:04:11,680
+more
+
+118
+00:04:08,239 --> 00:04:13,439
+this idea of angular motion right it's
+
+119
+00:04:11,680 --> 00:04:16,479
+so important and it comes up so
+
+120
+00:04:13,439 --> 00:04:18,720
+frequently and i don't like dots that
+
+121
+00:04:16,479 --> 00:04:20,799
+we call it its own special thing
+
+122
+00:04:18,720 --> 00:04:23,199
+its own special letter
+
+123
+00:04:20,799 --> 00:04:25,440
+when we haven't used for a while we call
+
+124
+00:04:23,199 --> 00:04:25,440
+this
+
+125
+00:04:25,600 --> 00:04:30,320
+we call it
+
+126
+00:04:27,440 --> 00:04:32,720
+omega okay that's a lowercase omega not
+
+127
+00:04:30,320 --> 00:04:35,840
+to be confused with a um
+
+128
+00:04:32,720 --> 00:04:37,680
+uppercase omega which is ohms i think
+
+129
+00:04:35,840 --> 00:04:40,000
+electricity that kind of thing
+
+130
+00:04:37,680 --> 00:04:42,080
+so this omega this is what's talking
+
+131
+00:04:40,000 --> 00:04:44,160
+about angular speed it's just another
+
+132
+00:04:42,080 --> 00:04:46,479
+notation you can call it theta dot or
+
+133
+00:04:44,160 --> 00:04:48,400
+you can call it d theta on dt they're
+
+134
+00:04:46,479 --> 00:04:49,759
+all the same thing
+
+135
+00:04:48,400 --> 00:04:52,320
+okay now
+
+136
+00:04:49,759 --> 00:04:54,320
+just to push on it a little more just to
+
+137
+00:04:52,320 --> 00:04:57,360
+have the picture complete for us we have
+
+138
+00:04:54,320 --> 00:04:59,199
+displacement we have speed velocity okay
+
+139
+00:04:57,360 --> 00:05:00,560
+what would round out the picture what's
+
+140
+00:04:59,199 --> 00:05:02,639
+left
+
+141
+00:05:00,560 --> 00:05:05,280
+acceleration right and we can use the
+
+142
+00:05:02,639 --> 00:05:06,560
+same kinds of logic i can find my view
+
+143
+00:05:05,280 --> 00:05:08,240
+marker
+
+144
+00:05:06,560 --> 00:05:10,400
+the same kinds of logic that we had in
+
+145
+00:05:08,240 --> 00:05:12,400
+straight line motion or in projectile to
+
+146
+00:05:10,400 --> 00:05:14,880
+say well how would we write how do we
+
+147
+00:05:12,400 --> 00:05:16,800
+express this okay so if we talk about
+
+148
+00:05:14,880 --> 00:05:19,520
+displacement speed velocity and
+
+149
+00:05:16,800 --> 00:05:19,520
+acceleration
+
+150
+00:05:20,639 --> 00:05:23,039
+you can say it a whole bunch of
+
+151
+00:05:21,600 --> 00:05:24,320
+different ways that's what happens when
+
+152
+00:05:23,039 --> 00:05:25,520
+you get to acceleration we've noticed
+
+153
+00:05:24,320 --> 00:05:27,520
+this already when we're looking at our
+
+154
+00:05:25,520 --> 00:05:30,800
+introductory exercises uh in
+
+155
+00:05:27,520 --> 00:05:32,800
+acceleration sorry in mechanics
+
+156
+00:05:30,800 --> 00:05:34,960
+we could just say
+
+157
+00:05:32,800 --> 00:05:37,280
+it's this speed this velocity
+
+158
+00:05:34,960 --> 00:05:38,960
+differentiated with respect to time okay
+
+159
+00:05:37,280 --> 00:05:41,360
+so you could call it d
+
+160
+00:05:38,960 --> 00:05:44,000
+omega
+
+161
+00:05:41,360 --> 00:05:45,840
+on dt okay it's just i mean we're used
+
+162
+00:05:44,000 --> 00:05:49,520
+to saying is dv dt but we don't want to
+
+163
+00:05:45,840 --> 00:05:50,479
+confuse v with this velocity okay
+
+164
+00:05:49,520 --> 00:05:52,160
+you can write it a whole bunch of
+
+165
+00:05:50,479 --> 00:05:54,000
+different ways obviously since it's the
+
+166
+00:05:52,160 --> 00:05:55,759
+first derivative of this that makes it
+
+167
+00:05:54,000 --> 00:05:58,160
+the second derivative
+
+168
+00:05:55,759 --> 00:05:59,520
+of this right so you could equally write
+
+169
+00:05:58,160 --> 00:06:00,720
+it d squared
+
+170
+00:05:59,520 --> 00:06:02,880
+theta
+
+171
+00:06:00,720 --> 00:06:04,400
+on dt squared okay think with me there's
+
+172
+00:06:02,880 --> 00:06:06,240
+a few other ways we know to write
+
+173
+00:06:04,400 --> 00:06:07,680
+acceleration it's just the same kind of
+
+174
+00:06:06,240 --> 00:06:10,400
+thing just with different labels give me
+
+175
+00:06:07,680 --> 00:06:10,400
+another example
+
+176
+00:06:11,039 --> 00:06:15,520
+see a double dot yup you'll see that
+
+177
+00:06:12,720 --> 00:06:17,199
+just as many times
+
+178
+00:06:15,520 --> 00:06:18,880
+okay another one you can give me another
+
+179
+00:06:17,199 --> 00:06:21,840
+two we have five ways of writing
+
+180
+00:06:18,880 --> 00:06:21,840
+acceleration right
+
+181
+00:06:22,000 --> 00:06:25,600
+double oh okay yeah all right yeah
+
+182
+00:06:26,639 --> 00:06:29,280
+um
+
+183
+00:06:27,759 --> 00:06:31,280
+that's yeah that's true it doesn't come
+
+184
+00:06:29,280 --> 00:06:32,639
+up much though i don't know why but i
+
+185
+00:06:31,280 --> 00:06:35,120
+almost never see that
+
+186
+00:06:32,639 --> 00:06:37,199
+um think about ways we expressed
+
+187
+00:06:35,120 --> 00:06:38,800
+acceleration before that were useful to
+
+188
+00:06:37,199 --> 00:06:41,840
+us in those like f equals m a type
+
+189
+00:06:38,800 --> 00:06:45,199
+questions what ways can we write it
+
+190
+00:06:41,840 --> 00:06:48,479
+yeah good you can go from here right and
+
+191
+00:06:45,199 --> 00:06:50,400
+you can say well i can write this as
+
+192
+00:06:48,479 --> 00:06:51,919
+um
+
+193
+00:06:50,400 --> 00:06:53,199
+omega
+
+194
+00:06:51,919 --> 00:06:55,680
+d
+
+195
+00:06:53,199 --> 00:06:57,199
+hold on i've got it written here
+
+196
+00:06:55,680 --> 00:07:00,000
+d omega
+
+197
+00:06:57,199 --> 00:07:03,120
+on d theta remember how we do that with
+
+198
+00:07:00,000 --> 00:07:06,400
+chain rule because omega right that's
+
+199
+00:07:03,120 --> 00:07:08,400
+just d theta on dt so if i put d theta
+
+200
+00:07:06,400 --> 00:07:10,560
+on dt here you see it cancels and it
+
+201
+00:07:08,400 --> 00:07:12,880
+gives you back this line okay and
+
+202
+00:07:10,560 --> 00:07:14,000
+there's one more way to write it instead
+
+203
+00:07:12,880 --> 00:07:17,360
+of half
+
+204
+00:07:14,000 --> 00:07:18,880
+v squared it'll be half omega squared
+
+205
+00:07:17,360 --> 00:07:19,680
+right so you'd say
+
+206
+00:07:18,880 --> 00:07:22,880
+d
+
+207
+00:07:19,680 --> 00:07:22,880
+on d theta
+
+208
+00:07:23,840 --> 00:07:27,520
+squared it's all the same it's all the
+
+209
+00:07:26,080 --> 00:07:30,080
+same it's just
+
+210
+00:07:27,520 --> 00:07:32,400
+omega's instead of e's and it's just
+
+211
+00:07:30,080 --> 00:07:34,160
+thetas instead of x's right because
+
+212
+00:07:32,400 --> 00:07:36,800
+you've got theta representing angular
+
+213
+00:07:34,160 --> 00:07:39,199
+displacement okay
+
+214
+00:07:36,800 --> 00:07:43,240
+so you've got this idea this is all
+
+215
+00:07:39,199 --> 00:07:43,240
+about angular motion
+
+216
+00:07:45,520 --> 00:07:48,800
+okay so let's do a quick thought
+
+217
+00:07:47,120 --> 00:07:50,319
+experiment here right
+
+218
+00:07:48,800 --> 00:07:52,639
+let's think of our um group of four
+
+219
+00:07:50,319 --> 00:07:54,560
+people and they were all going around
+
+220
+00:07:52,639 --> 00:07:55,759
+okay now what was the time what kind of
+
+221
+00:07:54,560 --> 00:07:57,919
+times did we get for four people was
+
+222
+00:07:55,759 --> 00:08:00,560
+like three seconds two point three
+
+223
+00:07:57,919 --> 00:08:01,759
+roughly three seconds okay so
+
+224
+00:08:00,560 --> 00:08:03,440
+think about
+
+225
+00:08:01,759 --> 00:08:05,199
+this person the second person along
+
+226
+00:08:03,440 --> 00:08:06,960
+right how long did it take for them to
+
+227
+00:08:05,199 --> 00:08:09,039
+go all the way around and back to the
+
+228
+00:08:06,960 --> 00:08:11,199
+original spot
+
+229
+00:08:09,039 --> 00:08:12,879
+it's three seconds right
+
+230
+00:08:11,199 --> 00:08:14,319
+what about this third person how long it
+
+231
+00:08:12,879 --> 00:08:16,560
+takes for them to go all the way and
+
+232
+00:08:14,319 --> 00:08:17,599
+then back to their original spot
+
+233
+00:08:16,560 --> 00:08:18,560
+also
+
+234
+00:08:17,599 --> 00:08:20,240
+three
+
+235
+00:08:18,560 --> 00:08:21,680
+seconds they all take the same amount of
+
+236
+00:08:20,240 --> 00:08:25,120
+gene that's why everyone's shoulders
+
+237
+00:08:21,680 --> 00:08:26,960
+were together in theory anyway okay
+
+238
+00:08:25,120 --> 00:08:29,360
+but hold on a second
+
+239
+00:08:26,960 --> 00:08:30,879
+you've all gone through the same angle
+
+240
+00:08:29,360 --> 00:08:32,479
+and you've all taken the same time one
+
+241
+00:08:30,879 --> 00:08:34,560
+point one six three seconds eight
+
+242
+00:08:32,479 --> 00:08:38,560
+seconds whatever it was
+
+243
+00:08:34,560 --> 00:08:40,640
+so your angular motion is the same
+
+244
+00:08:38,560 --> 00:08:42,320
+but the motion isn't the same
+
+245
+00:08:40,640 --> 00:08:44,000
+right get the person on the outside to
+
+246
+00:08:42,320 --> 00:08:45,279
+tell you the motion is definitely not
+
+247
+00:08:44,000 --> 00:08:47,279
+the same what's the person on the
+
+248
+00:08:45,279 --> 00:08:49,040
+outside doing
+
+249
+00:08:47,279 --> 00:08:50,480
+they're running they're moving way
+
+250
+00:08:49,040 --> 00:08:52,399
+faster than everyone else that lazy guy
+
+251
+00:08:50,480 --> 00:08:54,160
+in the middle he's not going anywhere
+
+252
+00:08:52,399 --> 00:08:55,839
+right it's
+
+253
+00:08:54,160 --> 00:08:58,000
+yeah i know who positioned themselves to
+
+254
+00:08:55,839 --> 00:09:00,080
+be in the middle okay so therefore
+
+255
+00:08:58,000 --> 00:09:02,399
+there's not just angular motion angular
+
+256
+00:09:00,080 --> 00:09:04,480
+motion doesn't tell the whole story
+
+257
+00:09:02,399 --> 00:09:06,160
+right there's also now this has a couple
+
+258
+00:09:04,480 --> 00:09:08,480
+of different names
+
+259
+00:09:06,160 --> 00:09:10,240
+i think the most helpful name is linear
+
+260
+00:09:08,480 --> 00:09:11,920
+motion
+
+261
+00:09:10,240 --> 00:09:15,120
+okay because we're not just thinking
+
+262
+00:09:11,920 --> 00:09:17,440
+about um this angle in here right so if
+
+263
+00:09:15,120 --> 00:09:20,640
+i if i were to put an axis here
+
+264
+00:09:17,440 --> 00:09:22,720
+this angle of two pi radians
+
+265
+00:09:20,640 --> 00:09:25,839
+we're also thinking about
+
+266
+00:09:22,720 --> 00:09:28,240
+a line on which they're moving okay so
+
+267
+00:09:25,839 --> 00:09:31,920
+that is you know this kind of thing
+
+268
+00:09:28,240 --> 00:09:35,200
+like a line like that okay and obviously
+
+269
+00:09:31,920 --> 00:09:38,240
+the further you are away from the center
+
+270
+00:09:35,200 --> 00:09:40,800
+the faster that motion is going to be
+
+271
+00:09:38,240 --> 00:09:42,320
+okay now how can we express this
+
+272
+00:09:40,800 --> 00:09:43,600
+algebraically
+
+273
+00:09:42,320 --> 00:09:45,519
+let's think about
+
+274
+00:09:43,600 --> 00:09:49,279
+just like this let's think about speed
+
+275
+00:09:45,519 --> 00:09:51,839
+okay so if i talk about whoops linear
+
+276
+00:09:49,279 --> 00:09:51,839
+velocity
+
+277
+00:09:52,800 --> 00:09:57,360
+okay velocity is um
+
+278
+00:09:55,120 --> 00:09:58,480
+is distance over time right distance
+
+279
+00:09:57,360 --> 00:10:01,519
+over time
+
+280
+00:09:58,480 --> 00:10:02,480
+this this distance right it was an angle
+
+281
+00:10:01,519 --> 00:10:04,720
+okay
+
+282
+00:10:02,480 --> 00:10:06,720
+what about this distance where is it
+
+283
+00:10:04,720 --> 00:10:09,760
+it's not in a straight line right
+
+284
+00:10:06,720 --> 00:10:09,760
+so how do you measure it
+
+285
+00:10:09,839 --> 00:10:14,240
+it's a it's a circumference right and
+
+286
+00:10:11,920 --> 00:10:16,240
+because we're talking in radians we can
+
+287
+00:10:14,240 --> 00:10:17,600
+use radian measure language to express
+
+288
+00:10:16,240 --> 00:10:19,760
+this this thing is not just a
+
+289
+00:10:17,600 --> 00:10:22,800
+circumference it's an arc right it's an
+
+290
+00:10:19,760 --> 00:10:25,279
+arc okay so i'm gonna have the change in
+
+291
+00:10:22,800 --> 00:10:27,120
+the arc length
+
+292
+00:10:25,279 --> 00:10:28,880
+right so it's not straight
+
+293
+00:10:27,120 --> 00:10:32,200
+and it's distance
+
+294
+00:10:28,880 --> 00:10:32,200
+over time
+
+295
+00:10:32,720 --> 00:10:36,000
+okay
+
+296
+00:10:34,000 --> 00:10:37,760
+but we know how to calculate arc length
+
+297
+00:10:36,000 --> 00:10:39,200
+right obviously you need two things
+
+298
+00:10:37,760 --> 00:10:40,240
+you're going to need the angle you're
+
+299
+00:10:39,200 --> 00:10:41,519
+going to need the angle and what was the
+
+300
+00:10:40,240 --> 00:10:43,839
+other thing that you needed to work out
+
+301
+00:10:41,519 --> 00:10:46,240
+i think you need the radius right so i'm
+
+302
+00:10:43,839 --> 00:10:48,640
+going to say well that's the of r
+
+303
+00:10:46,240 --> 00:10:49,760
+theta that's arcing
+
+304
+00:10:48,640 --> 00:10:51,839
+over
+
+305
+00:10:49,760 --> 00:10:53,600
+dt okay
+
+306
+00:10:51,839 --> 00:10:55,760
+now keep in mind we're just thinking
+
+307
+00:10:53,600 --> 00:10:57,920
+about circular motion right circular
+
+308
+00:10:55,760 --> 00:11:01,279
+motion so that means the radius is the
+
+309
+00:10:57,920 --> 00:11:03,120
+same all the way around so this r right
+
+310
+00:11:01,279 --> 00:11:04,079
+this is a bit confusing but i think you
+
+311
+00:11:03,120 --> 00:11:05,440
+guys
+
+312
+00:11:04,079 --> 00:11:07,279
+can handle it
+
+313
+00:11:05,440 --> 00:11:09,760
+this r is a constant
+
+314
+00:11:07,279 --> 00:11:11,440
+okay r is a constant so therefore i can
+
+315
+00:11:09,760 --> 00:11:13,279
+just i just pull it out right and just
+
+316
+00:11:11,440 --> 00:11:14,399
+take that out so this is going to be
+
+317
+00:11:13,279 --> 00:11:16,720
+equal to
+
+318
+00:11:14,399 --> 00:11:18,399
+r outside of
+
+319
+00:11:16,720 --> 00:11:19,680
+d theta or
+
+320
+00:11:18,399 --> 00:11:20,959
+dt
+
+321
+00:11:19,680 --> 00:11:22,160
+right
+
+322
+00:11:20,959 --> 00:11:24,240
+hold on
+
+323
+00:11:22,160 --> 00:11:28,839
+we know d theta onto t is we gave that a
+
+324
+00:11:24,240 --> 00:11:28,839
+whole name we called it omega
+
+325
+00:11:29,600 --> 00:11:34,480
+and of course this makes sense right
+
+326
+00:11:31,920 --> 00:11:36,720
+what's r that's how far you are from the
+
+327
+00:11:34,480 --> 00:11:38,000
+center the further you are from the
+
+328
+00:11:36,720 --> 00:11:40,000
+center
+
+329
+00:11:38,000 --> 00:11:41,920
+right this thing's constant
+
+330
+00:11:40,000 --> 00:11:44,079
+this thing's constant but it's bigger
+
+331
+00:11:41,920 --> 00:11:46,000
+right so therefore your whole speed is
+
+332
+00:11:44,079 --> 00:11:48,079
+moving faster this poor guy is running
+
+333
+00:11:46,000 --> 00:11:49,519
+his little heart out okay
+
+334
+00:11:48,079 --> 00:11:50,959
+so
+
+335
+00:11:49,519 --> 00:11:52,880
+that's the picture these are the
+
+336
+00:11:50,959 --> 00:11:55,279
+equations you've got two different kinds
+
+337
+00:11:52,880 --> 00:11:58,160
+of motion you've got angular motion and
+
+338
+00:11:55,279 --> 00:11:59,600
+you've got linear motion okay
+
+339
+00:11:58,160 --> 00:12:01,040
+now i told you this had a couple of
+
+340
+00:11:59,600 --> 00:12:03,200
+different names
+
+341
+00:12:01,040 --> 00:12:05,279
+the other kind of name that has and you
+
+342
+00:12:03,200 --> 00:12:08,639
+can maybe imagine why this is
+
+343
+00:12:05,279 --> 00:12:08,639
+in some textbooks it's called
+
+344
+00:12:08,839 --> 00:12:15,360
+10 gentile motion
+
+345
+00:12:12,000 --> 00:12:15,360
+why do you think they call it that
+
+346
+00:12:16,320 --> 00:12:20,320
+yeah it's um if you were to illustrate
+
+347
+00:12:18,560 --> 00:12:22,160
+it yeah right
+
+348
+00:12:20,320 --> 00:12:23,600
+when we talk about velocity velocity is
+
+349
+00:12:22,160 --> 00:12:25,519
+a derivative right so it tells you kind
+
+350
+00:12:23,600 --> 00:12:27,440
+of like gradient at a particular point
+
+351
+00:12:25,519 --> 00:12:29,839
+and it tells you the gradient of a
+
+352
+00:12:27,440 --> 00:12:31,680
+tangent right so if i were to represent
+
+353
+00:12:29,839 --> 00:12:33,519
+the velocity there at that particular
+
+354
+00:12:31,680 --> 00:12:35,120
+point it looked like the tangent going
+
+355
+00:12:33,519 --> 00:12:37,040
+off in that direction and i guess we'd
+
+356
+00:12:35,120 --> 00:12:40,800
+draw it longer depending on how fast
+
+357
+00:12:37,040 --> 00:12:40,800
+it's going okay
