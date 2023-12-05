@@ -1,14 +1,14 @@
 1
 00:00:00,719 --> 00:00:04,640
-sebuah batu ditembakkan di lantai yang rata jadi
+Sebuah batu ditembakkan di lantai yang rata, jadi
 
 2
 00:00:02,960 --> 00:00:06,080
-mudah saja diagram saya sudah
+mudah saja. Diagram saya sudah
 
 3
 00:00:04,640 --> 00:00:09,360
-diterapkan
+menerapkannya,
 
 4
 00:00:06,080 --> 00:00:15,160
@@ -16,59 +16,59 @@ dengan kecepatan awal b sama dengan 10
 
 5
 00:00:09,360 --> 00:00:15,160
-jadi saya akan mengarahkan panah saya ke atas dengan
+jadi saya akan mengarahkan panah saya ke atas,
 
 6
 00:00:16,160 --> 00:00:20,880
-sudut 45 derajat jadi disitulah batu
+dengan sudut 45 derajat. Jadi disitulah batu
 
 7
 00:00:19,279 --> 00:00:23,439
-ditembakkan dengan sudut yang
+akan ditembakkan. Lengkungannya
 
 8
 00:00:20,880 --> 00:00:24,960
-benar-benar terlihat seperti 45 derajat
+benar-benar terlihat seperti 45 derajat...
 
 9
 00:00:23,439 --> 00:00:26,160
-bukan  tangguh oke eh
+tapi tidak juga.
 
 10
 00:00:24,960 --> 00:00:28,560
-hei
+Pertanyaan pertama:
 
 11
 00:00:26,160 --> 00:00:31,039
-cari semua persamaan gerak ini
+Carilah semua persamaan gerak ini, 
 
 12
 00:00:28,560 --> 00:00:32,880
-dengan benar lalu dengan menghilangkan pasti
+lalu dengan mengeliminasi t, 
 
 13
 00:00:31,039 --> 00:00:34,960
-persamaan lintasannya
+tunjukkan bahwa persamaan lintasannya menjadi [di kertas yang ia pegang].
 
 14
 00:00:32,880 --> 00:00:36,800
-adalah sekarang inilah langkah-langkah yang baru saja kita
+Sekarang, inilah langkah-langkah yang baru saja kita
 
 15
 00:00:34,960 --> 00:00:38,879
-lakukan tetapi dengan angka konkrit oke
+lakukan tetapi dengan angka konkrit. 
 
 16
 00:00:36,800 --> 00:00:40,239
-jadi biar singkatnya kalian saja
+Jadi untuk lebih singkatnya, kalian
 
 17
 00:00:38,879 --> 00:00:41,440
-Anda tidak boleh melewatkan konstanta
+tidak boleh mengabaikan konstanta
 
 18
 00:00:40,239 --> 00:00:42,960
-saat Anda melakukan integrasi, tetapi
+saat kalian melakukan integrasi, tetapi
 
 19
 00:00:41,440 --> 00:00:44,239
@@ -84,71 +84,71 @@ terjadi dan melakukan
 
 22
 00:00:45,600 --> 00:00:48,399
-bagian persamaan yang lebih menarik oke
+bagian persamaan yang lebih menarik. Oke,
 
 23
 00:00:47,520 --> 00:00:49,920
-jadi
+jadi,
 
 24
 00:00:48,399 --> 00:00:52,000
-apa yang harus kita lakukan di sini,
+apa yang harus kita lakukan di sini?
 
 25
 00:00:49,920 --> 00:00:54,320
-mulailah dengan Anda
+mulailah dengan
 
 26
 00:00:52,000 --> 00:00:56,559
-persamaan awal untuk percepatan
+persamaan lintasan awal untuk percepatan.
 
 27
 00:00:54,320 --> 00:00:58,640
-jadi inilah x titik ganda
+Yang pertama ada x titik ganda,
 
 28
 00:00:56,559 --> 00:01:00,239
-tidak ada percepatan disana
+tidak ada percepatan disana (di x titik ganda).
 
 29
 00:00:58,640 --> 00:01:01,760
-x tidak akan menjadi sebuah konstanta tapi kamu
+x tidak akan menjadi sebuah konstanta, tapi kamu
 
 30
 00:01:00,239 --> 00:01:05,119
-sudah tahu konstanta apa yang akan
+sudah tahu x akan menjadi...? 
 
 31
 00:01:01,760 --> 00:01:06,880
-menjadi v cos alpha v cos
+X akan menjadi v cos alpha.
 
 32
 00:01:05,119 --> 00:01:09,280
-alpha sekarang aku tahu apa itu v dan aku tahu
+Sekarang, aku tahu v itu apa dan aku tahu
 
 33
 00:01:06,880 --> 00:01:11,040
-apa itu alpha  jadi jadi
+alpha itu apa. Jadi, alpha akan menjadi 
 
 34
 00:01:09,280 --> 00:01:15,439
-10 itu v
+10, itu v-nya,
 
 35
 00:01:11,040 --> 00:01:17,920
-cos alphaku yang 45 derajat oke jadi
+cos alpha, yang mana adalah 45 derajat. Oke, jadi
 
 36
 00:01:15,439 --> 00:01:22,000
-itu 10 di root 2 yaitu
+itu 10 akar 2 yang jika disederhanakan menjadi
 
 37
 00:01:17,920 --> 00:01:22,000
-5 2. ya senang dengan itu
+5 akar 2.
 
 38
 00:01:23,439 --> 00:01:26,560
-oke bagus sekarang kita akan mengintegrasikan
+Oke bagus, sekarang kita akan mengintegrasikan
 
 39
 00:01:25,200 --> 00:01:27,920
@@ -156,31 +156,31 @@ lagi
 
 40
 00:01:26,560 --> 00:01:30,960
-dan karena itu hanya konstan kamu
+dan karena itu hanyalah sebuah konstanta, kalian
 
 41
 00:01:27,920 --> 00:01:30,960
-tampar  Anda di sana
+bisa masukkan t di sana,
 
 42
 00:01:32,560 --> 00:01:35,439
-dan karena saya sebenarnya memulai titik
+dan karena saya memulai di titik koordinat
 
 43
 00:01:33,840 --> 00:01:37,200
-asal, konstanta yang akan menjadi
+asal, konstanta kedua
 
 44
 00:01:35,439 --> 00:01:39,680
-konstanta kedua juga akan menjadi nol
+juga akan menjadi nol
 
 45
 00:01:37,200 --> 00:01:42,000
-saya hanya akan membiarkannya di sana baiklah
+saya hanya akan membiarkannya di sana. Baiklah,
 
 46
 00:01:39,680 --> 00:01:43,439
-sekarang secara vertikal
+sekarang, secara vertikal,
 
 47
 00:01:42,000 --> 00:01:45,759
@@ -188,67 +188,71 @@ kita dipengaruhi oleh gravitasi dan saya
 
 48
 00:01:43,439 --> 00:01:48,960
-pikir  mereka menganggapnya -10
+pikir soalnya menganggap gravitasinya -10...
 
 49
 00:01:45,759 --> 00:01:51,759
-ya oke jadi karena itu
+Ya, ok. Jadi karena itu,
 
 50
 00:01:48,960 --> 00:01:54,399
-percepatan maaf kecepatan yang minus
+percepatan, maaf, kecepatan yang -10
 
 51
 00:01:51,759 --> 00:01:56,320
-10 menjadi minus 10 t
+menjadi -10 * t.
 
 52
 00:01:54,399 --> 00:01:59,119
-dan kemudian saya akan mendapat plus
+Dan kemudian akan ditambahkan dengan
 
 53
 00:01:56,320 --> 00:02:01,840
-v sinus alpha oke sekarang ini v cos
+v sin alpha. Oke, ini sama saja dengan v cos alpha,
 
 54
 00:01:59,119 --> 00:02:04,560
-alpha tetapi karena kasus ini menjadi 45
+tetapi karena diketahui bahwa sudutnya adalah 45 derajat,
 
 55
 00:02:01,840 --> 00:02:06,240
-derajat v cos alpha dan v sinus alpha
+v cos alpha dan v sin alpha
 
 56
 00:02:04,560 --> 00:02:09,360
-akan menjadi sama kan jadi ini
+akan menjadi sama, jadi ini (variabel y)
 
 57
 00:02:06,240 --> 00:02:09,360
-hanya akan menjadi 5 akar dua
+akan juga menjadi 5 akar 2. 
 
 58
 00:02:18,080 --> 00:02:21,520
-lima akar dua adalah angka yang sangat menyeramkan
+5 akar 2 adalah angka yang sangat menyeramkan
 
 59
 00:02:20,239 --> 00:02:23,360
-teman-teman
+teman-teman! 
 
 60
 00:02:21,520 --> 00:02:26,720
-entah kenapa di sini tidak menyeramkan
+Entah kenapa di sini tidak menyeramkan
 
 61
 00:02:23,360 --> 00:02:26,720
-tetapi di sini menyeramkan
+tetapi di sini menjadi menyeramkan! 
 
 62
 00:02:27,040 --> 00:02:30,160
-membuatku takut  keluar oke
+membuatku takut (Hahaha). Oke, jadi 
 
 63
 00:02:30,239 --> 00:02:34,440
-integrasikan sekali lagi baiklah
+integrasikan sekali lagi.
+
+63
+00:02:34,440 --> 00:02:44,319
+5 akar 2 menjadi 5 akar 2 * t. Baiklah,
 
 64
 00:02:44,319 --> 00:02:49,440
@@ -256,7 +260,7 @@ sekarang yang kita inginkan adalah persamaan untuk
 
 65
 00:02:47,519 --> 00:02:51,519
-y dalam bentuk x saja jadi inilah
+y dalam bentuk x saja. Jadi inilah
 
 66
 00:02:49,440 --> 00:02:53,280
@@ -272,27 +276,27 @@ ingat kita ingin mendapatkan t sendiri jadi
 
 69
 00:02:55,280 --> 00:03:01,200
-t  sama dengan x pada 5 akar 2.
+t sama dengan x dibagi 5 akar 2.
 
 70
 00:02:59,040 --> 00:03:03,519
-oke jadi sekarang ketika saya membawa ini ke
+Oke, jadi sekarang, ketika saya membawa [persamaan] ini ke
 
 71
 00:03:01,200 --> 00:03:06,640
-sisi ini berhati-hatilah dengan tanda kurung
+sisi ini --berhati-hatilah dengan tanda kurung--,
 
 72
 00:03:03,519 --> 00:03:10,080
-dan seterusnya saya mendapat minus 5 di luar
+saya punya -5 di luar [kurungan],
 
 73
 00:03:06,640 --> 00:03:12,080
-x pada 5 akar 2
+[dikali] x dibagi 5 akar 2
 
 74
 00:03:10,080 --> 00:03:13,440
-kuadrat ke kanan
+kuadrat,
 
 75
 00:03:12,080 --> 00:03:18,159
@@ -300,91 +304,91 @@ ditambah
 
 76
 00:03:13,440 --> 00:03:19,680
-5 akar 2 kali x  pada 5 root 2.
+5 akar 2 kali x dibagi 5 akar 2.
 
 77
 00:03:18,159 --> 00:03:21,120
-oke
+Oke,
 
 78
 00:03:19,680 --> 00:03:23,599
-jadi kamu bisa lihat di sisi itu agak
+jadi, kamu bisa lihat di sisi itu agak
 
 79
 00:03:21,120 --> 00:03:26,000
-mudah itu hanya akan membatalkan
+mudah, itu (5 akar 2) akan habis dibagi.
 
 80
 00:03:23,599 --> 00:03:27,920
-di sini hanya untuk berhati-hati
+Di sini, hanya untuk berhati-hati,
 
 81
 00:03:26,000 --> 00:03:31,040
-apa yang akan kamu dapatkan adalah 5 root 2
+apa yang akan kamu dapatkan adalah 5 akar 2
 
 82
 00:03:27,920 --> 00:03:32,959
-kuadrat atas 2 kuadrat itu
+kuadrat dibagi 2 kuadrat. Itu [hasilnya]
 
 83
 00:03:31,040 --> 00:03:35,360
-25 dikalikan 2
+25 dikalikan 2.
 
 84
 00:03:32,959 --> 00:03:38,159
-jadi itu 50  benar jadi oleh karena itu Anda
+Jadi itu (hasilnya) 50, jadi oleh karena itu kalian
 
 85
 00:03:35,360 --> 00:03:41,200
-akan mendapatkan 5 dikurangi minus 5 kuadrat pada
+akan mendapatkan -5 kuadrat dibagi
 
 86
 00:03:38,159 --> 00:03:42,720
-50 ditambah x dan ada minus 1 di atas
+50 ditambah x, dan inilah -1 dibagi
 
 87
 00:03:41,200 --> 00:03:44,840
-10 yang mereka cari karena
+10 yang mereka cari, karena
 
 88
 00:03:42,720 --> 00:03:46,400
-itu sebenarnya
+hasil ini sebenarnya adalah
 
 89
 00:03:44,840 --> 00:03:48,239
-hasil yang diketahui oke
+hasil yang diketahui [di soal]. Oke,
 
 90
 00:03:46,400 --> 00:03:50,319
-sekarang
+sekarang,
 
 91
 00:03:48,239 --> 00:03:53,599
-ini hanya bentuk faktor dari
+yang saya tulis ini hanyalah bentuk faktor dari
 
 92
 00:03:50,319 --> 00:03:53,599
-itu yang menjadi 10  minus x
+persamaan itu. 
 
 93
 00:03:56,560 --> 00:04:02,080
-oke
+Oke, 
 
 94
 00:03:58,239 --> 00:04:05,040
-itu terlihat bagus bagian a selesai
+itu terlihat bagus. Soal pertama selesai.
 
 95
 00:04:02,080 --> 00:04:07,120
-bagian b sekarang di sinilah mulai
+Soal kedua, sekarang di sinilah mulai
 
 96
 00:04:05,040 --> 00:04:09,680
-menjadi jelas mengapa berguna untuk
+menjadi jelas mengapa 
 
 97
 00:04:07,120 --> 00:04:11,519
-benar-benar menghilangkan parameter oke
+menghilangkan parameter itu berguna. Oke, 
 
 98
 00:04:09,680 --> 00:04:13,840
@@ -392,27 +396,27 @@ memiliki parameter waktu berguna
 
 99
 00:04:11,519 --> 00:04:16,239
-ketika Anda mengajukan pertanyaan kapan
+ketika kalian mengajukan pertanyaan kapan
 
 100
 00:04:13,840 --> 00:04:18,239
-saya ini dan itu atau bagaimana  berapa lama waktu yang
+saya... dan sejenisnya, atau berapa lama waktu yang
 
 101
 00:04:16,239 --> 00:04:20,000
-saya perlukan untuk melakukan bla bla bla benar jadi
+saya perlukan untuk melakukan bla bla bla. Jadi,
 
 102
 00:04:18,239 --> 00:04:22,079
-misalnya berapa lama waktu yang dibutuhkan
+misalnya, berapa lama waktu yang dibutuhkan
 
 103
 00:04:20,000 --> 00:04:23,440
-peluru untuk mencapai target oke tapi
+peluru untuk mencapai target. Oke, tapi
 
 104
 00:04:22,079 --> 00:04:25,680
-ketika Anda punya persamaan seperti ini
+ketika kalian punya persamaan seperti ini
 
 105
 00:04:23,440 --> 00:04:27,040
@@ -420,7 +424,7 @@ di sini, itu tidak tergantung pada waktu jadi ini
 
 106
 00:04:25,680 --> 00:04:28,960
-hanya tentang mendapatkan persamaan  hubungan
+hanya tentang mendapatkan persamaan hubungan
 
 107
 00:04:27,040 --> 00:04:31,280
@@ -428,35 +432,35 @@ antara seberapa tinggi saya versus seberapa jauh
 
 108
 00:04:28,960 --> 00:04:33,199
-saya telah melakukan perjalanan secara horizontal oke dan Anda
+saya telah melakukan perjalanan secara horizontal. Oke, dan kalian
 
 109
 00:04:31,280 --> 00:04:34,880
-dapat menggunakan teori kuadrat yang telah Anda
+dapat menggunakan teori kuadrat yang telah kalian
 
 110
 00:04:33,199 --> 00:04:37,840
-pelajari seperti
+pelajari di tahun ke-9
 
 111
 00:04:34,880 --> 00:04:39,520
-9 dan y10 untuk mendapatkan beberapa angka yang sangat mudah
+dan tahun ke-10 untuk mendapatkan beberapa angka yang sangat mudah
 
 112
 00:04:37,840 --> 00:04:40,720
-dari ini, jadi misalnya bagian
+dari ini, Jadi misalnya soal
 
 113
 00:04:39,520 --> 00:04:42,880
-b mengatakan
+kedua mengatakan:
 
 114
 00:04:40,720 --> 00:04:45,520
-temukan  jangkauan dan tinggi maksimum
+Temukan jangkauan dan tinggi maksimum.
 
 115
 00:04:42,880 --> 00:04:46,960
-jangkauan dan tinggi maksimum jadi jangkauan berarti
+Jadi, jangkauan berarti
 
 116
 00:04:45,520 --> 00:04:48,880
@@ -464,27 +468,27 @@ ini
 
 117
 00:04:46,960 --> 00:04:51,680
-seberapa jauh itu batu apa seberapa
+seberapa jauh itu batu itu terlempar dari 
 
 118
 00:04:48,880 --> 00:04:53,520
-jauh batu itu bisa oke sekarang ketika Anda
+titik awal. Oke, sekarang, ketika kalian
 
 119
 00:04:51,680 --> 00:04:54,880
-menganggap ini sebagai parabola, Anda
+menganggap ini sebagai parabola, kalian
 
 120
 00:04:53,520 --> 00:04:57,280
-seperti baik, jangkauan itu hanyalah
+akan berpikir: Jangkauan itu hanyalah
 
 121
 00:04:54,880 --> 00:04:59,919
-jarak antara  akar-akarnya benar sehingga Anda
+jarak antara akar-akarnya, kan? Sehingga kalian
 
 122
 00:04:57,280 --> 00:05:01,120
-dapat membacanya dengan benar, akar-akarnya adalah 0
+dapat membacanya; akar-akarnya adalah 0
 
 123
 00:04:59,919 --> 00:05:03,199
@@ -492,11 +496,11 @@ dan 10.
 
 124
 00:05:01,120 --> 00:05:06,680
-oke jadi yang sebenarnya ingin saya katakan adalah dengan
+Yang sebenarnya ingin saya katakan adalah dengan
 
 125
 00:05:03,199 --> 00:05:06,680
-teori kuadrat
+teori kuadrat,
 
 126
 00:05:13,680 --> 00:05:16,639
@@ -504,47 +508,47 @@ hanya untuk memperjelas dari mana saya
 
 127
 00:05:14,960 --> 00:05:18,479
-sebenarnya mendapatkannya, seperti bagian mana
+sebenarnya mendapatkannya; bagian mana
 
 128
 00:05:16,639 --> 00:05:20,240
-dari teori kuadrat yang saya dapatkan  itu dari
+dari teori kuadrat yang saya dapatkan? 
 
 129
 00:05:18,479 --> 00:05:22,000
-saya meletakkan kedua akar di sana meskipun 10
+Saya meletakkan kedua akar di sana, meskipun 10
 
 130
 00:05:20,240 --> 00:05:23,199
-dikurangi 0 itu sepele kan tapi itu menunjukkan kepada
+dikurangi 0 itu sepele, kan? Tapi itu menunjukkan kepada
 
 131
 00:05:22,000 --> 00:05:25,280
-Anda saya mengambil selisih di antara
+kalian bahwa saya mengambil selisih di antara
 
 132
 00:05:23,199 --> 00:05:26,800
-keduanya saya tidak memetik angka
+keduanya; saya tidak asal-asalan menulis 
 
 133
 00:05:25,280 --> 00:05:28,240
-entah dari mana tepatnya
+angkanya.
 
 134
 00:05:26,800 --> 00:05:30,960
-jadi itulah jangkauan saya
+Jadi itulah jawaban untuk jangkauan. 
 
 135
 00:05:28,240 --> 00:05:32,400
-dengan cara yang sama mereka mengatakan um apa
+Dengan cara yang sama soalnya menanyakan
 
 136
 00:05:30,960 --> 00:05:34,000
-tinggi maksimum
+tinggi maksimum [dari peluru itu].
 
 137
 00:05:32,400 --> 00:05:36,080
-jadi itu akan ada di sini sekarang
+Jadi itu akan ada di sini. Sekarang,
 
 138
 00:05:34,000 --> 00:05:37,520
@@ -564,39 +568,39 @@ tempatnya, kamu hanya tahu itu di tengah-tengah
 
 142
 00:05:40,320 --> 00:05:44,080
-antara akar-akarnya, itu pada sumbu
+antara akar-akarnya, yakni pada sumbu
 
 143
 00:05:41,600 --> 00:05:46,800
-simetri  jadi kamu ambil nilai yang benar
+simetri. Jadi kamu ambil nilai y, 
 
 144
 00:05:44,080 --> 00:05:49,759
-yaitu lima dan kamu substitusikan ke dalam kamu
+yaitu 5, dan kamu substitusikan ke dalam persamaan itu.
 
 145
 00:05:46,800 --> 00:05:49,759
-bilang tinggi maksimal
+Tinggi maksimum
 
 146
 00:05:50,400 --> 00:05:55,680
-sama dengan ambil persamaan y kamu dan kamu
+sama dengan, ambil persamaan y dan
 
 147
 00:05:53,520 --> 00:05:57,919
-masukkan lima ke kanan
+masukkan 5. 
 
 148
 00:05:55,680 --> 00:06:00,720
-lima di atas sepuluh
+5 dibagi 10 [dikali]
 
 149
 00:05:57,919 --> 00:06:02,960
-sepuluh dikurangi lima kalau mau taruh saja di
+10 dikurangi 5, kalau mau taruh saja di
 
 150
 00:06:00,720 --> 00:06:04,479
-samping sini x sama dengan lima padahal
+samping sini x sama dengan 5 padahal
 
 151
 00:06:02,960 --> 00:06:06,160
@@ -604,39 +608,39 @@ seharusnya cukup jelas dari
 
 152
 00:06:04,479 --> 00:06:09,120
-pergantian pemain di sana, kamu akan mendapat
+pengoperasian persamaan di sana, kamu akan mendapat
 
 153
 00:06:06,160 --> 00:06:11,440
-setengah kali lima jadi dua setengah
+1 1/2 
 
 154
 00:06:09,120 --> 00:06:11,440
-meter
+meter.
 
 155
 00:06:11,919 --> 00:06:14,400
-oke
+Oke,
 
 156
 00:06:12,960 --> 00:06:16,560
-jadi itu agak manis kan, semua
+jadi itu agak manis, kan? Semua
 
 157
 00:06:14,400 --> 00:06:18,639
-ini tidak ada oh aku harus berolahraga ketika y
+ini tidak, oh aku harus mencari ketika y
 
 158
 00:06:16,560 --> 00:06:21,039
-sama dengan atau menghitung kecepatan  sama
+sama dengan... atau menghitung kecepatan sama
 
 159
 00:06:18,639 --> 00:06:22,639
-dengan nol yadda yadda yadda
+dengan nol yadda yadda yadda...
 
 160
 00:06:21,039 --> 00:06:24,319
-kamu tinggal membaca koordinatnya
+Kamu tinggal membaca koordinatnya
 
 161
 00:06:22,639 --> 00:06:26,400
@@ -644,27 +648,27 @@ karena kamu tahu bagaimana perilakunya karena
 
 162
 00:06:24,319 --> 00:06:28,319
-itu parabola
+itu parabola, kan? 
 
 163
 00:06:26,400 --> 00:06:31,120
-bagian kanan c sekarang di sinilah mereka mulai
+Soal ketiga, sekarang di sinilah mereka mulai
 
 164
 00:06:28,319 --> 00:06:33,600
-memvariasikan keadaan misalkan dulu
+memvariasikan keadaan. Misalkan dulu jika
 
 165
 00:06:31,120 --> 00:06:35,840
-batu itu menabrak tembok yang jaraknya delapan meter jadi di
+batu itu menabrak tembok yang jaraknya 8 meter, Jadi di
 
 166
 00:06:33,600 --> 00:06:38,639
-sinilah tempatmu  Diagram masuk ke kanan
+sinilah diagramnya berguna, kan?
 
 167
 00:06:35,840 --> 00:06:40,080
-jika menabrak dinding yang jaraknya delapan meter
+Jika menabrak dinding yang jaraknya 8 meter
 
 168
 00:06:38,639 --> 00:06:42,720
@@ -672,75 +676,75 @@ jelas tidak akan mencapai
 
 169
 00:06:40,080 --> 00:06:45,759
-jangkauan penuhnya jika
+jangkauan penuhnya; itu akan terhenti 
 
 170
 00:06:42,720 --> 00:06:48,759
-terhenti sebentar jadi tempelkan dinding di
+di awal, kan? Jadi gambarlah sebuah dinding di
 
 171
 00:06:45,759 --> 00:06:48,759
-sana
+sana.
 
 172
 00:06:49,680 --> 00:06:53,599
-oke itu dinding saya dan jaraknya delapan
+Oke, itu dindingnya dan jaraknya 8
 
 173
 00:06:51,280 --> 00:06:55,520
-meter
+meter [dari titik awal].
 
 174
 00:06:53,599 --> 00:06:59,919
-jadi yang pertama  bagian dari pertanyaan itu saya
+Jadi, bagian pertama dari pertanyaan itu... saya akan 
 
 175
 00:06:55,520 --> 00:06:59,919
-harus menulis uh bagian c bagian pertama
+tulis bagian c, bagian pertama:
 
 176
 00:07:00,479 --> 00:07:04,960
-temukan seberapa jauh batu itu mengenai dinding
+Temukan seberapa tinggi batu itu mengenai dinding?
 
 177
 00:07:03,039 --> 00:07:06,800
-oke sekarang sebelum kita menyelesaikannya pikirkan
+Oke, sekarang sebelum kita menyelesaikannya pikirkan
 
 178
 00:07:04,960 --> 00:07:09,120
-tentang bagaimana Anda akan melakukan ini tanpa
+tentang bagaimana kalian akan melakukan ini tanpa
 
 179
 00:07:06,800 --> 00:07:10,479
-menghilangkan parameter yang agak
+menghilangkan parameter. Agak 
 
 180
 00:07:09,120 --> 00:07:12,240
-rumit sebenarnya Anda harus pergi  melalui
+rumit sebenarnya: kalian harus melakukan 
 
 181
 00:07:10,479 --> 00:07:13,759
-beberapa langkah kerjakan hati-hati dengan
+beberapa langkah dulu. Hati-hati dengan
 
 182
 00:07:12,240 --> 00:07:16,160
-kecepatan vertikal horizontalmu tetapi
+kecepatan vertikal [dan] horizontalmu, tetapi
 
 183
 00:07:13,759 --> 00:07:17,039
-di sini yang harus aku lakukan adalah ambil x sama dengan
+di sini yang harus saya lakukan adalah ambil x sama dengan
 
 184
 00:07:16,160 --> 00:07:19,840
-delapan
+8
 
 185
 00:07:17,039 --> 00:07:22,800
-dan masukkan ke dalamnya tidak apa-apa jadi aku katakan
+dan masukkan ke dalamnya, itu saja. Oke, jadi saya katakan
 
 186
 00:07:19,840 --> 00:07:24,319
-ketika x sama dengan delapan
+ketika x sama dengan 8,
 
 187
 00:07:22,800 --> 00:07:27,360
@@ -748,27 +752,27 @@ y sama dengan
 
 188
 00:07:24,319 --> 00:07:28,560
-delapan per sepuluh kali sepuluh dikurangi delapan
+8 dibagi 10 dikali 10 dikurangi 8, 
 
 189
 00:07:27,360 --> 00:07:31,520
-itu dua
+yang hasilnya adalah 2.
 
 190
 00:07:28,560 --> 00:07:34,479
-jadinya jadi 16 jadi
+yang ini jadi 16, jadi
 
 191
 00:07:31,520 --> 00:07:36,720
-tingginya 1,6 1,6 meter
+tingginya 1,6 meter.
 
 192
 00:07:34,479 --> 00:07:36,720
-oke
+Oke, sub-soal kedua:
 
 193
 00:07:36,800 --> 00:07:41,919
-bedakan persamaan lintasannya
+Bedakan persamaan lintasannya
 
 194
 00:07:39,520 --> 00:07:44,879
@@ -780,15 +784,15 @@ ketika batu itu menabrak tembok oke mari kita
 
 196
 00:07:44,879 --> 00:07:48,240
-pikirkan persamaan lintasannya,
+pikirkan ini. Persamaan lintasannya adalah
 
 197
 00:07:46,879 --> 00:07:49,840
-benda ini yang
+yang ini,
 
 198
 00:07:48,240 --> 00:07:51,280
-akan saya gunakan  bentuk itu daripada yang
+saya akan gunakan bentuk itu daripada yang
 
 199
 00:07:49,840 --> 00:07:52,960
@@ -796,7 +800,7 @@ berikutnya karena
 
 200
 00:07:51,280 --> 00:07:54,080
-saya tidak perlu um mudah
+saya tidak perlu-; lebih mudah
 
 201
 00:07:52,960 --> 00:07:57,039
@@ -804,67 +808,67 @@ membedakannya daripada
 
 202
 00:07:54,080 --> 00:07:58,639
-bentuk yang difaktorkan ini oke jadi saya bisa mengatakan bagian
+bentuk yang difaktorkan ini. Oke, jadi saya bisa mengatakan bagian
 
 203
 00:07:57,039 --> 00:08:00,800
-kedua
+kedua,
 
 204
 00:07:58,639 --> 00:08:03,599
-turunan dari persamaan pi
+turunan dari persamaan pi: dy
 
 205
 00:08:00,800 --> 00:08:04,560
-pembagian kanan dx sama dengan
+dibagi dx, yang sama dengan...
 
 206
 00:08:03,599 --> 00:08:06,000
-oke
+Oke,
 
 207
 00:08:04,560 --> 00:08:09,520
-dua keluar di depan  jadi itu
+dua saya pindah di depan, jadi itu
 
 208
 00:08:06,000 --> 00:08:11,680
-jadinya minus satu per lima x ditambah satu
+menjadi -1 dibagi 5x ditambah 1.
 
 209
 00:08:09,520 --> 00:08:14,160
-ada turunannya oke jadi aku
+Inilah persamaan turunannya. Oke, jadi aku
 
 210
 00:08:11,680 --> 00:08:16,400
-tertarik sama dengan
+tertarik dengan apa persamaan yang sama dengan itu di
 
 211
 00:08:14,160 --> 00:08:18,960
-titik tumbukan kan jadi kalau x
+titik tumbukan, kan? Jadi kalau x
 
 212
 00:08:16,400 --> 00:08:22,639
-sama dengan
+sama dengan 8, kan?
 
 213
 00:08:18,960 --> 00:08:27,120
-kanan yang membagi x itu jadi mari kita
+dy dibagi dx akan menjadi...
 
 214
 00:08:22,639 --> 00:08:29,840
-lihat minus 8 di  5 ditambah satu yang
+mari lihat: Minus 8 dibagi 5 ditambah 1 yang mana 
 
 215
 00:08:27,120 --> 00:08:31,440
-minus tiga per lima oke jadi itulah
+adalah -3 dibagi 5. Oke, jadi itulah
 
 216
 00:08:29,840 --> 00:08:33,360
-gradien pada titik itu
+gradien pada titik itu.
 
 217
 00:08:31,440 --> 00:08:35,760
-jika saya menggambar garis singgung di
+Jika saya menggambar garis singgung di
 
 218
 00:08:33,360 --> 00:08:38,399
@@ -872,19 +876,19 @@ sana, gradiennya akan sama dengan
 
 219
 00:08:35,760 --> 00:08:40,719
-minus tiga perlima oke jadi jika saya ingin
+-3 per 5. Oke, jadi, jika saya ingin menemukan
 
 220
 00:08:38,399 --> 00:08:43,919
-sudut kemiringan yang harus saya katakan
+sudut kemiringan yang harus saya lakukan
 
 221
 00:08:40,719 --> 00:08:47,600
-apakah m sama dengan tan theta
+adalah m sama dengan tan theta.
 
 222
 00:08:43,919 --> 00:08:48,880
-oke jadi theta akan menjadi tan invers dari
+Oke, jadi theta akan menjadi tan invers dari
 
 223
 00:08:47,600 --> 00:08:50,880
@@ -892,23 +896,23 @@ minus
 
 224
 00:08:48,880 --> 00:08:52,240
-tiga per lima oke dan kamu mendapatkan sudut
+3 per 5, oke, dan kamu mendapatkan sudut
 
 225
 00:08:50,880 --> 00:08:54,399
-kemiringan dari situ akan
+kemiringan dari situ. Angkanya akan
 
 226
 00:08:52,240 --> 00:08:56,160
-menjadi negatif karena turun
+menjadi negatif karena turun.
 
 227
 00:08:54,399 --> 00:08:58,080
-oke saya tidak yakin berapa
+Oke, saya tidak yakin berapa
 
 228
 00:08:56,160 --> 00:08:59,279
-nilai desimal sebenarnya tapi
+nilai desimal akuratnya tapi
 
 229
 00:08:58,080 --> 00:09:01,920
@@ -916,79 +920,79 @@ mekanisme untuk mendapatkannya
 
 230
 00:08:59,279 --> 00:09:03,120
-sangat sederhana oke oke
+sangat sederhana. Oke, oke...
 
 231
 00:09:03,120 --> 00:09:09,279
-par d misalkan sekarang batu itu mengenai
+Soal keempat: Misalkan sekarang batu itu mengenai
 
 232
 00:09:05,920 --> 00:09:11,279
-langit-langit 2,1 meter tinggi 2,1 meter
+langit-langit yang tingginya 2,1 meter.
 
 233
 00:09:09,279 --> 00:09:13,360
-berhati-hatilah dengan skala Anda sekarang dan
+Berhati-hatilah dengan skalanya dan
 
 234
 00:09:11,279 --> 00:09:15,920
-juga tembok ini ada di sini kami mengatakan bahwa
+ingat juga ada tembok di sini. Kita sudah tahu bahwa
 
 235
 00:09:13,360 --> 00:09:20,279
-titik puncaknya adalah 2,5 jadi saya  tebak
+titik puncaknya adalah 2,5 meter. Jadi saya menebak
 
 236
 00:09:15,920 --> 00:09:20,279
-sedikit di bawah itu akan menjadi 2,1
+sedikit di bawah itu akan menjadi 2,1 meter.
 
 237
 00:09:22,480 --> 00:09:27,600
-jadi itu
+Jadi di sanalah 
 
 238
 00:09:25,360 --> 00:09:29,440
-langit-langitku yang 2,1 meter oke
+langit-langitku yang tingginya 2,1 meter. Oke,
 
 239
 00:09:27,600 --> 00:09:31,440
-cari jarak horizontal sebelum
+carilah jarak horizontal sebelum
 
 240
 00:09:29,440 --> 00:09:33,839
-tumbukan jarak horizontal sebelum tumbukan
+tumbukan, jarak horizontal sebelum tumbukan.
 
 241
 00:09:31,440 --> 00:09:36,399
-jadi berapa jauh jarak tempuhnya sebelum
+Jadi berapa jauh jarak tempuhnya sebelum
 
 242
 00:09:33,839 --> 00:09:38,480
-benar-benar menyentuh langit-langit jadi
+benar-benar menyentuh langit-langit. Jadi
 
 243
 00:09:36,399 --> 00:09:41,600
-oleh karena itu untuk menyelesaikannya
+untuk menyelesaikannya,
 
 244
 00:09:38,480 --> 00:09:45,279
-karena garisku  di sini bukan hanya 2,1
+karena garisku di sini bukan hanya 2,1
 
 245
 00:09:41,600 --> 00:09:46,959
-itu y sama dengan 2,1 kan
+itu sebenarnya y sama dengan 2,1, kan?
 
 246
 00:09:45,279 --> 00:09:49,279
-jadi menyelesaikan titik tumbukan
+Jadi menemukan titik tumbukan
 
 247
 00:09:46,959 --> 00:09:51,839
-sebenarnya sangat sederhana biar saya hilangkan
+sebenarnya sangat sederhana, biar saya hapus
 
 248
 00:09:57,760 --> 00:10:00,959
-ini bagian d
+ini dulu. Bagian d (soal keempat), bagian pertama: 
 
 249
 00:10:01,600 --> 00:10:06,079
@@ -1000,27 +1004,27 @@ y sama dengan
 
 251
 00:10:06,079 --> 00:10:11,279
-2,1 sama dengan minus
+2,1 sama dengan minus...
 
 252
 00:10:08,480 --> 00:10:13,200
-berapa 1 per 10
+berapa ya tadi? -1 per 10...
 
 253
 00:10:11,279 --> 00:10:14,800
-sebenarnya menurutku aku sudah
+yang aku ingat, ini...
 
 254
 00:10:14,800 --> 00:10:19,279
-baik-baik saja jadi aku akan mengalikannya dengan
+Oke, jadi aku akan mengalikannya dengan
 
 255
 00:10:16,959 --> 00:10:21,760
-10 untuk menghilangkan nilai desimal yang terlihat menjijikkan itu
+10 untuk menghilangkan nilai desimal itu, 
 
 256
 00:10:19,279 --> 00:10:24,160
-yang memberiku 21 sama
+yang akan memberiku 21, sama
 
 257
 00:10:21,760 --> 00:10:25,600
@@ -1028,43 +1032,43 @@ dengan minus 10 x
 
 258
 00:10:24,160 --> 00:10:26,880
-plus
+plus x kuadrat.
 
 259
 00:10:25,600 --> 00:10:29,279
-tunggu tunggu apa yang telah aku lakukan itu
+tunggu, tunggu... apa yang telah aku lakukan itu
 
 260
 00:10:26,880 --> 00:10:32,000
-nilai tambah tidak tunggu
+nilai tambah... tidak tunggu...
 
 261
 00:10:29,279 --> 00:10:35,839
-tidak  apa yang sudah kulakukan yang itu
+tidak...  apa yang sudah kulakukan yang itu
 
 262
 00:10:32,000 --> 00:10:35,839
-ya baiklah itu benar itu lebih baik oke bagus
+ya baiklah itu benar itu lebih baik oke bagus...
 
 263
 00:10:38,640 --> 00:10:42,640
-masalahku
+terlihat lebih baik! Oke, jadi sekarang masalahku adalah 
 
 264
 00:10:40,160 --> 00:10:44,480
-menghadap ke arah yang benar sekarang jadi sekarang letakkan
+menghadap ke arah yang benar... Jadi sekarang, letakkan
 
 265
 00:10:42,640 --> 00:10:47,680
-semuanya di satu sisi agar bagus dan mudah untuk
+semuanya di satu sisi agar bagus dan lebih mudah untuk
 
 266
 00:10:44,480 --> 00:10:49,600
-memfaktorkan x kuadrat dikurangi 10x
+memfaktorkannya. x kuadrat dikurangi 10x
 
 267
 00:10:47,680 --> 00:10:51,839
-ditambah 21. dan seterusnya  dua angka yang kita
+ditambah 21. Dan dua angka yang kita
 
 268
 00:10:49,600 --> 00:10:53,120
@@ -1072,35 +1076,35 @@ cari adalah
 
 269
 00:10:51,839 --> 00:10:54,959
-tiga dan tujuh
+3 dan 7,
 
 270
 00:10:53,120 --> 00:10:56,480
-atau lebih spesifiknya negatif tiga dan
+atau lebih spesifiknya -3 dan
 
 271
 00:10:54,959 --> 00:10:58,480
-negatif tujuh
+-7
 
 272
 00:10:56,480 --> 00:11:00,320
-sekarang keluarlah dua solusi Anda yang
+sekarang keluarlah dua solusi kalian yang
 
 273
 00:10:58,480 --> 00:11:02,240
-merupakan apa yang Anda harapkan karena yang saya
+merupakan apa yang kalian harapkan, karena yang saya
 
 274
 00:11:00,320 --> 00:11:04,240
-lakukan hanyalah menyelesaikan persamaan ini di sini
+lakukan hanyalah menyelesaikan persamaan ini di sini.
 
 275
 00:11:02,240 --> 00:11:06,800
-jadi ada solusi satu dan ada
+Jadi ada solusi satu dan ada
 
 276
 00:11:04,240 --> 00:11:08,240
-solusi dua oke  sekarang seperti biasa
+solusi dua. Oke, sekarang seperti biasa
 
 277
 00:11:06,800 --> 00:11:10,560
@@ -1108,23 +1112,23 @@ ketika Anda mendapatkan dua solusi jangan hanya
 
 278
 00:11:08,240 --> 00:11:12,079
-mengabaikan satu dan jadilah Anda tahu, diamkan saja
+mengabaikan satu dan selesai; dibiarkan saja
 
 279
 00:11:10,560 --> 00:11:13,120
-tanpa alasan
+tanpa alasan.
 
 280
 00:11:12,079 --> 00:11:15,440
-Anda harus mengatakan mengapa Anda
+Kalian harus memberi alasan mengapa kalian 
 
 281
 00:11:13,120 --> 00:11:18,959
-mengabaikannya oke jadi katakan
+mengabaikannya. Oke, jadi katakan,
 
 282
 00:11:15,440 --> 00:11:21,920
-um saat batunya mengenai
+um... saat batunya mengenai
 
 283
 00:11:18,959 --> 00:11:21,920
@@ -1136,39 +1140,39 @@ sekali
 
 285
 00:11:24,399 --> 00:11:27,120
-benar
+kan?
 
 286
 00:11:25,200 --> 00:11:29,360
-yaitu pertama kali oke tidak
+yaitu pertama kali. Oke, batunya tidak
 
 287
 00:11:27,120 --> 00:11:31,200
-akan melewati langit-langit isyarat
+akan melewati langit-langit... mainkan musik menyeramkannya... 
 
 288
 00:11:29,360 --> 00:11:32,240
-musik menyeramkan dan kemudian memukulnya pada kedua kalinya
+dan kemudian mengenainya kedua kalinya.
 
 289
 00:11:31,200 --> 00:11:36,880
-oke
+Oke,
 
 290
 00:11:32,240 --> 00:11:36,880
-oleh karena itu x sama dengan tiga saja kan
+oleh karena itu x sama dengan tiga saja,
 
 291
 00:11:37,040 --> 00:11:41,279
-jadi itu bagian pertama dari jawaban saya
+jadi itu bagian pertama dari jawaban saya.
 
 292
 00:11:38,880 --> 00:11:42,959
-berapa jarak horizontal x
+Berapa jarak horizontal x tadi?
 
 293
 00:11:41,279 --> 00:11:44,720
-sama dengan tiga  dan kemudian bagian kedua dari
+sama dengan 3. Dan kemudian bagian kedua dari
 
 294
 00:11:42,959 --> 00:11:46,240
@@ -1176,44 +1180,44 @@ pertanyaannya adalah
 
 295
 00:11:44,720 --> 00:11:48,160
-uh mari kita lihat di sini temukan sudut di
+uh, mari kita lihat di sini. Temukan sudut saat
 
 296
 00:11:46,240 --> 00:11:49,279
-mana batu itu mengenai langit-langit jadi
+batu itu mengenai langit-langit. Jadi
 
 297
 00:11:48,160 --> 00:11:50,959
-pada dasarnya Anda akan membilas dan
+pada dasarnya kalian akan mengulagi
 
 298
 00:11:49,279 --> 00:11:53,200
-mengulangi langkah ini di sini ambil
+lagi langkah ini di sini. Ambil
 
 299
 00:11:50,959 --> 00:11:55,120
-turunan pop Anda di x sama dengan tiga dan
+turunannya, masukkan x sama dengan 3 dan
 
 300
 00:11:53,200 --> 00:11:57,279
-Anda akan mendapatkan a  sudut yang berbeda di bagian akhir
+kalian akan mendapatkan sudut yang berbeda di bagian akhir.
 
 301
 00:11:55,120 --> 00:11:58,639
-oke sehingga Anda dapat melihat jenis
+oke sehingga kalian dapat melihat jenis
 
 302
 00:11:57,279 --> 00:12:00,399
-pertanyaan yang Anda lakukan dengan persamaan
+pertanyaan yang berhubungan dengan persamaan
 
 303
 00:11:58,639 --> 00:12:01,760
-jalur yang dapat Anda lakukan tanpa
+lintasan, yang dapat kalian selesaikan tanpa
 
 304
 00:12:00,399 --> 00:12:05,360
-menghilangkan parameternya tetapi pertanyaan tersebut
+menghilangkan parameternya. Tetapi langkah untuk menjawabnya 
 
 305
 00:12:01,760 --> 00:12:05,360
-lebih langsung dan sederhana
+lebih singkat dan sederhana (alih bahasa oleh Karel Bondan)
