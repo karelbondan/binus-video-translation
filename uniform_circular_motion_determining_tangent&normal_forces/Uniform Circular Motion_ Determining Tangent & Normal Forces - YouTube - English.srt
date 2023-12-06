@@ -1,0 +1,955 @@
+1
+00:00:00,240 --> 00:00:04,560
+well we want to go from thinking about
+
+2
+00:00:02,159 --> 00:00:06,879
+the horizontal stuff too
+
+3
+00:00:04,560 --> 00:00:08,880
+well i'm not actually moving mainly in
+
+4
+00:00:06,879 --> 00:00:10,960
+horizontal and vertical directions like
+
+5
+00:00:08,880 --> 00:00:12,480
+i'm moving around this thing and you may
+
+6
+00:00:10,960 --> 00:00:14,559
+recall
+
+7
+00:00:12,480 --> 00:00:16,880
+at any given point right my velocity at
+
+8
+00:00:14,559 --> 00:00:18,640
+this point it's going off on a tangent
+
+9
+00:00:16,880 --> 00:00:20,320
+like literally it's going off on a
+
+10
+00:00:18,640 --> 00:00:22,080
+tangent right so i don't want to think
+
+11
+00:00:20,320 --> 00:00:25,199
+about the up down i want to think about
+
+12
+00:00:22,080 --> 00:00:26,400
+how they relate to round and round okay
+
+13
+00:00:25,199 --> 00:00:29,199
+so the first thing i'm going to do is
+
+14
+00:00:26,400 --> 00:00:31,920
+i'm going to illustrate these two forces
+
+15
+00:00:29,199 --> 00:00:33,920
+onto this diagram here's a point okay
+
+16
+00:00:31,920 --> 00:00:35,680
+and i'm going to put the x force well
+
+17
+00:00:33,920 --> 00:00:38,160
+it's going to be going
+
+18
+00:00:35,680 --> 00:00:39,680
+in this direction okay the reason why it
+
+19
+00:00:38,160 --> 00:00:41,760
+has to be this direction is because if
+
+20
+00:00:39,680 --> 00:00:43,520
+i'm on a cartesian plane you know how
+
+21
+00:00:41,760 --> 00:00:45,120
+usually in a um
+
+22
+00:00:43,520 --> 00:00:46,960
+in a mechanics question forces all kinds
+
+23
+00:00:45,120 --> 00:00:48,719
+of things we kind of decide oh i'm going
+
+24
+00:00:46,960 --> 00:00:51,680
+to make positive this way i'm going to
+
+25
+00:00:48,719 --> 00:00:53,680
+make positive this way or whatever
+
+26
+00:00:51,680 --> 00:00:54,960
+but once you're on a cartesian plane
+
+27
+00:00:53,680 --> 00:00:57,199
+positive and negative have kind of
+
+28
+00:00:54,960 --> 00:00:59,440
+already been decided for you haven't you
+
+29
+00:00:57,199 --> 00:01:02,559
+that's got to be positive and that's got
+
+30
+00:00:59,440 --> 00:01:04,960
+to be positive right so this force is
+
+31
+00:01:02,559 --> 00:01:06,400
+facing in this direction
+
+32
+00:01:04,960 --> 00:01:09,600
+now keep in mind
+
+33
+00:01:06,400 --> 00:01:11,439
+it's a minus sign right so therefore the
+
+34
+00:01:09,600 --> 00:01:14,000
+resultant force is actually going that
+
+35
+00:01:11,439 --> 00:01:16,000
+way right but i have to draw the
+
+36
+00:01:14,000 --> 00:01:18,640
+line this way so that the minus makes
+
+37
+00:01:16,000 --> 00:01:22,240
+sense okay so this force
+
+38
+00:01:18,640 --> 00:01:24,640
+is the horizontal force okay
+
+39
+00:01:22,240 --> 00:01:28,240
+now i have also a vertical force so i'm
+
+40
+00:01:24,640 --> 00:01:28,240
+going to put that up like this
+
+41
+00:01:28,799 --> 00:01:32,880
+now i'm trying to think of this in terms
+
+42
+00:01:30,640 --> 00:01:35,680
+of not just horizontal and vertical but
+
+43
+00:01:32,880 --> 00:01:37,360
+round and round okay so here we go cue
+
+44
+00:01:35,680 --> 00:01:39,280
+another color
+
+45
+00:01:37,360 --> 00:01:42,640
+what i want to think about is there's
+
+46
+00:01:39,280 --> 00:01:44,399
+going to be a tangent force right when i
+
+47
+00:01:42,640 --> 00:01:47,119
+add these two up there's going to be a
+
+48
+00:01:44,399 --> 00:01:48,720
+force that's pushing me around okay so
+
+49
+00:01:47,119 --> 00:01:51,360
+i'm going to put inside sort of like a
+
+50
+00:01:48,720 --> 00:01:55,200
+tangent axis if you like
+
+51
+00:01:51,360 --> 00:01:56,560
+something like this i guess
+
+52
+00:01:55,200 --> 00:01:58,640
+that's a terrible tangent but you get
+
+53
+00:01:56,560 --> 00:02:00,399
+the idea okay so there's a force that's
+
+54
+00:01:58,640 --> 00:02:02,000
+going this way
+
+55
+00:02:00,399 --> 00:02:04,960
+and then there's also a force that's
+
+56
+00:02:02,000 --> 00:02:08,479
+kind of relative to the center right so
+
+57
+00:02:04,960 --> 00:02:10,479
+it's going kind of like this
+
+58
+00:02:08,479 --> 00:02:11,520
+oh i missed oh well it's close enough
+
+59
+00:02:10,479 --> 00:02:12,800
+okay
+
+60
+00:02:11,520 --> 00:02:15,920
+so
+
+61
+00:02:12,800 --> 00:02:18,080
+you've got a a tangential force okay so
+
+62
+00:02:15,920 --> 00:02:20,239
+we'll call this our tangent axis if you
+
+63
+00:02:18,080 --> 00:02:22,560
+like now hold on a second
+
+64
+00:02:20,239 --> 00:02:23,680
+if this is a tangent axis that makes
+
+65
+00:02:22,560 --> 00:02:24,959
+sense
+
+66
+00:02:23,680 --> 00:02:26,239
+but what do you think you would call
+
+67
+00:02:24,959 --> 00:02:27,520
+what's a suitable name using the
+
+68
+00:02:26,239 --> 00:02:29,440
+language that we know
+
+69
+00:02:27,520 --> 00:02:30,400
+for this other axis that's perpendicular
+
+70
+00:02:29,440 --> 00:02:31,840
+to it
+
+71
+00:02:30,400 --> 00:02:33,120
+probably the normal right it's the
+
+72
+00:02:31,840 --> 00:02:35,680
+normal to the circle you can see it's
+
+73
+00:02:33,120 --> 00:02:36,879
+perpendicular it's 90 degrees there okay
+
+74
+00:02:35,680 --> 00:02:39,120
+so
+
+75
+00:02:36,879 --> 00:02:41,680
+along this axis i'm going to have a
+
+76
+00:02:39,120 --> 00:02:43,519
+tangent force okay um let's call that
+
+77
+00:02:41,680 --> 00:02:46,000
+direction of motion this way it tends to
+
+78
+00:02:43,519 --> 00:02:47,200
+be that way so i've got my
+
+79
+00:02:46,000 --> 00:02:49,040
+f
+
+80
+00:02:47,200 --> 00:02:50,640
+i'll make it a capital c
+
+81
+00:02:49,040 --> 00:02:51,519
+t this way there's a force going that
+
+82
+00:02:50,640 --> 00:02:54,080
+way
+
+83
+00:02:51,519 --> 00:02:56,239
+and there's also a force going this way
+
+84
+00:02:54,080 --> 00:02:58,159
+this is the normal okay i'm making
+
+85
+00:02:56,239 --> 00:03:00,400
+positive away from the origin because it
+
+86
+00:02:58,159 --> 00:03:02,239
+makes me further away from the origin if
+
+87
+00:03:00,400 --> 00:03:04,560
+that makes sense so i've got positive
+
+88
+00:03:02,239 --> 00:03:06,480
+this way and i've got positive
+
+89
+00:03:04,560 --> 00:03:08,239
+this way okay
+
+90
+00:03:06,480 --> 00:03:10,959
+so far so good
+
+91
+00:03:08,239 --> 00:03:13,599
+so now my question is how do i relate
+
+92
+00:03:10,959 --> 00:03:16,959
+these two forces
+
+93
+00:03:13,599 --> 00:03:18,000
+in terms of these two forces
+
+94
+00:03:16,959 --> 00:03:19,280
+if you want to think about it this way
+
+95
+00:03:18,000 --> 00:03:21,760
+do you remember when we were doing
+
+96
+00:03:19,280 --> 00:03:24,239
+volumes right and if you get a volume
+
+97
+00:03:21,760 --> 00:03:26,480
+that's weird shaped uh something like
+
+98
+00:03:24,239 --> 00:03:26,480
+this
+
+99
+00:03:30,879 --> 00:03:34,560
+do you remember this guy right so you
+
+100
+00:03:32,480 --> 00:03:36,879
+take the hyperbola right and then you
+
+101
+00:03:34,560 --> 00:03:38,640
+say well let's take the line y equals x
+
+102
+00:03:36,879 --> 00:03:40,159
+instead right because we can rotate it
+
+103
+00:03:38,640 --> 00:03:42,640
+around that and we can still form a
+
+104
+00:03:40,159 --> 00:03:44,560
+volume right we did that okay
+
+105
+00:03:42,640 --> 00:03:47,040
+but here you could see that instead of
+
+106
+00:03:44,560 --> 00:03:48,879
+having well x and y then it's not very
+
+107
+00:03:47,040 --> 00:03:50,959
+useful to slice the shape across that
+
+108
+00:03:48,879 --> 00:03:52,720
+way you don't get useful cross-section
+
+109
+00:03:50,959 --> 00:03:54,560
+you don't get slices and you don't get
+
+110
+00:03:52,720 --> 00:03:56,560
+similar things and you don't get shells
+
+111
+00:03:54,560 --> 00:03:58,000
+you get nothing useful so that's why we
+
+112
+00:03:56,560 --> 00:03:59,360
+changed it
+
+113
+00:03:58,000 --> 00:04:01,439
+in terms of this we call that kind of
+
+114
+00:03:59,360 --> 00:04:03,840
+like the height axis right so we're
+
+115
+00:04:01,439 --> 00:04:06,159
+doing exactly the same thing
+
+116
+00:04:03,840 --> 00:04:07,360
+here we're converting horizontal
+
+117
+00:04:06,159 --> 00:04:10,159
+vertical
+
+118
+00:04:07,360 --> 00:04:13,280
+into tangent and normal right
+
+119
+00:04:10,159 --> 00:04:15,840
+so what we're going to need is some trig
+
+120
+00:04:13,280 --> 00:04:17,919
+cue color number three all right
+
+121
+00:04:15,840 --> 00:04:19,680
+so for instance let's just think about
+
+122
+00:04:17,919 --> 00:04:21,759
+this horizontal force
+
+123
+00:04:19,680 --> 00:04:24,800
+can you see that the horizontal force
+
+124
+00:04:21,759 --> 00:04:27,440
+contributes some to the normal
+
+125
+00:04:24,800 --> 00:04:29,360
+and some to the tangent okay
+
+126
+00:04:27,440 --> 00:04:34,240
+and you can show that with some fancy
+
+127
+00:04:29,360 --> 00:04:37,240
+triangles okay so here we go i've got
+
+128
+00:04:34,240 --> 00:04:37,240
+this
+
+129
+00:04:44,960 --> 00:04:49,919
+okay so what have i just drawn in red
+
+130
+00:04:47,520 --> 00:04:51,759
+what i've just drawn in red is
+
+131
+00:04:49,919 --> 00:04:53,840
+how much of the
+
+132
+00:04:51,759 --> 00:04:54,880
+horizontal force contributes this
+
+133
+00:04:53,840 --> 00:04:56,560
+direction
+
+134
+00:04:54,880 --> 00:04:58,639
+and how much of the horizontal force
+
+135
+00:04:56,560 --> 00:05:00,880
+contributes this direction to each of
+
+136
+00:04:58,639 --> 00:05:03,520
+these two new axes that i'm defining
+
+137
+00:05:00,880 --> 00:05:05,360
+okay now in order to convert from this
+
+138
+00:05:03,520 --> 00:05:06,960
+to realize okay part of it's over here
+
+139
+00:05:05,360 --> 00:05:09,680
+and pilots over here i'm going to need
+
+140
+00:05:06,960 --> 00:05:12,000
+some intrigue to help me okay so
+
+141
+00:05:09,680 --> 00:05:14,479
+we already know that we're defining
+
+142
+00:05:12,000 --> 00:05:16,080
+theta right as your angle around and
+
+143
+00:05:14,479 --> 00:05:19,680
+around and around right so that would be
+
+144
+00:05:16,080 --> 00:05:21,039
+here i guess there's theta okay
+
+145
+00:05:19,680 --> 00:05:22,720
+at the same time i suppose even though
+
+146
+00:05:21,039 --> 00:05:24,639
+it's not super relevant but
+
+147
+00:05:22,720 --> 00:05:28,160
+we're going around in this direction
+
+148
+00:05:24,639 --> 00:05:31,199
+right and that angular velocity that's
+
+149
+00:05:28,160 --> 00:05:33,440
+omega okay so i've got
+
+150
+00:05:31,199 --> 00:05:35,520
+that going forward okay
+
+151
+00:05:33,440 --> 00:05:36,880
+now if that's where theta is that's
+
+152
+00:05:35,520 --> 00:05:39,199
+where theta is
+
+153
+00:05:36,880 --> 00:05:43,199
+where else is theta
+
+154
+00:05:39,199 --> 00:05:45,120
+up here that is useful to you
+
+155
+00:05:43,199 --> 00:05:46,800
+then have a look okay keep in mind
+
+156
+00:05:45,120 --> 00:05:48,800
+you've got an x-axis here
+
+157
+00:05:46,800 --> 00:05:52,479
+and then you've got the force in the
+
+158
+00:05:48,800 --> 00:05:55,199
+x-direction so these two lines are
+
+159
+00:05:52,479 --> 00:05:57,360
+parallel does that make sense right
+
+160
+00:05:55,199 --> 00:06:00,000
+so therefore where do you see theta
+
+161
+00:05:57,360 --> 00:06:00,000
+where's theta
+
+162
+00:06:00,080 --> 00:06:02,639
+now
+
+163
+00:06:00,880 --> 00:06:04,000
+i can see people pointing uh it would
+
+164
+00:06:02,639 --> 00:06:05,280
+help if i had some letters here right
+
+165
+00:06:04,000 --> 00:06:08,080
+and the textbook in fact does put
+
+166
+00:06:05,280 --> 00:06:10,240
+letters it's it's like you know a b c d
+
+167
+00:06:08,080 --> 00:06:12,080
+e f g you know i'm avoiding putting
+
+168
+00:06:10,240 --> 00:06:13,840
+those on because the diagram just kind
+
+169
+00:06:12,080 --> 00:06:15,039
+of dies when you put all like 100
+
+170
+00:06:13,840 --> 00:06:16,479
+letters on there
+
+171
+00:06:15,039 --> 00:06:18,240
+i think you can see those corresponding
+
+172
+00:06:16,479 --> 00:06:20,880
+angles on parallel lines
+
+173
+00:06:18,240 --> 00:06:21,759
+so i see a theta there does that make
+
+174
+00:06:20,880 --> 00:06:23,360
+sense
+
+175
+00:06:21,759 --> 00:06:26,000
+okay
+
+176
+00:06:23,360 --> 00:06:28,560
+now that means that i can work out what
+
+177
+00:06:26,000 --> 00:06:30,319
+this force is over here okay because
+
+178
+00:06:28,560 --> 00:06:32,560
+what you've got is
+
+179
+00:06:30,319 --> 00:06:33,759
+i've formed some right angle triangles
+
+180
+00:06:32,560 --> 00:06:35,360
+in here you're all these forces that are
+
+181
+00:06:33,759 --> 00:06:37,120
+perpendicular to each other that's why
+
+182
+00:06:35,360 --> 00:06:39,039
+i'm resolving that
+
+183
+00:06:37,120 --> 00:06:40,479
+okay now just have a look in this little
+
+184
+00:06:39,039 --> 00:06:41,759
+triangle have a look in this little
+
+185
+00:06:40,479 --> 00:06:44,080
+triangle i'll just draw it over here if
+
+186
+00:06:41,759 --> 00:06:44,080
+you like
+
+187
+00:06:44,240 --> 00:06:49,360
+okay now you've got the horizontal force
+
+188
+00:06:46,639 --> 00:06:51,360
+going this way so this side has this
+
+189
+00:06:49,360 --> 00:06:53,440
+length because remember the length of
+
+190
+00:06:51,360 --> 00:06:55,120
+this is is important it represents how
+
+191
+00:06:53,440 --> 00:06:57,199
+much force there is if it was little
+
+192
+00:06:55,120 --> 00:06:59,280
+it'd be a very small force okay
+
+193
+00:06:57,199 --> 00:07:00,720
+so that's fx and i'm trying to find out
+
+194
+00:06:59,280 --> 00:07:02,639
+what this is
+
+195
+00:07:00,720 --> 00:07:03,919
+right and i've already determined
+
+196
+00:07:02,639 --> 00:07:06,400
+through treatment that's well sorry
+
+197
+00:07:03,919 --> 00:07:09,440
+through geometry but that's the
+
+198
+00:07:06,400 --> 00:07:11,759
+how would you express that side that
+
+199
+00:07:09,440 --> 00:07:11,759
+force
+
+200
+00:07:12,400 --> 00:07:15,880
+question mark
+
+201
+00:07:17,199 --> 00:07:21,039
+i've got um i've got a right angle
+
+202
+00:07:18,880 --> 00:07:23,360
+triangle i can just use right angle
+
+203
+00:07:21,039 --> 00:07:25,280
+triangle tree color what's the ratio
+
+204
+00:07:23,360 --> 00:07:26,080
+that relates these two sides
+
+205
+00:07:25,280 --> 00:07:29,120
+it's
+
+206
+00:07:26,080 --> 00:07:31,039
+cos right cos of theta
+
+207
+00:07:29,120 --> 00:07:32,479
+is adjacent
+
+208
+00:07:31,039 --> 00:07:34,560
+on
+
+209
+00:07:32,479 --> 00:07:36,479
+hypotenuse right
+
+210
+00:07:34,560 --> 00:07:38,880
+so therefore this unknown side which
+
+211
+00:07:36,479 --> 00:07:41,919
+represents this force along the normal
+
+212
+00:07:38,880 --> 00:07:45,680
+direction away from the origin right
+
+213
+00:07:41,919 --> 00:07:47,360
+that force is f x cos theta that's the
+
+214
+00:07:45,680 --> 00:07:49,440
+part of the horizontal force that's
+
+215
+00:07:47,360 --> 00:07:51,599
+going in that direction okay so let me
+
+216
+00:07:49,440 --> 00:07:56,080
+put that in color
+
+217
+00:07:51,599 --> 00:07:57,840
+f x cos theta okay that's good
+
+218
+00:07:56,080 --> 00:07:59,199
+but i'm not done yet i want to know
+
+219
+00:07:57,840 --> 00:08:00,560
+about the part of this because there's
+
+220
+00:07:59,199 --> 00:08:03,120
+another part that's going in this
+
+221
+00:08:00,560 --> 00:08:06,000
+direction along this tangent axis right
+
+222
+00:08:03,120 --> 00:08:06,000
+how am i going to work it out
+
+223
+00:08:07,520 --> 00:08:10,080
+we use corresponding angles to get from
+
+224
+00:08:08,960 --> 00:08:12,400
+here to here
+
+225
+00:08:10,080 --> 00:08:15,360
+right what else can i use
+
+226
+00:08:12,400 --> 00:08:15,360
+look carefully
+
+227
+00:08:15,759 --> 00:08:20,000
+i can do um surely i can do some
+
+228
+00:08:17,840 --> 00:08:21,680
+alternate angles as well right because
+
+229
+00:08:20,000 --> 00:08:23,759
+all these things are perpendicular
+
+230
+00:08:21,680 --> 00:08:26,000
+parallel it looks to me like i have a
+
+231
+00:08:23,759 --> 00:08:27,919
+theta here you see that alternate angles
+
+232
+00:08:26,000 --> 00:08:30,240
+there's your there's your z for zoro
+
+233
+00:08:27,919 --> 00:08:32,399
+okay so i can do the same thing i can
+
+234
+00:08:30,240 --> 00:08:35,360
+replay it i'll save you a bit of time
+
+235
+00:08:32,399 --> 00:08:37,200
+you're going to get f x sine theta
+
+236
+00:08:35,360 --> 00:08:38,479
+in that direction okay you can you can
+
+237
+00:08:37,200 --> 00:08:40,320
+draw yourself up a new triangle just
+
+238
+00:08:38,479 --> 00:08:43,120
+like this but it's not that hard to see
+
+239
+00:08:40,320 --> 00:08:43,120
+okay
