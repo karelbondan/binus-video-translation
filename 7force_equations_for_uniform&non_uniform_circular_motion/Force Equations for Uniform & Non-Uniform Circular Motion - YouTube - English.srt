@@ -1,0 +1,1267 @@
+1
+00:00:00,320 --> 00:00:03,919
+when you have a look at this diagram um
+
+2
+00:00:02,560 --> 00:00:06,720
+it's a bit tricky because you start to
+
+3
+00:00:03,919 --> 00:00:08,559
+get lost in you see why now i didn't put
+
+4
+00:00:06,720 --> 00:00:10,719
+on any more labels because it's it's
+
+5
+00:00:08,559 --> 00:00:12,400
+already pretty confusing okay the first
+
+6
+00:00:10,719 --> 00:00:13,840
+thing you got to do is you've got to try
+
+7
+00:00:12,400 --> 00:00:15,120
+and get theta in the picture you've got
+
+8
+00:00:13,840 --> 00:00:16,080
+to get thinner in the picture so you can
+
+9
+00:00:15,120 --> 00:00:18,080
+do your signs and causes and
+
+10
+00:00:16,080 --> 00:00:20,160
+trigonometry just like we did over here
+
+11
+00:00:18,080 --> 00:00:22,480
+okay i think you can probably see for
+
+12
+00:00:20,160 --> 00:00:23,920
+instance if i go from theta to here
+
+13
+00:00:22,480 --> 00:00:25,840
+right see this angle
+
+14
+00:00:23,920 --> 00:00:27,840
+this is a 90 degree angle because it's
+
+15
+00:00:25,840 --> 00:00:31,279
+the intersection between the horizontal
+
+16
+00:00:27,840 --> 00:00:32,880
+and vertical forces right so being
+
+17
+00:00:31,279 --> 00:00:35,360
+that's a 90 degree angle this is 90
+
+18
+00:00:32,880 --> 00:00:36,800
+minus theta but this is 90 over here
+
+19
+00:00:35,360 --> 00:00:39,120
+that's also a right angle so you've got
+
+20
+00:00:36,800 --> 00:00:40,879
+90 90 minus theta that leaves theta up
+
+21
+00:00:39,120 --> 00:00:42,480
+here does that make sense so you should
+
+22
+00:00:40,879 --> 00:00:44,719
+have it up there in the same way that i
+
+23
+00:00:42,480 --> 00:00:45,600
+did alternate angles in this diagram
+
+24
+00:00:44,719 --> 00:00:48,160
+you've got
+
+25
+00:00:45,600 --> 00:00:49,840
+theta over there as well okay
+
+26
+00:00:48,160 --> 00:00:51,680
+so if you went ahead and drew your
+
+27
+00:00:49,840 --> 00:00:53,440
+triangles carefully what you would have
+
+28
+00:00:51,680 --> 00:00:54,719
+found is you've got
+
+29
+00:00:53,440 --> 00:00:57,120
+this
+
+30
+00:00:54,719 --> 00:00:58,160
+component going along the normal and
+
+31
+00:00:57,120 --> 00:00:59,920
+then you've got where am i going to
+
+32
+00:00:58,160 --> 00:01:01,920
+write it up here
+
+33
+00:00:59,920 --> 00:01:05,199
+this component
+
+34
+00:01:01,920 --> 00:01:06,960
+going along the tangent okay so now we
+
+35
+00:01:05,199 --> 00:01:08,400
+have all of the pieces we have a counter
+
+36
+00:01:06,960 --> 00:01:10,560
+for the horizontal we accounted for the
+
+37
+00:01:08,400 --> 00:01:13,200
+vertical and now we can add everything
+
+38
+00:01:10,560 --> 00:01:15,119
+up okay so we're on a uniform motion
+
+39
+00:01:13,200 --> 00:01:16,240
+okay let's think about the normal first
+
+40
+00:01:15,119 --> 00:01:17,680
+the normal
+
+41
+00:01:16,240 --> 00:01:19,759
+because they're both kind of headed in
+
+42
+00:01:17,680 --> 00:01:21,759
+the same direction does that make sense
+
+43
+00:01:19,759 --> 00:01:24,720
+now when you're doing the normal all you
+
+44
+00:01:21,759 --> 00:01:27,920
+have to do is add up okay well i've got
+
+45
+00:01:24,720 --> 00:01:30,320
+f y sine theta and it's positive because
+
+46
+00:01:27,920 --> 00:01:33,600
+it's going away from the origin and then
+
+47
+00:01:30,320 --> 00:01:35,600
+you've got f y sorry f x
+
+48
+00:01:33,600 --> 00:01:37,680
+cos theta right
+
+49
+00:01:35,600 --> 00:01:40,159
+so that's all good but i know what f y
+
+50
+00:01:37,680 --> 00:01:41,439
+and f x are i spent all that time
+
+51
+00:01:40,159 --> 00:01:43,200
+developing that table going all the way
+
+52
+00:01:41,439 --> 00:01:45,520
+from displacement differentiate all the
+
+53
+00:01:43,200 --> 00:01:47,360
+way down multiply by mass what do you
+
+54
+00:01:45,520 --> 00:01:48,479
+get what is
+
+55
+00:01:47,360 --> 00:01:50,799
+fy
+
+56
+00:01:48,479 --> 00:01:54,000
+times sine theta and if my memory is
+
+57
+00:01:50,799 --> 00:01:57,280
+certainly i think you should get minus m
+
+58
+00:01:54,000 --> 00:01:58,719
+r omega squared i think and then this
+
+59
+00:01:57,280 --> 00:02:01,840
+one was cos theta so you're going to get
+
+60
+00:01:58,719 --> 00:02:01,840
+sine theta cos theta
+
+61
+00:02:06,880 --> 00:02:10,959
+isn't that what i did what have i got
+
+62
+00:02:09,039 --> 00:02:14,640
+oh right sorry it's squared i'm thinking
+
+63
+00:02:10,959 --> 00:02:15,680
+of the other one i'm doing the wrong way
+
+64
+00:02:14,640 --> 00:02:16,640
+better
+
+65
+00:02:15,680 --> 00:02:18,480
+cool
+
+66
+00:02:16,640 --> 00:02:21,040
+you play the same kind of thing with
+
+67
+00:02:18,480 --> 00:02:24,080
+your horizontal force multiplied by cos
+
+68
+00:02:21,040 --> 00:02:27,040
+theta so you're getting this
+
+69
+00:02:24,080 --> 00:02:29,280
+cos squared okay and you're like hold on
+
+70
+00:02:27,040 --> 00:02:31,120
+hold on sine squared plus cos squared
+
+71
+00:02:29,280 --> 00:02:33,280
+just a pythagorean identity there so
+
+72
+00:02:31,120 --> 00:02:35,440
+these both add up to one
+
+73
+00:02:33,280 --> 00:02:38,640
+right so then what are you getting
+
+74
+00:02:35,440 --> 00:02:41,120
+you're just getting minus m r omega
+
+75
+00:02:38,640 --> 00:02:42,879
+squared now just pause for a second do
+
+76
+00:02:41,120 --> 00:02:44,400
+you remember when we played our game and
+
+77
+00:02:42,879 --> 00:02:46,239
+considered
+
+78
+00:02:44,400 --> 00:02:47,760
+the vector in one spot and then the
+
+79
+00:02:46,239 --> 00:02:49,920
+vector in another spot we added them up
+
+80
+00:02:47,760 --> 00:02:51,680
+together and then we compared the change
+
+81
+00:02:49,920 --> 00:02:54,000
+we found the acceleration was pointing
+
+82
+00:02:51,680 --> 00:02:55,519
+toward the origin right and that was
+
+83
+00:02:54,000 --> 00:02:57,360
+kind of like a nice fancy geometric
+
+84
+00:02:55,519 --> 00:02:59,200
+trick but have a look at this can you
+
+85
+00:02:57,360 --> 00:03:02,480
+see why this tells you exactly the same
+
+86
+00:02:59,200 --> 00:03:05,840
+thing right this negative sign means
+
+87
+00:03:02,480 --> 00:03:07,680
+being this away from the center is the
+
+88
+00:03:05,840 --> 00:03:09,280
+positive direction then the negative
+
+89
+00:03:07,680 --> 00:03:13,360
+means you're going back in that
+
+90
+00:03:09,280 --> 00:03:15,519
+direction okay so along this axis
+
+91
+00:03:13,360 --> 00:03:16,879
+that's the force on the normal okay it's
+
+92
+00:03:15,519 --> 00:03:18,400
+pushing you back toward the center the
+
+93
+00:03:16,879 --> 00:03:19,760
+word we had for that was centripetal
+
+94
+00:03:18,400 --> 00:03:21,280
+remember that
+
+95
+00:03:19,760 --> 00:03:23,519
+okay let's have a look at the tangent
+
+96
+00:03:21,280 --> 00:03:24,400
+now right
+
+97
+00:03:23,519 --> 00:03:25,840
+so
+
+98
+00:03:24,400 --> 00:03:28,080
+be careful with this one though because
+
+99
+00:03:25,840 --> 00:03:30,159
+your horizontal force right you see how
+
+100
+00:03:28,080 --> 00:03:32,000
+it contributes this force but it's going
+
+101
+00:03:30,159 --> 00:03:34,080
+in the wrong direction right it's going
+
+102
+00:03:32,000 --> 00:03:35,760
+down this way okay so therefore what
+
+103
+00:03:34,080 --> 00:03:39,040
+you're going to have
+
+104
+00:03:35,760 --> 00:03:41,040
+is f i'm sure write this right fy cos t
+
+105
+00:03:39,040 --> 00:03:42,400
+that's going in the positive direction
+
+106
+00:03:41,040 --> 00:03:44,640
+but then you're going to
+
+107
+00:03:42,400 --> 00:03:47,599
+subtract
+
+108
+00:03:44,640 --> 00:03:49,519
+f x sine theta
+
+109
+00:03:47,599 --> 00:03:50,640
+is that right does that make sense okay
+
+110
+00:03:49,519 --> 00:03:51,599
+now this is what i was thinking of
+
+111
+00:03:50,640 --> 00:03:54,000
+before
+
+112
+00:03:51,599 --> 00:03:55,840
+because f y has the sine in it when you
+
+113
+00:03:54,000 --> 00:03:58,840
+multiply by cos that's going to give you
+
+114
+00:03:55,840 --> 00:04:00,640
+minus m r omega squared
+
+115
+00:03:58,840 --> 00:04:01,439
+sine cos
+
+116
+00:04:00,640 --> 00:04:03,200
+right
+
+117
+00:04:01,439 --> 00:04:05,040
+then you subtract because it's going in
+
+118
+00:04:03,200 --> 00:04:06,799
+the other direction but then when you
+
+119
+00:04:05,040 --> 00:04:08,400
+just substitute this in you've got
+
+120
+00:04:06,799 --> 00:04:09,200
+another minus
+
+121
+00:04:08,400 --> 00:04:11,519
+right
+
+122
+00:04:09,200 --> 00:04:13,360
+and it'll be m r omega squared it'll
+
+123
+00:04:11,519 --> 00:04:14,640
+also be sine theta
+
+124
+00:04:13,360 --> 00:04:15,439
+cos theta
+
+125
+00:04:14,640 --> 00:04:18,560
+right
+
+126
+00:04:15,439 --> 00:04:18,560
+okay so what does this mean
+
+127
+00:04:19,120 --> 00:04:22,720
+it means these two exactly cancel each
+
+128
+00:04:21,199 --> 00:04:24,800
+other out these two are going in
+
+129
+00:04:22,720 --> 00:04:27,360
+opposite directions in the same
+
+130
+00:04:24,800 --> 00:04:32,880
+magnitude right so your force along that
+
+131
+00:04:27,360 --> 00:04:32,880
+tangential axis is zero why is that
+
+132
+00:04:35,919 --> 00:04:39,840
+because
+
+133
+00:04:36,960 --> 00:04:41,600
+the whole scenario we started with
+
+134
+00:04:39,840 --> 00:04:44,160
+was that omega is
+
+135
+00:04:41,600 --> 00:04:46,160
+a constant right so i'm going around at
+
+136
+00:04:44,160 --> 00:04:48,160
+a constant rate i'm not speeding up as i
+
+137
+00:04:46,160 --> 00:04:50,560
+go around i'm not slowing down i'm just
+
+138
+00:04:48,160 --> 00:04:53,280
+going around at a uniform rate so
+
+139
+00:04:50,560 --> 00:04:55,440
+there's no force along this tangent axis
+
+140
+00:04:53,280 --> 00:04:57,680
+that's speeding me up or slowing me down
+
+141
+00:04:55,440 --> 00:04:59,280
+right if this was positive i'd be going
+
+142
+00:04:57,680 --> 00:05:00,880
+faster and faster faster if it was
+
+143
+00:04:59,280 --> 00:05:03,840
+negative i'd be getting slower and
+
+144
+00:05:00,880 --> 00:05:04,720
+slower and slower okay
+
+145
+00:05:03,840 --> 00:05:06,240
+so
+
+146
+00:05:04,720 --> 00:05:07,840
+a couple of things before we leave off
+
+147
+00:05:06,240 --> 00:05:10,320
+uniform motion you might notice you've
+
+148
+00:05:07,840 --> 00:05:12,479
+got your omega there right that means
+
+149
+00:05:10,320 --> 00:05:14,960
+that how long does it take me to go all
+
+150
+00:05:12,479 --> 00:05:16,560
+the way around
+
+151
+00:05:14,960 --> 00:05:17,840
+in other words what's the period of
+
+152
+00:05:16,560 --> 00:05:20,160
+motion because that's how long it takes
+
+153
+00:05:17,840 --> 00:05:22,400
+me to get back to the beginning
+
+154
+00:05:20,160 --> 00:05:23,440
+you can get this straight from omega
+
+155
+00:05:22,400 --> 00:05:25,039
+right
+
+156
+00:05:23,440 --> 00:05:28,720
+how far do you have to go to make one
+
+157
+00:05:25,039 --> 00:05:30,639
+full revolution answer two pi radians
+
+158
+00:05:28,720 --> 00:05:33,440
+right
+
+159
+00:05:30,639 --> 00:05:35,199
+period right this is time this is
+
+160
+00:05:33,440 --> 00:05:38,080
+distance over
+
+161
+00:05:35,199 --> 00:05:40,000
+speed right but speed is omega that's
+
+162
+00:05:38,080 --> 00:05:42,479
+how fast i'm going around
+
+163
+00:05:40,000 --> 00:05:44,479
+right so that's the period okay in
+
+164
+00:05:42,479 --> 00:05:47,039
+exactly the same way you can say what's
+
+165
+00:05:44,479 --> 00:05:48,320
+the frequency
+
+166
+00:05:47,039 --> 00:05:50,479
+how would you work out frequency from
+
+167
+00:05:48,320 --> 00:05:50,479
+that
+
+168
+00:05:50,800 --> 00:05:53,840
+think about it
+
+169
+00:05:55,919 --> 00:05:59,199
+how do we usually go you know when you
+
+170
+00:05:57,120 --> 00:06:01,600
+think your trig functions right
+
+171
+00:05:59,199 --> 00:06:01,600
+these guys
+
+172
+00:06:02,240 --> 00:06:07,280
+which by the way are exactly the same as
+
+173
+00:06:04,400 --> 00:06:08,160
+what you have here okay how do you go
+
+174
+00:06:07,280 --> 00:06:12,479
+from
+
+175
+00:06:08,160 --> 00:06:12,479
+period to frequency period to frequency
+
+176
+00:06:12,880 --> 00:06:15,840
+one over it's just isn't it just the
+
+177
+00:06:14,479 --> 00:06:18,560
+reciprocal of this it's just the
+
+178
+00:06:15,840 --> 00:06:20,160
+reciprocal of this it'll be omega over
+
+179
+00:06:18,560 --> 00:06:22,319
+two pi now it's not that you have to
+
+180
+00:06:20,160 --> 00:06:24,720
+remember those for me personally my
+
+181
+00:06:22,319 --> 00:06:26,720
+brain goes immediately here rather than
+
+182
+00:06:24,720 --> 00:06:28,800
+here but the questions will equally give
+
+183
+00:06:26,720 --> 00:06:30,400
+you either it'll say it goes around a
+
+184
+00:06:28,800 --> 00:06:32,240
+frequency up here 500 whatever's per
+
+185
+00:06:30,400 --> 00:06:34,240
+minute or something like that
+
+186
+00:06:32,240 --> 00:06:36,000
+or they'll tell you it takes me 15
+
+187
+00:06:34,240 --> 00:06:38,400
+seconds to go all the way around so
+
+188
+00:06:36,000 --> 00:06:39,280
+you'll see both of them okay
+
+189
+00:06:38,400 --> 00:06:40,639
+so that's the last thing i'm going to
+
+190
+00:06:39,280 --> 00:06:43,120
+say about uniform circulation before i
+
+191
+00:06:40,639 --> 00:06:45,600
+give you an example
+
+192
+00:06:43,120 --> 00:06:46,800
+i want to mention non-uniform circular
+
+193
+00:06:45,600 --> 00:06:48,160
+motion before we leave off because
+
+194
+00:06:46,800 --> 00:06:49,599
+there's a bunch of questions which are
+
+195
+00:06:48,160 --> 00:06:52,880
+just like this
+
+196
+00:06:49,599 --> 00:06:54,960
+but rather than omega being
+
+197
+00:06:52,880 --> 00:06:57,280
+some kind of constant right what they
+
+198
+00:06:54,960 --> 00:06:59,360
+say is well omega can change right or
+
+199
+00:06:57,280 --> 00:07:00,240
+maybe you can speed up or slow down
+
+200
+00:06:59,360 --> 00:07:03,360
+right
+
+201
+00:07:00,240 --> 00:07:05,280
+now think about it like this
+
+202
+00:07:03,360 --> 00:07:07,680
+how do we get to these forces how do we
+
+203
+00:07:05,280 --> 00:07:09,199
+get to here right well i can do a bit of
+
+204
+00:07:07,680 --> 00:07:11,520
+a shortcut for you remember when we did
+
+205
+00:07:09,199 --> 00:07:14,000
+our diagram
+
+206
+00:07:11,520 --> 00:07:16,479
+we said that velocity we just went from
+
+207
+00:07:14,000 --> 00:07:18,720
+the arc length formula right the
+
+208
+00:07:16,479 --> 00:07:21,599
+velocity along the
+
+209
+00:07:18,720 --> 00:07:23,759
+tangent is equal to now i think remember
+
+210
+00:07:21,599 --> 00:07:25,919
+this right i've got it written down here
+
+211
+00:07:23,759 --> 00:07:27,440
+it's just going to be r times omega
+
+212
+00:07:25,919 --> 00:07:29,120
+right does that make sense and that's
+
+213
+00:07:27,440 --> 00:07:31,280
+how we got that the further you were
+
+214
+00:07:29,120 --> 00:07:33,440
+away from the center you know like that
+
+215
+00:07:31,280 --> 00:07:35,440
+poor person on the outside of the circle
+
+216
+00:07:33,440 --> 00:07:37,039
+okay the faster you had to run right
+
+217
+00:07:35,440 --> 00:07:39,120
+because this gets bigger
+
+218
+00:07:37,039 --> 00:07:42,000
+all right so how would you go to
+
+219
+00:07:39,120 --> 00:07:46,560
+acceleration along the tangent if omega
+
+220
+00:07:42,000 --> 00:07:46,560
+was not a constant if it were a function
+
+221
+00:07:47,919 --> 00:07:51,199
+now i'm not telling you what the
+
+222
+00:07:48,960 --> 00:07:52,639
+function is it could be anything right
+
+223
+00:07:51,199 --> 00:07:53,840
+but the point is well r is going to be a
+
+224
+00:07:52,639 --> 00:07:55,599
+constant so i'm just going to chuck that
+
+225
+00:07:53,840 --> 00:07:59,280
+out the front okay and then you're
+
+226
+00:07:55,599 --> 00:08:01,680
+differentiating with respect to time
+
+227
+00:07:59,280 --> 00:08:04,479
+you're doing this make sense to get to a
+
+228
+00:08:01,680 --> 00:08:06,080
+force you know this kind of thing right
+
+229
+00:08:04,479 --> 00:08:09,360
+the force along the tangent is just
+
+230
+00:08:06,080 --> 00:08:09,360
+going to be just multiplied by mass
+
+231
+00:08:11,599 --> 00:08:14,800
+okay
+
+232
+00:08:12,879 --> 00:08:17,759
+now in order to maintain its
+
+233
+00:08:14,800 --> 00:08:19,680
+circularness okay so that i don't spiral
+
+234
+00:08:17,759 --> 00:08:22,240
+in and like you know sort of crash into
+
+235
+00:08:19,680 --> 00:08:23,759
+the origin or do the reverse not have
+
+236
+00:08:22,240 --> 00:08:26,000
+enough force holding me and so that i
+
+237
+00:08:23,759 --> 00:08:28,319
+just you know i go off and i i don't
+
+238
+00:08:26,000 --> 00:08:30,479
+stay within orbit i suppose okay
+
+239
+00:08:28,319 --> 00:08:31,919
+what you can say is that this is the
+
+240
+00:08:30,479 --> 00:08:34,159
+force along the tangent well the force
+
+241
+00:08:31,919 --> 00:08:36,800
+along the normal has to be exactly the
+
+242
+00:08:34,159 --> 00:08:36,800
+same as this
+
+243
+00:08:37,200 --> 00:08:41,200
+it has to be the same if it's not
+
+244
+00:08:38,640 --> 00:08:43,919
+exactly precisely equal to that you
+
+245
+00:08:41,200 --> 00:08:46,480
+won't get a circle okay and this um this
+
+246
+00:08:43,919 --> 00:08:47,839
+circular motion right that force that
+
+247
+00:08:46,480 --> 00:08:49,920
+you get
+
+248
+00:08:47,839 --> 00:08:51,760
+it can result from a whole variety of
+
+249
+00:08:49,920 --> 00:08:54,959
+things that's pulling you back toward
+
+250
+00:08:51,760 --> 00:08:57,600
+the center for instance it could be
+
+251
+00:08:54,959 --> 00:09:00,560
+now pause for a second think about this
+
+252
+00:08:57,600 --> 00:09:03,200
+think about this okay what's the force
+
+253
+00:09:00,560 --> 00:09:04,959
+keeping the keys
+
+254
+00:09:03,200 --> 00:09:07,040
+in circular motion because there's a
+
+255
+00:09:04,959 --> 00:09:09,279
+force keeping them there otherwise they
+
+256
+00:09:07,040 --> 00:09:11,600
+wouldn't do this right
+
+257
+00:09:09,279 --> 00:09:14,399
+i'm trying the best as i can to make it
+
+258
+00:09:11,600 --> 00:09:18,000
+uniform okay so we've got this zero
+
+259
+00:09:14,399 --> 00:09:18,000
+force okay what's holding it in
+
+260
+00:09:18,800 --> 00:09:23,360
+hmm now we don't usually think of it in
+
+261
+00:09:20,880 --> 00:09:25,440
+these terms right but this um
+
+262
+00:09:23,360 --> 00:09:27,920
+this lanyard right this lanyard is
+
+263
+00:09:25,440 --> 00:09:30,160
+exerting a force okay now just consider
+
+264
+00:09:27,920 --> 00:09:32,160
+this um at the moment
+
+265
+00:09:30,160 --> 00:09:33,360
+i can't oh here we go i'll do it like
+
+266
+00:09:32,160 --> 00:09:34,640
+this right
+
+267
+00:09:33,360 --> 00:09:36,640
+at the moment
+
+268
+00:09:34,640 --> 00:09:38,320
+this lanyard is not exerting any force
+
+269
+00:09:36,640 --> 00:09:40,399
+right because it's um nothing's
+
+270
+00:09:38,320 --> 00:09:42,560
+nothing's holding it tight okay but the
+
+271
+00:09:40,399 --> 00:09:44,880
+second i do this
+
+272
+00:09:42,560 --> 00:09:46,800
+the landing goes out straight right now
+
+273
+00:09:44,880 --> 00:09:49,760
+we have a name for that we call that
+
+274
+00:09:46,800 --> 00:09:51,519
+tension okay there's tension in the
+
+275
+00:09:49,760 --> 00:09:54,160
+what's it called in the lanyard right if
+
+276
+00:09:51,519 --> 00:09:55,680
+there's no tension if it was like say um
+
+277
+00:09:54,160 --> 00:09:56,800
+what's a what's a substance which has an
+
+278
+00:09:55,680 --> 00:09:58,240
+attention like something like plato or
+
+279
+00:09:56,800 --> 00:10:00,320
+something it would just stretch out and
+
+280
+00:09:58,240 --> 00:10:01,680
+it would go forever the force that's
+
+281
+00:10:00,320 --> 00:10:04,160
+pulling
+
+282
+00:10:01,680 --> 00:10:06,240
+um this out right because you know how
+
+283
+00:10:04,160 --> 00:10:08,399
+there's this force right what was the
+
+284
+00:10:06,240 --> 00:10:09,680
+third law of our motion
+
+285
+00:10:08,399 --> 00:10:11,920
+there's gonna be an equal and opposite
+
+286
+00:10:09,680 --> 00:10:13,279
+force going in the other direction right
+
+287
+00:10:11,920 --> 00:10:14,959
+so some people call that centrifugal
+
+288
+00:10:13,279 --> 00:10:17,040
+force right so that reaction force is
+
+289
+00:10:14,959 --> 00:10:19,279
+trying to pull away okay so there's no
+
+290
+00:10:17,040 --> 00:10:21,200
+tension in the lanyard it'll just fly
+
+291
+00:10:19,279 --> 00:10:23,440
+off okay so i should watch this more
+
+292
+00:10:21,200 --> 00:10:26,240
+carefully but there is tension in the
+
+293
+00:10:23,440 --> 00:10:28,240
+string okay in the lanyard and that's
+
+294
+00:10:26,240 --> 00:10:29,760
+this tension here it's holding it in
+
+295
+00:10:28,240 --> 00:10:30,800
+circular motion yeah by the way there's
+
+296
+00:10:29,760 --> 00:10:33,360
+plenty of other things we know in our
+
+297
+00:10:30,800 --> 00:10:34,720
+common experience uh even if we don't i
+
+298
+00:10:33,360 --> 00:10:35,920
+mean we see them up in the sky what
+
+299
+00:10:34,720 --> 00:10:38,079
+other kinds of things are going to hold
+
+300
+00:10:35,920 --> 00:10:40,800
+things in circular motion
+
+301
+00:10:38,079 --> 00:10:43,279
+things like say gravity right so that's
+
+302
+00:10:40,800 --> 00:10:45,040
+holding things like i know you know
+
+303
+00:10:43,279 --> 00:10:47,040
+if i put an earth here
+
+304
+00:10:45,040 --> 00:10:48,959
+there's an earth okay um
+
+305
+00:10:47,040 --> 00:10:50,240
+this thing is exerting that force along
+
+306
+00:10:48,959 --> 00:10:52,079
+the normal and that's gravity we're
+
+307
+00:10:50,240 --> 00:10:53,839
+familiar with that right
+
+308
+00:10:52,079 --> 00:10:55,920
+so this force
+
+309
+00:10:53,839 --> 00:10:58,079
+or that force it's the same thing okay
+
+310
+00:10:55,920 --> 00:11:00,399
+you can get it from gravity
+
+311
+00:10:58,079 --> 00:11:01,600
+you can get it from tension
+
+312
+00:11:00,399 --> 00:11:02,800
+and you can get it from a few other
+
+313
+00:11:01,600 --> 00:11:03,920
+places as well that we're going to
+
+314
+00:11:02,800 --> 00:11:05,839
+notice in
+
+315
+00:11:03,920 --> 00:11:06,720
+the following week okay but that's the
+
+316
+00:11:05,839 --> 00:11:10,079
+important thing that's what this
+
+317
+00:11:06,720 --> 00:11:10,079
+represents okay
