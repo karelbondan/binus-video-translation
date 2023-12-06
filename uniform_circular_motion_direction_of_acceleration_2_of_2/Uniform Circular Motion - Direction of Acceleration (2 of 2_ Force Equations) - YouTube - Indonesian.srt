@@ -1,62 +1,62 @@
 1
 00:00:00,640 --> 00:00:05,040
-mari kita lanjutkan dari bagian terakhir yang kita tinggalkan.
+Mari kita lanjutkan pembelajaran kita... 
 
 2
 00:00:02,639 --> 00:00:05,839
-Kita um sedang atau belum
+Terakhir kita sampai di...
 
 3
 00:00:05,839 --> 00:00:10,719
-memperkenalkan gerakan melingkar ke kanan, jadi demi
+perkenalan tentang gerakan melingkar kan? Jadi, 
 
 4
 00:00:08,639 --> 00:00:13,280
-kepentingan mereka yang belum berada di sini atau
+untuk merekap ulang untuk mereka yang kemarin tidak masuk, atau
 
 5
 00:00:10,719 --> 00:00:15,440
-mereka yang otaknya sudah kalian ketahui, sudah mengosongkan
+untuk mereka yang sudah lupa lagi
 
 6
 00:00:13,280 --> 00:00:16,560
-tempat itu sejak kemarin, mari kita
+padahal baru kemarin kita belajar tentang ini, mari kita
 
 7
 00:00:15,440 --> 00:00:18,080
-ingat dari
+ingat lagi, dari
 
 8
 00:00:16,560 --> 00:00:19,920
-mana kita mulai
+mana kita mulai...
 
 9
 00:00:18,080 --> 00:00:21,520
-kami pergi ke luar, kami melakukan demonstrasi
+kita pergi ke luar kelas, kita melakukan contoh praktisnya, 
 
 10
 00:00:19,920 --> 00:00:23,039
-dan kami melihat beberapa vektor, kami melihatnya
+dan kita belajar tentang vektor. Kita menggambarkannya
 
 11
 00:00:21,520 --> 00:00:26,080
-secara visual, dan kami melihat itu
+secara visual, dan kita pikir "wih, keren!"
 
 12
 00:00:23,039 --> 00:00:27,760
-keren, tetapi kami melihatnya dengan baik, secara visual, itu bagus,
+Kita melihatnya dengan baik secara visual, itu bagus,
 
 13
 00:00:26,080 --> 00:00:30,800
-tetapi kami menginginkan sesuatu yang sedikit lebih
+tapi kita ingin sesuatu yang sedikit lebih
 
 14
 00:00:27,760 --> 00:00:32,239
-konkrit dan dapat dimanipulasi,
+konkrit dan dapat lebih dimanipulasi.
 
 15
 00:00:30,800 --> 00:00:34,079
-jadi apa yang kami lakukan adalah kami  mulai berpikir
+Jadi kemarin kita mulai berpikir
 
 16
 00:00:32,239 --> 00:00:36,480
@@ -64,7 +64,7 @@ tentang komponen horizontal dan vertikal
 
 17
 00:00:34,079 --> 00:00:37,840
-dari
+dari...
 
 18
 00:00:36,480 --> 00:00:39,760
@@ -72,79 +72,79 @@ suatu objek
 
 19
 00:00:37,840 --> 00:00:41,840
-yang bergerak pastikan saya tidak melukai
+yang bergerak secara... saya harap ini tidak 
 
 20
 00:00:39,760 --> 00:00:42,960
-siapa pun yang bergerak dalam lingkaran oke jadi kami
+mengenai siapapun... bergerak secara melingkar. Jadi kita
 
 21
 00:00:41,840 --> 00:00:44,960
-ingin memahami ini Anda ingin melihat
+ingin memahami ini, kita ingin melihat
 
 22
 00:00:42,960 --> 00:00:47,120
-apa yang terjadi dan jadi kami pikir oke
+apa yang terjadi, dan kemudian kita berpikir, 
 
 23
 00:00:44,960 --> 00:00:49,680
-seperti dengan proyektil  gerak kita
+seperti halnya dengan gerak proyektil, kita
 
 24
 00:00:47,120 --> 00:00:52,000
-memikirkan komponen horizontal dan vertikal
+juga memikirkan komponen horizontal dan vertikal,
 
 25
 00:00:49,680 --> 00:00:53,600
-dan kemudian kita bisa mulai dari sana jadi
+dan kemudian kita bisa mulai dari sana. Jadi
 
 26
 00:00:52,000 --> 00:00:55,039
-ingatkah Anda
+ingatkah Anda...
 
 27
 00:00:53,600 --> 00:00:57,600
-untuk perpindahan berapa
+untuk perpindahan, apa
 
 28
 00:00:55,039 --> 00:01:02,640
-persamaan horizontal dan vertikal kita? kita punya
+persamaan horizontal dan vertikalnya? Kita punya
 
 29
 00:00:57,600 --> 00:01:02,640
-x sama dan y sama x sama dengan
+x sama dengan dan y sama dengan. X sama dengan...?
 
 30
 00:01:03,039 --> 00:01:11,040
-kita pikir parametrik kan r kali
+kita pikirkan tentang parametrik kan?... r dikali
 
 31
 00:01:07,840 --> 00:01:12,640
-cos theta kita  akan mencapai omega dalam hitungan detik,
+cos theta. Kita akan bahas omega nanti.
 
 32
 00:01:11,040 --> 00:01:14,960
-tepat omega masuk ketika kita harus melakukan
+Omega akan digunakan ketika kita harus menghitung
 
 33
 00:01:12,640 --> 00:01:16,640
-laju perubahan ke langkah berikutnya
+laju perubahan di langkah berikutnya. 
 
 34
 00:01:14,960 --> 00:01:19,360
-sebaliknya y koordinat Anda akan
+Sebaliknya, di koordinat y persamaannya 
 
 35
 00:01:16,640 --> 00:01:21,200
-mendapatkan r sine theta yang bagus
+adalah r sin theta.
 
 36
 00:01:19,360 --> 00:01:22,799
-jadi di sinilah kita mulai
+Jadi di sinilah kemarin kita mulai.
 
 37
 00:01:21,200 --> 00:01:24,799
-sekarang seperti biasa ketika Anda  mulai dari
+Sekarang, seperti biasa ketika Anda mulai dari
 
 38
 00:01:22,799 --> 00:01:26,720
@@ -152,43 +152,43 @@ perpindahan, kecepatan, hingga percepatan,
 
 39
 00:01:24,799 --> 00:01:29,200
-Anda membedakannya berdasarkan
+Anda mendiferensialkannya berdasarkan/sejajar dengan
 
 40
 00:01:26,720 --> 00:01:31,439
-waktu, tetapi kemudian kami perhatikan bahwa itu bukan
+waktu, tetapi kemudian kita sadar bahwa itu tidak
 
 41
 00:01:29,200 --> 00:01:33,520
-dalam istilah waktu, melainkan dalam istilah theta,
+sejajar dengan waktu, melainkan sejajar dengan theta,
 
 42
 00:01:31,439 --> 00:01:36,000
-jadi kami harus melakukan sedikit
+jadi kita harus melakukan perhitungan berdasarkan
 
 43
 00:01:33,520 --> 00:01:38,320
-aturan rantai gerak kaki yang bagus, oke, tetapi Anda mungkin
+aturan rantai, oke, dan Anda mungkin
 
 44
 00:01:36,000 --> 00:01:42,960
-ingat apa  kita berakhir dengan apakah
+ingat kemarin kita pakai apa...
 
 45
 00:01:38,320 --> 00:01:44,720
-kita menggunakan omega kita
+kita pakai omega kan?
 
 46
 00:01:42,960 --> 00:01:48,640
-dengan benar dan Anda ingat apa itu omega
+Dan Anda ingat apa itu omega?
 
 47
 00:01:44,720 --> 00:01:48,640
-tentang berapa kuantitas
+Apa arti dari omega?
 
 48
 00:01:50,960 --> 00:01:56,560
-omega itu tentang kecepatan sudut dengan
+Omega adalah kecepatan sudut, dengan
 
 49
 00:01:54,479 --> 00:01:59,040
@@ -196,99 +196,99 @@ kata lain itu adalah perubahan sudut
 
 50
 00:01:56,560 --> 00:02:02,159
-saat Anda berputar oke jadi hanya untuk
+saat Anda berputar. Oke, jadi hanya untuk
 
 51
 00:01:59,040 --> 00:02:03,600
-mengingatkan Anda bahwa  adalah d theta di dt oke
+mengingatkan lagi, rumusnya adalah d theta per dt.
 
 52
 00:02:02,159 --> 00:02:06,240
-jadi kita mendapatkan hasil ini maaf saya
+Jadi hasilnya adalah ini. Maaf... di sini harusnya
 
 53
 00:02:03,600 --> 00:02:07,680
-seharusnya mengatakan dx di dt
+dx per dt.
 
 54
 00:02:06,240 --> 00:02:09,679
-dan kemudian Anda dapat memainkan
+Kemudian Anda bisa menggunakan
 
 55
 00:02:07,680 --> 00:02:11,360
-permainan serupa dengan y
+konsep yang serupa untuk y: kecepatan vertikalnya... 
 
 56
 00:02:11,360 --> 00:02:15,440
-kecepatan vertikal Anda benar dan ini adalah r sine theta
+dan rumusnya adalah r sin theta,
 
 57
 00:02:14,239 --> 00:02:18,160
-sehingga Anda tidak mendapatkan hasil negatif  bagian
+sehingga Anda tidak mendapatkan hasil negatif di bagian
 
 58
 00:02:15,440 --> 00:02:20,239
-depan kamu baru saja mendapatkan r omega
+depan, Anda hanya akan dapat r omega 
 
 59
 00:02:18,160 --> 00:02:22,800
-cos theta oke
+cos theta. Oke,
 
 60
 00:02:20,239 --> 00:02:24,720
-jadi menurutku di situlah aku meninggalkanmu
+jadi kira-kira kita kemarin sampai di sini,
 
 61
 00:02:22,800 --> 00:02:26,879
-kemarin tepat
+ya kan?
 
 62
 00:02:24,720 --> 00:02:28,000
-ketika kamu menuruni tangga dan
+Ketika Anda menuruni tangga dan
 
 63
 00:02:26,879 --> 00:02:30,000
-kamu membedakannya hanya
+Anda mendiferensialkannya dengan hanya
 
 64
 00:02:28,000 --> 00:02:31,200
-sehubungan dengan waktu lagi kamu harus melakukan hal yang
+sehubungan dengan waktu, kamu harus melakukan hal yang
 
 65
 00:02:30,000 --> 00:02:33,280
-sama  hal yang harus kamu
+sama; Anda harus pakai
 
 66
 00:02:31,200 --> 00:02:36,319
-perkenalkan omega lagi karena kamu
+omega lagi karena ini 
 
 67
 00:02:33,280 --> 00:02:37,840
-masih belum berkenaan dengan waktu oke jadi
+masih belum berkenaan dengan waktu. Oke, jadi
 
 68
 00:02:36,319 --> 00:02:39,920
-kamu mendapatkan
+rumusnya adalah...
 
 69
 00:02:37,840 --> 00:02:42,400
-ini adalah turunan kedua kita akan mengerjakan
+ini adalah turunan kedua... kita akan mengerjakan
 
 70
 00:02:39,920 --> 00:02:43,840
-x yang pertama oke jadi itu hanya
+x dulu. Oke, jadi itu hanyalah sebuah
 
 71
 00:02:42,400 --> 00:02:46,239
-turunan dari
+turunan dari ini;
 
 72
 00:02:43,840 --> 00:02:50,640
-turunan ini terhadap waktu  dari minus
+turunan terhadap waktu dikali minus
 
 73
 00:02:46,239 --> 00:02:53,519
-r omega sine theta kanan jari-jari dan
+r omega sin theta. Jari-jari dan
 
 74
 00:02:50,640 --> 00:02:55,200
@@ -296,43 +296,43 @@ kecepatan sudut dalam
 
 75
 00:02:53,519 --> 00:02:56,959
-gerak melingkar beraturan itulah intinya
+gerak melingkar beraturan, itulah inti dari semua ini.
 
 76
 00:02:55,200 --> 00:02:58,720
-keduanya konstan jadi saya akan
+Keduanya konstan, jadi saya akan
 
 77
 00:02:56,959 --> 00:03:01,519
-merobeknya di depan
+memindahkannya di depan.
 
 78
 00:02:58,720 --> 00:03:03,680
-minus r omega oke
+Minus r omega...
 
 79
 00:03:01,519 --> 00:03:06,000
-dan secara bersamaan saya tidak melakukannya  ingin
+Dan secara bersamaan saya tidak ingin 
 
 80
 00:03:03,680 --> 00:03:07,519
-membedakan terhadap waktu saya
+mendiferensialkannya berdasarkan waktu; saya
 
 81
 00:03:06,000 --> 00:03:10,400
-ingin membedakan terhadap
+ingin mendiferensialkannya berdasarkan
 
 82
 00:03:07,519 --> 00:03:12,560
-theta kan jadi saya melakukan ini saya katakan baiklah mari
+theta. Jadi, saya akan lakukan ini; mari
 
 83
 00:03:10,400 --> 00:03:15,200
-kita buat itu sehubungan dengan theta
+kita buat itu berdasarkan theta.
 
 84
 00:03:12,560 --> 00:03:16,800
-saya punya sinus theta di sana tetapi untuk
+Saya punya sin theta di sana, tetapi untuk
 
 85
 00:03:15,200 --> 00:03:18,959
@@ -340,51 +340,51 @@ mengimbanginya
 
 86
 00:03:16,800 --> 00:03:20,400
-saya perlu mengalikannya dengan d theta pada  dt
+saya perlu mengalikannya dengan d theta per dt
 
 87
 00:03:18,959 --> 00:03:22,800
-ada aturan rantai yang terjadi
+Di sinilah aturan rantainya terjadi.
 
 88
 00:03:20,400 --> 00:03:25,040
-di sana jadi d theta Anda tidak bisa d
+Jadi d thetanya... 
 
 89
 00:03:22,800 --> 00:03:26,560
-thetas d membatalkan thetas Anda batal meninggalkan
+d thetanya akan habis dibagi, yang mana akan menghasilkan
 
 90
 00:03:25,040 --> 00:03:30,159
-Anda dengan dt yang Anda miliki di
+d per dt yang sudah kita tulis di awal tadi.
 
 91
 00:03:26,560 --> 00:03:30,159
-awal sejauh ini sangat bagus
+Apa kalian paham?
 
 92
 00:03:30,799 --> 00:03:37,120
-hanya omega itulah omega yang akan
+Yang itu akan jadi omega saja, dan akan dipindahkan
 
 93
 00:03:32,959 --> 00:03:38,959
-keluar  di sini akan menjadi minus r omega
+ke sini, yang akan menjadi minus r omega
 
 94
 00:03:37,120 --> 00:03:42,080
-kuadrat dan kemudian turunan
+kuadrat, dan kemudian turunan
 
 95
 00:03:38,959 --> 00:03:42,080
-dendanya hanya karena
+dari sin adalah cos. 
 
 96
 00:03:42,239 --> 00:03:46,799
-itu bagus oke sekarang Anda dapat melakukan
+Bagus, oke sekarang Anda dapat melakukan
 
 97
 00:03:45,040 --> 00:03:48,400
-hal yang persis sama di sini saya
+hal yang persis di sini. Saya
 
 98
 00:03:46,799 --> 00:03:50,560
@@ -392,47 +392,47 @@ akan melewatkannya karena
 
 99
 00:03:48,400 --> 00:03:51,760
-relatif sepele kan,
+relatif sepele kan?
 
 100
 00:03:50,560 --> 00:03:53,920
-begitu pula yang terjadi  harus
+Di sana langkah-langkahnya akan sama saja, 
 
 101
 00:03:51,760 --> 00:03:56,319
-sama persis kecuali dengan sebab, bukan sinus,
+tapi sin diganti dengan cos, cos diganti sin,
 
 102
 00:03:53,920 --> 00:03:59,200
-dan seterusnya, Anda akan mendapatkan d kuadrat
+dan seterusnya. Di sini akan menjadi d kuadrat
 
 103
 00:03:56,319 --> 00:04:00,959
-y pada dt kuadrat
+y per dt kuadrat.
 
 104
 00:03:59,200 --> 00:04:03,760
-percepatan vertikal oke,
+Percepatan vertikalnya... 
 
 105
 00:04:00,959 --> 00:04:05,280
-hasilnya akan menjadi minus r omega kuadrat,
+adalah minus r omega kuadrat,
 
 106
 00:04:03,760 --> 00:04:07,040
-Anda melakukan hal yang sama
+langkah selanjutnya sama saja; 
 
 107
 00:04:05,280 --> 00:04:08,319
-dan cos akan berubah  tanda dua arah
+cos yang di situ akan berubah menjadi sin.
 
 108
 00:04:08,319 --> 00:04:11,840
-oke
+Oke,
 
 109
 00:04:10,000 --> 00:04:13,599
-jadi hanya ada lompatan cepat dari
+selanjutnya hanya akan ada perubahan cepat dari 
 
 110
 00:04:11,840 --> 00:04:14,720
@@ -448,43 +448,43 @@ gaya?
 
 113
 00:04:15,599 --> 00:04:18,639
-Massa bagus jadi kita hanya akan
+Massa, bagus! Jadi kita hanya akan
 
 114
 00:04:16,720 --> 00:04:20,479
-mengalikannya jadi
+mengalikannya. Jadi
 
 115
 00:04:18,639 --> 00:04:22,479
-inilah yang secara tradisional kita sebut ini.
+inilah... secara tradisional kita menyebut ini...
 
 116
 00:04:20,479 --> 00:04:24,479
-Anda tahu f untuk gaya tapi saya punya  ada dua
+tahu kan? F untuk gaya, tapi ada dua 
 
 117
 00:04:22,479 --> 00:04:26,320
-gaya yang berbeda di sini dan sebentar lagi
+gaya yang berbeda di sini, dan sebentar lagi
 
 118
 00:04:24,479 --> 00:04:28,960
-aku akan mendapat dua gaya lagi jadi aku
+saya akan mendapat dua gaya lagi. Jadi saya
 
 119
 00:04:26,320 --> 00:04:31,360
-akan menyebutnya gaya x dan
+akan menyebut yang ini x dan
 
 120
 00:04:28,960 --> 00:04:33,120
-y supaya aku bisa membedakannya
+yang ini y, supaya saya bisa membedakannya.
 
 121
 00:04:31,360 --> 00:04:35,759
-dan ini akan menjadi gaya kali massa
+Dan rumus yang ini adalah persamaan ini dikali massa;
 
 122
 00:04:33,120 --> 00:04:37,840
-kali massa percepatan kan  jadi
+gaya sama dengan massa dikali percepatan. Jadi,
 
 123
 00:04:35,759 --> 00:04:40,240
@@ -492,20 +492,20 @@ kamu mendapatkan minus
 
 124
 00:04:37,840 --> 00:04:41,040
-m r omega kuadrat
+m r omega kuadrat.
 
 125
 00:04:40,240 --> 00:04:45,280
-itu
+Itu...
 
 126
 00:04:41,040 --> 00:04:46,240
-dan minus m r me kuadrat
+dan minus m r omega kuadrat
 
 127
 00:04:45,280 --> 00:04:49,919
-yang
+untuk yang ini. 
 
 128
 00:04:46,240 --> 00:04:49,919
-keren ini bagus
+Bagus, bagus sekali (Alih bahasa oleh Karel Bondan)
