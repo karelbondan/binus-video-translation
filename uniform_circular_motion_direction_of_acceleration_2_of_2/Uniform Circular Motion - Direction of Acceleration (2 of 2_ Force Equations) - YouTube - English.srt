@@ -1,0 +1,523 @@
+1
+00:00:00,640 --> 00:00:05,040
+let's pick up where we left off
+
+2
+00:00:02,639 --> 00:00:05,839
+we were um midway through or not way
+
+3
+00:00:05,040 --> 00:00:08,639
+through
+
+4
+00:00:05,839 --> 00:00:10,719
+introducing circular motion right so for
+
+5
+00:00:08,639 --> 00:00:13,280
+the benefit of those who weren't here or
+
+6
+00:00:10,719 --> 00:00:15,440
+those whose brains have you know vacated
+
+7
+00:00:13,280 --> 00:00:16,560
+the premises since yesterday let's just
+
+8
+00:00:15,440 --> 00:00:18,080
+remember
+
+9
+00:00:16,560 --> 00:00:19,920
+where did we begin
+
+10
+00:00:18,080 --> 00:00:21,520
+we went outside we did our demonstration
+
+11
+00:00:19,920 --> 00:00:23,039
+and we looked at some vectors we looked
+
+12
+00:00:21,520 --> 00:00:26,080
+at them visually and we saw that was
+
+13
+00:00:23,039 --> 00:00:27,760
+cool but we saw well visually is nice
+
+14
+00:00:26,080 --> 00:00:30,800
+but we want something a little more
+
+15
+00:00:27,760 --> 00:00:32,239
+concrete and manipulable than that right
+
+16
+00:00:30,800 --> 00:00:34,079
+so what we did was we started to think
+
+17
+00:00:32,239 --> 00:00:36,480
+about the horizontal and vertical
+
+18
+00:00:34,079 --> 00:00:37,840
+components of
+
+19
+00:00:36,480 --> 00:00:39,760
+an object
+
+20
+00:00:37,840 --> 00:00:41,840
+that is moving in make sure i don't hurt
+
+21
+00:00:39,760 --> 00:00:42,960
+anyone moving in a circle okay so we
+
+22
+00:00:41,840 --> 00:00:44,960
+want to understand this you want to see
+
+23
+00:00:42,960 --> 00:00:47,120
+what's going on and so we thought okay
+
+24
+00:00:44,960 --> 00:00:49,680
+as with projectile motion we thought
+
+25
+00:00:47,120 --> 00:00:52,000
+about horizontal and vertical components
+
+26
+00:00:49,680 --> 00:00:53,600
+and then we could go from there right so
+
+27
+00:00:52,000 --> 00:00:55,039
+do you remember
+
+28
+00:00:53,600 --> 00:00:57,600
+for displacement what were our
+
+29
+00:00:55,039 --> 00:01:02,640
+horizontal and vertical equations we had
+
+30
+00:00:57,600 --> 00:01:02,640
+an x equals and a y equals x is equal to
+
+31
+00:01:03,039 --> 00:01:11,040
+we thought parametrics right r times
+
+32
+00:01:07,840 --> 00:01:12,640
+cos theta we'll get to omega in a second
+
+33
+00:01:11,040 --> 00:01:14,960
+right omega comes in when we have to do
+
+34
+00:01:12,640 --> 00:01:16,640
+the rate of change down to the next step
+
+35
+00:01:14,960 --> 00:01:19,360
+conversely y coordinate you're going to
+
+36
+00:01:16,640 --> 00:01:21,200
+get r sine theta good
+
+37
+00:01:19,360 --> 00:01:22,799
+so this is where we began
+
+38
+00:01:21,200 --> 00:01:24,799
+now as usual when you go from
+
+39
+00:01:22,799 --> 00:01:26,720
+displacement to velocity to acceleration
+
+40
+00:01:24,799 --> 00:01:29,200
+you're differentiating with respect to
+
+41
+00:01:26,720 --> 00:01:31,439
+time but then we noticed that that's not
+
+42
+00:01:29,200 --> 00:01:33,520
+in terms of time it's in terms of theta
+
+43
+00:01:31,439 --> 00:01:36,000
+so we had to do a little bit of chain
+
+44
+00:01:33,520 --> 00:01:38,320
+rule fancy footwork okay but you may
+
+45
+00:01:36,000 --> 00:01:42,960
+remember what we ended up with was
+
+46
+00:01:38,320 --> 00:01:44,720
+we used our omega
+
+47
+00:01:42,960 --> 00:01:48,640
+right and you remember what was omega
+
+48
+00:01:44,720 --> 00:01:48,640
+about what what quantity is that
+
+49
+00:01:50,960 --> 00:01:56,560
+omega is about angular velocity right in
+
+50
+00:01:54,479 --> 00:01:59,040
+other words it's the change in the angle
+
+51
+00:01:56,560 --> 00:02:02,159
+as you're going around okay so just to
+
+52
+00:01:59,040 --> 00:02:03,600
+remind you that was d theta on dt okay
+
+53
+00:02:02,159 --> 00:02:06,240
+so we got this result sorry i should
+
+54
+00:02:03,600 --> 00:02:07,680
+have said dx on dt
+
+55
+00:02:06,240 --> 00:02:09,679
+and then you can play the similar kind
+
+56
+00:02:07,680 --> 00:02:11,360
+of game with y
+
+57
+00:02:09,679 --> 00:02:14,239
+your vertical
+
+58
+00:02:11,360 --> 00:02:15,440
+velocity right and this is r sine theta
+
+59
+00:02:14,239 --> 00:02:18,160
+so you don't get a negative out the
+
+60
+00:02:15,440 --> 00:02:20,239
+front you're just getting r omega
+
+61
+00:02:18,160 --> 00:02:22,800
+cos theta okay
+
+62
+00:02:20,239 --> 00:02:24,720
+so i think that's where i left you
+
+63
+00:02:22,800 --> 00:02:26,879
+yesterday right
+
+64
+00:02:24,720 --> 00:02:28,000
+when you're going down the ladder and
+
+65
+00:02:26,879 --> 00:02:30,000
+you're differentiating with just with
+
+66
+00:02:28,000 --> 00:02:31,200
+respect to time again you have to do the
+
+67
+00:02:30,000 --> 00:02:33,280
+same kind of thing you've got to
+
+68
+00:02:31,200 --> 00:02:36,319
+introduce omega again because you're
+
+69
+00:02:33,280 --> 00:02:37,840
+still not with respect to time okay so
+
+70
+00:02:36,319 --> 00:02:39,920
+you're getting
+
+71
+00:02:37,840 --> 00:02:42,400
+this is the second derivative we'll do
+
+72
+00:02:39,920 --> 00:02:43,840
+the x's first okay so it's just the
+
+73
+00:02:42,400 --> 00:02:46,239
+derivative of this
+
+74
+00:02:43,840 --> 00:02:50,640
+derivative with respect to time of minus
+
+75
+00:02:46,239 --> 00:02:53,519
+r omega sine theta right the radius and
+
+76
+00:02:50,640 --> 00:02:55,200
+the angular velocity in uniform circular
+
+77
+00:02:53,519 --> 00:02:56,959
+motion that's what this is all about
+
+78
+00:02:55,200 --> 00:02:58,720
+they're both constants so i'm just going
+
+79
+00:02:56,959 --> 00:03:01,519
+to rip them at the front
+
+80
+00:02:58,720 --> 00:03:03,680
+minus r omega okay
+
+81
+00:03:01,519 --> 00:03:06,000
+and simultaneously i don't want to
+
+82
+00:03:03,680 --> 00:03:07,519
+differentiate with respect to time i
+
+83
+00:03:06,000 --> 00:03:10,400
+want to differentiate with respect to
+
+84
+00:03:07,519 --> 00:03:12,560
+theta right so i do this i say well
+
+85
+00:03:10,400 --> 00:03:15,200
+let's make that with respect to theta
+
+86
+00:03:12,560 --> 00:03:16,800
+i've got a sine theta in there but to
+
+87
+00:03:15,200 --> 00:03:18,959
+compensate
+
+88
+00:03:16,800 --> 00:03:20,400
+i need to multiply by d theta on dt
+
+89
+00:03:18,959 --> 00:03:22,800
+there's the chain rule thing happening
+
+90
+00:03:20,400 --> 00:03:25,040
+there so your d theta you can't the d
+
+91
+00:03:22,800 --> 00:03:26,560
+thetas d cancel your thetas cancel leave
+
+92
+00:03:25,040 --> 00:03:30,159
+you with that dt that you had with at
+
+93
+00:03:26,560 --> 00:03:30,159
+the start so far so good
+
+94
+00:03:30,799 --> 00:03:37,120
+that's just omega that omega is going to
+
+95
+00:03:32,959 --> 00:03:38,959
+come out here it'll become minus r omega
+
+96
+00:03:37,120 --> 00:03:42,080
+squared and then the derivative of the
+
+97
+00:03:38,959 --> 00:03:42,080
+fine is just cos
+
+98
+00:03:42,239 --> 00:03:46,799
+that's good okay now you can do exactly
+
+99
+00:03:45,040 --> 00:03:48,400
+the same thing over here i'm just going
+
+100
+00:03:46,799 --> 00:03:50,560
+to kind of skip it because it's
+
+101
+00:03:48,400 --> 00:03:51,760
+relatively trivial right
+
+102
+00:03:50,560 --> 00:03:53,920
+similarly it's going to be exactly the
+
+103
+00:03:51,760 --> 00:03:56,319
+same except with causes instead of sines
+
+104
+00:03:53,920 --> 00:03:59,200
+and so on you're going to get d squared
+
+105
+00:03:56,319 --> 00:04:00,959
+y on dt squared the vertical
+
+106
+00:03:59,200 --> 00:04:03,760
+acceleration okay
+
+107
+00:04:00,959 --> 00:04:05,280
+it's going to be minus r omega squared
+
+108
+00:04:03,760 --> 00:04:07,040
+you do the same thing
+
+109
+00:04:05,280 --> 00:04:08,319
+and that cos is going to turn two-way
+
+110
+00:04:07,040 --> 00:04:10,000
+sign
+
+111
+00:04:08,319 --> 00:04:11,840
+okay
+
+112
+00:04:10,000 --> 00:04:13,599
+so then there's only a quick hop from
+
+113
+00:04:11,840 --> 00:04:14,720
+acceleration to force what's the
+
+114
+00:04:13,599 --> 00:04:15,599
+difference between acceleration and
+
+115
+00:04:14,720 --> 00:04:16,720
+force
+
+116
+00:04:15,599 --> 00:04:18,639
+mass good so we're just going to
+
+117
+00:04:16,720 --> 00:04:20,479
+multiply so
+
+118
+00:04:18,639 --> 00:04:22,479
+this is we traditionally called these
+
+119
+00:04:20,479 --> 00:04:24,479
+you know f for force but i've got two
+
+120
+00:04:22,479 --> 00:04:26,320
+different forces here and in a second
+
+121
+00:04:24,479 --> 00:04:28,960
+i'm going to get two more right so i'm
+
+122
+00:04:26,320 --> 00:04:31,360
+going to call this the x one and the y
+
+123
+00:04:28,960 --> 00:04:33,120
+one just so i can distinguish
+
+124
+00:04:31,360 --> 00:04:35,759
+and it's just gonna be this times mass
+
+125
+00:04:33,120 --> 00:04:37,840
+forces mass times acceleration right so
+
+126
+00:04:35,759 --> 00:04:40,240
+you're getting minus
+
+127
+00:04:37,840 --> 00:04:41,040
+m r omega squared
+
+128
+00:04:40,240 --> 00:04:45,280
+that
+
+129
+00:04:41,040 --> 00:04:46,240
+and minus m r me squared
+
+130
+00:04:45,280 --> 00:04:49,919
+that
+
+131
+00:04:46,240 --> 00:04:49,919
+cool this is good
