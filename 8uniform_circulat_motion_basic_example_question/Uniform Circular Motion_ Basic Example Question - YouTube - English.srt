@@ -1,0 +1,611 @@
+1
+00:00:00,480 --> 00:00:04,240
+now what i want to work out is
+
+2
+00:00:02,800 --> 00:00:06,480
+these four things let's get all the
+
+3
+00:00:04,240 --> 00:00:08,000
+information down and then let's work out
+
+4
+00:00:06,480 --> 00:00:10,160
+in terms of rather than the language
+
+5
+00:00:08,000 --> 00:00:11,759
+that they give us like we have all these
+
+6
+00:00:10,160 --> 00:00:13,200
+fancy labels that are sort of helpful
+
+7
+00:00:11,759 --> 00:00:14,160
+markers for us what are we trying to
+
+8
+00:00:13,200 --> 00:00:15,360
+work out
+
+9
+00:00:14,160 --> 00:00:17,760
+so they don't give you much information
+
+10
+00:00:15,360 --> 00:00:20,480
+do they um they say okay it's it's
+
+11
+00:00:17,760 --> 00:00:22,400
+uniform circular motion that's nice it
+
+12
+00:00:20,480 --> 00:00:24,080
+doesn't look the same ring to it as
+
+13
+00:00:22,400 --> 00:00:25,920
+simple harmonic motion but anyway you'll
+
+14
+00:00:24,080 --> 00:00:30,080
+get used to it it's uniform circular
+
+15
+00:00:25,920 --> 00:00:33,840
+motion you've got a um a radius of two
+
+16
+00:00:30,080 --> 00:00:36,160
+and it's traveling at 80 revolutions per
+
+17
+00:00:33,840 --> 00:00:38,320
+minute which by the way turns out to be
+
+18
+00:00:36,160 --> 00:00:40,719
+very important in a second okay
+
+19
+00:00:38,320 --> 00:00:43,120
+now what are we trying to work out part
+
+20
+00:00:40,719 --> 00:00:45,200
+a they want angular velocity what's our
+
+21
+00:00:43,120 --> 00:00:46,719
+name for angular velocity
+
+22
+00:00:45,200 --> 00:00:49,039
+omega good
+
+23
+00:00:46,719 --> 00:00:51,520
+so we'll work out that in a second b
+
+24
+00:00:49,039 --> 00:00:54,640
+they want the speed speed how do you
+
+25
+00:00:51,520 --> 00:00:54,640
+work out speed
+
+26
+00:00:55,920 --> 00:01:01,520
+it's going to be now
+
+27
+00:00:58,879 --> 00:01:03,600
+there's a change in angle but then we
+
+28
+00:01:01,520 --> 00:01:05,280
+want the change in the arc length so
+
+29
+00:01:03,600 --> 00:01:07,680
+getting to our clip you're just going to
+
+30
+00:01:05,280 --> 00:01:09,520
+be multiplying by the radius it's not
+
+31
+00:01:07,680 --> 00:01:10,799
+very hard okay
+
+32
+00:01:09,520 --> 00:01:13,200
+that make sense
+
+33
+00:01:10,799 --> 00:01:14,159
+yes no okay
+
+34
+00:01:13,200 --> 00:01:16,640
+see
+
+35
+00:01:14,159 --> 00:01:17,360
+the magnitude of the acceleration so you
+
+36
+00:01:16,640 --> 00:01:19,280
+got
+
+37
+00:01:17,360 --> 00:01:21,840
+acceleration but you just want the
+
+38
+00:01:19,280 --> 00:01:23,680
+magnitude just the size okay and then
+
+39
+00:01:21,840 --> 00:01:25,520
+the last thing
+
+40
+00:01:23,680 --> 00:01:27,360
+you want the period okay let's go
+
+41
+00:01:25,520 --> 00:01:30,560
+through them one by one
+
+42
+00:01:27,360 --> 00:01:32,560
+that's an a sorry
+
+43
+00:01:30,560 --> 00:01:35,360
+how do we work out and give a lot um
+
+44
+00:01:32,560 --> 00:01:38,840
+velocity well you've got it going around
+
+45
+00:01:35,360 --> 00:01:41,280
+80 times per minute right 80 times per
+
+46
+00:01:38,840 --> 00:01:42,880
+minute let's take that as our starting
+
+47
+00:01:41,280 --> 00:01:45,920
+point
+
+48
+00:01:42,880 --> 00:01:48,159
+right now every revolution how many
+
+49
+00:01:45,920 --> 00:01:50,240
+radians is it going around
+
+50
+00:01:48,159 --> 00:01:54,240
+the answer is two pi right so 80
+
+51
+00:01:50,240 --> 00:01:57,360
+revolutions is really code for 80 times
+
+52
+00:01:54,240 --> 00:01:59,360
+2 pi radians okay so now i've got an
+
+53
+00:01:57,360 --> 00:02:01,840
+angle and then i can work towards an
+
+54
+00:01:59,360 --> 00:02:02,880
+angular velocity okay now this is um per
+
+55
+00:02:01,840 --> 00:02:04,399
+minute
+
+56
+00:02:02,880 --> 00:02:06,719
+but i don't want it to be per minute
+
+57
+00:02:04,399 --> 00:02:09,360
+right angle velocity omega our units for
+
+58
+00:02:06,719 --> 00:02:12,239
+omega are radians per second
+
+59
+00:02:09,360 --> 00:02:14,720
+radians per second and that's why you
+
+60
+00:02:12,239 --> 00:02:16,239
+have to divide okay so this is really
+
+61
+00:02:14,720 --> 00:02:17,040
+160
+
+62
+00:02:16,239 --> 00:02:18,640
+pi
+
+63
+00:02:17,040 --> 00:02:20,239
+radians over
+
+64
+00:02:18,640 --> 00:02:22,480
+60 seconds
+
+65
+00:02:20,239 --> 00:02:24,720
+right so then you divide through what do
+
+66
+00:02:22,480 --> 00:02:26,400
+you get
+
+67
+00:02:24,720 --> 00:02:28,560
+80 on eight on three eight on three
+
+68
+00:02:26,400 --> 00:02:30,640
+because i've got a zero don't know
+
+69
+00:02:28,560 --> 00:02:31,760
+eight pi on three
+
+70
+00:02:30,640 --> 00:02:33,200
+radians
+
+71
+00:02:31,760 --> 00:02:35,360
+per second
+
+72
+00:02:33,200 --> 00:02:36,959
+happy with that no big deal
+
+73
+00:02:35,360 --> 00:02:39,280
+okay let's move on
+
+74
+00:02:36,959 --> 00:02:40,720
+part b
+
+75
+00:02:39,280 --> 00:02:42,080
+wait yes no
+
+76
+00:02:40,720 --> 00:02:43,360
+yeah okay
+
+77
+00:02:42,080 --> 00:02:44,959
+i didn't want to move on if you're not
+
+78
+00:02:43,360 --> 00:02:46,720
+clear okay
+
+79
+00:02:44,959 --> 00:02:47,840
+um how do i get speed
+
+80
+00:02:46,720 --> 00:02:50,319
+speed
+
+81
+00:02:47,840 --> 00:02:53,200
+that's just our omega isn't it and i
+
+82
+00:02:50,319 --> 00:02:54,640
+know what r is it's two so it's just
+
+83
+00:02:53,200 --> 00:02:57,440
+going to be two
+
+84
+00:02:54,640 --> 00:02:58,800
+pi sorry 16 pi
+
+85
+00:02:57,440 --> 00:03:02,000
+on three now
+
+86
+00:02:58,800 --> 00:03:02,000
+what unit will i have
+
+87
+00:03:02,159 --> 00:03:06,720
+well it's um
+
+88
+00:03:03,760 --> 00:03:08,560
+it's two meters right meters i should
+
+89
+00:03:06,720 --> 00:03:10,080
+have probably put that up there right
+
+90
+00:03:08,560 --> 00:03:11,840
+and the great thing about you using
+
+91
+00:03:10,080 --> 00:03:13,920
+radians is that you don't need to do any
+
+92
+00:03:11,840 --> 00:03:16,400
+conversions right this is already now
+
+93
+00:03:13,920 --> 00:03:19,280
+meters per second okay
+
+94
+00:03:16,400 --> 00:03:20,720
+all right now part c to get to
+
+95
+00:03:19,280 --> 00:03:23,200
+acceleration
+
+96
+00:03:20,720 --> 00:03:24,879
+how did we get acceleration before
+
+97
+00:03:23,200 --> 00:03:26,400
+we went all the way from
+
+98
+00:03:24,879 --> 00:03:27,440
+like displacement velocity acceleration
+
+99
+00:03:26,400 --> 00:03:31,959
+and so on
+
+100
+00:03:27,440 --> 00:03:31,959
+how do i get acceleration here
+
+101
+00:03:34,159 --> 00:03:37,680
+who's gotten it hands up i won't ask you
+
+102
+00:03:35,760 --> 00:03:40,080
+but who's got an answer for this
+
+103
+00:03:37,680 --> 00:03:41,599
+good okay anyone else go i'm going to
+
+104
+00:03:40,080 --> 00:03:43,440
+get you to pause two two is not good
+
+105
+00:03:41,599 --> 00:03:45,840
+enough okay i want you to go back in
+
+106
+00:03:43,440 --> 00:03:47,200
+your notes we already developed this go
+
+107
+00:03:45,840 --> 00:03:49,200
+back go back there haven't been that
+
+108
+00:03:47,200 --> 00:03:53,159
+many notes under circular motion see if
+
+109
+00:03:49,200 --> 00:03:53,159
+you can find it where is it
+
+110
+00:04:04,560 --> 00:04:07,040
+have you found
+
+111
+00:04:12,840 --> 00:04:16,880
+it know not everyone was here yesterday
+
+112
+00:04:15,519 --> 00:04:19,199
+but the people who were here yesterday
+
+113
+00:04:16,880 --> 00:04:21,840
+it should be there in black and white
+
+114
+00:04:19,199 --> 00:04:23,440
+isn't it just r omega squared
+
+115
+00:04:21,840 --> 00:04:25,360
+yes yeah
+
+116
+00:04:23,440 --> 00:04:27,280
+okay it's not that hard right so all
+
+117
+00:04:25,360 --> 00:04:29,199
+you're doing is you're taking this value
+
+118
+00:04:27,280 --> 00:04:30,720
+you've already worked out right so
+
+119
+00:04:29,199 --> 00:04:34,960
+there's my radius
+
+120
+00:04:30,720 --> 00:04:36,880
+times omega squared
+
+121
+00:04:34,960 --> 00:04:38,880
+whatever that works out to be i don't
+
+122
+00:04:36,880 --> 00:04:43,120
+know 2 times
+
+123
+00:04:38,880 --> 00:04:44,160
+64 128 pi squared
+
+124
+00:04:43,120 --> 00:04:45,440
+on
+
+125
+00:04:44,160 --> 00:04:48,800
+nine
+
+126
+00:04:45,440 --> 00:04:51,360
+yes now um it asks for magnitude
+
+127
+00:04:48,800 --> 00:04:54,479
+what units have i got here
+
+128
+00:04:51,360 --> 00:04:56,479
+meters per second squared
+
+129
+00:04:54,479 --> 00:04:59,360
+cool done
+
+130
+00:04:56,479 --> 00:05:00,479
+last bit and after the period how long
+
+131
+00:04:59,360 --> 00:05:02,400
+how long does it take is that what i
+
+132
+00:05:00,479 --> 00:05:04,800
+mean the period of motion how long does
+
+133
+00:05:02,400 --> 00:05:07,280
+it take to go around
+
+134
+00:05:04,800 --> 00:05:10,160
+okay and we worked out this before right
+
+135
+00:05:07,280 --> 00:05:13,919
+you've got two pi radians to go in total
+
+136
+00:05:10,160 --> 00:05:16,160
+for one revolution and you divide by
+
+137
+00:05:13,919 --> 00:05:17,360
+your angular velocity right
+
+138
+00:05:16,160 --> 00:05:20,639
+omega
+
+139
+00:05:17,360 --> 00:05:23,039
+so it's going to be 2 pi all over 8 pi
+
+140
+00:05:20,639 --> 00:05:25,600
+on 3.
+
+141
+00:05:23,039 --> 00:05:29,520
+let's see that's a four cancel cancel
+
+142
+00:05:25,600 --> 00:05:31,039
+cancel cancel three quarters
+
+143
+00:05:29,520 --> 00:05:33,120
+seconds
+
+144
+00:05:31,039 --> 00:05:34,320
+does that make sense as a number
+
+145
+00:05:33,120 --> 00:05:37,520
+does that sound about right does it
+
+146
+00:05:34,320 --> 00:05:39,199
+sound accurate the sound in the picture
+
+147
+00:05:37,520 --> 00:05:41,520
+i think it does right you've got 60
+
+148
+00:05:39,199 --> 00:05:43,919
+seconds the clock the timer goes and
+
+149
+00:05:41,520 --> 00:05:45,919
+then it goes and when it rounds down
+
+150
+00:05:43,919 --> 00:05:47,680
+it's going around 80 times right so it
+
+151
+00:05:45,919 --> 00:05:49,919
+has to take less than a second to go all
+
+152
+00:05:47,680 --> 00:05:52,919
+the way around it's not that long
+
+153
+00:05:49,919 --> 00:05:52,919
+okay

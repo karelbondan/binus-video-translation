@@ -1,0 +1,903 @@
+1
+00:00:00,320 --> 00:00:04,319
+let me walk you through it like i said
+
+2
+00:00:02,399 --> 00:00:06,399
+the working is very simple but it's
+
+3
+00:00:04,319 --> 00:00:07,600
+about getting over that conceptual hump
+
+4
+00:00:06,399 --> 00:00:09,120
+of do i understand what this is all
+
+5
+00:00:07,600 --> 00:00:11,599
+talking about okay
+
+6
+00:00:09,120 --> 00:00:13,679
+so oh sorry let's turn this up read the
+
+7
+00:00:11,599 --> 00:00:15,040
+question with me and
+
+8
+00:00:13,679 --> 00:00:17,680
+i've got to introduce a couple of terms
+
+9
+00:00:15,040 --> 00:00:20,960
+and explain why the significant okay
+
+10
+00:00:17,680 --> 00:00:24,000
+so a particle of mass three kilograms
+
+11
+00:00:20,960 --> 00:00:24,000
+first piece of information
+
+12
+00:00:24,880 --> 00:00:29,760
+it moves with uniform circular motion so
+
+13
+00:00:27,279 --> 00:00:31,119
+that gives us a lot of assumptions about
+
+14
+00:00:29,760 --> 00:00:34,559
+the forces and accelerations and
+
+15
+00:00:31,119 --> 00:00:36,719
+velocity that's behaving here okay
+
+16
+00:00:34,559 --> 00:00:38,879
+it's on a smooth table
+
+17
+00:00:36,719 --> 00:00:41,040
+that word's important you'll see that
+
+18
+00:00:38,879 --> 00:00:43,440
+come up a lot it's smooth what that
+
+19
+00:00:41,040 --> 00:00:45,440
+means is we don't have to worry about
+
+20
+00:00:43,440 --> 00:00:46,960
+friction that's basically all that means
+
+21
+00:00:45,440 --> 00:00:50,480
+smooth table
+
+22
+00:00:46,960 --> 00:00:51,280
+speed of four meters per second
+
+23
+00:00:50,480 --> 00:00:52,640
+okay
+
+24
+00:00:51,280 --> 00:00:54,399
+and it's attached to a fixed point on
+
+25
+00:00:52,640 --> 00:00:57,120
+the table by a light
+
+26
+00:00:54,399 --> 00:01:00,160
+inelastic string okay so
+
+27
+00:00:57,120 --> 00:01:01,520
+it's light it's light meaning that
+
+28
+00:01:00,160 --> 00:01:03,840
+the um
+
+29
+00:01:01,520 --> 00:01:05,439
+the weight of the string right the
+
+30
+00:01:03,840 --> 00:01:07,520
+weight of the string if it's heavy
+
+31
+00:01:05,439 --> 00:01:09,840
+enough if i have like a super super
+
+32
+00:01:07,520 --> 00:01:12,240
+heavy string it's going to influence the
+
+33
+00:01:09,840 --> 00:01:14,000
+forces at play right so when they say
+
+34
+00:01:12,240 --> 00:01:16,479
+light that means you don't have to worry
+
+35
+00:01:14,000 --> 00:01:18,240
+about the string and its mass it's not
+
+36
+00:01:16,479 --> 00:01:20,000
+really going to play into this situation
+
+37
+00:01:18,240 --> 00:01:23,680
+you can disregard it
+
+38
+00:01:20,000 --> 00:01:24,799
+uh it's inelastic sorry so i said light
+
+39
+00:01:23,680 --> 00:01:26,880
+that means forget about the weight of
+
+40
+00:01:24,799 --> 00:01:29,600
+the string right inelastic you can tell
+
+41
+00:01:26,880 --> 00:01:29,600
+me what that means
+
+42
+00:01:29,840 --> 00:01:33,280
+what does that mean
+
+43
+00:01:31,600 --> 00:01:35,759
+it doesn't get longer doesn't get
+
+44
+00:01:33,280 --> 00:01:37,200
+shorter okay so in other words you're
+
+45
+00:01:35,759 --> 00:01:38,799
+going to have a constant radius and that
+
+46
+00:01:37,200 --> 00:01:41,759
+constant radius is
+
+47
+00:01:38,799 --> 00:01:43,119
+2 meters
+
+48
+00:01:41,759 --> 00:01:45,360
+okay great
+
+49
+00:01:43,119 --> 00:01:47,840
+find the tension in the string now
+
+50
+00:01:45,360 --> 00:01:50,320
+just like with like with the beginning
+
+51
+00:01:47,840 --> 00:01:52,960
+questions under mechanics right f equals
+
+52
+00:01:50,320 --> 00:01:55,920
+m a was where you started for like
+
+53
+00:01:52,960 --> 00:01:58,079
+95 of the questions okay so for uniform
+
+54
+00:01:55,920 --> 00:02:00,640
+circular mission take that back for
+
+55
+00:01:58,079 --> 00:02:02,399
+circular motion full stop right what
+
+56
+00:02:00,640 --> 00:02:03,520
+makes it circular what keeps it in a
+
+57
+00:02:02,399 --> 00:02:06,079
+circle
+
+58
+00:02:03,520 --> 00:02:08,479
+is these equations right if
+
+59
+00:02:06,079 --> 00:02:09,679
+the force was any less if the particle
+
+60
+00:02:08,479 --> 00:02:10,800
+would spiral off it would sort of have
+
+61
+00:02:09,679 --> 00:02:13,040
+this like an elliptic or something like
+
+62
+00:02:10,800 --> 00:02:14,319
+that if the force was any greater it
+
+63
+00:02:13,040 --> 00:02:15,360
+would spiral in and it would collide
+
+64
+00:02:14,319 --> 00:02:17,760
+with the odor and it wouldn't be
+
+65
+00:02:15,360 --> 00:02:22,120
+circular anymore okay so you can start
+
+66
+00:02:17,760 --> 00:02:22,120
+with this so here's my starting point
+
+67
+00:02:24,720 --> 00:02:29,360
+okay now like we mentioned before
+
+68
+00:02:26,640 --> 00:02:31,519
+tension is really just this this force
+
+69
+00:02:29,360 --> 00:02:33,360
+right um we're not really going to worry
+
+70
+00:02:31,519 --> 00:02:35,200
+about the um the direction of it because
+
+71
+00:02:33,360 --> 00:02:36,319
+it's kind of implied okay obviously it's
+
+72
+00:02:35,200 --> 00:02:39,440
+going inwards otherwise it's going to
+
+73
+00:02:36,319 --> 00:02:41,599
+fling off to wherever okay now t is a
+
+74
+00:02:39,440 --> 00:02:43,040
+sort of capital t
+
+75
+00:02:41,599 --> 00:02:44,160
+um because it's pretty obvious that we
+
+76
+00:02:43,040 --> 00:02:46,480
+don't care about the temperature of the
+
+77
+00:02:44,160 --> 00:02:48,480
+objects in this context t is fine for
+
+78
+00:02:46,480 --> 00:02:50,400
+tension okay and in the same way because
+
+79
+00:02:48,480 --> 00:02:52,239
+i don't worry about the um
+
+80
+00:02:50,400 --> 00:02:53,920
+the direction of this is kind of implied
+
+81
+00:02:52,239 --> 00:02:55,599
+i'm just working out this
+
+82
+00:02:53,920 --> 00:02:57,040
+really okay
+
+83
+00:02:55,599 --> 00:02:58,560
+now think back
+
+84
+00:02:57,040 --> 00:03:00,159
+you have to be careful with i mean this
+
+85
+00:02:58,560 --> 00:03:01,440
+is kind of death by algebra right you
+
+86
+00:03:00,159 --> 00:03:05,120
+have to be careful about what all of
+
+87
+00:03:01,440 --> 00:03:07,599
+your pronouns are omega omega how do we
+
+88
+00:03:05,120 --> 00:03:10,000
+define omega
+
+89
+00:03:07,599 --> 00:03:12,720
+it's angular velocity right now in this
+
+90
+00:03:10,000 --> 00:03:14,800
+constant context because it's uniform
+
+91
+00:03:12,720 --> 00:03:16,959
+right we can think back to the fact that
+
+92
+00:03:14,800 --> 00:03:20,640
+well omega
+
+93
+00:03:16,959 --> 00:03:23,760
+right it's related to
+
+94
+00:03:20,640 --> 00:03:26,239
+linear velocity in what way how are they
+
+95
+00:03:23,760 --> 00:03:26,239
+related
+
+96
+00:03:31,440 --> 00:03:34,720
+oops
+
+97
+00:03:32,400 --> 00:03:36,080
+that linear velocity there linear maybe
+
+98
+00:03:34,720 --> 00:03:38,000
+you can see why they have another term
+
+99
+00:03:36,080 --> 00:03:39,920
+for this right it really is tangential
+
+100
+00:03:38,000 --> 00:03:42,720
+velocity it's going around in this curve
+
+101
+00:03:39,920 --> 00:03:44,480
+okay and that's why it's an arc right
+
+102
+00:03:42,720 --> 00:03:46,560
+and so what you've got is you've got
+
+103
+00:03:44,480 --> 00:03:48,959
+your theta there right and that's
+
+104
+00:03:46,560 --> 00:03:51,280
+changing at a rate of omega and then
+
+105
+00:03:48,959 --> 00:03:53,360
+you've got your radius okay so the
+
+106
+00:03:51,280 --> 00:03:55,280
+change in your arc length right that
+
+107
+00:03:53,360 --> 00:03:56,239
+velocity
+
+108
+00:03:55,280 --> 00:03:57,360
+is
+
+109
+00:03:56,239 --> 00:03:59,360
+r
+
+110
+00:03:57,360 --> 00:04:00,400
+omega does that make sense okay so what
+
+111
+00:03:59,360 --> 00:04:02,560
+you've got here
+
+112
+00:04:00,400 --> 00:04:04,640
+instead of omega i don't want this in
+
+113
+00:04:02,560 --> 00:04:06,319
+terms of omegas right i just want to
+
+114
+00:04:04,640 --> 00:04:08,480
+work out the tension and i've got this
+
+115
+00:04:06,319 --> 00:04:10,319
+this velocity instead right so instead
+
+116
+00:04:08,480 --> 00:04:12,239
+of an angular velocity i'm going to sub
+
+117
+00:04:10,319 --> 00:04:14,239
+it out for a linear velocity the way
+
+118
+00:04:12,239 --> 00:04:16,320
+that i do that is you come down to here
+
+119
+00:04:14,239 --> 00:04:18,239
+and you say well if i've got omegas but
+
+120
+00:04:16,320 --> 00:04:20,000
+i want to get rid of them
+
+121
+00:04:18,239 --> 00:04:22,320
+i'll make it a subject here so this
+
+122
+00:04:20,000 --> 00:04:25,360
+should be v on r
+
+123
+00:04:22,320 --> 00:04:27,600
+is that okay right so when you come here
+
+124
+00:04:25,360 --> 00:04:29,360
+this is gonna be m r
+
+125
+00:04:27,600 --> 00:04:30,479
+v on r
+
+126
+00:04:29,360 --> 00:04:31,680
+squared
+
+127
+00:04:30,479 --> 00:04:34,160
+is that okay
+
+128
+00:04:31,680 --> 00:04:37,280
+so in fact this line is really important
+
+129
+00:04:34,160 --> 00:04:39,040
+um you can really write
+
+130
+00:04:37,280 --> 00:04:40,720
+this original force if you want to put
+
+131
+00:04:39,040 --> 00:04:42,320
+the minus sign on it right
+
+132
+00:04:40,720 --> 00:04:44,400
+in this case it's just a tension but you
+
+133
+00:04:42,320 --> 00:04:45,919
+can use this another color as you're
+
+134
+00:04:44,400 --> 00:04:47,280
+starting from you can use this as your
+
+135
+00:04:45,919 --> 00:04:49,600
+starting point
+
+136
+00:04:47,280 --> 00:04:52,479
+if you don't have things in terms of an
+
+137
+00:04:49,600 --> 00:04:54,400
+angular velocity right if you don't have
+
+138
+00:04:52,479 --> 00:04:56,639
+revolutions per minute but if you have
+
+139
+00:04:54,400 --> 00:04:58,240
+something like this then why would you
+
+140
+00:04:56,639 --> 00:04:59,520
+have a mate why would you have omegas in
+
+141
+00:04:58,240 --> 00:05:00,880
+this starting point right you're gonna
+
+142
+00:04:59,520 --> 00:05:03,280
+have to get rid of them so that's an
+
+143
+00:05:00,880 --> 00:05:05,120
+equally valid starting point right
+
+144
+00:05:03,280 --> 00:05:07,120
+so from there once you've gotten to this
+
+145
+00:05:05,120 --> 00:05:08,560
+point you can just punch in your numbers
+
+146
+00:05:07,120 --> 00:05:10,880
+right what's the mass what do we say
+
+147
+00:05:08,560 --> 00:05:15,840
+three kilos right
+
+148
+00:05:10,880 --> 00:05:18,800
+velocity is 4 so v squared will be 16
+
+149
+00:05:15,840 --> 00:05:22,000
+and then there's our radius 2.
+
+150
+00:05:18,800 --> 00:05:24,000
+right so 3 by 16 is 48 divided by 2 that
+
+151
+00:05:22,000 --> 00:05:27,039
+gives you 24
+
+152
+00:05:24,000 --> 00:05:28,720
+newtons that's the tension in the string
+
+153
+00:05:27,039 --> 00:05:30,160
+that's the force acting toward the
+
+154
+00:05:28,720 --> 00:05:32,240
+center
+
+155
+00:05:30,160 --> 00:05:33,680
+okay so far so good
+
+156
+00:05:32,240 --> 00:05:35,680
+when we have a look at part b what's it
+
+157
+00:05:33,680 --> 00:05:37,680
+asking
+
+158
+00:05:35,680 --> 00:05:39,840
+if the string has a tensile strength of
+
+159
+00:05:37,680 --> 00:05:40,639
+15 kilograms okay mark those words with
+
+160
+00:05:39,840 --> 00:05:41,840
+me
+
+161
+00:05:40,639 --> 00:05:44,479
+tensile strength we'll come back to
+
+162
+00:05:41,840 --> 00:05:44,479
+these in a second
+
+163
+00:05:47,360 --> 00:05:52,400
+15 kilograms
+
+164
+00:05:49,919 --> 00:05:54,479
+find the greatest angular velocity that
+
+165
+00:05:52,400 --> 00:05:56,960
+the mass can have
+
+166
+00:05:54,479 --> 00:05:59,120
+without the string breaking
+
+167
+00:05:56,960 --> 00:06:01,280
+okay so what you've got here this
+
+168
+00:05:59,120 --> 00:06:02,800
+tensile strength 15 kilograms right what
+
+169
+00:06:01,280 --> 00:06:04,720
+it's telling you is
+
+170
+00:06:02,800 --> 00:06:06,240
+now now it's forgetting about this speed
+
+171
+00:06:04,720 --> 00:06:08,080
+right because the question is now what
+
+172
+00:06:06,240 --> 00:06:09,840
+speed can i have right so we're
+
+173
+00:06:08,080 --> 00:06:13,759
+forgetting about this four that means
+
+174
+00:06:09,840 --> 00:06:16,080
+you can forget about this 24 okay
+
+175
+00:06:13,759 --> 00:06:18,639
+this is what i'm going to have for my
+
+176
+00:06:16,080 --> 00:06:21,360
+tension right but because it's 15
+
+177
+00:06:18,639 --> 00:06:22,319
+kilograms right you think kilograms
+
+178
+00:06:21,360 --> 00:06:24,960
+really
+
+179
+00:06:22,319 --> 00:06:28,800
+the tension is 15 times
+
+180
+00:06:24,960 --> 00:06:30,800
+gravity right now 9.8 is pretty standard
+
+181
+00:06:28,800 --> 00:06:32,479
+10 comes up a lot i don't actually know
+
+182
+00:06:30,800 --> 00:06:34,000
+i'm just going to leave it as g for now
+
+183
+00:06:32,479 --> 00:06:36,400
+and we can sub in whatever value that
+
+184
+00:06:34,000 --> 00:06:39,919
+they say take gravity be equal 10 meters
+
+185
+00:06:36,400 --> 00:06:42,000
+per second or whatever okay so 15
+
+186
+00:06:39,919 --> 00:06:43,840
+now what am i looking for what's the
+
+187
+00:06:42,000 --> 00:06:46,880
+question say i want greatest angular
+
+188
+00:06:43,840 --> 00:06:49,120
+velocity yes so think
+
+189
+00:06:46,880 --> 00:06:51,759
+do i want to go with this or do i want
+
+190
+00:06:49,120 --> 00:06:51,759
+to go with this
+
+191
+00:06:51,919 --> 00:06:55,759
+angular velocity right i want omega in
+
+192
+00:06:54,479 --> 00:06:58,880
+there so i'm just going to say well
+
+193
+00:06:55,759 --> 00:07:01,360
+that's m r omega squared that's all i
+
+194
+00:06:58,880 --> 00:07:03,039
+had to do right that's the tension i
+
+195
+00:07:01,360 --> 00:07:05,680
+want so at least that's the maximum
+
+196
+00:07:03,039 --> 00:07:09,120
+right and then i'm just gonna solve
+
+197
+00:07:05,680 --> 00:07:10,479
+i know what mass and radius are
+
+198
+00:07:09,120 --> 00:07:11,680
+right
+
+199
+00:07:10,479 --> 00:07:14,840
+15
+
+200
+00:07:11,680 --> 00:07:20,000
+g okay so now i just have to solve for
+
+201
+00:07:14,840 --> 00:07:23,360
+omega 15 g on six what's that
+
+202
+00:07:20,000 --> 00:07:23,360
+five five g on two
+
+203
+00:07:25,840 --> 00:07:30,080
+we're not really worrying about the um
+
+204
+00:07:27,919 --> 00:07:31,039
+the thing changing angular direction
+
+205
+00:07:30,080 --> 00:07:32,960
+right it's just going to keep going
+
+206
+00:07:31,039 --> 00:07:35,520
+forward so therefore i can just take the
+
+207
+00:07:32,960 --> 00:07:39,120
+positive the square root of
+
+208
+00:07:35,520 --> 00:07:39,120
+five g on two
+
+209
+00:07:39,599 --> 00:07:44,960
+for positive omega okay so obviously if
+
+210
+00:07:42,160 --> 00:07:47,440
+you took um if you took g is 10 you'd
+
+211
+00:07:44,960 --> 00:07:48,680
+have the square root of 25 or the square
+
+212
+00:07:47,440 --> 00:07:51,280
+root of
+
+213
+00:07:48,680 --> 00:07:52,720
+24.5 if you use the other value of
+
+214
+00:07:51,280 --> 00:07:56,000
+gravity okay
+
+215
+00:07:52,720 --> 00:07:57,680
+so that's all there is to it like i said
+
+216
+00:07:56,000 --> 00:07:59,280
+um just like f equals m is your starting
+
+217
+00:07:57,680 --> 00:08:02,400
+point for so many mechanics questions in
+
+218
+00:07:59,280 --> 00:08:04,080
+general this is the specific kind of m
+
+219
+00:08:02,400 --> 00:08:05,520
+equals m a
+
+220
+00:08:04,080 --> 00:08:07,520
+either of these
+
+221
+00:08:05,520 --> 00:08:08,800
+um that you get with circular motion so
+
+222
+00:08:07,520 --> 00:08:10,479
+that's why it's your starting point as
+
+223
+00:08:08,800 --> 00:08:11,919
+soon as you see that
+
+224
+00:08:10,479 --> 00:08:12,639
+you're like bam that's where i'm gonna
+
+225
+00:08:11,919 --> 00:08:15,520
+go
+
+226
+00:08:12,639 --> 00:08:15,520
+okay

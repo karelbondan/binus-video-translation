@@ -1,0 +1,591 @@
+1
+00:00:00,480 --> 00:00:04,240
+Sekarang apa yang ingin saya selesaikan adalah
+
+2
+00:00:02,800 --> 00:00:06,480
+empat hal ini, mari kita
+
+3
+00:00:04,240 --> 00:00:08,000
+turunkan semua informasinya, lalu mari kita kerjakan
+
+4
+00:00:06,480 --> 00:00:10,160
+dalam istilah, bukan dalam bahasa
+
+5
+00:00:08,000 --> 00:00:11,759
+yang mereka berikan kepada kita, seolah-olah kita memiliki semua
+
+6
+00:00:10,160 --> 00:00:13,200
+label mewah yang merupakan semacam
+
+7
+00:00:11,759 --> 00:00:14,160
+penanda yang berguna bagi kita, apa sajakah hal tersebut?  kami mencoba
+
+8
+00:00:13,200 --> 00:00:15,360
+berolahraga
+
+9
+00:00:14,160 --> 00:00:17,760
+sehingga mereka tidak memberi Anda banyak informasi
+
+10
+00:00:15,360 --> 00:00:20,480
+apakah mereka um mereka bilang oke itu
+
+11
+00:00:17,760 --> 00:00:22,400
+gerak melingkar beraturan itu bagus itu
+
+12
+00:00:20,480 --> 00:00:24,080
+tidak terlihat sama seperti
+
+13
+00:00:22,400 --> 00:00:25,920
+gerak harmonik sederhana tapi bagaimanapun Anda akan
+
+14
+00:00:24,080 --> 00:00:30,080
+terbiasa dengannya  itu gerak melingkar beraturan
+
+15
+00:00:25,920 --> 00:00:33,840
+kamu punya um berjari-jari dua
+
+16
+00:00:30,080 --> 00:00:36,160
+dan bergerak dengan kecepatan 80 putaran per
+
+17
+00:00:33,840 --> 00:00:38,320
+menit yang ternyata menjadi
+
+18
+00:00:36,160 --> 00:00:40,719
+sangat penting dalam sedetik oke
+
+19
+00:00:38,320 --> 00:00:43,120
+sekarang apa yang kita coba kerjakan bagian
+
+20
+00:00:40,719 --> 00:00:45,200
+a yang mereka inginkan kecepatan sudut  apa
+
+21
+00:00:43,120 --> 00:00:46,719
+nama kita untuk kecepatan sudut
+
+22
+00:00:45,200 --> 00:00:49,039
+omega bagus
+
+23
+00:00:46,719 --> 00:00:51,520
+jadi kita akan menyelesaikannya sebentar lagi b
+
+24
+00:00:49,039 --> 00:00:54,640
+mereka menginginkan kecepatan kecepatan bagaimana cara menghitung kecepatannya
+
+25
+00:00:55,920 --> 00:01:01,520
+sekarang
+
+26
+00:00:58,879 --> 00:01:03,600
+ada perubahan sudut tapi kemudian kita
+
+27
+00:01:01,520 --> 00:01:05,280
+ingin perubahan panjang busur  jadi
+
+28
+00:01:03,600 --> 00:01:07,680
+masuk ke klip kami, Anda hanya akan
+
+29
+00:01:05,280 --> 00:01:09,520
+mengalikannya dengan jari-jarinya, tidak
+
+30
+00:01:07,680 --> 00:01:10,799
+terlalu sulit oke, itu
+
+31
+00:01:09,520 --> 00:01:13,200
+masuk akal
+
+32
+00:01:10,799 --> 00:01:14,159
+ya tidak oke,
+
+33
+00:01:13,200 --> 00:01:16,640
+lihat
+
+34
+00:01:14,159 --> 00:01:17,360
+besar percepatannya, jadi Anda
+
+35
+00:01:16,640 --> 00:01:19,280
+mendapat
+
+36
+00:01:17,360 --> 00:01:21,840
+percepatan, tetapi Anda hanya ingin
+
+37
+00:01:19,280 --> 00:01:23,680
+besarnya saja ukurannya, oke, lalu
+
+38
+00:01:21,840 --> 00:01:25,520
+hal terakhir yang
+
+39
+00:01:23,680 --> 00:01:27,360
+kamu inginkan periode oke mari kita
+
+40
+00:01:25,520 --> 00:01:30,560
+bahas satu per satu
+
+41
+00:01:27,360 --> 00:01:32,560
+itu maaf
+
+42
+00:01:30,560 --> 00:01:35,360
+bagaimana cara kita berolahraga dan memberikan banyak
+
+43
+00:01:32,560 --> 00:01:38,840
+kecepatan um baiklah kamu melakukannya sekitar
+
+44
+00:01:35,360 --> 00:01:41,280
+80 kali per menit kan 80 kali per
+
+45
+00:01:38,840 --> 00:01:42,880
+menit mari kita anggap itu sebagai  titik awal kita
+
+46
+00:01:42,880 --> 00:01:48,159
+sekarang setiap putaran berapa
+
+47
+00:01:45,920 --> 00:01:50,240
+radian yang terjadi
+
+48
+00:01:48,159 --> 00:01:54,240
+jawabannya adalah dua pi benar jadi 80
+
+49
+00:01:50,240 --> 00:01:57,360
+putaran sebenarnya kode untuk 80 kali
+
+50
+00:01:54,240 --> 00:01:59,360
+2 pi radian oke jadi sekarang saya punya
+
+51
+00:01:57,360 --> 00:02:01,840
+sudut dan kemudian saya bisa bekerja menuju
+
+52
+00:01:59,360 --> 00:02:02,880
+kecepatan sudut  oke sekarang ini um per
+
+53
+00:02:01,840 --> 00:02:04,399
+menit
+
+54
+00:02:02,880 --> 00:02:06,719
+tetapi saya tidak ingin menjadi per menit
+
+55
+00:02:04,399 --> 00:02:09,360
+kecepatan sudut kanan omega satuan kami untuk
+
+56
+00:02:06,719 --> 00:02:12,239
+omega adalah radian per detik
+
+57
+00:02:09,360 --> 00:02:14,720
+radian per detik dan itulah mengapa Anda
+
+58
+00:02:12,239 --> 00:02:16,239
+harus membaginya oke jadi ini benar-benar
+
+59
+00:02:14,720 --> 00:02:17,040
+160
+
+60
+00:02:16,239 --> 00:02:18,640
+pi
+
+61
+00:02:17,040 --> 00:02:20,239
+radian di atas
+
+62
+00:02:18,640 --> 00:02:22,480
+60  detik
+
+63
+00:02:20,239 --> 00:02:24,720
+lalu kamu membagi berapa yang
+
+64
+00:02:22,480 --> 00:02:26,400
+kamu dapatkan
+
+65
+00:02:24,720 --> 00:02:28,560
+80 banding delapan banding tiga delapan banding tiga
+
+66
+00:02:26,400 --> 00:02:30,640
+karena aku punya nol tidak tahu
+
+67
+00:02:28,560 --> 00:02:31,760
+delapan pi pada tiga
+
+68
+00:02:30,640 --> 00:02:33,200
+radian
+
+69
+00:02:31,760 --> 00:02:35,360
+per detik
+
+70
+00:02:33,200 --> 00:02:36,959
+senang dengan itu bukan masalah besar
+
+71
+00:02:35,360 --> 00:02:39,280
+oke mari kita lanjutkan ke
+
+72
+00:02:36,959 --> 00:02:40,720
+bagian b
+
+73
+00:02:39,280 --> 00:02:42,080
+tunggu  ya tidak ya oke
+
+74
+00:02:42,080 --> 00:02:44,959
+aku tidak ingin melanjutkan jika kamu tidak
+
+75
+00:02:43,360 --> 00:02:46,720
+jelas oke
+
+76
+00:02:44,959 --> 00:02:47,840
+um bagaimana cara mendapatkan kecepatan kecepatan
+
+77
+00:02:47,840 --> 00:02:53,200
+itu hanya omega kita bukan dan aku
+
+78
+00:02:50,319 --> 00:02:54,640
+tahu apa itu dua jadi hanya
+
+79
+00:02:53,200 --> 00:02:57,440
+akan menjadi dua
+
+80
+00:02:54,640 --> 00:02:58,800
+pi  maaf 16 pi
+
+81
+00:02:57,440 --> 00:03:02,000
+pada tiga sekarang
+
+82
+00:02:58,800 --> 00:03:02,000
+unit apa yang akan saya miliki,
+
+83
+00:03:02,159 --> 00:03:06,720
+um,
+
+84
+00:03:03,760 --> 00:03:08,560
+itu dua meter kan meter saya
+
+85
+00:03:06,720 --> 00:03:10,080
+mungkin harus meletakkannya di sana
+
+86
+00:03:08,560 --> 00:03:11,840
+dan hal hebat tentang Anda menggunakan
+
+87
+00:03:10,080 --> 00:03:13,920
+radian adalah Anda tidak perlu melakukan konversi apa pun,
+
+88
+00:03:11,840 --> 00:03:16,400
+kan, ini  sudah sekarang
+
+89
+00:03:13,920 --> 00:03:19,280
+meter per detik oke baiklah
+
+90
+00:03:16,400 --> 00:03:20,720
+sekarang bagian c untuk mencapai
+
+91
+00:03:19,280 --> 00:03:23,200
+percepatan
+
+92
+00:03:20,720 --> 00:03:24,879
+bagaimana kita mendapatkan percepatan sebelum
+
+93
+00:03:23,200 --> 00:03:26,400
+kita mulai dari
+
+94
+00:03:24,879 --> 00:03:27,440
+percepatan kecepatan perpindahan
+
+95
+00:03:26,400 --> 00:03:31,959
+dan seterusnya
+
+96
+00:03:27,440 --> 00:03:31,959
+bagaimana cara mendapatkan percepatan di sini
+
+97
+00:03:34,159 --> 00:03:37,680
+siapa yang angkat tangan saya tidak akan bertanya  kamu
+
+98
+00:03:35,760 --> 00:03:40,080
+tapi siapa yang punya jawaban untuk ini
+
+99
+00:03:37,680 --> 00:03:41,599
+oke oke siapa pun pergi aku akan
+
+100
+00:03:40,080 --> 00:03:43,440
+membuatmu menjeda dua dua tidak
+
+101
+00:03:41,599 --> 00:03:45,840
+cukup baik aku ingin kamu kembali ke
+
+102
+00:03:43,440 --> 00:03:47,200
+catatanmu kami sudah mengembangkan ini
+
+103
+00:03:45,840 --> 00:03:49,200
+kembali kembali ke sana belum  sudah
+
+104
+00:03:47,200 --> 00:03:53,159
+banyak nada dalam gerakan melingkar lihat apakah
+
+105
+00:03:49,200 --> 00:03:53,159
+kamu dapat menemukannya di mana
+
+106
+00:04:04,560 --> 00:04:07,040
+kamu menemukannya,
+
+107
+00:04:12,840 --> 00:04:16,880
+tahukah kamu tidak semua orang ada di sini kemarin
+
+108
+00:04:15,519 --> 00:04:19,199
+tetapi orang-orang yang ada di sini kemarin
+
+109
+00:04:16,880 --> 00:04:21,840
+harusnya ada di sana dalam warna hitam dan putih
+
+110
+00:04:19,199 --> 00:04:23,440
+bukan hanya r omega kuadrat
+
+111
+00:04:21,840 --> 00:04:25,360
+ya  ya
+
+112
+00:04:23,440 --> 00:04:27,280
+oke itu tidak terlalu sulit kan jadi yang
+
+113
+00:04:25,360 --> 00:04:29,199
+kamu lakukan hanyalah mengambil nilai ini
+
+114
+00:04:27,280 --> 00:04:30,720
+kamu sudah mengerjakannya dengan benar jadi
+
+115
+00:04:29,199 --> 00:04:34,960
+radiusku
+
+116
+00:04:30,720 --> 00:04:36,880
+dikalikan omega kuadrat
+
+117
+00:04:34,960 --> 00:04:38,880
+berapapun hasilnya aku tidak
+
+118
+00:04:36,880 --> 00:04:43,120
+tahu 2 kali
+
+119
+00:04:38,880 --> 00:04:44,160
+64 128 pi  dikuadratkan
+
+120
+00:04:43,120 --> 00:04:45,440
+pada
+
+121
+00:04:44,160 --> 00:04:48,800
+sembilan
+
+122
+00:04:45,440 --> 00:04:51,360
+ya sekarang um ia menanyakan besaran
+
+123
+00:04:48,800 --> 00:04:54,479
+berapa satuan yang saya dapatkan di sini
+
+124
+00:04:51,360 --> 00:04:56,479
+meter per detik kuadrat
+
+125
+00:04:54,479 --> 00:04:59,360
+keren dilakukan pada
+
+126
+00:04:56,479 --> 00:05:00,479
+bagian terakhir dan setelah periode
+
+127
+00:04:59,360 --> 00:05:02,400
+berapa lama waktu yang dibutuhkan adalah yang saya
+
+128
+00:05:00,479 --> 00:05:04,800
+maksud adalah periode gerak berapa lama waktu yang
+
+129
+00:05:02,400 --> 00:05:07,280
+dibutuhkan untuk  putar
+
+130
+00:05:04,800 --> 00:05:10,160
+baik-baik saja dan kita sudah mengerjakan ini sebelumnya, kan,
+
+131
+00:05:07,280 --> 00:05:13,919
+Anda punya total dua radian pi
+
+132
+00:05:10,160 --> 00:05:16,160
+untuk satu putaran dan Anda membaginya dengan
+
+133
+00:05:13,919 --> 00:05:17,360
+kecepatan sudut omega kan,
+
+134
+00:05:17,360 --> 00:05:23,039
+jadi hasilnya akan menjadi 2 pi pada 8 pi
+
+135
+00:05:20,639 --> 00:05:25,600
+pada 3.
+
+136
+00:05:23,039 --> 00:05:29,520
+mari kita lihat itu  empat batal batal batal batal
+
+137
+00:05:25,600 --> 00:05:31,039
+tiga perempat
+
+138
+00:05:29,520 --> 00:05:33,120
+detik
+
+139
+00:05:31,039 --> 00:05:34,320
+apakah itu masuk akal karena angka itu
+
+140
+00:05:33,120 --> 00:05:37,520
+terdengar tepat apakah
+
+141
+00:05:34,320 --> 00:05:39,199
+terdengar akurat suara dalam gambar
+
+142
+00:05:37,520 --> 00:05:41,520
+menurut saya benar Anda punya waktu 60
+
+143
+00:05:39,199 --> 00:05:43,919
+detik, jam pengatur waktunya berjalan
+
+144
+00:05:41,520 --> 00:05:45,919
+lalu mati  dan kalau dibulatkan ke bawah,
+
+145
+00:05:43,919 --> 00:05:47,680
+putarannya jadi sekitar 80 kali jadi
+
+146
+00:05:45,919 --> 00:05:49,919
+butuh waktu kurang dari satu detik untuk
+
+147
+00:05:47,680 --> 00:05:52,919
+menyelesaikannya, jadi tidak terlalu lama
+
+148
+00:05:49,919 --> 00:05:52,919
+oke
