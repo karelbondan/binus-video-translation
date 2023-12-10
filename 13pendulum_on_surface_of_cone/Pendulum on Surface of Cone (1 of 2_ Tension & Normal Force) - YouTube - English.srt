@@ -1,0 +1,1303 @@
+1
+00:00:00,320 --> 00:00:05,920
+pens up let's let's draw a diagram okay
+
+2
+00:00:03,520 --> 00:00:08,560
+a smooth circular cone okay i'm going to
+
+3
+00:00:05,920 --> 00:00:08,560
+draw it like this
+
+4
+00:00:09,040 --> 00:00:12,559
+okay um you don't know where it ends
+
+5
+00:00:11,040 --> 00:00:14,880
+they don't tell you how tall it is it
+
+6
+00:00:12,559 --> 00:00:17,920
+doesn't matter though because it's all
+
+7
+00:00:14,880 --> 00:00:19,520
+pretty consistent there's my cone
+
+8
+00:00:17,920 --> 00:00:22,000
+vertex up
+
+9
+00:00:19,520 --> 00:00:22,000
+axis
+
+10
+00:00:23,680 --> 00:00:27,439
+is vertical okay so there you go facing
+
+11
+00:00:25,760 --> 00:00:29,599
+upwards is not at an angle
+
+12
+00:00:27,439 --> 00:00:31,840
+it has a semi vertical angle of 60
+
+13
+00:00:29,599 --> 00:00:34,160
+degrees uh we know what semi means right
+
+14
+00:00:31,840 --> 00:00:35,280
+semi think about like conics
+
+15
+00:00:34,160 --> 00:00:38,000
+semi just means half right like
+
+16
+00:00:35,280 --> 00:00:42,559
+semicircle okay so the semi vertical
+
+17
+00:00:38,000 --> 00:00:45,360
+angle of 60 degrees is in there okay
+
+18
+00:00:42,559 --> 00:00:47,680
+a particle of mass one kilogram mass
+
+19
+00:00:45,360 --> 00:00:47,680
+mass
+
+20
+00:00:48,559 --> 00:00:53,840
+one kilogram
+
+21
+00:00:51,120 --> 00:00:56,239
+is attached by a light inelastic stream
+
+22
+00:00:53,840 --> 00:01:00,160
+from a point vertically above the vertex
+
+23
+00:00:56,239 --> 00:01:03,440
+of the cone so i'll call that c up there
+
+24
+00:01:00,160 --> 00:01:04,960
+p moves with constant speed v meters per
+
+25
+00:01:03,440 --> 00:01:06,880
+second
+
+26
+00:01:04,960 --> 00:01:08,799
+so that's a linear speed isn't it it's
+
+27
+00:01:06,880 --> 00:01:10,960
+not an angular speed because it's meters
+
+28
+00:01:08,799 --> 00:01:14,880
+per second not radians per second
+
+29
+00:01:10,960 --> 00:01:18,240
+v means per second
+
+30
+00:01:14,880 --> 00:01:20,720
+on the outer surface of the cone
+
+31
+00:01:18,240 --> 00:01:23,360
+in a horizontal circle okay so
+
+32
+00:01:20,720 --> 00:01:24,840
+it's sitting on top of this cone and it
+
+33
+00:01:23,360 --> 00:01:28,400
+traces
+
+34
+00:01:24,840 --> 00:01:31,360
+out this this circular path here okay so
+
+35
+00:01:28,400 --> 00:01:31,360
+let me throw that in
+
+36
+00:01:36,560 --> 00:01:40,880
+that's pretty awful but you get the
+
+37
+00:01:38,240 --> 00:01:41,920
+picture all right so there's p
+
+38
+00:01:40,880 --> 00:01:43,600
+over there
+
+39
+00:01:41,920 --> 00:01:45,759
+okay it's moving around and that
+
+40
+00:01:43,600 --> 00:01:49,280
+horizontal circle
+
+41
+00:01:45,759 --> 00:01:51,360
+has a radius of 0.5 meters so here is
+
+42
+00:01:49,280 --> 00:01:54,079
+the center of the horizontal circle i
+
+43
+00:01:51,360 --> 00:01:56,520
+guess we'll call that o okay and that
+
+44
+00:01:54,079 --> 00:02:00,320
+radius there
+
+45
+00:01:56,520 --> 00:02:00,320
+0.5 meters
+
+46
+00:02:00,560 --> 00:02:04,560
+the string makes an angle of 30 degrees
+
+47
+00:02:02,719 --> 00:02:05,759
+with the vertical so we already worked
+
+48
+00:02:04,560 --> 00:02:07,520
+out where the vertical is it lines up
+
+49
+00:02:05,759 --> 00:02:10,319
+with the axis of the cone
+
+50
+00:02:07,520 --> 00:02:11,520
+30 degrees
+
+51
+00:02:10,319 --> 00:02:15,440
+okay
+
+52
+00:02:11,520 --> 00:02:18,080
+so then there are a few questions um
+
+53
+00:02:15,440 --> 00:02:19,120
+and i'll leave this guy here okay
+
+54
+00:02:18,080 --> 00:02:20,319
+part a
+
+55
+00:02:19,120 --> 00:02:23,040
+can we get
+
+56
+00:02:20,319 --> 00:02:25,360
+a horizontal force
+
+57
+00:02:23,040 --> 00:02:27,760
+and a vertical force
+
+58
+00:02:25,360 --> 00:02:29,440
+there's the first question
+
+59
+00:02:27,760 --> 00:02:30,879
+second question if
+
+60
+00:02:29,440 --> 00:02:33,440
+we know what the velocity is let's call
+
+61
+00:02:30,879 --> 00:02:35,599
+it one meter per second okay
+
+62
+00:02:33,440 --> 00:02:37,360
+find the magnitude of the tension in the
+
+63
+00:02:35,599 --> 00:02:38,319
+string
+
+64
+00:02:37,360 --> 00:02:41,200
+and
+
+65
+00:02:38,319 --> 00:02:44,000
+the reaction force
+
+66
+00:02:41,200 --> 00:02:45,760
+on the cone of the cone on p i'll talk
+
+67
+00:02:44,000 --> 00:02:47,200
+about that in a second
+
+68
+00:02:45,760 --> 00:02:51,760
+of cones
+
+69
+00:02:47,200 --> 00:02:54,000
+on a pin okay last question
+
+70
+00:02:51,760 --> 00:02:55,760
+um i'll read it to you find the maximum
+
+71
+00:02:54,000 --> 00:02:57,920
+value of v
+
+72
+00:02:55,760 --> 00:03:00,640
+find how fast you can go
+
+73
+00:02:57,920 --> 00:03:02,959
+that lets p maintain contact with the
+
+74
+00:03:00,640 --> 00:03:05,040
+code
+
+75
+00:03:02,959 --> 00:03:07,840
+find the maximum value v
+
+76
+00:03:05,040 --> 00:03:09,519
+that lets p maintain contact with the
+
+77
+00:03:07,840 --> 00:03:10,879
+code okay you now know this right we
+
+78
+00:03:09,519 --> 00:03:13,519
+looked at this we just derived this
+
+79
+00:03:10,879 --> 00:03:15,360
+example okay if i increase v enough
+
+80
+00:03:13,519 --> 00:03:16,800
+right right now it's on the surface of
+
+81
+00:03:15,360 --> 00:03:19,200
+my imaginary cone there but if i
+
+82
+00:03:16,800 --> 00:03:20,879
+increase v it'll lift off okay does that
+
+83
+00:03:19,200 --> 00:03:22,319
+make sense so there's clearly some upper
+
+84
+00:03:20,879 --> 00:03:25,519
+limit on what that velocity is we want
+
+85
+00:03:22,319 --> 00:03:27,599
+to try and find that okay so
+
+86
+00:03:25,519 --> 00:03:30,959
+maximum v
+
+87
+00:03:27,599 --> 00:03:30,959
+to remain on current
+
+88
+00:03:31,760 --> 00:03:36,959
+question mark okay
+
+89
+00:03:34,159 --> 00:03:38,159
+have a go start off remember we've
+
+90
+00:03:36,959 --> 00:03:40,159
+already started our diagram but there
+
+91
+00:03:38,159 --> 00:03:42,480
+are no forces on it yet okay so why
+
+92
+00:03:40,159 --> 00:03:43,920
+don't you put all the forces there
+
+93
+00:03:42,480 --> 00:03:45,519
+use colors if you can because it really
+
+94
+00:03:43,920 --> 00:03:46,879
+helps you distinguish all of them and
+
+95
+00:03:45,519 --> 00:03:49,599
+then i'll give you a couple minutes head
+
+96
+00:03:46,879 --> 00:03:49,599
+start and then i'll do it
+
+97
+00:03:49,760 --> 00:03:53,519
+okay
+
+98
+00:03:50,480 --> 00:03:55,680
+so the first easy bit is your gravity no
+
+99
+00:03:53,519 --> 00:03:57,760
+problems okay it's mg but you know that
+
+100
+00:03:55,680 --> 00:04:00,720
+the mass is just one so i i put the one
+
+101
+00:03:57,760 --> 00:04:02,640
+there just kind of for completeness okay
+
+102
+00:04:00,720 --> 00:04:04,159
+so there's gravity going down then
+
+103
+00:04:02,640 --> 00:04:06,480
+you've got tension going up along the
+
+104
+00:04:04,159 --> 00:04:07,439
+string so far so good so you've got a
+
+105
+00:04:06,480 --> 00:04:08,879
+vertical component you've got a
+
+106
+00:04:07,439 --> 00:04:10,720
+horizontal button has anyone worked out
+
+107
+00:04:08,879 --> 00:04:11,840
+what those are yet
+
+108
+00:04:10,720 --> 00:04:12,959
+you know worked out when they're done
+
+109
+00:04:11,840 --> 00:04:16,160
+okay have a look let's just do it
+
+110
+00:04:12,959 --> 00:04:19,120
+quickly now okay you've got um
+
+111
+00:04:16,160 --> 00:04:20,479
+this angle in here right so you can work
+
+112
+00:04:19,120 --> 00:04:22,079
+out what this
+
+113
+00:04:20,479 --> 00:04:24,000
+is through the same trig sort of thing
+
+114
+00:04:22,079 --> 00:04:25,440
+that we worked out before okay i'm
+
+115
+00:04:24,000 --> 00:04:27,440
+pretty sure it's going to be you have 30
+
+116
+00:04:25,440 --> 00:04:28,720
+degrees here right so you want this and
+
+117
+00:04:27,440 --> 00:04:31,040
+it's the adjacent side so it's going to
+
+118
+00:04:28,720 --> 00:04:32,720
+be t cos theta
+
+119
+00:04:31,040 --> 00:04:34,240
+is that okay i know you know what cos 30
+
+120
+00:04:32,720 --> 00:04:35,759
+is but i'm just showing you that so you
+
+121
+00:04:34,240 --> 00:04:37,840
+can see where i got it from
+
+122
+00:04:35,759 --> 00:04:39,360
+same deal you're going to get t sine 30
+
+123
+00:04:37,840 --> 00:04:41,600
+going in the horizontal direction so
+
+124
+00:04:39,360 --> 00:04:44,720
+just squeeze that in
+
+125
+00:04:41,600 --> 00:04:46,479
+okay now i've accounted for two forces
+
+126
+00:04:44,720 --> 00:04:48,560
+right and i've resolved them up down
+
+127
+00:04:46,479 --> 00:04:51,040
+left right okay but there's a force i'm
+
+128
+00:04:48,560 --> 00:04:53,919
+missing there's a force i'm missing okay
+
+129
+00:04:51,040 --> 00:04:56,800
+now it's easy to illustrate
+
+130
+00:04:53,919 --> 00:04:58,560
+if i show you something like this okay
+
+131
+00:04:56,800 --> 00:05:00,880
+so you've got an object and it's resting
+
+132
+00:04:58,560 --> 00:05:03,680
+on a surface okay now at least at the
+
+133
+00:05:00,880 --> 00:05:06,080
+moment it's not going anywhere
+
+134
+00:05:03,680 --> 00:05:07,600
+right so you've got gravity going down
+
+135
+00:05:06,080 --> 00:05:10,000
+and then you've got
+
+136
+00:05:07,600 --> 00:05:11,840
+reaction force going up and that's why
+
+137
+00:05:10,000 --> 00:05:13,199
+it stays put okay
+
+138
+00:05:11,840 --> 00:05:15,600
+ah but now
+
+139
+00:05:13,199 --> 00:05:18,000
+if i tilt this right so i'll move this
+
+140
+00:05:15,600 --> 00:05:20,320
+up here if i put this at an angle like
+
+141
+00:05:18,000 --> 00:05:22,400
+this
+
+142
+00:05:20,320 --> 00:05:24,560
+well it slides off wait what happened
+
+143
+00:05:22,400 --> 00:05:26,880
+why did it slide off
+
+144
+00:05:24,560 --> 00:05:28,880
+i wasn't i wasn't i wasn't pushing it or
+
+145
+00:05:26,880 --> 00:05:30,560
+anything what was exerting force in
+
+146
+00:05:28,880 --> 00:05:32,639
+another direction to make it move
+
+147
+00:05:30,560 --> 00:05:34,320
+because we know because of inertia if
+
+148
+00:05:32,639 --> 00:05:38,240
+there wasn't some force making it move
+
+149
+00:05:34,320 --> 00:05:39,360
+it would stay put why when i tilted it
+
+150
+00:05:38,240 --> 00:05:41,520
+did it
+
+151
+00:05:39,360 --> 00:05:43,840
+well sorry floppy board did it go from
+
+152
+00:05:41,520 --> 00:05:45,440
+its stable position
+
+153
+00:05:43,840 --> 00:05:46,960
+to its
+
+154
+00:05:45,440 --> 00:05:48,479
+unstable position
+
+155
+00:05:46,960 --> 00:05:49,759
+why why
+
+156
+00:05:48,479 --> 00:05:51,120
+this is all i did i just tilted it like
+
+157
+00:05:49,759 --> 00:05:53,199
+that
+
+158
+00:05:51,120 --> 00:05:55,600
+and the answer is right the reaction
+
+159
+00:05:53,199 --> 00:05:58,160
+force that's being exerted by this book
+
+160
+00:05:55,600 --> 00:06:00,720
+it will exert only in one particular
+
+161
+00:05:58,160 --> 00:06:03,280
+direction namely whatever direction the
+
+162
+00:06:00,720 --> 00:06:05,520
+surface is facing in now right now that
+
+163
+00:06:03,280 --> 00:06:06,400
+surface is exactly opposite facing to
+
+164
+00:06:05,520 --> 00:06:08,880
+gravity
+
+165
+00:06:06,400 --> 00:06:10,880
+directly up but the second it's not
+
+166
+00:06:08,880 --> 00:06:12,960
+directly facing gravity if i go off like
+
+167
+00:06:10,880 --> 00:06:14,880
+this okay
+
+168
+00:06:12,960 --> 00:06:17,520
+now it's facing well where's it facing
+
+169
+00:06:14,880 --> 00:06:19,120
+um it's facing off in that direction
+
+170
+00:06:17,520 --> 00:06:21,039
+okay so it's exerting some force that
+
+171
+00:06:19,120 --> 00:06:25,280
+way which is why the keys slide off that
+
+172
+00:06:21,039 --> 00:06:26,800
+way does that make sense so to summarize
+
+173
+00:06:25,280 --> 00:06:28,880
+this current this is the difference
+
+174
+00:06:26,800 --> 00:06:31,440
+between you know magical things floating
+
+175
+00:06:28,880 --> 00:06:33,919
+out in mid-air or it's sitting on a cone
+
+176
+00:06:31,440 --> 00:06:36,840
+the cone is exerting its own force its
+
+177
+00:06:33,919 --> 00:06:38,560
+reaction force and it's going
+
+178
+00:06:36,840 --> 00:06:41,680
+perpendicular
+
+179
+00:06:38,560 --> 00:06:44,160
+perpendicular to the surface of the cone
+
+180
+00:06:41,680 --> 00:06:46,000
+just like it was going perpendicular to
+
+181
+00:06:44,160 --> 00:06:48,160
+the surface of the book
+
+182
+00:06:46,000 --> 00:06:51,759
+okay so i've got this tension going up
+
+183
+00:06:48,160 --> 00:06:54,400
+this way and then i've got the cone
+
+184
+00:06:51,759 --> 00:06:57,360
+going off that way okay now because it's
+
+185
+00:06:54,400 --> 00:06:59,280
+perpendicular rather than call it the
+
+186
+00:06:57,360 --> 00:07:00,240
+reaction force which is a bit generic
+
+187
+00:06:59,280 --> 00:07:03,759
+okay
+
+188
+00:07:00,240 --> 00:07:06,240
+we'll call it n n for normal okay so
+
+189
+00:07:03,759 --> 00:07:09,440
+i've got n going this way
+
+190
+00:07:06,240 --> 00:07:12,400
+all right so now more colors
+
+191
+00:07:09,440 --> 00:07:14,479
+what force is n exerting horizontally
+
+192
+00:07:12,400 --> 00:07:17,039
+and vertically
+
+193
+00:07:14,479 --> 00:07:19,680
+let's have a look uh it's got a it's got
+
+194
+00:07:17,039 --> 00:07:22,160
+a vertical component right i can see it
+
+195
+00:07:19,680 --> 00:07:22,160
+like this
+
+196
+00:07:24,720 --> 00:07:27,120
+up
+
+197
+00:07:25,520 --> 00:07:28,880
+like that
+
+198
+00:07:27,120 --> 00:07:31,120
+have a look at the horizontal component
+
+199
+00:07:28,880 --> 00:07:33,440
+it's not taking it toward the center
+
+200
+00:07:31,120 --> 00:07:35,440
+it's taking you away from the center why
+
+201
+00:07:33,440 --> 00:07:36,960
+is it doing that
+
+202
+00:07:35,440 --> 00:07:39,440
+why would it be pushing you away from
+
+203
+00:07:36,960 --> 00:07:39,440
+the center
+
+204
+00:07:39,680 --> 00:07:43,280
+what would happen if it wasn't pushing
+
+205
+00:07:41,360 --> 00:07:45,280
+away from the center
+
+206
+00:07:43,280 --> 00:07:47,280
+the the thing would just go straight
+
+207
+00:07:45,280 --> 00:07:49,440
+into the cone right but it's not it's
+
+208
+00:07:47,280 --> 00:07:51,440
+pushing back it's like no no you stay on
+
+209
+00:07:49,440 --> 00:07:53,919
+your circular path out there so these
+
+210
+00:07:51,440 --> 00:07:56,000
+two right they're pushing out okay so
+
+211
+00:07:53,919 --> 00:07:57,680
+you're these two forces let me um
+
+212
+00:07:56,000 --> 00:07:59,360
+let me save you a bit of time i'm going
+
+213
+00:07:57,680 --> 00:08:01,599
+to put my piece of it
+
+214
+00:07:59,360 --> 00:08:03,680
+underneath let me save it a time and
+
+215
+00:08:01,599 --> 00:08:06,240
+tell you what those forces are you've
+
+216
+00:08:03,680 --> 00:08:10,120
+got a vertical force here of
+
+217
+00:08:06,240 --> 00:08:10,120
+oops sorry that's not clear
+
+218
+00:08:13,919 --> 00:08:18,319
+goodbye people who have to go thank you
+
+219
+00:08:16,879 --> 00:08:19,599
+okay
+
+220
+00:08:18,319 --> 00:08:21,919
+um
+
+221
+00:08:19,599 --> 00:08:27,120
+where am i
+
+222
+00:08:21,919 --> 00:08:29,840
+oh right okay you got n cos 60 here and
+
+223
+00:08:27,120 --> 00:08:31,599
+n sine 60
+
+224
+00:08:29,840 --> 00:08:34,240
+there okay you can go ahead and you can
+
+225
+00:08:31,599 --> 00:08:36,320
+double check the triangles okay
+
+226
+00:08:34,240 --> 00:08:38,640
+all right
+
+227
+00:08:36,320 --> 00:08:40,640
+finally i've got a diagram it's got all
+
+228
+00:08:38,640 --> 00:08:42,800
+the forces on there i used trigonometry
+
+229
+00:08:40,640 --> 00:08:44,720
+to work out what all these sizes were
+
+230
+00:08:42,800 --> 00:08:46,320
+all of the different bits right
+
+231
+00:08:44,720 --> 00:08:48,880
+i started to resolve but i'm not
+
+232
+00:08:46,320 --> 00:08:51,040
+finished right i know what they're equal
+
+233
+00:08:48,880 --> 00:08:52,480
+to when i add everything up okay so
+
+234
+00:08:51,040 --> 00:08:53,760
+let's do vertically first because it's
+
+235
+00:08:52,480 --> 00:08:55,279
+boring
+
+236
+00:08:53,760 --> 00:08:58,240
+vertically
+
+237
+00:08:55,279 --> 00:08:58,240
+what kind of motion is there
+
+238
+00:08:58,560 --> 00:09:04,320
+it's a horizontal circle so vertically
+
+239
+00:09:00,959 --> 00:09:04,320
+it's not going anywhere
+
+240
+00:09:04,880 --> 00:09:11,600
+okay so if i add up all of these up down
+
+241
+00:09:07,839 --> 00:09:14,399
+forces they should all sum to zero right
+
+242
+00:09:11,600 --> 00:09:15,920
+okay so i've got let's see here these
+
+243
+00:09:14,399 --> 00:09:17,839
+ones are going up these ones are going
+
+244
+00:09:15,920 --> 00:09:20,320
+down so they should oppose each other so
+
+245
+00:09:17,839 --> 00:09:22,560
+i've got t cause ooh if i switch these
+
+246
+00:09:20,320 --> 00:09:22,560
+around
+
+247
+00:09:32,240 --> 00:09:36,080
+i know i have i have some triangles
+
+248
+00:09:33,839 --> 00:09:36,080
+wrong
+
+249
+00:09:36,320 --> 00:09:41,040
+i think this should be
+
+250
+00:09:39,040 --> 00:09:42,480
+oh no no it's okay yeah no no no no i
+
+251
+00:09:41,040 --> 00:09:43,920
+was right in the first place it's okay
+
+252
+00:09:42,480 --> 00:09:45,519
+um you can look at it from other
+
+253
+00:09:43,920 --> 00:09:49,120
+triangles point of view but you get i
+
+254
+00:09:45,519 --> 00:09:50,800
+think it costs 30 just the same thing or
+
+255
+00:09:49,120 --> 00:09:52,720
+cos 60. it's just looking at it from a
+
+256
+00:09:50,800 --> 00:09:54,640
+different triangle anyway
+
+257
+00:09:52,720 --> 00:09:56,800
+ah where am i i've got this
+
+258
+00:09:54,640 --> 00:10:01,600
+um t cos
+
+259
+00:09:56,800 --> 00:10:04,160
+30 and n sine 60 they're going up
+
+260
+00:10:01,600 --> 00:10:06,560
+and then you've got gravity going down
+
+261
+00:10:04,160 --> 00:10:07,680
+is that all right okay so
+
+262
+00:10:06,560 --> 00:10:10,160
+i know what both of these are they're
+
+263
+00:10:07,680 --> 00:10:11,839
+both root three and two okay so i'm
+
+264
+00:10:10,160 --> 00:10:13,440
+going to save myself a bit of time and
+
+265
+00:10:11,839 --> 00:10:16,160
+just divide everything through by root
+
+266
+00:10:13,440 --> 00:10:18,560
+three and two which gives me two g on
+
+267
+00:10:16,160 --> 00:10:20,560
+root three is that all right
+
+268
+00:10:18,560 --> 00:10:21,440
+equation one which i got from vertical
+
+269
+00:10:20,560 --> 00:10:24,640
+okay
+
+270
+00:10:21,440 --> 00:10:24,640
+horizontally what's going on
+
+271
+00:10:25,600 --> 00:10:30,399
+horizontally i have uniform circular
+
+272
+00:10:28,079 --> 00:10:30,399
+motion
+
+273
+00:10:30,480 --> 00:10:33,920
+so
+
+274
+00:10:31,839 --> 00:10:35,519
+these two forces which are going in
+
+275
+00:10:33,920 --> 00:10:36,720
+opposite directions right so there's
+
+276
+00:10:35,519 --> 00:10:38,240
+going to be
+
+277
+00:10:36,720 --> 00:10:40,160
+i'm going to say a plus in this way and
+
+278
+00:10:38,240 --> 00:10:41,519
+a minus out that way because i'm heading
+
+279
+00:10:40,160 --> 00:10:44,079
+back toward the center that's my my
+
+280
+00:10:41,519 --> 00:10:45,279
+default view okay they should add up to
+
+281
+00:10:44,079 --> 00:10:47,120
+m r
+
+282
+00:10:45,279 --> 00:10:49,519
+omega squared right so you're going to
+
+283
+00:10:47,120 --> 00:10:49,519
+get this
+
+284
+00:10:49,839 --> 00:10:52,240
+let's see
+
+285
+00:10:53,040 --> 00:10:57,200
+30. so i'm calling positive by the way
+
+286
+00:10:55,360 --> 00:10:58,880
+in towards the center because that's my
+
+287
+00:10:57,200 --> 00:11:00,880
+default mode okay maybe i should put
+
+288
+00:10:58,880 --> 00:11:02,320
+that in
+
+289
+00:11:00,880 --> 00:11:06,240
+positive okay
+
+290
+00:11:02,320 --> 00:11:09,279
+so t sine 30 minus n cos 60 because
+
+291
+00:11:06,240 --> 00:11:12,800
+that's the normal force pushing out okay
+
+292
+00:11:09,279 --> 00:11:14,399
+now i could call it i could call it m r
+
+293
+00:11:12,800 --> 00:11:16,560
+omega square but it turns out that's not
+
+294
+00:11:14,399 --> 00:11:19,680
+such a useful way to phrase it in this
+
+295
+00:11:16,560 --> 00:11:20,959
+situation why not
+
+296
+00:11:19,680 --> 00:11:22,880
+because i don't know anything about
+
+297
+00:11:20,959 --> 00:11:26,000
+angular velocity right i only know
+
+298
+00:11:22,880 --> 00:11:28,720
+linear right so instead of m rm squared
+
+299
+00:11:26,000 --> 00:11:31,760
+what was our alternative in terms of v
+
+300
+00:11:28,720 --> 00:11:34,720
+and v squared on r right
+
+301
+00:11:31,760 --> 00:11:37,360
+okay so i'm going to do that instead
+
+302
+00:11:34,720 --> 00:11:38,959
+m v squared on r
+
+303
+00:11:37,360 --> 00:11:42,959
+okay
+
+304
+00:11:38,959 --> 00:11:45,519
+all right now i know what m is right
+
+305
+00:11:42,959 --> 00:11:46,640
+it's just one i know what the radius is
+
+306
+00:11:45,519 --> 00:11:48,320
+it's
+
+307
+00:11:46,640 --> 00:11:50,000
+uh it's a half isn't it
+
+308
+00:11:48,320 --> 00:11:51,440
+uh-huh right
+
+309
+00:11:50,000 --> 00:11:54,399
+and i know what these are they're both
+
+310
+00:11:51,440 --> 00:11:56,399
+going to be equal to a half as well okay
+
+311
+00:11:54,399 --> 00:11:58,480
+so far so good so i'm going to multiply
+
+312
+00:11:56,399 --> 00:11:59,600
+everything by two that'll get a rid of
+
+313
+00:11:58,480 --> 00:12:01,519
+these guys
+
+314
+00:11:59,600 --> 00:12:03,519
+should put this guy up save you a bit of
+
+315
+00:12:01,519 --> 00:12:05,279
+time here's what you get
+
+316
+00:12:03,519 --> 00:12:06,639
+are you content with that so i've
+
+317
+00:12:05,279 --> 00:12:09,040
+divided by half here and then i've
+
+318
+00:12:06,639 --> 00:12:11,519
+multiplied by two from here okay
+
+319
+00:12:09,040 --> 00:12:13,279
+equation two
+
+320
+00:12:11,519 --> 00:12:15,279
+well done
+
+321
+00:12:13,279 --> 00:12:18,399
+that's that right that's that's what i
+
+322
+00:12:15,279 --> 00:12:21,040
+got from there i have my vertical and my
+
+323
+00:12:18,399 --> 00:12:24,720
+horizontal forces now all resolved out
+
+324
+00:12:21,040 --> 00:12:27,519
+okay including um gravity and
+
+325
+00:12:24,720 --> 00:12:30,800
+the tension and the normal that's coming
+
+326
+00:12:27,519 --> 00:12:30,800
+from the cone
