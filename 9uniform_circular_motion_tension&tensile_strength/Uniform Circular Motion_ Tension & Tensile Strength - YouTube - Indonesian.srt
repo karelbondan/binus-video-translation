@@ -256,27 +256,27 @@ melingkar lagi. oke jadi kamu bisa mulai
 
 64
 00:02:17,760 --> 00:02:22,120
-dengan ini jadi inilah titik awal aku
+dengan ini, jadi inilah titik awalnya.
 
 65
 00:02:24,720 --> 00:02:29,360
-oke sekarang seperti yang kami sebutkan sebelumnya
+oke, seperti yang sudah kukatakan sebelumnya, 
 
 66
 00:02:26,640 --> 00:02:31,519
-ketegangan sebenarnya hanya gaya ini
+ketegangan sebenarnya hanyalah gaya ini,
 
 67
 00:02:29,360 --> 00:02:33,360
-kan um kita tidak akan terlalu khawatir
+um kita tidak akan terlalu khawatir
 
 68
 00:02:31,519 --> 00:02:35,200
-tentang um arahnya  itu karena
+tentang arahnya, karena arahnya sudah
 
 69
 00:02:33,360 --> 00:02:36,319
-tersirat oke jelas itu masuk
+tersirat, oke jelas itu masuk
 
 70
 00:02:35,200 --> 00:02:39,440
@@ -284,15 +284,15 @@ ke dalam kalau tidak, itu akan
 
 71
 00:02:36,319 --> 00:02:41,599
-terbang ke mana pun oke sekarang t itu
+terbang ke mana-mana. oke, t itu
 
 72
 00:02:39,440 --> 00:02:43,040
-semacam modal t
+semacam t kapital, 
 
 73
 00:02:41,599 --> 00:02:44,160
-um karena cukup jelas bahwa kita
+karena cukup jelas bahwa kita
 
 74
 00:02:43,040 --> 00:02:46,480
@@ -300,39 +300,39 @@ tidak peduli dengan suhu
 
 75
 00:02:44,160 --> 00:02:48,480
-benda dalam konteks ini t adalah  baik untuk
+bendanya. dalam konteks ini, t-nya tidak apa-apa untuk
 
 76
 00:02:46,480 --> 00:02:50,400
-ketegangan oke dan dengan cara yang sama karena
+ketegangan, dan dengan cara yang sama karena
 
 77
 00:02:48,480 --> 00:02:52,239
-aku tidak khawatir tentang um
+aku... jangan khawatir untuk
 
 78
 00:02:50,400 --> 00:02:53,920
-arah ini tersirat
+arahnya, karena sudah tersirat. 
 
 79
 00:02:52,239 --> 00:02:55,599
-aku hanya mengerjakan ini
+aku hanya coba mengerjakan ini...
 
 80
 00:02:53,920 --> 00:02:57,040
-benar-benar oke
+oke...
 
 81
 00:02:55,599 --> 00:02:58,560
-sekarang pikirkan kembali
+sekarang pikirkan kembali,
 
 82
 00:02:57,040 --> 00:03:00,159
-kamu harus berhati-hati dengan maksud aku ini
+kamu harus berhati-hati dengan... maksudku ini
 
 83
 00:02:58,560 --> 00:03:01,440
-semacam  kematian menurut aljabar kan, kamu
+adalah semacam "kematian karena aljabar" kan, kamu
 
 84
 00:03:00,159 --> 00:03:05,120
@@ -340,23 +340,23 @@ harus berhati-hati tentang semua
 
 85
 00:03:01,440 --> 00:03:07,599
-kata gantimu omega omega bagaimana kita
+kata gantimu. omega, omega... bagaimana kita
 
 86
 00:03:05,120 --> 00:03:10,000
-mendefinisikan omega
+mendefinisikan omega?
 
 87
 00:03:07,599 --> 00:03:12,720
-itu kecepatan sudutnya sekarang dalam
+itu adalah kecepatan sudut kan? sekarang dalam
 
 88
 00:03:10,000 --> 00:03:14,800
-konteks konstan ini karena itu seragam
+konteks konstan ini... karena itu seragam,
 
 89
 00:03:12,720 --> 00:03:16,959
-kan kita bisa memikirkan kembali fakta bahwa
+kita bisa memikirkan kembali fakta bahwa
 
 90
 00:03:14,800 --> 00:03:20,640
@@ -364,23 +364,23 @@ omega
 
 91
 00:03:16,959 --> 00:03:23,760
-kan itu terkait dengan
+terkait dengan
 
 92
 00:03:20,640 --> 00:03:26,239
-kecepatan linier dalam hal apa bagaimana
+kecepatan linier dalam hal apa? bagaimana
 
 93
 00:03:23,760 --> 00:03:26,239
-hubungannya
+mereka bisa saling terkait? 
 
 94
 00:03:31,440 --> 00:03:34,720
-oops
+ups...
 
 95
 00:03:32,400 --> 00:03:36,080
-bahwa kecepatan linier di sana linier mungkin
+kecepatan linier di sana... linier mungkin
 
 96
 00:03:34,720 --> 00:03:38,000
@@ -388,55 +388,55 @@ kamu dapat melihat mengapa mereka memiliki istilah lain
 
 97
 00:03:36,080 --> 00:03:39,920
-untuk ini, kan, itu benar-benar
+untuk ini, kan, itu adalah
 
 98
 00:03:38,000 --> 00:03:42,720
-kecepatan tangensial, itu berputar di kurva ini
+kecepatan tangensial, itu berputar di kurva ini,
 
 99
 00:03:39,920 --> 00:03:44,480
-oke dan itulah mengapa itu busur ke kanan
+dan itulah mengapa itu berbentuk sebuah busur.
 
 100
 00:03:42,720 --> 00:03:46,560
-dan jadi apa yang kamu  yang kamu dapatkan adalah
+dan jadi yang kamu dapatkan adalah
 
 101
 00:03:44,480 --> 00:03:48,959
-theta kamu ada di sana dengan benar dan itu
+theta di sana kan? dan itu
 
 102
 00:03:46,560 --> 00:03:51,280
-berubah dengan laju omega dan kemudian
+berubah dengan laju omega, dan kemudian
 
 103
 00:03:48,959 --> 00:03:53,360
-radius kamu sudah oke jadi
+ada radius juga. oke, jadi
 
 104
 00:03:51,280 --> 00:03:55,280
-perubahan panjang busur kamu tepat pada
+perubahan panjang busur... 
 
 105
 00:03:53,360 --> 00:03:56,239
-kecepatan
+kecepatan itu...
 
 106
 00:03:56,239 --> 00:03:59,360
-r
+adalah r...
 
 107
 00:03:57,360 --> 00:04:00,400
-omega apakah itu masuk akal oke jadi apa yang
+omega. apakah itu masuk akal? oke jadi apa yang
 
 108
 00:03:59,360 --> 00:04:02,560
-kamu  ada di sini,
+kamu punya di sini...
 
 109
 00:04:00,400 --> 00:04:04,640
-bukan omega, aku tidak mau yang ini dalam
+alih-alih omega, aku tidak mau yang ini dalam
 
 110
 00:04:02,560 --> 00:04:06,319
@@ -444,7 +444,7 @@ bentuk omega, kan, aku hanya ingin
 
 111
 00:04:04,640 --> 00:04:08,480
-mengatasi tegangannya, dan aku mendapatkan
+menemukan tegangannya, dan aku mendapatkan
 
 112
 00:04:06,319 --> 00:04:10,319
@@ -456,39 +456,39 @@ kecepatan sudut, aku akan
 
 114
 00:04:10,319 --> 00:04:14,239
-menggantinya  untuk kecepatan linier cara
+menggantinya untuk kecepatan linier. caraku
 
 115
 00:04:12,239 --> 00:04:16,320
-yang aku lakukan adalah kamu turun ke sini
+melakukannya adalah kamu turun ke sini,
 
 116
 00:04:14,239 --> 00:04:18,239
-dan kamu berkata baik jika aku punya omega tetapi
+dan kamu bergumam: baik, jika aku punya omega tetapi
 
 117
 00:04:16,320 --> 00:04:20,000
-aku ingin membuangnya
+aku ingin membuangnya,
 
 118
 00:04:18,239 --> 00:04:22,320
-aku akan menjadikannya subjek di sini jadi ini
+aku akan menjadikannya subjek di sini. jadi ini
 
 119
 00:04:20,000 --> 00:04:25,360
-harusnya v di r
+harusnya v per r.
 
 120
 00:04:22,320 --> 00:04:27,600
-adalah  tidak apa-apa kan jadi ketika kamu datang ke sini
+mengerti kan? jadi ketika kamu ke sini,
 
 121
 00:04:25,360 --> 00:04:29,360
-ini akan menjadi m r
+ini akan menjadi m r,
 
 122
 00:04:27,600 --> 00:04:30,479
-v di r
+v per r
 
 123
 00:04:29,360 --> 00:04:31,680
@@ -496,11 +496,11 @@ kuadrat
 
 124
 00:04:30,479 --> 00:04:34,160
-tidak apa-apa
+mengerti?
 
 125
 00:04:31,680 --> 00:04:37,280
-jadi sebenarnya garis ini sangat penting
+jadi sebenarnya garis ini sangat penting.
 
 126
 00:04:34,160 --> 00:04:39,040
@@ -508,19 +508,19 @@ um kamu bisa menulis
 
 127
 00:04:37,280 --> 00:04:40,720
-gaya asal ini jika kamu ingin memberi
+gaya asal ini, jika kamu ingin memberi
 
 128
 00:04:39,040 --> 00:04:42,320
-tanda minus di atasnya dengan benar
+tanda minus di depannya, 
 
 129
 00:04:40,720 --> 00:04:44,400
-dalam hal ini  hanya ketegangan tetapi kamu
+dalam hal ini, itu hanyalah ketegangan. tetapi kamu
 
 130
 00:04:42,320 --> 00:04:45,919
-dapat menggunakan warna lain ini saat kamu
+bisa pakai warna lain ini saat kamu
 
 131
 00:04:44,400 --> 00:04:47,280
@@ -528,35 +528,35 @@ memulai. kamu dapat menggunakan ini sebagai
 
 132
 00:04:45,919 --> 00:04:49,600
-titik awal
+titik awal.
 
 133
 00:04:47,280 --> 00:04:52,479
-jika kamu tidak memiliki
+jika kecepatan sudut
 
 134
 00:04:49,600 --> 00:04:54,400
-kecepatan sudut yang benar jika kamu tidak memiliki
+tidak diketahui, jika putaran per menit
 
 135
 00:04:52,479 --> 00:04:56,639
-putaran per menit tetapi jika kamu  memiliki
+tidak diketahui, tapi sesuatu seperti ini
 
 136
 00:04:54,400 --> 00:04:58,240
-sesuatu seperti ini lalu mengapa kamu
+diketahui, lalu mengapa kamu
 
 137
 00:04:56,639 --> 00:04:59,520
-memiliki pasangan mengapa kamu memiliki omega di
+memiliki ini? mengapa kamu memiliki omega di
 
 138
 00:04:58,240 --> 00:05:00,880
-titik awal ini, kan, kamu
+titik awal ini? kamu
 
 139
 00:04:59,520 --> 00:05:03,280
-harus membuangnya jadi itu adalah
+harus menghilangkan mereka, jadi itu adalah
 
 140
 00:05:00,880 --> 00:05:05,120
@@ -564,19 +564,19 @@ titik awal yang sama validnya,
 
 141
 00:05:03,280 --> 00:05:07,120
-jadi dari sana setelah kamu mencapai
+jadi dari sana setelah kamu sudah sampai
 
 142
 00:05:05,120 --> 00:05:08,560
-titik ini  kamu tinggal memasukkan angkanya
+di titik ini, kamu tinggal memasukkan angkanya
 
 143
 00:05:07,120 --> 00:05:10,880
-kan, berapa massanya, apa yang kita katakan
+kan, berapa massanya? kira-kira...
 
 144
 00:05:08,560 --> 00:05:15,840
-tiga kilo, kecepatan yang benar
+tiga kilo, kecepatannya
 
 145
 00:05:10,880 --> 00:05:18,800
@@ -596,47 +596,47 @@ menghasilkan 24
 
 149
 00:05:24,000 --> 00:05:28,720
-newton, jadi  tegangan pada tali
+newton, jadi itulah tegangan pada talinya. 
 
 150
 00:05:27,039 --> 00:05:30,160
-itulah gaya yang bekerja ke arah pusat
+itulah gaya yang bekerja ke arah pusat.
 
 151
 00:05:30,160 --> 00:05:33,680
-oke sejauh ini baik-baik saja
+oke sejauh ini bagus...
 
 152
 00:05:32,240 --> 00:05:35,680
-kalau kita lihat bagian b apa yang
+kalau kita lihat bagian b, apa yang
 
 153
 00:05:33,680 --> 00:05:37,680
-ditanyakan
+ditanyakan?
 
 154
 00:05:35,680 --> 00:05:39,840
-jika tali itu mempunyai kuat tarik
+jika tali itu mempunyai kekuatan tarik
 
 155
 00:05:37,680 --> 00:05:40,639
-15 kilogram oke tandai kata-kata itu dengan
+15 kilogram... oke, tandai kata-kata itu dengan
 
 156
 00:05:39,840 --> 00:05:41,840
-aku
+ku...
 
 157
 00:05:40,639 --> 00:05:44,479
-kekuatan tarik kita akan sampai  kembali ke
+kekuatan tarik... kita akan bahas tentang
 
 158
 00:05:41,840 --> 00:05:44,479
-ini dalam sedetik
+ini agak nanti...
 
 159
 00:05:47,360 --> 00:05:52,400
-15 kilogram
+15 kilogram...
 
 160
 00:05:49,919 --> 00:05:54,479
@@ -648,39 +648,39 @@ dapat dimiliki massa
 
 162
 00:05:54,479 --> 00:05:59,120
-tanpa putusnya tali
+tanpa memutuskan talinya. 
 
 163
 00:05:56,960 --> 00:06:01,280
-oke jadi apa yang kamu dapatkan di sini
+oke jadi apa yang kamu dapatkan di sini?
 
 164
 00:05:59,120 --> 00:06:02,800
-kekuatan tarik 15 kilogram ini benar apa yang
+kekuatan tarik 15 kilogram ini, apa 
 
 165
 00:06:01,280 --> 00:06:04,720
-dikatakannya kepada kamu
+artinya? artinya adalah...
 
 166
 00:06:02,800 --> 00:06:06,240
-sekarang sekarang lupakan tentang kecepatan ini
+kita tidak menghiraukan kecepatan yang ini
 
 167
 00:06:04,720 --> 00:06:08,080
-kan karena  pertanyaannya sekarang berapa
+kan? karena sekarang pertanyaannya berapa
 
 168
 00:06:06,240 --> 00:06:09,840
-kecepatan yang bisa aku miliki kan jadi kita
+kecepatan yang bisa aku miliki kan? jadi kita
 
 169
 00:06:08,080 --> 00:06:13,759
-lupakan yang empat ini artinya
+lupakan yang 4 ini. artinya
 
 170
 00:06:09,840 --> 00:06:16,080
-kamu bisa melupakan yang ini 24 oke
+kamu bisa melupakan yang ini 24. oke,
 
 171
 00:06:13,759 --> 00:06:18,639
@@ -688,15 +688,15 @@ ini yang akan aku punya untuk
 
 172
 00:06:16,080 --> 00:06:21,360
-ketegangan aku kan tapi karena 15
+ketegangan aku kan? tapi karena 15
 
 173
 00:06:18,639 --> 00:06:22,319
-kilogram kan kamu pikir kilogram
+kilogram, kamu pikir kilogram
 
 174
 00:06:21,360 --> 00:06:24,960
-banget
+...
 
 175
 00:06:22,319 --> 00:06:28,800
@@ -704,15 +704,15 @@ tegangannya 15 kali
 
 176
 00:06:24,960 --> 00:06:30,800
-gravitasi saat ini 9,8 cukup standar
+gravitasi. saat ini 9,8 cukup standar.
 
 177
 00:06:28,800 --> 00:06:32,479
-10 sering muncul aku sebenarnya tidak tahu
+10 sering muncul, tapi aku sebenarnya tidak tahu...
 
 178
 00:06:30,800 --> 00:06:34,000
-aku hanya akan membiarkannya sebagai g untuk saat ini
+aku hanya akan membiarkannya sebagai g untuk saat ini...
 
 179
 00:06:32,479 --> 00:06:36,400
@@ -720,27 +720,27 @@ dan kita dapat memasukkan nilai berapa pun yang
 
 180
 00:06:34,000 --> 00:06:39,919
-mereka katakan, anggap gravitasi sama dengan 10  meter
+soalnya katakan, anggap gravitasi sama dengan 10 meter
 
 181
 00:06:36,400 --> 00:06:42,000
-per detik atau berapa pun oke jadi 15
+per detik atau berapa pun... oke jadi 15...
 
 182
 00:06:39,919 --> 00:06:43,840
-sekarang apa yang aku cari apa
+sekarang apa yang aku cari? apa
 
 183
 00:06:42,000 --> 00:06:46,880
-pertanyaannya katakan aku ingin kecepatan sudut terbesar
+pertanyaannya? kecepatan sudut terbesar
 
 184
 00:06:43,840 --> 00:06:49,120
-ya jadi pikirkan
+ya? jadi pikirkan...
 
 185
 00:06:46,880 --> 00:06:51,759
-apakah aku ingin menggunakan ini atau aku ingin
+apakah aku ingin menggunakan ini? atau aku ingin
 
 186
 00:06:49,120 --> 00:06:51,759
@@ -748,35 +748,35 @@ menggunakan
 
 187
 00:06:51,919 --> 00:06:55,759
-kecepatan sudut ini kan, aku ingin omega di
+kecepatan sudut ini? aku ingin omega di
 
 188
 00:06:54,479 --> 00:06:58,880
-sana jadi  aku hanya akan mengatakan baiklah
+sana jadi aku hanya akan mengatakan: baiklah,
 
 189
 00:06:55,759 --> 00:07:01,360
-itu mr omega kuadrat itu saja yang
+itu m r omega kuadrat, itu saja yang
 
 190
 00:06:58,880 --> 00:07:03,039
-harus aku lakukan dengan benar itulah ketegangan yang aku
+harus aku lakukan. itulah ketegangan yang aku
 
 191
 00:07:01,360 --> 00:07:05,680
-inginkan jadi setidaknya itu
+inginkan. jadi setidaknya itu
 
 192
 00:07:03,039 --> 00:07:09,120
-hak maksimum dan kemudian aku akan menyelesaikannya
+maksimalnya kan? dan kemudian aku akan menyelesaikannya...
 
 193
 00:07:05,680 --> 00:07:10,479
-aku tahu berapa massa dan jari-jari yang
+aku tahu berapa massa dan jari-jarinya...
 
 194
 00:07:09,120 --> 00:07:11,680
-benar
+...
 
 195
 00:07:10,479 --> 00:07:14,840
@@ -784,23 +784,23 @@ benar
 
 196
 00:07:11,680 --> 00:07:20,000
-g oke  jadi sekarang aku hanya harus menyelesaikan
+g, oke, jadi sekarang aku hanya harus menyelesaikan
 
 197
 00:07:14,840 --> 00:07:23,360
-omega 15 g di enam apa itu
+omega 15 g per 6, berapa hasilnya?
 
 198
 00:07:20,000 --> 00:07:23,360
-lima lima g di dua
+5 g per 2.
 
 199
 00:07:25,840 --> 00:07:30,080
-kita tidak terlalu khawatir tentang um
+kita tidak terlalu khawatir tentang um,
 
 200
 00:07:27,919 --> 00:07:31,039
-benda itu berubah arah sudut kan,
+benda itu berubah arah sudut kan?
 
 201
 00:07:30,080 --> 00:07:32,960
@@ -808,27 +808,27 @@ itu hanya akan terus
 
 202
 00:07:31,039 --> 00:07:35,520
-maju jadi oleh karena itu aku hanya bisa mengambil sisi
+maju, jadi aku bisa mengambil sisi
 
 203
 00:07:32,960 --> 00:07:39,120
-positifnya  akar kuadrat dari
+positifnya... akar kuadrat dari
 
 204
 00:07:35,520 --> 00:07:39,120
-lima g di atas dua
+5 g per dua
 
 205
 00:07:39,599 --> 00:07:44,960
-untuk omega positif oke jadi jelas jika
+untuk omega positif, oke, jadi jelas jika
 
 206
 00:07:42,160 --> 00:07:47,440
-kamu mengambil um jika kamu mengambil g adalah 10 kamu akan
+kamu menganggap, um, jika kamu menganggap g adalah 10 kamu akan
 
 207
 00:07:44,960 --> 00:07:48,680
-mendapatkan akar kuadrat dari 25 atau
+mendapatkan akar kuadrat dari 25, atau
 
 208
 00:07:47,440 --> 00:07:51,280
@@ -836,7 +836,7 @@ akar kuadrat dari
 
 209
 00:07:48,680 --> 00:07:52,720
-24,5 jika kamu menggunakan nilai gravitasi yang lain
+24,5 jika kamu menggunakan nilai gravitasi yang lain.
 
 210
 00:07:51,280 --> 00:07:56,000
@@ -844,11 +844,11 @@ oke jadi
 
 211
 00:07:52,720 --> 00:07:57,680
-itu  semuanya seperti yang aku katakan
+itu sudah semuanya. seperti yang aku katakan,
 
 212
 00:07:56,000 --> 00:07:59,280
-um sama seperti f sama dengan m adalah titik awal kamu
+um, sama bila f sama dengan m adalah titik awalmu
 
 213
 00:07:57,680 --> 00:08:02,400
@@ -856,36 +856,36 @@ untuk begitu banyak pertanyaan mekanika secara
 
 214
 00:07:59,280 --> 00:08:04,080
-umum ini adalah jenis spesifik dari m
+umum, ini adalah jenis spesifik dari m
 
 215
 00:08:02,400 --> 00:08:05,520
-sama dengan m a
+sama dengan m a.
 
 216
 00:08:04,080 --> 00:08:07,520
-salah satu dari
+salah satu dari ini,
 
 217
 00:08:05,520 --> 00:08:08,800
-um ini yang kamu dapatkan dengan gerakan melingkar jadi
+yang kamu dapatkan dengan gerakan melingkar. jadi
 
 218
 00:08:07,520 --> 00:08:10,479
-itulah mengapa ini adalah awal kamu  titik
+itulah mengapa ini adalah titik awalnya
 
 219
 00:08:08,800 --> 00:08:11,919
-segera setelah kamu melihat bahwa
+segera setelah kamu melihatnya.
 
 220
 00:08:10,479 --> 00:08:12,639
-kamu seperti bam ke sanalah aku akan
+kamu seperti "bam!", ke sanalah langkah yang 
 
 221
 00:08:11,919 --> 00:08:15,520
-pergi
+harus aku ambil. 
 
 222
 00:08:12,639 --> 00:08:15,520
-oke
+oke... (Alih bahasa oleh Karel Bondan)
