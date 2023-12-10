@@ -1,26 +1,26 @@
 1
 00:00:00,320 --> 00:00:05,359
-sekarang saya pikir itu adalah masalah kita, inilah
+sekarang aku pikir itu adalah masalah kita, inilah
 
 2
 00:00:02,639 --> 00:00:07,600
-alasannya dan um jika Anda telah beralih dari ini sebagai
+alasannya... dan um jika kamu telah beralih dari ini sebagai
 
 3
 00:00:05,359 --> 00:00:10,160
-dasar, Anda mewarisi masalah ini
+dasar, kamu mewarisi masalah ini...
 
 4
 00:00:07,600 --> 00:00:12,559
-oke um ini adalah cara yang sangat cerdas, diacungi
+oke, um, ini adalah cara yang sangat cerdas, dua 
 
 5
 00:00:10,160 --> 00:00:13,599
-jempol dalam hal kecerdikan untuk cara mendapatkannya
+jempol dalam hal kecerdikan untuk cara mendapatkan t. 
 
 6
 00:00:13,599 --> 00:00:17,199
-tetapi ada masalah di  saya akan menunjukkan kepada Anda
+tetapi ada masalah... aku akan menunjukkanmu
 
 7
 00:00:14,960 --> 00:00:18,880
@@ -32,7 +32,7 @@ persamaan pertama,
 
 9
 00:00:18,880 --> 00:00:22,560
-kan. Saya mencoba menjelaskan kepada Anda mengapa
+aku mencoba menjelaskan kepadamu mengapa
 
 10
 00:00:20,960 --> 00:00:24,320
@@ -44,15 +44,15 @@ tidak melakukannya, tetapi
 
 12
 00:00:24,320 --> 00:00:28,080
-mengapa
+mengapa?
 
 13
 00:00:25,359 --> 00:00:30,640
-dengan mengajukan banding ke persamaan pertama ini,
+dengan mengambil referensi ke persamaan pertama ini,
 
 14
 00:00:28,080 --> 00:00:31,760
-Anda'  Sekarang kita melibatkan massa dan gravitasi.
+kita sekarang melibatkan massa dan gravitasi.
 
 15
 00:00:31,760 --> 00:00:36,239
@@ -60,7 +60,7 @@ Massa dan gravitasi keduanya adalah konstanta,
 
 16
 00:00:33,920 --> 00:00:38,640
-jadi ketika Anda memasukkan ini ke dalamnya, Anda akan
+jadi ketika kamu memasukkan ini ke dalam ini, kamu akan
 
 17
 00:00:36,239 --> 00:00:40,879
@@ -68,107 +68,107 @@ mendapatkan lebih banyak kekacauan, semakin
 
 18
 00:00:38,640 --> 00:00:42,559
-jauh Anda mencoba dan melanjutkan dengan persamaan satu,
+jauh kamu mencoba dan melanjutkan dengan persamaan satu,
 
 19
 00:00:40,879 --> 00:00:44,160
-semakin banyak meledak Anda mendapatkan
+semakin kacau jadinya. kamu akan dapat
 
 20
 00:00:42,559 --> 00:00:46,000
-persegi  akar atau kamu
+akar-akaran, atau 
 
 21
 00:00:44,160 --> 00:00:47,920
-terlibat dalam hal tinggi badan kamu mendapatkan hal yang tidak diketahui lainnya
+tinggi juga akan terlibat, kamu dapat hal-hal lain yang tak diketahui...
 
 22
 00:00:46,000 --> 00:00:50,079
-tidak membantu oke jadi inilah yang
+tidak membantu. oke, jadi inilah yang
 
 23
 00:00:47,920 --> 00:00:52,239
-akan aku lakukan aku hanya akan fokus pada
+akan aku lakukan, aku hanya akan fokus pada
 
 24
 00:00:50,079 --> 00:00:53,920
-persamaan ini di sini persamaan satu tidak membantu
+persamaan ini di sini, persamaan satu? tidak membantu...
 
 25
 00:00:52,239 --> 00:00:55,680
-persamaan dua
+persamaan dua?
 
 26
 00:00:53,920 --> 00:00:57,600
-sedikit lebih berguna
+sedikit lebih berguna...
 
 27
 00:00:55,680 --> 00:00:59,359
-sekarang apa masalahnya  persamaan dua nah
+sekarang masalah dengan persamaan dua... nah
 
 28
 00:00:57,600 --> 00:01:00,960
-masalah yang saya punya dengan ini
+masalah yang aku punya dengan ini
 
 29
 00:00:59,359 --> 00:01:03,199
-adalah ada theta di sana kan dan
+adalah ada theta di sana, dan
 
 30
 00:01:00,960 --> 00:01:05,439
-saya tidak ingin theta di sana jadi
+aku tidak ingin theta di sana, jadi
 
 31
 00:01:03,199 --> 00:01:06,560
-inilah theta bagaimana cara menghilangkannya
+inilah theta, bagaimana cara menghilangkannya?
 
 32
 00:01:06,560 --> 00:01:10,560
-dengan baik jika saya tahu apa itu sinus theta saya bisa
+jika aku tahu apa itu sin theta aku bisa
 
 33
 00:01:09,200 --> 00:01:14,080
-sub saja  keluar untuk hal lain yang
+mensubstitusikannya dengan hal lain yang
 
 34
 00:01:10,560 --> 00:01:15,840
-saya tahu dan dalam segitiga c-o-p
+aku tahu, dan dalam segitiga c-o-p
 
 35
 00:01:14,080 --> 00:01:18,240
-theta ada di sana
+theta ada di sana,
 
 36
 00:01:15,840 --> 00:01:19,840
-dan saya punya semua hal lain ini bukan
+dan aku punya semua hal lain ini, bukan h.
 
 37
 00:01:18,240 --> 00:01:22,240
-saya tidak tahu apa itu tapi saya punya
+aku tidak tahu apa itu h, tapi aku punya
 
 38
 00:01:19,840 --> 00:01:24,479
-dua yang saya tahu benar jadi di
+dua yang aku tahu. jadi di
 
 39
 00:01:22,240 --> 00:01:25,840
-segitiga ini
+segitiga ini,
 
 40
 00:01:24,479 --> 00:01:30,880
-sine theta
+sin theta...
 
 41
 00:01:25,840 --> 00:01:30,880
-sine  theta berlawanan dengan sisi miring
+sin theta berlawanan dengan sisi miring.
 
 42
 00:01:31,439 --> 00:01:37,520
-oke dengan itu
+oke, dengan itu...
 
 43
 00:01:34,079 --> 00:01:38,400
-jadi sekarang saya akan mengambil ini di sini
+jadi sekarang aku akan mengambil ini di sini
 
 44
 00:01:37,520 --> 00:01:41,720
@@ -176,11 +176,11 @@ dan
 
 45
 00:01:38,400 --> 00:01:41,720
-saya kira
+aku kira
 
 46
 00:01:41,840 --> 00:01:44,479
-itu tidak masalah sebenarnya saya akan memasukkan
+itu tidak masalah sebenarnya... aku akan memasukkan
 
 47
 00:01:43,439 --> 00:01:46,159
@@ -196,27 +196,27 @@ um persamaan
 
 50
 00:01:47,600 --> 00:01:52,000
-dua
+dua,
 
 51
 00:01:48,399 --> 00:01:57,439
-oke lihat apa yang terjadi benar uh itu t
+oke lihat apa yang terjadi. uh itu t
 
 52
 00:01:52,000 --> 00:01:58,240
-kali r di  aku sama dengan m r omega kuadrat
+kali r per l sama dengan m r omega kuadrat.
 
 53
 00:01:57,439 --> 00:02:01,759
-oke
+oke,
 
 54
 00:01:58,240 --> 00:02:06,040
-um aku bisa membagi kedua ruas dengan r lalu
+aku bisa membagi kedua ruas dengan r lalu
 
 55
 00:02:01,759 --> 00:02:06,040
-aku bisa mengalikannya dengan l
+aku bisa mengalikannya dengan l.
 
 56
 00:02:09,920 --> 00:02:13,040
@@ -224,11 +224,11 @@ jadi
 
 57
 00:02:10,879 --> 00:02:15,120
-aku ingin berdebat menurutku ini
+aku ingin berdebat, menurutku ini
 
 58
 00:02:13,040 --> 00:02:16,239
-sedikit lebih sederhana oke tapi kamu bisa lihat, bisakah kamu
+sedikit lebih sederhana. tapi kamu bisa lihat, bisakah kamu
 
 59
 00:02:15,120 --> 00:02:17,840
@@ -236,43 +236,43 @@ melihat kenapa
 
 60
 00:02:16,239 --> 00:02:18,879
-kenapa kamu pergi ke arah ini  arah ini
+kenapa kamu pergi ke arah ini, arah ini,
 
 61
 00:02:18,879 --> 00:02:23,120
-daripada arah ini cerdik sebagaimana
+daripada arah ini? secerdik apapun
 
 62
 00:02:20,800 --> 00:02:25,599
-adanya Anda mulai menambahkan hal-hal yang
+itu, kamu mulai menambahkan hal-hal yang
 
 63
 00:02:23,120 --> 00:02:28,800
-mengaburkan gambarannya
+mengaburkan gambarannya.
 
 64
 00:02:25,599 --> 00:02:31,200
-baiklah di sana Anda pergi ketegangan diacungi jempol
+baiklah di sana kamu masukkan ketegangan, bagus. 
 
 65
 00:02:28,800 --> 00:02:32,640
-bagaimana cara mendapatkan sudut ini sekarang bagaimana cara
+bagaimana cara mendapatkan sudut ini? bagaimana cara
 
 66
 00:02:31,200 --> 00:02:33,440
-menyelesaikannya
+menyelesaikannya?
 
 67
 00:02:32,640 --> 00:02:34,959
-sekarang kali ini kali ini
+sekarang, kali ini
 
 68
 00:02:34,959 --> 00:02:38,560
-keduanya  persamaan akan
+kedua persamaannya akan
 
 69
 00:02:36,720 --> 00:02:41,120
-lebih berguna bagi kita oke
+lebih berguna bagi kita. oke,
 
 70
 00:02:38,560 --> 00:02:43,280
@@ -280,127 +280,127 @@ karena keduanya melibatkan theta oke dan
 
 71
 00:02:41,120 --> 00:02:45,599
-jangan lupa sekarang saya tahu tegangannya
+jangan lupa sekarang aku tahu tegangannya.
 
 72
 00:02:43,280 --> 00:02:47,840
-oke jadi saya bisa menggunakan ini lihat
+oke, jadi aku bisa menggunakan ini. lihat
 
 73
 00:02:45,599 --> 00:02:50,800
-persamaan dua dan satu
+persamaan dua dan satu,
 
 74
 00:02:47,840 --> 00:02:52,080
-persamaan dua lagi
+lebih ke persamaan dua...
 
 75
 00:02:50,800 --> 00:02:55,040
-apa cara termudah untuk melakukannya
+apa cara termudah untuk 
 
 76
 00:02:52,080 --> 00:02:57,120
-keluarkan hal yang tidak diketahui ini tetapi pertahankan theta.
+keluarkan hal yang tidak diketahui ini, tetapi pertahankan theta?
 
 77
 00:02:55,040 --> 00:02:58,720
-Saya pikir saya harus membagi dengan benar,
+aku pikir aku harus membagi, kan?
 
 78
 00:02:57,120 --> 00:03:00,560
-menambahkan pengurangan, Anda masih belum
+penambahan, pengurangan, masih akan ada t 
 
 79
 00:02:58,720 --> 00:03:04,080
-memilikinya, jadi saya akan membagi
+di sana, jadi aku akan membagi...
 
 80
 00:03:00,560 --> 00:03:06,640
-saran ke arah mana saya harus membagi
+saran, ke arah mana aku harus membagi?
 
 81
 00:03:04,080 --> 00:03:08,319
-dua dibagi satu
+dua dibagi satu.
 
 82
 00:03:06,640 --> 00:03:09,680
-oke jadi ini um apa  yang aku lakukan, aku sedang
+oke jadi ini, apa yang aku lakukan? aku sedang
 
 83
 00:03:08,319 --> 00:03:12,480
-mengerjakan bagian b sekarang
+mengerjakan bagian b. sekarang,
 
 84
 00:03:09,680 --> 00:03:14,159
-oke jadi tmu akan membatalkan
+oke, jadi t-mu akan habis dibagi.
 
 85
 00:03:12,480 --> 00:03:16,480
-sinus theta dan cos theta hanya memberimu
+sin theta dan cos theta akan jadi
 
 86
 00:03:14,159 --> 00:03:16,480
-tan
+tan.
 
 87
 00:03:17,200 --> 00:03:21,920
-oke kamu bahkan tidak perlu khawatir tentang
+oke, kamu bahkan tidak perlu khawatir tentang
 
 88
 00:03:19,360 --> 00:03:24,640
-massa lagi oke jadi kamu akan mendapatkan
+massa lagi. oke, jadi kamu akan mendapatkan
 
 89
 00:03:21,920 --> 00:03:25,840
-r omega kuadrat  di
+r omega kuadrat per
 
 90
 00:03:24,640 --> 00:03:29,879
-g
+g.
 
 91
 00:03:25,840 --> 00:03:29,879
-jadi aku hanya ingin sudutnya ya
+jadi aku hanya ingin sudutnya ya,
 
 92
 00:03:33,280 --> 00:03:36,799
-selesai
+selesai.
 
 93
 00:03:34,480 --> 00:03:38,080
-jatuh begitu saja oke baiklah
+jatuh begitu saja... oke baiklah...
 
 94
 00:03:36,799 --> 00:03:40,239
-sekarang
+sekarang,
 
 95
 00:03:38,080 --> 00:03:42,319
-bagian terakhir mari kita lihat
+bagian terakhir, mari kita lihat
 
 96
 00:03:40,239 --> 00:03:43,680
-bagaimana cara menghitung ketinggian ini bagaimana cara
+bagaimana cara menghitung ketinggian ini. bagaimana cara
 
 97
 00:03:42,319 --> 00:03:46,000
-mengerjakannya dengan baik
+mengerjakannya?
 
 98
 00:03:43,680 --> 00:03:47,920
-dengan semua informasi ini kan kita
+dengan semua informasi ini kita
 
 99
 00:03:46,000 --> 00:03:50,560
-punya kita'  Aku punya banyak cara mudah untuk sampai
+punya... kita punya banyak cara mudah untuk sampai
 
 100
 00:03:47,920 --> 00:03:54,159
-ke sana oke jadi mungkin sekarang kita tahu
+ke sana. oke, jadi mungkin sekarang kita tahu
 
 101
 00:03:50,560 --> 00:03:55,920
-bahwa tan theta sama dengan tan theta siku-siku ini. Aku
+bahwa tan theta sama dengan ini, tan tetha
 
 102
 00:03:54,159 --> 00:03:58,480
@@ -408,51 +408,51 @@ akan memberikan perbandingan antara
 
 103
 00:03:55,920 --> 00:04:00,640
-kedua sisi ini. Jadi kembali ke segitiga ini
+kedua sisi ini. Jadi kembali ke segitiga ini...
 
 104
 00:04:00,640 --> 00:04:03,840
-c o p
+c o p...
 
 105
 00:04:01,920 --> 00:04:05,760
-right berapa tan theta sama dengan
+tan theta sama dengan...?
 
 106
 00:04:03,840 --> 00:04:07,360
-kebalikannya  pada sisi miring
+kebalikannya pada sisi miring,
 
 107
 00:04:05,760 --> 00:04:10,400
-yang
+yang adalah
 
 108
 00:04:07,360 --> 00:04:11,920
-r di atas maaf berlawanan dengan r dan
+r per... maaf, maksudnya berlawanan dengan samping... r per
 
 109
 00:04:10,400 --> 00:04:14,000
-h yang berdekatan ya
+h, betul?
 
 110
 00:04:11,920 --> 00:04:16,720
-jadi ada ketinggian yang aku incar
+jadi ada ketinggian yang aku incar.
 
 111
 00:04:14,000 --> 00:04:18,479
-oke uh aku tahu tan theta apa yang
+oke, aku tahu nilai dari tan theta,
 
 112
 00:04:16,720 --> 00:04:21,840
-ada di sana
+ada di sana...
 
 113
 00:04:18,479 --> 00:04:23,120
-r omega kuadrat pada g
+r omega kuadrat per g,
 
 114
 00:04:21,840 --> 00:04:24,560
-r di h
+r per h.
 
 115
 00:04:23,120 --> 00:04:27,040
@@ -460,59 +460,59 @@ aku dapat membaginya dengan r karena
 
 116
 00:04:24,560 --> 00:04:31,600
-tidak nol  itu semua baik-baik saja jadi sekarang saya
+itu bukan nol, bagus... jadi sekarang aku
 
 117
 00:04:27,040 --> 00:04:31,600
-hanya mengambil kebalikannya h sama dengan
+hanya mengambil kebalikannya h sama dengan...
 
 118
 00:04:34,080 --> 00:04:37,840
-oke
+oke...
 
 119
 00:04:35,919 --> 00:04:41,280
-jadi inilah ringkasan kita dan mari kita lihat
+jadi inilah ringkasan kita, dan mari kita lihat
 
 120
 00:04:37,840 --> 00:04:43,840
-apa yang berguna tentang satu
+apa yang berguna tentang ini. 1...
 
 121
 00:04:41,280 --> 00:04:43,840
-dua
+2...
 
 122
 00:04:44,000 --> 00:04:47,360
-tiga ini oke karena itu bukan hanya
+3... oke, karena itu bukan hanya
 
 123
 00:04:46,080 --> 00:04:50,080
-persamaan yang hanya tergantung di
+persamaan belaka,
 
 124
 00:04:47,360 --> 00:04:52,560
-udara, mereka memberi tahu Anda berguna  hal mari
+mereka memberi tahu kamu hal berguna, 
 
 125
 00:04:50,080 --> 00:04:54,560
-kita lihat ketegangan yang satu ini
+kita lihat ketegangan yang satu ini,
 
 126
 00:04:52,560 --> 00:04:57,600
-bergantung pada apa itu tergantung pada
+bergantung pada apa itu? itu bergantung pada
 
 127
 00:04:54,560 --> 00:05:00,160
-tiga hal massa dan panjang nah itu
+tiga hal, yakni massa dan panjang... nah itu
 
 128
 00:04:57,600 --> 00:05:03,360
-konstanta bukan masalah besar itu tergantung
+konstanta, bukan masalah besar. itu tergantung
 
 129
 00:05:00,160 --> 00:05:04,720
-omega juga jadi semakin cepat
+omega juga, jadi semakin cepat...
 
 130
 00:05:03,360 --> 00:05:06,080
@@ -520,71 +520,71 @@ dan kalian bisa mengalami ini jika kalian
 
 131
 00:05:04,720 --> 00:05:08,240
-punya seperti kalung  atau benda panjang lainnya yang
+punya seperti kalung atau benda panjang lainnya yang
 
 132
 00:05:06,080 --> 00:05:10,960
-tidak keberatan untuk diputar oke
+kamu tidak keberatan untuk diputar... oke,
 
 133
 00:05:08,240 --> 00:05:12,960
-semakin cepat Anda memutarnya ke kanan
+semakin cepat kamu memutarnya
 
 134
 00:05:10,960 --> 00:05:16,240
-semakin besar ketegangan yang Anda rasakan benda itu menarik
+semakin besar ketegangan yang kamu rasakan di 
 
 135
 00:05:12,960 --> 00:05:19,199
-jari Anda ke kanan sehingga omega meningkatkan
+jarimu, sehingga selagi omega meningkatkan
 
 136
 00:05:16,240 --> 00:05:21,199
-kecepatan sudut, ketegangan meningkatkannya, ia
+kecepatan sudut, ketegangan juga meningkat. ia
 
 137
 00:05:19,199 --> 00:05:22,800
-semakin menarik Anda,
+semakin menarik kamu.
 
 138
 00:05:21,199 --> 00:05:23,759
-mari kita lihat ini selanjutnya  lihat
+mari kita lihat yang selanjutnya, lihat
 
 139
 00:05:22,800 --> 00:05:26,080
-ini
+ini.
 
 140
 00:05:23,759 --> 00:05:28,960
-dengan cara yang sama
+dengan cara yang sama,
 
 141
 00:05:26,080 --> 00:05:31,520
-Anda tahu bahwa konstanta bukan masalah besar tetapi
+kamu tahu, r n g adalah konstanta, bukan masalah besar. tapi
 
 142
 00:05:28,960 --> 00:05:33,440
-omega ketika kecepatan sudut meningkat apa yang
+omega, ketika kecepatan sudut meningkat, apa yang
 
 143
 00:05:31,520 --> 00:05:36,160
-terjadi pada sudut
+terjadi pada sudutnya?
 
 144
 00:05:33,440 --> 00:05:38,240
-siku-siku itu sebabnya sudut ini ada di atas sini kan,
+itulah sebabnya sudut ini ada di atas sini kan?
 
 145
 00:05:36,160 --> 00:05:40,800
-bergerak dari pergi uh
+ia bergerak dari...
 
 146
 00:05:38,240 --> 00:05:43,440
-agak kecil kan?
+agak kecil, kan? 
 
 147
 00:05:40,800 --> 00:05:45,840
-theta kecil di sini sehingga ketika saya meningkatkan
+thetanya kecil di sini, sehingga ketika aku meningkatkan
 
 148
 00:05:43,440 --> 00:05:48,479
@@ -596,11 +596,11 @@ mendekati
 
 150
 00:05:48,479 --> 00:05:54,160
-pi pada dua saya kira oke bagian terakhir
+pi per 2, sepertinya. oke, bagian terakhir...
 
 151
 00:05:52,560 --> 00:05:55,120
-apa yang terjadi ketika saya meningkatkan omega di sini
+apa yang terjadi ketika aku meningkatkan omega di sini?
 
 152
 00:05:54,160 --> 00:05:58,160
@@ -608,15 +608,15 @@ karena itulah satu-satunya hal berguna lainnya yang
 
 153
 00:05:55,120 --> 00:06:00,800
-dapat Anda lakukan untuk meningkatkan omega
+dapat kamu lakukan, meningkatkan omega...
 
 154
 00:05:58,160 --> 00:06:02,880
-ini adalah  tinggi saya melihat apa yang terjadi
+ini adalah tinggi... aku melihat apa yang terjadi...
 
 155
 00:06:00,800 --> 00:06:05,759
-ketinggian benda ini benar sehingga ketika saya
+ketinggian adalah ini, benar? sehingga ketika aku
 
 156
 00:06:02,880 --> 00:06:07,520
@@ -624,11 +624,11 @@ meningkatkan kecepatan sudut ini menjadi
 
 157
 00:06:05,759 --> 00:06:09,280
-terkompresi dengan benar sehingga Anda dapat melihatnya Anda
+terkompresi kan? kamu dapat melihatnya...
 
 158
 00:06:07,520 --> 00:06:11,759
-dapat melihatnya lihat lihat ia mulai
+kamu dapat melihatnya... lihat, lihat... ia mulai
 
 159
 00:06:09,280 --> 00:06:14,240
@@ -636,24 +636,24 @@ mendekati titik tetap di mana
 
 160
 00:06:11,759 --> 00:06:16,800
-segala sesuatunya ditangguhkan dari oke sehingga Anda
+segala sesuatunya tertangguhkan. sehingga, kamu
 
 161
 00:06:14,240 --> 00:06:19,520
-dapat melihat semuanya  hal-hal ini ketika Anda
+dapat melihat dan mengerti semua ini ketika kamu
 
 162
 00:06:16,800 --> 00:06:21,199
-memahami bagaimana persamaan berinteraksi
+paham bagaimana persamaan-persamaannya berinteraksi
 
 163
 00:06:19,520 --> 00:06:23,120
-satu sama lain dan berubah
+satu sama lain, dan berubah
 
 164
 00:06:21,199 --> 00:06:26,360
-saat Anda memodifikasi beberapa variabel, hal
+saat kamu memodifikasi beberapa variabel, apakah
 
 165
 00:06:23,120 --> 00:06:26,360
-itu masuk akal
+itu masuk akal? (Alih bahasa oleh Karel Bondan)
