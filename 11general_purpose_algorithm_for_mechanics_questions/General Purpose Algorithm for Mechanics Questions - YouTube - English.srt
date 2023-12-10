@@ -1,0 +1,471 @@
+1
+00:00:00,640 --> 00:00:04,640
+all right now let's just take a breath
+
+2
+00:00:02,159 --> 00:00:06,879
+do you remember back to when you were
+
+3
+00:00:04,640 --> 00:00:09,120
+first given questions like this
+
+4
+00:00:06,879 --> 00:00:11,200
+um something like this i don't know um x
+
+5
+00:00:09,120 --> 00:00:13,200
+squared minus x
+
+6
+00:00:11,200 --> 00:00:14,799
+something like that okay now when you
+
+7
+00:00:13,200 --> 00:00:16,240
+first met rational functions like this
+
+8
+00:00:14,799 --> 00:00:17,920
+and had to learn how to graph them and
+
+9
+00:00:16,240 --> 00:00:19,279
+when you learn calculus
+
+10
+00:00:17,920 --> 00:00:21,039
+you were so unfamiliar with these and
+
+11
+00:00:19,279 --> 00:00:23,039
+there were so many steps for like
+
+12
+00:00:21,039 --> 00:00:25,199
+intercepts vertical asymptotes
+
+13
+00:00:23,039 --> 00:00:27,119
+horizontal or oblique or whatever
+
+14
+00:00:25,199 --> 00:00:29,760
+stationary points there was like 15
+
+15
+00:00:27,119 --> 00:00:32,239
+things you had to learn okay and so in
+
+16
+00:00:29,760 --> 00:00:33,760
+order to do this well you kind of had to
+
+17
+00:00:32,239 --> 00:00:35,520
+you had to develop an algorithm oh i'm
+
+18
+00:00:33,760 --> 00:00:37,200
+going to do this and then this and then
+
+19
+00:00:35,520 --> 00:00:39,920
+this and this and so for instance the
+
+20
+00:00:37,200 --> 00:00:41,360
+way that i do it this is my um
+
+21
+00:00:39,920 --> 00:00:44,000
+i've had longer to think about this one
+
+22
+00:00:41,360 --> 00:00:46,160
+so i have a nice easy mnemonic for this
+
+23
+00:00:44,000 --> 00:00:47,760
+you factorize first
+
+24
+00:00:46,160 --> 00:00:49,280
+right then you work out what your
+
+25
+00:00:47,760 --> 00:00:51,280
+asymptotes are which are just your x and
+
+26
+00:00:49,280 --> 00:00:53,199
+y's you work that out from domain and
+
+27
+00:00:51,280 --> 00:00:55,120
+from the extremities then you work out
+
+28
+00:00:53,199 --> 00:00:56,800
+your intercepts and then you
+
+29
+00:00:55,120 --> 00:00:58,160
+use the factors to shade your regions
+
+30
+00:00:56,800 --> 00:01:00,079
+and say i'm positive negative blah blah
+
+31
+00:00:58,160 --> 00:01:01,920
+blah anyway okay
+
+32
+00:01:00,079 --> 00:01:02,960
+now now if i gave you that question
+
+33
+00:01:01,920 --> 00:01:04,879
+you'd be fine with it because you've
+
+34
+00:01:02,960 --> 00:01:07,200
+been doing it for so long but all of
+
+35
+00:01:04,879 --> 00:01:08,799
+this stuff is fresh okay so i'm gonna
+
+36
+00:01:07,200 --> 00:01:11,439
+give you a um an algorithm for going
+
+37
+00:01:08,799 --> 00:01:12,479
+through circular motion questions okay
+
+38
+00:01:11,439 --> 00:01:14,720
+now
+
+39
+00:01:12,479 --> 00:01:16,720
+i tried and failed to come up with a
+
+40
+00:01:14,720 --> 00:01:19,360
+nice mnemonic i had no vowels so if you
+
+41
+00:01:16,720 --> 00:01:21,680
+can come up with alternative letters for
+
+42
+00:01:19,360 --> 00:01:23,119
+what i'm about to tell you then um
+
+43
+00:01:21,680 --> 00:01:25,040
+you're more than welcome and i'd love to
+
+44
+00:01:23,119 --> 00:01:26,720
+find out
+
+45
+00:01:25,040 --> 00:01:29,360
+but um there are basically there are
+
+46
+00:01:26,720 --> 00:01:32,000
+four things you've got to tick off
+
+47
+00:01:29,360 --> 00:01:33,840
+and then you can work on habits okay so
+
+48
+00:01:32,000 --> 00:01:36,079
+no prizes
+
+49
+00:01:33,840 --> 00:01:37,520
+from me for working out what's the first
+
+50
+00:01:36,079 --> 00:01:41,439
+one
+
+51
+00:01:37,520 --> 00:01:42,640
+drawer diving thank you
+
+52
+00:01:41,439 --> 00:01:45,600
+now the important thing about the
+
+53
+00:01:42,640 --> 00:01:47,520
+diagram is it's got to have all the
+
+54
+00:01:45,600 --> 00:01:49,520
+forces on it the forces are the
+
+55
+00:01:47,520 --> 00:01:50,880
+important thing because as we go further
+
+56
+00:01:49,520 --> 00:01:52,240
+down
+
+57
+00:01:50,880 --> 00:01:54,240
+the force equations you've got what
+
+58
+00:01:52,240 --> 00:01:56,719
+you're going to need to work with okay
+
+59
+00:01:54,240 --> 00:01:59,759
+um importantly
+
+60
+00:01:56,719 --> 00:01:59,759
+like i said before
+
+61
+00:02:00,159 --> 00:02:04,719
+don't put on mr omega squared it's the
+
+62
+00:02:02,960 --> 00:02:06,560
+sum of all the resulting forces that are
+
+63
+00:02:04,719 --> 00:02:08,800
+set heading back toward the center of
+
+64
+00:02:06,560 --> 00:02:11,599
+motion okay but it's not an actual
+
+65
+00:02:08,800 --> 00:02:14,160
+physical force like tension or gravity
+
+66
+00:02:11,599 --> 00:02:16,160
+or or the reaction force off the table
+
+67
+00:02:14,160 --> 00:02:18,879
+those kinds of things
+
+68
+00:02:16,160 --> 00:02:21,920
+so draw a diagram right draw all the
+
+69
+00:02:18,879 --> 00:02:23,599
+forces on it but don't draw m r omega
+
+70
+00:02:21,920 --> 00:02:25,200
+squared okay because it's the sum of
+
+71
+00:02:23,599 --> 00:02:26,400
+forces
+
+72
+00:02:25,200 --> 00:02:28,959
+the second thing you got to do is once
+
+73
+00:02:26,400 --> 00:02:32,160
+you draw your big fancy diagram okay you
+
+74
+00:02:28,959 --> 00:02:34,640
+use a combination of whatever trig
+
+75
+00:02:32,160 --> 00:02:37,840
+and geometry you need
+
+76
+00:02:34,640 --> 00:02:40,160
+to work out now here's the thing right
+
+77
+00:02:37,840 --> 00:02:41,120
+this diagram it's all about the forces
+
+78
+00:02:40,160 --> 00:02:42,800
+okay
+
+79
+00:02:41,120 --> 00:02:45,360
+the trigger in the geometry is to work
+
+80
+00:02:42,800 --> 00:02:48,080
+out now where are those forces pointed
+
+81
+00:02:45,360 --> 00:02:49,680
+what angles right and how big are those
+
+82
+00:02:48,080 --> 00:02:51,840
+forces okay what are the magnitude of
+
+83
+00:02:49,680 --> 00:02:54,160
+those forces so you use trig and
+
+84
+00:02:51,840 --> 00:02:56,879
+geometry to work that out okay you might
+
+85
+00:02:54,160 --> 00:02:58,400
+be able to guess what three is
+
+86
+00:02:56,879 --> 00:03:00,480
+when you've got all of those forces in
+
+87
+00:02:58,400 --> 00:03:01,360
+real wacky directions you should resolve
+
+88
+00:03:00,480 --> 00:03:03,200
+them
+
+89
+00:03:01,360 --> 00:03:04,879
+okay
+
+90
+00:03:03,200 --> 00:03:06,560
+almost now
+
+91
+00:03:04,879 --> 00:03:08,959
+you you resolve it into the two
+
+92
+00:03:06,560 --> 00:03:10,720
+different components right namely um
+
+93
+00:03:08,959 --> 00:03:12,879
+horizontal
+
+94
+00:03:10,720 --> 00:03:12,879
+right
+
+95
+00:03:15,440 --> 00:03:18,800
+okay
+
+96
+00:03:16,560 --> 00:03:20,239
+now once you have those you add them all
+
+97
+00:03:18,800 --> 00:03:22,400
+up you've got all of your horizontal
+
+98
+00:03:20,239 --> 00:03:24,000
+forces they should add up to mr omega
+
+99
+00:03:22,400 --> 00:03:25,360
+squared but all your vertical forces
+
+100
+00:03:24,000 --> 00:03:27,680
+whatever they are
+
+101
+00:03:25,360 --> 00:03:29,760
+um usually by the way
+
+102
+00:03:27,680 --> 00:03:31,280
+you've got mr omega squared here and if
+
+103
+00:03:29,760 --> 00:03:33,440
+it's uniform circular motion then the
+
+104
+00:03:31,280 --> 00:03:35,360
+vertical forces should add up to
+
+105
+00:03:33,440 --> 00:03:36,159
+zero
+
+106
+00:03:35,360 --> 00:03:38,159
+okay
+
+107
+00:03:36,159 --> 00:03:39,760
+final step and this is the hard part
+
+108
+00:03:38,159 --> 00:03:41,200
+based on whatever question they're
+
+109
+00:03:39,760 --> 00:03:44,640
+asking you
+
+110
+00:03:41,200 --> 00:03:46,959
+you have to solve the force equations
+
+111
+00:03:44,640 --> 00:03:48,159
+okay you have a couple of them
+
+112
+00:03:46,959 --> 00:03:50,640
+work out what they're trying to ask you
+
+113
+00:03:48,159 --> 00:03:52,239
+and then fit in all your information
+
+114
+00:03:50,640 --> 00:03:54,400
+diagram
+
+115
+00:03:52,239 --> 00:03:55,519
+whatever geometry you need resolve out
+
+116
+00:03:54,400 --> 00:03:56,720
+all the forces after you've worked out
+
+117
+00:03:55,519 --> 00:03:59,519
+the directions
+
+118
+00:03:56,720 --> 00:03:59,519
+and then solve
