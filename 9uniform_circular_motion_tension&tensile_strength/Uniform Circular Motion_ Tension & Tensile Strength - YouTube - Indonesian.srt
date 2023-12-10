@@ -156,23 +156,23 @@ yang berarti lupakan berat
 
 40
 00:01:24,799 --> 00:01:29,600
-talinya. bisakah kamu artikan apa maksud 
+talinya. bisakah kamu jelaskan
 
 41
 00:01:26,880 --> 00:01:29,600
-aku apa artinya apa
+maksud dari tali yang tidak elastis?
 
 42
 00:01:29,840 --> 00:01:33,280
-artinya
+apa artinya? 
 
 43
 00:01:31,600 --> 00:01:35,759
-tidak bertambah panjang tidak bertambah
+tidak makin panjang dan tidak makin
 
 44
 00:01:33,280 --> 00:01:37,200
-pendek oke jadi dengan kata lain kamu
+pendek, oke, jadi dengan kata lain kamu
 
 45
 00:01:35,759 --> 00:01:38,799
@@ -184,59 +184,63 @@ radius konstan itu adalah
 
 47
 00:01:38,799 --> 00:01:43,119
-2 meter oke, bagus
+2 meter
 
 48
 00:01:41,759 --> 00:01:45,360
-sekali
+oke, bagus...
 
 49
 00:01:43,119 --> 00:01:47,840
-tegangan pada tali sekarang
+temukan tegangan pada tali. sekarang,
 
 50
 00:01:45,360 --> 00:01:50,320
-seperti dengan seperti dengan
+seperti pertanyaan mekanika yang sudah-sudah, 
 
 51
 00:01:47,840 --> 00:01:52,960
-pertanyaan awal di bawah mekanika kanan f sama dengan
+F sama dengan
 
 52
 00:01:50,320 --> 00:01:55,920
-m a adalah di mana kamu memulai sebanyak
+m a adalah awalan untuk menjawab, 
 
 53
 00:01:52,960 --> 00:01:58,079
-95 pertanyaan oke jadi untuk
+mungkin 95 pertanyaan tentang mekanika. oke, untuk
 
 54
 00:01:55,920 --> 00:02:00,640
-misi melingkar seragam ambil kembali itu untuk
+gerak melingkar seragam, ambil kembali itu untuk
 
 55
 00:01:58,079 --> 00:02:02,399
-gerak melingkar titik kanan apa yang
+gerak melingkar, kan? apa yang
 
 56
 00:02:00,640 --> 00:02:03,520
-membuatnya melingkar apa  Jika
+membuatnya melingkar? apa yang membuatnya
+
+56
+00:02:03,520 --> 00:02:06,079
+tetap berada dalam lingkaran? 
 
 57
 00:02:06,079 --> 00:02:09,679
-gayanya lebih kecil, jika partikelnya
+persamaan ini kan? jika gayanya lebih kecil sesedikit pun, 
 
 58
 00:02:08,479 --> 00:02:10,800
-berputar maka partikelnya akan berbentuk
+partikelnya akan keluar jalur dan membentuk 
 
 59
 00:02:09,679 --> 00:02:13,040
-elips atau semacamnya,
+lintasan elips atau semacamnya,
 
 60
 00:02:10,800 --> 00:02:14,319
-jika gayanya lebih besar maka partikel itu
+jika gayanya lebih besar, maka partikel itu
 
 61
 00:02:13,040 --> 00:02:15,360
@@ -244,11 +248,11 @@ akan berputar ke dalam dan akan bertumbukan
 
 62
 00:02:14,319 --> 00:02:17,760
-dengan partikel tersebut.  bau dan itu tidak akan
+dengan titik pusatnya, dan ia tidak akan bergerak 
 
 63
 00:02:15,360 --> 00:02:22,120
-melingkar lagi oke jadi kamu bisa mulai
+melingkar lagi. oke jadi kamu bisa mulai
 
 64
 00:02:17,760 --> 00:02:22,120
