@@ -1,26 +1,26 @@
 1
 00:00:00,640 --> 00:00:04,640
-baiklah sekarang mari kita tarik nafas apakah kamu
+baiklah, sekarang mari kita tarik nafas... apakah kamu
 
 2
 00:00:02,159 --> 00:00:06,879
-ingat kembali saat
+ingat ketika
 
 3
 00:00:04,640 --> 00:00:09,120
-pertama kali kamu diberi pertanyaan seperti ini
+pertama kali diberi pertanyaan seperti ini?
 
 4
 00:00:06,879 --> 00:00:11,200
-um sesuatu seperti ini saya tidak tahu um x
+um sesuatu seperti ini... aku tidak tahu... um x
 
 5
 00:00:09,120 --> 00:00:13,200
-kuadrat dikurangi x
+kuadrat dikurangi x...
 
 6
 00:00:11,200 --> 00:00:14,799
-sesuatu seperti itu oke sekarang ketika kamu
+sesuatu seperti itu... oke, ketika kamu
 
 7
 00:00:13,200 --> 00:00:16,240
@@ -28,15 +28,15 @@ pertama kali bertemu dengan fungsi rasional seperti ini
 
 8
 00:00:14,799 --> 00:00:17,920
-dan telah  untuk mempelajari cara membuat grafiknya dan
+dan mempelajari cara membuat grafiknya, dan
 
 9
 00:00:16,240 --> 00:00:19,279
-ketika Anda mempelajari kalkulus
+ketika kamu mempelajari kalkulus
 
 10
 00:00:17,920 --> 00:00:21,039
-Anda sangat asing dengan ini dan
+kamu sangat asing dengan ini, dan
 
 11
 00:00:19,279 --> 00:00:23,039
@@ -44,11 +44,11 @@ ada begitu banyak langkah seperti
 
 12
 00:00:21,039 --> 00:00:25,199
-memotong asimtot vertikal
+memotong asimtot vertikal,
 
 13
 00:00:23,039 --> 00:00:27,119
-horizontal atau miring atau
+horizontal, atau miring, atau
 
 14
 00:00:25,199 --> 00:00:29,760
@@ -56,107 +56,107 @@ titik stasioner apa pun, ada sekitar 15
 
 15
 00:00:27,119 --> 00:00:32,239
-hal yang harus Anda pelajari oke dan seterusnya
+hal yang harus kamu pelajari. oke, dan
 
 16
 00:00:29,760 --> 00:00:33,760
-untuk  lakukan ini dengan baik kamu
+untuk mengerjakan ini, kamu
 
 17
 00:00:32,239 --> 00:00:35,520
-harus mengembangkan algoritma oh aku
+harus mengembangkan algoritma. oh, aku
 
 18
 00:00:33,760 --> 00:00:37,200
-akan melakukan ini lalu ini lalu
+akan melakukan ini, lalu ini, lalu
 
 19
 00:00:35,520 --> 00:00:39,920
-ini dan ini dan jadi misalnya
+ini, dan ini. jadi misalnya
 
 20
 00:00:37,200 --> 00:00:41,360
-cara yang aku lakukan ini adalah um,
+caraku melakukannya adalah um,
 
 21
 00:00:39,920 --> 00:00:44,000
-aku punya waktu lebih lama untuk melakukannya  pikirkan yang ini
+aku punya waktu lebih lama untuk memikirkan yang ini,
 
 22
 00:00:41,360 --> 00:00:46,160
-jadi saya punya mnemonik mudah yang bagus untuk ini,
+jadi aku punya mnemonik mudah yang bagus untuk ini,
 
 23
 00:00:44,000 --> 00:00:47,760
-Anda memfaktorkannya terlebih dahulu,
+kamu memfaktorkannya terlebih dahulu,
 
 24
 00:00:46,160 --> 00:00:49,280
-lalu Anda mencari tahu apa
+lalu kamu mencari tahu apa
 
 25
 00:00:47,760 --> 00:00:51,280
-asimtot Anda yang hanya x dan
+asimtotnya, yang adalah x dan
 
 26
 00:00:49,280 --> 00:00:53,199
-y, Anda mengerjakannya dari domain dan
+y, kamu mengerjakannya dari domain dan
 
 27
 00:00:51,280 --> 00:00:55,120
-dari ekstremitas, lalu Anda menghitung
+dari ekstremitas, lalu kamu menghitung
 
 28
 00:00:53,199 --> 00:00:56,800
-intersepsi Anda, lalu  Anda
+intersepsinya, lalu kamu
 
 29
 00:00:55,120 --> 00:00:58,160
-menggunakan faktor-faktor tersebut untuk menaungi daerah Anda
+menggunakan faktor-faktor tersebut untuk mengarsir daerah kamu,
 
 30
 00:00:56,800 --> 00:01:00,079
-dan mengatakan saya positif negatif bla bla bla
+dan menandai positif lah atau negatif lah, bla bla bla...
 
 31
 00:00:58,160 --> 00:01:01,920
-oke
+oke,
 
 32
 00:01:00,079 --> 00:01:02,960
-sekarang jika saya memberi Anda pertanyaan itu
+sekarang, jika aku memberi kamu pertanyaan itu
 
 33
 00:01:01,920 --> 00:01:04,879
-Anda akan baik-baik saja karena Anda
+kamu akan baik-baik saja karena kamu
 
 34
 00:01:02,960 --> 00:01:07,200
-sudah melakukannya begitu lama tetapi semua
+sudah melakukannya begitu lama, tetapi semua
 
 35
 00:01:04,879 --> 00:01:08,799
-hal ini  baru oke jadi saya akan
+hal ini baru. oke, jadi aku akan
 
 36
 00:01:07,200 --> 00:01:11,439
-memberi Anda um algoritma untuk
+memberi kamu um algoritma untuk
 
 37
 00:01:08,799 --> 00:01:12,479
-mengerjakan pertanyaan gerak melingkar oke
+mengerjakan pertanyaan gerak melingkar. oke,
 
 38
 00:01:11,439 --> 00:01:14,720
-sekarang
+sekarang,
 
 39
 00:01:12,479 --> 00:01:16,720
-saya mencoba dan gagal membuat
+aku mencoba dan gagal membuat
 
 40
 00:01:14,720 --> 00:01:19,360
-mnemonik yang bagus saya tidak punya huruf vokal jadi jika Anda
+mnemonik yang bagus, aku tidak punya huruf vokal. jadi jika kamu
 
 41
 00:01:16,720 --> 00:01:21,680
@@ -164,27 +164,27 @@ bisa menemukan huruf alternatif untuk
 
 42
 00:01:19,360 --> 00:01:23,119
-apa yang saya'  Saya akan memberi tahu Anda, lalu um,
+hal yang akan aku katakan, 
 
 43
 00:01:21,680 --> 00:01:25,040
-sama-sama dan saya ingin
+silakan... dan aku tertarik untuk 
 
 44
 00:01:23,119 --> 00:01:26,720
-mengetahuinya,
+tahu ide-ide kalian.
 
 45
 00:01:25,040 --> 00:01:29,360
-tetapi um, pada dasarnya ada
+tapi um, pada dasarnya ada
 
 46
 00:01:26,720 --> 00:01:32,000
-empat hal yang harus Anda tandai,
+empat hal yang harus kamu tandai,
 
 47
 00:01:29,360 --> 00:01:33,840
-lalu Anda dapat memperbaiki kebiasaan, oke, jadi
+lalu kamu dapat mulai membiasakannya. oke, jadi
 
 48
 00:01:32,000 --> 00:01:36,079
@@ -192,11 +192,11 @@ tidak ada hadiah
 
 49
 00:01:33,840 --> 00:01:37,520
-dari saya  untuk mengerjakan apa yang pertama kali
+dariku untuk mengerjakannya... apa yang pertama
 
 50
 00:01:37,520 --> 00:01:42,640
-dilakukan di laci, terima kasih
+harus dilakukan? menyelam ke laci, terima kasih...
 
 51
 00:01:41,439 --> 00:01:45,600
@@ -220,23 +220,23 @@ menelusuri
 
 56
 00:01:50,880 --> 00:01:54,240
-persamaan gaya, Anda akan mendapatkan apa yang
+persamaan gaya, kamu akan mendapatkan apa yang
 
 57
 00:01:52,240 --> 00:01:56,719
-Anda inginkan.  kita harus bekerja dengan oke
+akan kamu pakai untuk mengerjakan soalnya. 
 
 58
 00:01:54,240 --> 00:01:59,759
-um yang penting
+yang penting,
 
 59
 00:01:56,719 --> 00:01:59,759
-seperti yang saya katakan sebelumnya
+seperti yang aku katakan sebelumnya,
 
 60
 00:02:00,159 --> 00:02:04,719
-jangan memakai mr omega kuadrat itu adalah
+jangan memakai m r omega kuadrat, itu adalah
 
 61
 00:02:02,960 --> 00:02:06,560
@@ -244,47 +244,47 @@ jumlah dari semua gaya yang dihasilkan yang
 
 62
 00:02:04,719 --> 00:02:08,800
-diatur kembali ke pusat
+mengarah kembali ke pusat
 
 63
 00:02:06,560 --> 00:02:11,599
-gerak oke tapi itu bukan
+gerak. oke, tapi itu bukan
 
 64
 00:02:08,800 --> 00:02:14,160
-kekuatan fisik yang sebenarnya seperti ketegangan  atau gravitasi
+kekuatan fisik yang sebenarnya, seperti ketegangan atau gravitasi
 
 65
 00:02:11,599 --> 00:02:16,160
-atau gaya reaksi di luar tabel
+atau gaya reaksi di luar tabel,
 
 66
 00:02:14,160 --> 00:02:18,879
-hal-hal semacam itu
+hal-hal semacam itu...
 
 67
 00:02:16,160 --> 00:02:21,920
-jadi gambarlah diagram dengan benar, gambarkan semua
+jadi gambarlah sebuah diagram, kemudian gambarkan semua
 
 68
 00:02:18,879 --> 00:02:23,599
-gaya yang ada di atasnya tetapi jangan menggambar omega
+gaya yang ada, tetapi jangan menggambar m r omega
 
 69
 00:02:21,920 --> 00:02:25,200
-kuadrat oke karena itu adalah jumlah
+kuadrat oke? karena itu adalah jumlah
 
 70
 00:02:23,599 --> 00:02:26,400
-gaya,
+gaya.
 
 71
 00:02:25,200 --> 00:02:28,959
-hal kedua yang harus Anda lakukan adalah sekali
+hal kedua yang harus kamu lakukan adalah setelah
 
 72
 00:02:26,400 --> 00:02:32,160
-Anda  gambarlah diagram mewahmu yang besar oke kamu
+kamu menggambar diagramnya,
 
 73
 00:02:28,959 --> 00:02:34,640
@@ -292,19 +292,19 @@ gunakan kombinasi trigonometri
 
 74
 00:02:32,160 --> 00:02:37,840
-dan geometri apa pun yang perlu kamu
+dan geometri apa pun yang perlu kamu 
 
 75
 00:02:34,640 --> 00:02:40,160
-kerjakan sekarang inilah masalahnya,
+kerjakan. sekarang inilah masalahnya,
 
 76
 00:02:37,840 --> 00:02:41,120
-diagram ini semuanya tentang gaya-gaya
+diagram ini semuanya tentang gaya-gaya...
 
 77
 00:02:40,160 --> 00:02:42,800
-oke
+oke,
 
 78
 00:02:41,120 --> 00:02:45,360
@@ -312,115 +312,115 @@ pemicu dalam geometri adalah mencari
 
 79
 00:02:42,800 --> 00:02:48,080
-tahu sekarang di mana gaya-gaya itu menunjuk pada
+tahu sekarang di mana gaya-gaya itu menunjuk, pada
 
 80
 00:02:45,360 --> 00:02:49,680
-sudut berapa  benar dan seberapa besar
+sudut berapa kan? dan seberapa besar
 
 81
 00:02:48,080 --> 00:02:51,840
-gaya-gaya tersebut oke berapa besar
+gaya-gaya tersebut... oke, berapa besaran
 
 82
 00:02:49,680 --> 00:02:54,160
-gaya-gaya tersebut sehingga gunakan trigonometri dan
+gaya-gaya tersebut... sehingga gunakanlah trigonometri dan
 
 83
 00:02:51,840 --> 00:02:56,879
-geometri untuk menyelesaikannya oke Anda mungkin
+geometri untuk menyelesaikannya. oke, kamu mungkin
 
 84
 00:02:54,160 --> 00:02:58,400
-bisa menebak apa ketiga gaya tersebut
+bisa menebak apa trigonometri gaya tersebut
 
 85
 00:02:56,879 --> 00:03:00,480
-ketika Anda mendapatkan semua gaya tersebut dalam
+ketika semua gaya tersebut dalam
 
 86
 00:02:58,400 --> 00:03:01,360
-arah yang benar-benar aneh, Anda harus  selesaikan
+arah yang benar-benar aneh, kamu harus mengerjakannya,
 
 87
 00:03:01,360 --> 00:03:04,879
-baik-baik saja
+oke...
 
 88
 00:03:03,200 --> 00:03:06,560
-hampir sekarang
+hampir selesai... sekarang,
 
 89
 00:03:04,879 --> 00:03:08,959
-Anda menyelesaikannya menjadi dua
+kamu telah menyelesaikannya menjadi dua
 
 90
 00:03:06,560 --> 00:03:10,720
-komponen yang berbeda dengan benar yaitu um
+komponen yang berbeda kan? yaitu um
 
 91
 00:03:08,959 --> 00:03:12,879
-horizontal sekarang
+horizontal... kan?
 
 92
 00:03:15,440 --> 00:03:18,800
-oke
+oke...
 
 93
 00:03:16,560 --> 00:03:20,239
-sekarang setelah Anda memilikinya, Anda menambahkan semuanya
+sekarang setelah kamu memilikinya, kamu menambahkan semuanya,
 
 94
 00:03:18,800 --> 00:03:22,400
-Anda memiliki semua gaya horizontal Anda,
+kamu memiliki semua gaya horizontal kamu,
 
 95
 00:03:20,239 --> 00:03:24,000
-mereka seharusnya dijumlahkan menjadi mr omega
+mereka seharusnya dijumlahkan menjadi m r omega
 
 96
 00:03:22,400 --> 00:03:25,360
-kuadrat tetapi semua milik Anda  gaya vertikal
+kuadrat, tetapi semua gaya vertikal,
 
 97
 00:03:24,000 --> 00:03:27,680
-apa pun itu
+apa pun itu,
 
 98
 00:03:25,360 --> 00:03:29,760
-um biasanya ngomong-ngomong
+um biasanya... ngomong-ngomong...
 
 99
 00:03:27,680 --> 00:03:31,280
-Anda punya mr omega kuadrat di sini dan jika
+kamu punya m r omega kuadrat di sini, dan jika
 
 100
 00:03:29,760 --> 00:03:33,440
-itu gerak melingkar beraturan maka
+itu gerak melingkar beraturan, maka
 
 101
 00:03:31,280 --> 00:03:35,360
-gaya vertikal harus berjumlah
+gaya vertikal harusnya berjumlah
 
 102
 00:03:33,440 --> 00:03:36,159
-nol
+nol.
 
 103
 00:03:35,360 --> 00:03:38,159
-oke
+oke,
 
 104
 00:03:36,159 --> 00:03:39,760
-langkah terakhir dan ini adalah bagian tersulit
+langkah terakhir, dan ini adalah bagian tersulit.
 
 105
 00:03:38,159 --> 00:03:41,200
-berdasarkan pertanyaan apa pun yang mereka
+apapun soal
 
 106
 00:03:39,760 --> 00:03:44,640
-ajukan  Anda, Anda
+pertanyaannya, kamu
 
 107
 00:03:41,200 --> 00:03:46,959
@@ -428,28 +428,28 @@ harus menyelesaikan persamaan gaya,
 
 108
 00:03:44,640 --> 00:03:48,159
-oke, Anda minta beberapa persamaan tersebut
+oke, ada beberapa persamaan mengenai itu,
 
 109
 00:03:46,959 --> 00:03:50,640
-mengerjakan apa yang ingin mereka tanyakan kepada Anda,
+kerjakan apa yang soalnya tanyakan,
 
 110
 00:03:48,159 --> 00:03:52,239
-lalu memasukkan semua diagram informasi Anda,
+lalu masukkan semua diagram informasi kamu,
 
 111
 00:03:52,239 --> 00:03:55,519
-geometri apa pun yang Anda perlukan, selesaikan
+geometri apa pun yang kamu perlukan, selesaikan
 
 112
 00:03:54,400 --> 00:03:56,720
-semua gaya setelah Anda menentukan
+semua gaya setelah kamu menemukan
 
 113
 00:03:55,519 --> 00:03:59,519
-arahnya
+arahnya,
 
 114
 00:03:56,720 --> 00:03:59,519
-dan kemudian selesaikan
+dan kemudian selesaikan (Alih bahasa oleh Karel Bondan)
