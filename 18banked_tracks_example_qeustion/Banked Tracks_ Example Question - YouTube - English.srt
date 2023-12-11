@@ -1,0 +1,1715 @@
+1
+00:00:00,719 --> 00:00:06,480
+let's simplify things a little bit okay
+
+2
+00:00:03,439 --> 00:00:07,839
+here's our situation we've got and i'm
+
+3
+00:00:06,480 --> 00:00:09,200
+just looking at it so i don't know i'm
+
+4
+00:00:07,839 --> 00:00:11,679
+just interested in the forces so i don't
+
+5
+00:00:09,200 --> 00:00:15,200
+need the whole 3d picture okay as we
+
+6
+00:00:11,679 --> 00:00:18,400
+already know your gravity that's fine
+
+7
+00:00:15,200 --> 00:00:20,400
+okay then you have a normal force
+
+8
+00:00:18,400 --> 00:00:22,240
+and in our ideal world situation we
+
+9
+00:00:20,400 --> 00:00:24,800
+imagined what would happen if those all
+
+10
+00:00:22,240 --> 00:00:26,720
+exactly cancelled out okay if you were
+
+11
+00:00:24,800 --> 00:00:29,119
+traveling at the perfect speed and the
+
+12
+00:00:26,720 --> 00:00:31,599
+angle angle
+
+13
+00:00:29,119 --> 00:00:33,680
+was exactly right okay but as you see
+
+14
+00:00:31,599 --> 00:00:35,680
+these things can all change
+
+15
+00:00:33,680 --> 00:00:37,360
+now let's just have an example and we've
+
+16
+00:00:35,680 --> 00:00:40,079
+looked at these before right if i'm
+
+17
+00:00:37,360 --> 00:00:41,920
+going faster than the optimum speed if
+
+18
+00:00:40,079 --> 00:00:43,920
+i'm going faster than the optimum speed
+
+19
+00:00:41,920 --> 00:00:46,960
+what's happening right well that
+
+20
+00:00:43,920 --> 00:00:50,000
+additional speed it's pushing me out
+
+21
+00:00:46,960 --> 00:00:51,440
+further right the centripetal force is
+
+22
+00:00:50,000 --> 00:00:52,399
+not enough to try and compensate and
+
+23
+00:00:51,440 --> 00:00:54,640
+that's why it's going further and
+
+24
+00:00:52,399 --> 00:00:57,120
+further away okay so therefore what
+
+25
+00:00:54,640 --> 00:00:59,199
+you're going to experience
+
+26
+00:00:57,120 --> 00:01:01,359
+is a force in now you're in the car
+
+27
+00:00:59,199 --> 00:01:03,199
+right and you've played corners before
+
+28
+00:01:01,359 --> 00:01:05,600
+you're going faster and faster you take
+
+29
+00:01:03,199 --> 00:01:08,960
+the corner which way are people inside
+
+30
+00:01:05,600 --> 00:01:11,119
+the car being flown which way
+
+31
+00:01:08,960 --> 00:01:12,640
+the outside of the turn right because
+
+32
+00:01:11,119 --> 00:01:15,680
+guess what
+
+33
+00:01:12,640 --> 00:01:17,439
+you passenger you have inertia as well
+
+34
+00:01:15,680 --> 00:01:19,520
+and just like the uh just like the car
+
+35
+00:01:17,439 --> 00:01:21,840
+before you want to go off in a tangent
+
+36
+00:01:19,520 --> 00:01:25,200
+and that's out of the circle okay so
+
+37
+00:01:21,840 --> 00:01:27,600
+you've got what we call a lateral force
+
+38
+00:01:25,200 --> 00:01:29,040
+okay lateral just means sideways
+
+39
+00:01:27,600 --> 00:01:30,640
+you would think oh sideways that means
+
+40
+00:01:29,040 --> 00:01:32,320
+horizontal but we don't want to use that
+
+41
+00:01:30,640 --> 00:01:33,200
+word right because horizontal here means
+
+42
+00:01:32,320 --> 00:01:36,320
+that way
+
+43
+00:01:33,200 --> 00:01:39,759
+so you've got a lateral force upwards
+
+44
+00:01:36,320 --> 00:01:41,520
+away from the ground i guess
+
+45
+00:01:39,759 --> 00:01:43,680
+but you can imagine the reverse
+
+46
+00:01:41,520 --> 00:01:45,119
+situation if you take this and you know
+
+47
+00:01:43,680 --> 00:01:46,960
+you know grandpa's driving or something
+
+48
+00:01:45,119 --> 00:01:49,600
+like that and i'm like no i don't want
+
+49
+00:01:46,960 --> 00:01:51,759
+to go so fast okay so the opposite will
+
+50
+00:01:49,600 --> 00:01:53,360
+happen okay you're going to have a
+
+51
+00:01:51,759 --> 00:01:55,040
+lateral force but it's going to be
+
+52
+00:01:53,360 --> 00:01:57,040
+downward okay
+
+53
+00:01:55,040 --> 00:01:58,880
+now
+
+54
+00:01:57,040 --> 00:02:00,399
+just like
+
+55
+00:01:58,880 --> 00:02:02,399
+in other situations where you go up and
+
+56
+00:02:00,399 --> 00:02:04,799
+down you can define whichever you want
+
+57
+00:02:02,399 --> 00:02:06,159
+as positive and negative so long as
+
+58
+00:02:04,799 --> 00:02:08,000
+you're consistent and you say what
+
+59
+00:02:06,159 --> 00:02:10,000
+you're doing okay but the point is that
+
+60
+00:02:08,000 --> 00:02:12,000
+we've got this new axis involved here
+
+61
+00:02:10,000 --> 00:02:14,720
+and it's perpendicular to the um should
+
+62
+00:02:12,000 --> 00:02:16,959
+have labeled perpendicular to the normal
+
+63
+00:02:14,720 --> 00:02:19,440
+force it's along the road okay that's
+
+64
+00:02:16,959 --> 00:02:20,840
+that's the lateral force you experience
+
+65
+00:02:19,440 --> 00:02:24,640
+so let's have a look at this
+
+66
+00:02:20,840 --> 00:02:26,000
+example i've given you a road radius
+
+67
+00:02:24,640 --> 00:02:27,680
+don't worry about the mass of the car we
+
+68
+00:02:26,000 --> 00:02:30,080
+don't know what it is
+
+69
+00:02:27,680 --> 00:02:32,720
+let's have gravity 9.8 and the road
+
+70
+00:02:30,080 --> 00:02:34,480
+designer has designed the curve so the
+
+71
+00:02:32,720 --> 00:02:36,400
+optimum velocity you're meant to take so
+
+72
+00:02:34,480 --> 00:02:38,400
+this is obviously a highway road is 120
+
+73
+00:02:36,400 --> 00:02:40,560
+kilometers per hour right so here are
+
+74
+00:02:38,400 --> 00:02:42,400
+our questions number one
+
+75
+00:02:40,560 --> 00:02:45,120
+if 120 kilometers per hour is the
+
+76
+00:02:42,400 --> 00:02:46,879
+optimum speed how how far should i make
+
+77
+00:02:45,120 --> 00:02:49,519
+the embankment right
+
+78
+00:02:46,879 --> 00:02:51,840
+and then secondly what happens at these
+
+79
+00:02:49,519 --> 00:02:54,560
+speeds what happens if someone comes
+
+80
+00:02:51,840 --> 00:02:56,720
+around and ignores the speed limit and
+
+81
+00:02:54,560 --> 00:02:58,000
+goes 180 kilometers per hour around the
+
+82
+00:02:56,720 --> 00:02:59,519
+corner instead
+
+83
+00:02:58,000 --> 00:03:01,760
+what lateral force will they be
+
+84
+00:02:59,519 --> 00:03:03,680
+experiencing which way and how much
+
+85
+00:03:01,760 --> 00:03:04,400
+and then likewise the grandpa comes
+
+86
+00:03:03,680 --> 00:03:06,959
+along
+
+87
+00:03:04,400 --> 00:03:09,920
+and wants to go slower which way will he
+
+88
+00:03:06,959 --> 00:03:12,480
+experience a force and how much okay
+
+89
+00:03:09,920 --> 00:03:14,480
+so let's have a look at this
+
+90
+00:03:12,480 --> 00:03:18,000
+first thing you've got to do is um all
+
+91
+00:03:14,480 --> 00:03:20,560
+of these units all of these units
+
+92
+00:03:18,000 --> 00:03:23,200
+not in they're not in si they're not
+
+93
+00:03:20,560 --> 00:03:24,640
+in meters or in seconds right so
+
+94
+00:03:23,200 --> 00:03:27,120
+therefore i'm going to start off by
+
+95
+00:03:24,640 --> 00:03:27,920
+saying okay here's um he's part a
+
+96
+00:03:27,120 --> 00:03:30,080
+r
+
+97
+00:03:27,920 --> 00:03:34,400
+r that radius i want that in meters
+
+98
+00:03:30,080 --> 00:03:35,280
+don't i sir r equals a thousand
+
+99
+00:03:34,400 --> 00:03:37,519
+okay
+
+100
+00:03:35,280 --> 00:03:40,239
+um i also want the velocity in meters
+
+101
+00:03:37,519 --> 00:03:43,040
+per second right so the velocity
+
+102
+00:03:40,239 --> 00:03:44,400
+is well how many meters in 120
+
+103
+00:03:43,040 --> 00:03:46,480
+kilometers
+
+104
+00:03:44,400 --> 00:03:49,360
+120 000.
+
+105
+00:03:46,480 --> 00:03:53,680
+and then it's over how many seconds in
+
+106
+00:03:49,360 --> 00:03:53,680
+an hour and the answer is 3600.
+
+107
+00:03:53,920 --> 00:03:58,840
+that's meters and that's seconds okay i
+
+108
+00:03:56,959 --> 00:04:01,200
+think it works out is it
+
+109
+00:03:58,840 --> 00:04:03,920
+50. no it's another awkward number it's
+
+110
+00:04:01,200 --> 00:04:03,920
+100 on click
+
+111
+00:04:05,439 --> 00:04:07,840
+that's right that's i'm thinking apart
+
+112
+00:04:06,959 --> 00:04:10,959
+bit
+
+113
+00:04:07,840 --> 00:04:12,640
+okay so now i've worked out those in the
+
+114
+00:04:10,959 --> 00:04:14,879
+right units okay go back to what we
+
+115
+00:04:12,640 --> 00:04:16,400
+looked at in the ideal world because
+
+116
+00:04:14,879 --> 00:04:19,440
+that's what this is talking about the
+
+117
+00:04:16,400 --> 00:04:21,680
+ideal theta okay
+
+118
+00:04:19,440 --> 00:04:24,479
+tan theta i know hold on other way
+
+119
+00:04:21,680 --> 00:04:24,479
+around v squared
+
+120
+00:04:25,120 --> 00:04:28,720
+v squared is equal to i think we said
+
+121
+00:04:26,720 --> 00:04:30,320
+was it r r g tan theta is that what
+
+122
+00:04:28,720 --> 00:04:31,600
+you've got
+
+123
+00:04:30,320 --> 00:04:34,080
+r g
+
+124
+00:04:31,600 --> 00:04:35,680
+tan theta right so theta is what i'm
+
+125
+00:04:34,080 --> 00:04:39,600
+trying to find i'll just sum everything
+
+126
+00:04:35,680 --> 00:04:42,080
+in you've got a hundred on three squared
+
+127
+00:04:39,600 --> 00:04:43,680
+that's a thousand that's nine point
+
+128
+00:04:42,080 --> 00:04:45,440
+eight
+
+129
+00:04:43,680 --> 00:04:46,800
+yeah
+
+130
+00:04:45,440 --> 00:04:47,759
+rearrange a little bit what's a hundred
+
+131
+00:04:46,800 --> 00:04:50,720
+square
+
+132
+00:04:47,759 --> 00:04:52,880
+ten thousand right
+
+133
+00:04:50,720 --> 00:04:54,080
+ten thousand so you'll have
+
+134
+00:04:52,880 --> 00:04:56,400
+ten left
+
+135
+00:04:54,080 --> 00:04:57,520
+three times nine point eight
+
+136
+00:04:56,400 --> 00:04:59,199
+would bat your calculator what do you
+
+137
+00:04:57,520 --> 00:05:01,759
+get for theta let's do nearest minute
+
+138
+00:04:59,199 --> 00:05:01,759
+here's a minute
+
+139
+00:05:05,120 --> 00:05:07,759
+seen it
+
+140
+00:05:08,080 --> 00:05:11,919
+what have i got where what oh yes sorry
+
+141
+00:05:10,720 --> 00:05:14,240
+is that
+
+142
+00:05:11,919 --> 00:05:15,759
+square
+
+143
+00:05:14,240 --> 00:05:19,039
+with the right numbers in it someone got
+
+144
+00:05:15,759 --> 00:05:19,039
+a detain invest what do you get
+
+145
+00:05:19,360 --> 00:05:25,680
+i'm expecting a pretty small angle
+
+146
+00:05:22,240 --> 00:05:25,680
+cool yeah it feels right
+
+147
+00:05:26,639 --> 00:05:29,280
+you're spinner
+
+148
+00:05:30,320 --> 00:05:35,120
+okay so far so good so this is our ideal
+
+149
+00:05:32,800 --> 00:05:36,720
+world we've got the right speed okay and
+
+150
+00:05:35,120 --> 00:05:39,360
+we've decided what the angle of the road
+
+151
+00:05:36,720 --> 00:05:41,440
+is so now this is true for the rest of
+
+152
+00:05:39,360 --> 00:05:44,160
+the question okay so we can take that
+
+153
+00:05:41,440 --> 00:05:45,280
+right now let's have a look at part b
+
+154
+00:05:44,160 --> 00:05:47,800
+part b
+
+155
+00:05:45,280 --> 00:05:50,800
+and we've got this guy coming around at
+
+156
+00:05:47,800 --> 00:05:54,080
+180 kilometers per hour right so that's
+
+157
+00:05:50,800 --> 00:05:56,400
+going to be 180 000
+
+158
+00:05:54,080 --> 00:05:58,000
+on 3600
+
+159
+00:05:56,400 --> 00:06:01,360
+meters per second and i think this is
+
+160
+00:05:58,000 --> 00:06:01,360
+this is the 50 that i was thinking
+
+161
+00:06:02,160 --> 00:06:05,600
+times five
+
+162
+00:06:03,360 --> 00:06:08,319
+yeah i think it works out okay
+
+163
+00:06:05,600 --> 00:06:10,479
+so what happens at this point okay being
+
+164
+00:06:08,319 --> 00:06:12,479
+that things are not going to balance out
+
+165
+00:06:10,479 --> 00:06:15,199
+nice and neatly anymore we're gonna get
+
+166
+00:06:12,479 --> 00:06:17,759
+something like this okay so i want to
+
+167
+00:06:15,199 --> 00:06:20,319
+account for this lateral force right so
+
+168
+00:06:17,759 --> 00:06:22,319
+which way would you like to define as
+
+169
+00:06:20,319 --> 00:06:24,639
+positive which way do you want do you
+
+170
+00:06:22,319 --> 00:06:28,160
+want to be up or do you want to be down
+
+171
+00:06:24,639 --> 00:06:28,160
+up okay sure so let's make that
+
+172
+00:06:29,039 --> 00:06:33,120
+okay so now what i'm going to do
+
+173
+00:06:31,600 --> 00:06:35,680
+is i'm going to draw myself a new
+
+174
+00:06:33,120 --> 00:06:37,520
+diagram okay so
+
+175
+00:06:35,680 --> 00:06:39,840
+like that one but with all of these
+
+176
+00:06:37,520 --> 00:06:42,720
+numbers on it okay so let's see here i'm
+
+177
+00:06:39,840 --> 00:06:42,720
+going to go over here
+
+178
+00:06:46,880 --> 00:06:50,880
+okay now there's the normal force right
+
+179
+00:06:49,680 --> 00:06:52,400
+but i'm not going to worry about that
+
+180
+00:06:50,880 --> 00:06:53,440
+too much what i'm really interested is
+
+181
+00:06:52,400 --> 00:06:55,280
+the lateral force because i've already
+
+182
+00:06:53,440 --> 00:06:56,639
+worked out all the bits the the n cos
+
+183
+00:06:55,280 --> 00:06:58,880
+theta and the ensign theta for the
+
+184
+00:06:56,639 --> 00:07:02,840
+normal force that's okay right so if i
+
+185
+00:06:58,880 --> 00:07:02,840
+have the lateral force
+
+186
+00:07:03,599 --> 00:07:08,560
+going up in this direction okay now when
+
+187
+00:07:06,560 --> 00:07:10,639
+i want to resolve it i'm going to
+
+188
+00:07:08,560 --> 00:07:14,520
+horizontal and vertical part so get your
+
+189
+00:07:10,639 --> 00:07:14,520
+horizontal here
+
+190
+00:07:16,000 --> 00:07:21,440
+and you've got a
+
+191
+00:07:17,759 --> 00:07:21,440
+lateral vertical pump
+
+192
+00:07:23,280 --> 00:07:27,919
+here okay so use your geometry
+
+193
+00:07:26,880 --> 00:07:30,319
+you have your theta there which we
+
+194
+00:07:27,919 --> 00:07:32,720
+already know six degrees 28 minutes
+
+195
+00:07:30,319 --> 00:07:35,919
+corresponding angles so i see there's a
+
+196
+00:07:32,720 --> 00:07:38,560
+theta there and a theta there okay so
+
+197
+00:07:35,919 --> 00:07:40,639
+what do you work out your horizontal
+
+198
+00:07:38,560 --> 00:07:43,120
+part of the component to be horizontal
+
+199
+00:07:40,639 --> 00:07:43,120
+component
+
+200
+00:07:43,280 --> 00:07:48,160
+that's adjacent right it's adjacent so i
+
+201
+00:07:45,360 --> 00:07:50,720
+think you're going to get l cos theta
+
+202
+00:07:48,160 --> 00:07:52,240
+there going in that direction
+
+203
+00:07:50,720 --> 00:07:54,639
+conversely you have l sine theta going
+
+204
+00:07:52,240 --> 00:07:54,639
+upwards
+
+205
+00:07:55,120 --> 00:07:58,120
+okay
+
+206
+00:07:58,560 --> 00:08:02,560
+now you already worked out before what
+
+207
+00:08:00,400 --> 00:08:03,440
+your uh normal forces will be i think
+
+208
+00:08:02,560 --> 00:08:06,720
+you've got
+
+209
+00:08:03,440 --> 00:08:08,319
+n cos theta going that way and and sine
+
+210
+00:08:06,720 --> 00:08:10,879
+theta going this way so now when i
+
+211
+00:08:08,319 --> 00:08:13,840
+resolve everything
+
+212
+00:08:10,879 --> 00:08:13,840
+vertically
+
+213
+00:08:15,360 --> 00:08:19,280
+what's going on vertically what's going
+
+214
+00:08:17,039 --> 00:08:19,280
+on
+
+215
+00:08:20,479 --> 00:08:23,280
+you've got the lateral force going
+
+216
+00:08:21,599 --> 00:08:24,960
+upwards and you have the normal force
+
+217
+00:08:23,280 --> 00:08:27,840
+also going upwards right so i think
+
+218
+00:08:24,960 --> 00:08:28,720
+we're going to get l sine theta
+
+219
+00:08:27,840 --> 00:08:30,080
+plus
+
+220
+00:08:28,720 --> 00:08:32,640
+n
+
+221
+00:08:30,080 --> 00:08:34,399
+cos theta is that right yeah and that
+
+222
+00:08:32,640 --> 00:08:36,479
+should be counteracting
+
+223
+00:08:34,399 --> 00:08:37,919
+gravity yep
+
+224
+00:08:36,479 --> 00:08:41,800
+let's call that one
+
+225
+00:08:37,919 --> 00:08:41,800
+horizontally what's happening
+
+226
+00:08:44,480 --> 00:08:49,120
+now these forces are acting in opposite
+
+227
+00:08:46,080 --> 00:08:50,880
+directions right so i've got
+
+228
+00:08:49,120 --> 00:08:53,880
+l cos theta going in the positive
+
+229
+00:08:50,880 --> 00:08:53,880
+direction
+
+230
+00:08:55,040 --> 00:08:58,880
+now hold on a second
+
+231
+00:08:57,279 --> 00:09:01,360
+we define l cos theta going positive
+
+232
+00:08:58,880 --> 00:09:03,839
+this way right but in our normal
+
+233
+00:09:01,360 --> 00:09:06,560
+situation right horizontally i think of
+
+234
+00:09:03,839 --> 00:09:09,040
+the force toward the center
+
+235
+00:09:06,560 --> 00:09:11,120
+as positive right so this would be
+
+236
+00:09:09,040 --> 00:09:13,040
+negative wouldn't it it's going away
+
+237
+00:09:11,120 --> 00:09:14,480
+from where the normal's going okay so
+
+238
+00:09:13,040 --> 00:09:15,680
+that means i'm going to put i'll put the
+
+239
+00:09:14,480 --> 00:09:18,160
+normal first maybe i should have done
+
+240
+00:09:15,680 --> 00:09:20,240
+that over here
+
+241
+00:09:18,160 --> 00:09:21,600
+minus
+
+242
+00:09:20,240 --> 00:09:23,120
+l cos theta
+
+243
+00:09:21,600 --> 00:09:24,560
+right whichever way they're going
+
+244
+00:09:23,120 --> 00:09:28,640
+they're going in opposite directions
+
+245
+00:09:24,560 --> 00:09:31,440
+okay so that's m v squared on
+
+246
+00:09:28,640 --> 00:09:32,640
+okay now what are we trying to work out
+
+247
+00:09:31,440 --> 00:09:34,800
+i'm trying to find out what's the
+
+248
+00:09:32,640 --> 00:09:36,959
+lateral force how much is it and which
+
+249
+00:09:34,800 --> 00:09:39,279
+direction is it facing so in other words
+
+250
+00:09:36,959 --> 00:09:41,120
+you're solving for l
+
+251
+00:09:39,279 --> 00:09:42,800
+okay and you've got these two equations
+
+252
+00:09:41,120 --> 00:09:44,399
+to use i want you to have a think about
+
+253
+00:09:42,800 --> 00:09:45,680
+this for a second i'll let you have a go
+
+254
+00:09:44,399 --> 00:09:46,800
+take a couple minutes
+
+255
+00:09:45,680 --> 00:09:47,920
+what are you going to do to equations
+
+256
+00:09:46,800 --> 00:09:50,399
+one and two
+
+257
+00:09:47,920 --> 00:09:51,760
+so that you can solve for l remember m
+
+258
+00:09:50,399 --> 00:09:53,760
+is a constant so you don't need to worry
+
+259
+00:09:51,760 --> 00:09:56,720
+about it we know what g is
+
+260
+00:09:53,760 --> 00:09:58,240
+we know what v is or rather that's what
+
+261
+00:09:56,720 --> 00:10:00,000
+v is in this case
+
+262
+00:09:58,240 --> 00:10:01,440
+and we know what the radius is okay so
+
+263
+00:10:00,000 --> 00:10:03,519
+how are you going to get all of the
+
+264
+00:10:01,440 --> 00:10:04,399
+other stuff the ends and the thetas out
+
+265
+00:10:03,519 --> 00:10:07,279
+of the picture
+
+266
+00:10:04,399 --> 00:10:09,279
+and just have l
+
+267
+00:10:07,279 --> 00:10:12,160
+the problem we are encountering is that
+
+268
+00:10:09,279 --> 00:10:14,480
+one and two are hard to put together
+
+269
+00:10:12,160 --> 00:10:16,839
+right but it's not so bad i mean when
+
+270
+00:10:14,480 --> 00:10:21,760
+you see something like this for
+
+271
+00:10:16,839 --> 00:10:21,760
+instance awkward number four x
+
+272
+00:10:22,880 --> 00:10:27,680
+okay yeah all right well if i'm going to
+
+273
+00:10:25,200 --> 00:10:29,680
+put these two equations together
+
+274
+00:10:27,680 --> 00:10:31,200
+i'm going to need to eliminate something
+
+275
+00:10:29,680 --> 00:10:33,120
+right and the way you would do it here
+
+276
+00:10:31,200 --> 00:10:35,200
+is well for instance suppose you wanted
+
+277
+00:10:33,120 --> 00:10:36,560
+to eliminate y okay if i want to
+
+278
+00:10:35,200 --> 00:10:38,560
+eliminate why what i'll do is i'll take
+
+279
+00:10:36,560 --> 00:10:40,560
+this whole thing and i'll multiply it by
+
+280
+00:10:38,560 --> 00:10:42,720
+two and then i'll take this whole thing
+
+281
+00:10:40,560 --> 00:10:44,959
+and then i'll multiply it by five then
+
+282
+00:10:42,720 --> 00:10:46,640
+i'll have a minus ten y here a plus ten
+
+283
+00:10:44,959 --> 00:10:49,120
+right here i'll add them and then poof
+
+284
+00:10:46,640 --> 00:10:51,279
+it's gone okay that's that's not so hard
+
+285
+00:10:49,120 --> 00:10:53,360
+okay you have exactly
+
+286
+00:10:51,279 --> 00:10:55,680
+exactly the same scenario here it's just
+
+287
+00:10:53,360 --> 00:10:57,839
+that instead of numbers you've got
+
+288
+00:10:55,680 --> 00:10:59,519
+fluffy letters and greek stuff okay but
+
+289
+00:10:57,839 --> 00:11:01,680
+that's all right it works in exactly the
+
+290
+00:10:59,519 --> 00:11:03,680
+same way watch
+
+291
+00:11:01,680 --> 00:11:05,680
+let's take equation one right
+
+292
+00:11:03,680 --> 00:11:08,160
+what i want to get rid of is the n cos
+
+293
+00:11:05,680 --> 00:11:09,760
+theta okay and i see there's a and sine
+
+294
+00:11:08,160 --> 00:11:11,760
+theta here so i don't need to multiply
+
+295
+00:11:09,760 --> 00:11:13,360
+by n that's common
+
+296
+00:11:11,760 --> 00:11:15,920
+but if i multiply this one by sine and
+
+297
+00:11:13,360 --> 00:11:17,680
+this one by cos then they'll be the same
+
+298
+00:11:15,920 --> 00:11:20,000
+just like these would be the same and
+
+299
+00:11:17,680 --> 00:11:22,480
+then i can subtract okay so i'll take
+
+300
+00:11:20,000 --> 00:11:24,240
+equation one and i'll multiply that one
+
+301
+00:11:22,480 --> 00:11:26,959
+by a sine
+
+302
+00:11:24,240 --> 00:11:29,120
+and then i'll take away equation two
+
+303
+00:11:26,959 --> 00:11:31,760
+multiplied by cos
+
+304
+00:11:29,120 --> 00:11:32,880
+okay if i do that watch what happens
+
+305
+00:11:31,760 --> 00:11:35,600
+right well
+
+306
+00:11:32,880 --> 00:11:38,399
+you'll get l sine squared
+
+307
+00:11:35,600 --> 00:11:40,079
+there right you'll have an n sine theta
+
+308
+00:11:38,399 --> 00:11:42,240
+cos theta
+
+309
+00:11:40,079 --> 00:11:43,680
+subtracting an n sine theta cos theta so
+
+310
+00:11:42,240 --> 00:11:45,600
+they're just gonna go
+
+311
+00:11:43,680 --> 00:11:47,360
+okay and there's minus and then that's a
+
+312
+00:11:45,600 --> 00:11:48,560
+negative so double negative so i'll have
+
+313
+00:11:47,360 --> 00:11:51,600
+plus l
+
+314
+00:11:48,560 --> 00:11:52,399
+cos squared theta oh how convenient okay
+
+315
+00:11:51,600 --> 00:11:54,160
+so
+
+316
+00:11:52,399 --> 00:11:56,399
+that's good that's good what am i going
+
+317
+00:11:54,160 --> 00:11:57,440
+to have over here well i multiplied
+
+318
+00:11:56,399 --> 00:11:58,880
+things so that makes it a little bit
+
+319
+00:11:57,440 --> 00:12:00,560
+messy but that's okay you're going to
+
+320
+00:11:58,880 --> 00:12:01,839
+get what mg
+
+321
+00:12:00,560 --> 00:12:03,360
+sine theta
+
+322
+00:12:01,839 --> 00:12:06,720
+minus
+
+323
+00:12:03,360 --> 00:12:08,720
+mv squared on r cos theta is that all
+
+324
+00:12:06,720 --> 00:12:10,000
+right happy with that
+
+325
+00:12:08,720 --> 00:12:11,600
+let's just tidy up a little bit sine
+
+326
+00:12:10,000 --> 00:12:12,639
+squared plus cos squared that just gives
+
+327
+00:12:11,600 --> 00:12:14,320
+you 1.
+
+328
+00:12:12,639 --> 00:12:17,200
+i'll just take out m i mean it doesn't
+
+329
+00:12:14,320 --> 00:12:18,720
+make it a huge amount liter but you are
+
+330
+00:12:17,200 --> 00:12:20,720
+going to have m in the final equation
+
+331
+00:12:18,720 --> 00:12:22,880
+because it's just a constant right so
+
+332
+00:12:20,720 --> 00:12:25,839
+you have nothing to evaluate
+
+333
+00:12:22,880 --> 00:12:27,920
+m sine theta sorry g sine theta
+
+334
+00:12:25,839 --> 00:12:30,480
+v squared on r
+
+335
+00:12:27,920 --> 00:12:32,079
+cos theta okay cool now the good thing
+
+336
+00:12:30,480 --> 00:12:34,320
+about this equation here is we're
+
+337
+00:12:32,079 --> 00:12:37,200
+putting a box around right
+
+338
+00:12:34,320 --> 00:12:38,959
+is that it's irrespective of v so i can
+
+339
+00:12:37,200 --> 00:12:41,040
+take my two values of v and then just
+
+340
+00:12:38,959 --> 00:12:43,600
+put them into the same equation and then
+
+341
+00:12:41,040 --> 00:12:45,279
+i can get a value for l okay so in the
+
+342
+00:12:43,600 --> 00:12:47,519
+case of part one what i would do is i
+
+343
+00:12:45,279 --> 00:12:48,639
+say l equals m it's just going to stay
+
+344
+00:12:47,519 --> 00:12:52,720
+there
+
+345
+00:12:48,639 --> 00:12:54,959
+9.8 sine what was theta again like six
+
+346
+00:12:52,720 --> 00:12:58,639
+degrees right
+
+347
+00:12:54,959 --> 00:13:01,519
+28 minus okay this time i decided that v
+
+348
+00:12:58,639 --> 00:13:01,519
+was 50.
+
+349
+00:13:02,160 --> 00:13:09,279
+um r is a thousand right and you got cos
+
+350
+00:13:07,760 --> 00:13:12,000
+the same angle
+
+351
+00:13:09,279 --> 00:13:13,760
+okay now once you get out the end let's
+
+352
+00:13:12,000 --> 00:13:16,639
+just round it off a little bit you get
+
+353
+00:13:13,760 --> 00:13:18,079
+minus 1.38
+
+354
+00:13:16,639 --> 00:13:20,959
+m
+
+355
+00:13:18,079 --> 00:13:22,880
+i think okay now
+
+356
+00:13:20,959 --> 00:13:24,880
+m is going to be positive right it's a
+
+357
+00:13:22,880 --> 00:13:27,680
+mass so then what does this mean which
+
+358
+00:13:24,880 --> 00:13:29,040
+way is this force facing and you have a
+
+359
+00:13:27,680 --> 00:13:31,839
+look and it's
+
+360
+00:13:29,040 --> 00:13:33,920
+it's going downward okay why is that why
+
+361
+00:13:31,839 --> 00:13:36,160
+is l going downward we said if you go
+
+362
+00:13:33,920 --> 00:13:38,720
+faster you get pushed
+
+363
+00:13:36,160 --> 00:13:41,040
+outwards right
+
+364
+00:13:38,720 --> 00:13:41,920
+ha now inertia is pushing you out that
+
+365
+00:13:41,040 --> 00:13:45,600
+way
+
+366
+00:13:41,920 --> 00:13:46,720
+but this force this force is actually
+
+367
+00:13:45,600 --> 00:13:48,560
+friction
+
+368
+00:13:46,720 --> 00:13:50,160
+this is what we started with this is the
+
+369
+00:13:48,560 --> 00:13:52,800
+thing that's keeping you if there was no
+
+370
+00:13:50,160 --> 00:13:54,800
+bank right if i was just going around
+
+371
+00:13:52,800 --> 00:13:56,079
+right then friction is what keeps your
+
+372
+00:13:54,800 --> 00:13:57,680
+wheels on the ground remember that
+
+373
+00:13:56,079 --> 00:13:59,440
+situation we looked at before it was
+
+374
+00:13:57,680 --> 00:14:01,440
+optimum speed it was perfect everything
+
+375
+00:13:59,440 --> 00:14:02,880
+balanced out but if everything does not
+
+376
+00:14:01,440 --> 00:14:04,560
+balance out
+
+377
+00:14:02,880 --> 00:14:06,240
+then you're going to have friction
+
+378
+00:14:04,560 --> 00:14:08,560
+quite a lot of it okay depending on the
+
+379
+00:14:06,240 --> 00:14:09,440
+mass of your car right now just a quick
+
+380
+00:14:08,560 --> 00:14:11,360
+note
+
+381
+00:14:09,440 --> 00:14:13,760
+this friction is acting in that way and
+
+382
+00:14:11,360 --> 00:14:15,519
+the faster i go the more friction will
+
+383
+00:14:13,760 --> 00:14:17,199
+be acting that way which is why if
+
+384
+00:14:15,519 --> 00:14:18,639
+you've ever been driving along on a
+
+385
+00:14:17,199 --> 00:14:20,800
+highway or something and you're looking
+
+386
+00:14:18,639 --> 00:14:23,040
+at the road and on the road in front of
+
+387
+00:14:20,800 --> 00:14:23,040
+you
+
+388
+00:14:23,360 --> 00:14:28,000
+you can see there are
+
+389
+00:14:25,600 --> 00:14:29,600
+tire marks right these kinds of things
+
+390
+00:14:28,000 --> 00:14:32,160
+what does that mean where did they come
+
+391
+00:14:29,600 --> 00:14:33,680
+from okay well intuition tells you
+
+392
+00:14:32,160 --> 00:14:37,120
+someone took this corner and they took
+
+393
+00:14:33,680 --> 00:14:38,720
+it too fast right the faster you take it
+
+394
+00:14:37,120 --> 00:14:40,480
+the more friction there will be and
+
+395
+00:14:38,720 --> 00:14:43,680
+friction as you know it's a force it
+
+396
+00:14:40,480 --> 00:14:45,600
+causes energy it's hot right so it burns
+
+397
+00:14:43,680 --> 00:14:48,320
+off part of the tires and that's where
+
+398
+00:14:45,600 --> 00:14:50,160
+they are right because they took the
+
+399
+00:14:48,320 --> 00:14:52,000
+corner at a speed that was higher than
+
+400
+00:14:50,160 --> 00:14:54,240
+the optimum okay
+
+401
+00:14:52,000 --> 00:14:57,279
+so the friction is acting downwards
+
+402
+00:14:54,240 --> 00:15:00,639
+otherwise it'll just fly off okay
+
+403
+00:14:57,279 --> 00:15:02,160
+now if we replay this situation okay and
+
+404
+00:15:00,639 --> 00:15:04,240
+all we have to do to get a new speed is
+
+405
+00:15:02,160 --> 00:15:06,079
+well this is half it's exactly half so
+
+406
+00:15:04,240 --> 00:15:08,720
+all i have to do is adjust this number
+
+407
+00:15:06,079 --> 00:15:10,839
+that's convenient
+
+408
+00:15:08,720 --> 00:15:14,880
+and when you do that what do you
+
+409
+00:15:10,839 --> 00:15:14,880
+get 0.52 or something
+
+410
+00:15:16,800 --> 00:15:21,519
+okay so as you'd expect this time
+
+411
+00:15:19,120 --> 00:15:24,000
+friction is still doing its job but what
+
+412
+00:15:21,519 --> 00:15:26,240
+it's doing is it's acting upward it's
+
+413
+00:15:24,000 --> 00:15:28,480
+stopping your car from sliding down the
+
+414
+00:15:26,240 --> 00:15:30,480
+hill because you're going too slow hurry
+
+415
+00:15:28,480 --> 00:15:34,000
+up okay but you see what's going on
+
+416
+00:15:30,480 --> 00:15:35,120
+right too slow friction's got to act up
+
+417
+00:15:34,000 --> 00:15:37,680
+if you think about it this way if you
+
+418
+00:15:35,120 --> 00:15:39,199
+just stopped on the hill right just
+
+419
+00:15:37,680 --> 00:15:41,120
+motionless okay
+
+420
+00:15:39,199 --> 00:15:42,160
+friction is acting on you otherwise
+
+421
+00:15:41,120 --> 00:15:43,839
+you're going to slide down the heel if
+
+422
+00:15:42,160 --> 00:15:45,920
+there's not enough friction oh you just
+
+423
+00:15:43,839 --> 00:15:47,920
+roll down just like my keys rolled off
+
+424
+00:15:45,920 --> 00:15:49,759
+the diary okay
+
+425
+00:15:47,920 --> 00:15:52,079
+but if you're going it won't be so bad
+
+426
+00:15:49,759 --> 00:15:53,440
+but there will still be some friction
+
+427
+00:15:52,079 --> 00:15:55,279
+keeping you up in that direction
+
+428
+00:15:53,440 --> 00:15:57,920
+otherwise you'll slide down the hill
+
+429
+00:15:55,279 --> 00:15:57,920
+okay
