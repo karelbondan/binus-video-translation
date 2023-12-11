@@ -1,0 +1,319 @@
+1
+00:00:01,360 --> 00:00:06,720
+jika aku tahu
+
+2
+00:00:03,840 --> 00:00:07,680
+bahwa v sama dengan 1, berapa tegangannya?
+
+3
+00:00:07,680 --> 00:00:12,880
+dan berapa gaya reaksinya, berapa gaya dorongnya?
+
+5
+00:00:10,480 --> 00:00:14,799
+oke, jadi bagaimana 
+
+6
+00:00:12,880 --> 00:00:17,199
+cara mencari ketegangan? bagaimana aku mencarinya
+
+7
+00:00:14,799 --> 00:00:18,640
+dari kedua persamaan ini? 
+
+8
+00:00:17,199 --> 00:00:21,199
+aku akan menjumlahkannya, dan mereka akan habis membagi
+
+4
+00:00:18,640 --> 00:00:23,760
+gaya normalnya. oke, jadi 1
+
+5
+00:00:21,199 --> 00:00:26,400
+ditambah 2, hasilnya adalah... di
+
+6
+00:00:23,760 --> 00:00:28,960
+sisi kiri... 2 t
+
+7
+00:00:26,400 --> 00:00:32,480
+di sisi kanan, hasilnya adalah...
+
+8
+00:00:28,960 --> 00:00:35,520
+mari kita lihat, 2 g per akar 3
+
+9
+00:00:32,480 --> 00:00:37,440
+ditambah 4 kali v kuadrat, dan v didefinisikan
+
+10
+00:00:35,520 --> 00:00:39,760
+sebagai 1 dalam kasus ini, sehingga
+
+11
+00:00:37,440 --> 00:00:44,000
+akan menjadi 4.
+
+12
+00:00:39,760 --> 00:00:45,680
+jadi kamu mendapatkan t sama dengan kamu membagi ini,
+
+13
+00:00:44,000 --> 00:00:48,000
+berapa pun itu, tergantung pada
+
+14
+00:00:45,680 --> 00:00:50,000
+gravitasi yang kamu inginkan. oke,
+
+15
+00:00:48,000 --> 00:00:52,559
+kamu berlatih hal yang sama, bagaimana cara mendapatkan
+
+16
+00:00:50,000 --> 00:00:55,039
+n? alih-alih menjumlahkan, aku akan
+
+17
+00:00:52,559 --> 00:00:56,840
+mengurangi persamaannya. jadi, 1
+
+18
+00:00:55,039 --> 00:00:59,039
+dikurangi 2, 
+
+19
+00:00:56,840 --> 00:01:00,879
+oke uh aku mungkin harus mengerjakan yang lain oh ya
+
+20
+00:00:59,039 --> 00:01:03,280
+tidak tidak apa-apa ya tidak
+
+21
+00:01:00,879 --> 00:01:04,879
+apa-apa jadi kamu mendapatkan dua n sama dan kemudian
+
+22
+00:01:03,280 --> 00:01:07,840
+semuanya terbalik
+
+23
+00:01:04,879 --> 00:01:10,080
+oke kamu akan melakukannya  dapatkan um
+
+24
+00:01:07,840 --> 00:01:10,080
+empat
+
+25
+00:01:10,240 --> 00:01:14,080
+satu dikurangi dua nol dua g pada akar tiga
+
+26
+00:01:12,880 --> 00:01:15,680
+dikurangi empat
+
+27
+00:01:14,080 --> 00:01:19,200
+benar kamu tinggal mulai dari sana dan kamu
+
+28
+00:01:15,680 --> 00:01:19,200
+memasukkan nilai berapa pun yang kamu inginkan
+
+29
+00:01:19,439 --> 00:01:23,920
+untuk itu oke
+
+30
+00:01:21,200 --> 00:01:26,960
+jadi ini adalah seberapa banyak kerucut itu mendorong
+
+31
+00:01:23,920 --> 00:01:30,799
+oke dan ini adalah berapa banyak di mana
+
+32
+00:01:26,960 --> 00:01:30,799
+ini  adalah seberapa kuat tarikan talinya
+
+33
+00:01:30,880 --> 00:01:34,560
+pertanyaan terakhir hampir sampai yang paling
+
+34
+00:01:32,159 --> 00:01:36,240
+menarik oke
+
+35
+00:01:34,560 --> 00:01:38,079
+aku ingin tahu seberapa cepat aku dapat memutar
+
+36
+00:01:36,240 --> 00:01:40,640
+benda ini sehingga benda ini akan tetap di sana
+
+37
+00:01:38,079 --> 00:01:42,799
+izinkan aku mengajukan pertanyaan ini kepada kamu
+
+38
+00:01:40,640 --> 00:01:44,479
+pada titik
+
+39
+00:01:42,799 --> 00:01:46,399
+seperti apa dalam semua ini  pada titik manakah
+
+40
+00:01:44,479 --> 00:01:49,280
+ia akan lepas landas pada
+
+41
+00:01:46,399 --> 00:01:51,600
+titik manakah ia akan lepas landas Itu adalah
+
+42
+00:01:49,280 --> 00:01:53,840
+saat normal kan ketika
+
+43
+00:01:51,600 --> 00:01:55,680
+tidak lagi mengeluarkan gaya apa pun
+
+44
+00:01:53,840 --> 00:01:58,320
+seperti arus, ia berhenti menyentuh
+
+45
+00:01:55,680 --> 00:02:01,280
+kerucut jadi oleh karena itu n harusnya nol kan
+
+46
+00:01:58,320 --> 00:02:02,399
+jadi jika aku ingin menyelesaikannya  n sama dengan
+
+47
+00:02:01,280 --> 00:02:04,320
+nol sama dengan
+
+48
+00:02:02,399 --> 00:02:07,759
+nol itulah yang aku coba
+
+49
+00:02:04,320 --> 00:02:11,039
+cari tepat pada titik itu berhenti oke
+
+50
+00:02:07,759 --> 00:02:11,039
+di mana aku akan memasukkan ini ke
+
+51
+00:02:11,680 --> 00:02:14,319
+mungkin
+
+52
+00:02:14,319 --> 00:02:17,200
+yang ini
+
+53
+00:02:15,360 --> 00:02:18,000
+karena nanti kamu akan sembuh t t
+
+54
+00:02:18,000 --> 00:02:24,080
+dikurangi 0 sama dengan 4 v kuadrat oke  jadi sekarang
+
+55
+00:02:22,400 --> 00:02:27,040
+aku akan menyelesaikan v
+
+56
+00:02:24,080 --> 00:02:28,879
+berapa tegangan t pada 4 sama dengan v
+
+57
+00:02:27,040 --> 00:02:30,720
+kuadrat
+
+58
+00:02:28,879 --> 00:02:32,560
+sekarang jangan bingung jangan bingung
+
+59
+00:02:30,720 --> 00:02:34,640
+dengan
+
+60
+00:02:32,560 --> 00:02:37,200
+bagian ini di sini karena ini adalah
+
+61
+00:02:34,640 --> 00:02:41,599
+tegangan tertentu untuk
+
+62
+00:02:37,200 --> 00:02:43,200
+kecepatan tertentu berapa tegangan di sini
+
+63
+00:02:41,599 --> 00:02:45,599
+dimana  aku mendapatkan ini dari persamaan
+
+64
+00:02:43,200 --> 00:02:45,599
+dua kan
+
+65
+00:02:45,920 --> 00:02:51,440
+jika kamu pergi ke persamaan satu
+
+66
+00:02:48,959 --> 00:02:54,879
+ketika gaya normalnya nol maka
+
+67
+00:02:51,440 --> 00:02:57,280
+tegangan kamu hanya dua g di akar tiga
+
+68
+00:02:54,879 --> 00:03:00,000
+dua g di akar tiga
+
+69
+00:02:57,280 --> 00:03:01,200
+dibagi empat
+
+70
+00:03:00,000 --> 00:03:02,840
+oke
+
+71
+00:03:01,200 --> 00:03:08,879
+jadi
+
+72
+00:03:02,840 --> 00:03:13,360
+batalkan v kuadrat sama dengan g di 2 akar 3  ..
+
+73
+00:03:08,879 --> 00:03:15,440
+jadi inilah kecepatan yang bisa aku tempuh
+
+74
+00:03:13,360 --> 00:03:17,599
+dan pada saat ini aku akan lepas
+
+75
+00:03:15,440 --> 00:03:21,840
+landas dari kerucut oke aku tidak bisa melaju
+
+76
+00:03:17,599 --> 00:03:21,840
+lebih cepat dari itu, itulah batas atasmu

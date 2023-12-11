@@ -1,0 +1,331 @@
+1
+00:00:01,360 --> 00:00:06,720
+if i know
+
+2
+00:00:03,840 --> 00:00:07,680
+that v equals one okay what's the
+
+3
+00:00:06,720 --> 00:00:10,480
+tension
+
+4
+00:00:07,680 --> 00:00:12,880
+and what is this reaction force how much
+
+5
+00:00:10,480 --> 00:00:14,799
+is it pushing back okay so how am i
+
+6
+00:00:12,880 --> 00:00:17,199
+going to work out tension how do i get
+
+7
+00:00:14,799 --> 00:00:18,640
+that from these two equations
+
+8
+00:00:17,199 --> 00:00:21,199
+i should just add them that'll cancel
+
+9
+00:00:18,640 --> 00:00:23,760
+out the normal force okay so i'll go 1
+
+10
+00:00:21,199 --> 00:00:26,400
+plus 2 right that'll give me on the left
+
+11
+00:00:23,760 --> 00:00:28,960
+hand side 2 t
+
+12
+00:00:26,400 --> 00:00:32,480
+on the right hand side it'll give me
+
+13
+00:00:28,960 --> 00:00:35,520
+let's see 2g on root 3
+
+14
+00:00:32,480 --> 00:00:37,440
+plus 4 times v squared and v is defined
+
+15
+00:00:35,520 --> 00:00:39,760
+as 1 in this particular case so that
+
+16
+00:00:37,440 --> 00:00:44,000
+will be 4.
+
+17
+00:00:39,760 --> 00:00:45,680
+so then you get t is equal to you divide
+
+18
+00:00:44,000 --> 00:00:48,000
+this will be whatever it is depending on
+
+19
+00:00:45,680 --> 00:00:50,000
+whatever gravity you want okay
+
+20
+00:00:48,000 --> 00:00:52,559
+you rehearse the same thing how do i get
+
+21
+00:00:50,000 --> 00:00:55,039
+n instead of adding i should
+
+22
+00:00:52,559 --> 00:00:56,840
+subtract the equations so i'll go one
+
+23
+00:00:55,039 --> 00:00:59,039
+minus two
+
+24
+00:00:56,840 --> 00:01:00,879
+okay uh i should probably do the other
+
+25
+00:00:59,039 --> 00:01:03,280
+one oh yeah no that's fine yeah that's
+
+26
+00:01:00,879 --> 00:01:04,879
+okay so you get two n equals and then
+
+27
+00:01:03,280 --> 00:01:07,840
+everything's just around the other way
+
+28
+00:01:04,879 --> 00:01:10,080
+okay you're going to get um
+
+29
+00:01:07,840 --> 00:01:10,080
+four
+
+30
+00:01:10,240 --> 00:01:14,080
+one minus two zero two g on root three
+
+31
+00:01:12,880 --> 00:01:15,680
+minus four
+
+32
+00:01:14,080 --> 00:01:19,200
+right you just go from there and you sub
+
+33
+00:01:15,680 --> 00:01:19,200
+in whatever value you want
+
+34
+00:01:19,439 --> 00:01:23,920
+for that okay
+
+35
+00:01:21,200 --> 00:01:26,960
+so this is how much the cone is pushing
+
+36
+00:01:23,920 --> 00:01:30,799
+okay and this is how much where was it
+
+37
+00:01:26,960 --> 00:01:30,799
+this is how much the string is pulling
+
+38
+00:01:30,880 --> 00:01:34,560
+last question almost there the most
+
+39
+00:01:32,159 --> 00:01:36,240
+interesting one okay
+
+40
+00:01:34,560 --> 00:01:38,079
+i want to know how fast i can spin this
+
+41
+00:01:36,240 --> 00:01:40,640
+thing so it actually will stay on there
+
+42
+00:01:38,079 --> 00:01:42,799
+right let me pose you this question
+
+43
+00:01:40,640 --> 00:01:44,479
+at what point
+
+44
+00:01:42,799 --> 00:01:46,399
+like in terms of all this at what point
+
+45
+00:01:44,479 --> 00:01:49,280
+would it lift off
+
+46
+00:01:46,399 --> 00:01:51,600
+what point would it lift off
+
+47
+00:01:49,280 --> 00:01:53,840
+it's it's when the normal right when
+
+48
+00:01:51,600 --> 00:01:55,680
+it's no longer exerting any force out
+
+49
+00:01:53,840 --> 00:01:58,320
+like the current it stops touching the
+
+50
+00:01:55,680 --> 00:02:01,280
+cone right so therefore n should be zero
+
+51
+00:01:58,320 --> 00:02:02,399
+right so if i want to solve for n equals
+
+52
+00:02:01,280 --> 00:02:04,320
+zero
+
+53
+00:02:02,399 --> 00:02:07,759
+equals zero that's what i'm trying to
+
+54
+00:02:04,320 --> 00:02:11,039
+find right at that point it stops okay
+
+55
+00:02:07,759 --> 00:02:11,039
+where am i going to put this into
+
+56
+00:02:11,680 --> 00:02:14,319
+probably
+
+57
+00:02:12,959 --> 00:02:15,360
+this one
+
+58
+00:02:14,319 --> 00:02:17,200
+this one
+
+59
+00:02:15,360 --> 00:02:18,000
+because then you're going to get well
+
+60
+00:02:17,200 --> 00:02:22,400
+t
+
+61
+00:02:18,000 --> 00:02:24,080
+t minus 0 equals 4 v squared okay so now
+
+62
+00:02:22,400 --> 00:02:27,040
+i'm going to solve for v
+
+63
+00:02:24,080 --> 00:02:28,879
+what's the tension t on 4 equals v
+
+64
+00:02:27,040 --> 00:02:30,720
+squared
+
+65
+00:02:28,879 --> 00:02:32,560
+now don't confuse it don't confuse it
+
+66
+00:02:30,720 --> 00:02:34,640
+with
+
+67
+00:02:32,560 --> 00:02:37,200
+this part here right because this is a
+
+68
+00:02:34,640 --> 00:02:41,599
+particular tension for a particular
+
+69
+00:02:37,200 --> 00:02:43,200
+speed what's the tension here
+
+70
+00:02:41,599 --> 00:02:45,599
+where i get this from this is equation
+
+71
+00:02:43,200 --> 00:02:45,599
+two right
+
+72
+00:02:45,920 --> 00:02:51,440
+if you go to equation one
+
+73
+00:02:48,959 --> 00:02:54,879
+when the normal force is zero then your
+
+74
+00:02:51,440 --> 00:02:57,280
+tension is just two g on root three
+
+75
+00:02:54,879 --> 00:03:00,000
+two g on root three
+
+76
+00:02:57,280 --> 00:03:01,200
+divided by four
+
+77
+00:03:00,000 --> 00:03:02,840
+okay
+
+78
+00:03:01,200 --> 00:03:08,879
+so
+
+79
+00:03:02,840 --> 00:03:13,360
+cancel v squared equals g on 2 root 3.
+
+80
+00:03:08,879 --> 00:03:15,440
+so this will be the velocity i can go
+
+81
+00:03:13,360 --> 00:03:17,599
+and at this particular moment i'll lift
+
+82
+00:03:15,440 --> 00:03:21,840
+off from the cone okay can't go any
+
+83
+00:03:17,599 --> 00:03:21,840
+faster than that that's your upper limit
