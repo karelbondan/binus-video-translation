@@ -1,6 +1,6 @@
 1
 00:00:01,520 --> 00:00:05,680
-sejauh ini dalam gerak melingkar
+sejauh ini, dalam gerak melingkar
 
 2
 00:00:04,400 --> 00:00:08,080
@@ -16,43 +16,43 @@ waktu kita pada gerak melingkar beraturan
 
 5
 00:00:09,679 --> 00:00:12,559
-karena itulah sebagian besar gerak melingkar beraturan dan
+karena itulah sebagian besar tentang materi gerak melingkar, dan
 
 6
 00:00:11,120 --> 00:00:15,839
-bila tidak seragam, Anda tidak dapat melakukan hal yang sama.
+bila tidak seragam, kamu tidak dapat melakukan 
 
 7
 00:00:12,559 --> 00:00:18,160
-banyak hal menarik dengannya
+banyak hal menarik dengannya.
 
 8
 00:00:15,839 --> 00:00:19,840
-segala jenis gerak melingkar
+segala jenis gerak melingkar,
 
 9
 00:00:18,160 --> 00:00:21,760
-Anda harus memiliki semacam
+kamu harus memiliki semacam
 
 10
 00:00:19,840 --> 00:00:23,680
-gaya sentripetal pada dasarnya sebelum Anda
+gaya sentripetal. pada dasarnya sebelum kamu
 
 11
 00:00:21,760 --> 00:00:26,640
-mengingat apa artinya menghadap
+mengingat apa artinya, ia menghadap
 
 12
 00:00:23,680 --> 00:00:28,640
-ke arah pusat. Kanan kita melihat
+ke arah pusat. kita sudah bahas tentang
 
 13
 00:00:26,640 --> 00:00:30,960
-ini dan kita mengatakan dengan baik bahwa gaya
+ini dan kita setuju bahwa gaya itu
 
 14
 00:00:28,640 --> 00:00:32,960
-yang bekerja ke arah pusat  benar, itu
+mengarah ke arah pusat, itu
 
 15
 00:00:30,960 --> 00:00:34,960
@@ -64,15 +64,15 @@ mungkin berasal dari
 
 17
 00:00:34,960 --> 00:00:40,640
-tegangan tali, semacam media
+tegangan tali, semacam media,
 
 18
 00:00:37,600 --> 00:00:42,879
-seperti itu, kan, mungkin berasal, jika
+mungkin berasal dari... jika
 
 19
 00:00:40,640 --> 00:00:44,640
-ini seperti Anda tahu benda langit
+ini seperti benda langit,
 
 20
 00:00:42,879 --> 00:00:47,120
@@ -80,23 +80,23 @@ atau planet, sesuatu seperti itu, gaya itu
 
 21
 00:00:44,640 --> 00:00:49,520
-mungkin berasal dari gravitasi oke
+mungkin berasal dari gravitasi.
 
 22
 00:00:47,120 --> 00:00:52,719
-dan  kita perhatikan bahwa
+dan kita perhatikan bahwa
 
 23
 00:00:49,520 --> 00:00:58,079
-jumlah gayanya harus tepat, harus lebih besar dari
+jumlah gayanya harus tepat, bentuk dari gayanya harus
 
 24
 00:00:52,719 --> 00:01:00,239
-omega kuadrat atau atau m v kuadrat di sebelah
+m r omega kuadrat atau m v kuadrat per r.
 
 25
 00:00:58,079 --> 00:01:02,559
-kanan, apa yang akan terjadi jika
+apa yang akan terjadi jika
 
 26
 00:01:00,239 --> 00:01:05,600
@@ -104,11 +104,11 @@ gaya yang ditarik terlalu besar ke arah
 
 27
 00:01:02,559 --> 00:01:05,600
-pusat akan terjadi
+pusat? apa yang akan terjadi? ia akan bergerak
 
 28
 00:01:05,760 --> 00:01:10,000
-spiral  tepat sekali um
+secara spiral menuju ke pusatnya, betul sekali.
 
 29
 00:01:07,760 --> 00:01:12,159
@@ -120,35 +120,35 @@ arah kecepatan sehingga
 
 31
 00:01:12,159 --> 00:01:15,840
-berputar pada kurva ini tetapi jika terlalu
+berputar pada kurva ini, tetapi jika terlalu
 
 32
 00:01:13,680 --> 00:01:18,080
-besar maka akan mengubahnya terlalu banyak ke kanan
+besar maka akan mengubahnya terlalu banyak,
 
 33
 00:01:15,840 --> 00:01:20,240
-dan akan mulai masuk ke dalam
+dan akan mulai bergerak masuk ke dalam,
 
 34
 00:01:18,080 --> 00:01:21,759
-dan jika tidak cukup sebaliknya apa
+dan jika gayanya tidak cukup, apa
 
 35
 00:01:20,240 --> 00:01:23,920
-akan terjadi
+akan terjadi?
 
 36
 00:01:21,759 --> 00:01:25,759
-itu akan berputar ke luar kan itu akan
+ia akan berputar ke luar kan? menjauhi titik pusat... ia akan
 
 37
 00:01:23,920 --> 00:01:27,280
-menjadi lemah dan itu tidak akan itu tidak akan
+weeee, dan ia tidak akan itu tidak akan
 
 38
 00:01:25,759 --> 00:01:28,159
-tertangkap oke
+tertangkap.
 
 39
 00:01:27,280 --> 00:01:30,000
@@ -160,31 +160,31 @@ ini adalah dua ide yang telah kita
 
 41
 00:01:30,000 --> 00:01:34,320
-pertimbangkan dengan benar
+pelajari, benar? 
 
 42
 00:01:32,320 --> 00:01:36,400
-tetapi saya punya pertanyaan ini untuk Anda benar eh yang
+tetapi aku punya pertanyaan ini untukmu. 
 
 43
 00:01:34,320 --> 00:01:41,280
-sedang kita bicarakan  tali dengan
+kita baru saja membicarakan tentang tali dengan
 
 44
 00:01:36,400 --> 00:01:43,759
-tegangan atau um planet dengan gravitasi
+tegangan, atau planet dengan gravitasi...
 
 45
 00:01:41,280 --> 00:01:46,880
-sebenarnya kita amati meskipun banyak benda
+sebenarnya kita telah mengamati banyak benda
 
 46
 00:01:43,759 --> 00:01:48,880
-yang bergerak dalam lingkaran seperti ini oke tapi
+yang bergerak dalam lingkaran, seperti ini... tapi
 
 47
 00:01:46,880 --> 00:01:51,040
-tidak ada tali yang menahan benda itu
+tidak ada tali yang menahan benda itu,
 
 48
 00:01:48,880 --> 00:01:52,079
@@ -192,47 +192,47 @@ dan tidak ada gravitasi yang
 
 49
 00:01:51,040 --> 00:01:54,000
-menahannya
+menahannya.
 
 50
 00:01:52,079 --> 00:01:55,040
-uh dan contoh termudah yang bisa kupikirkan
+dan contoh termudah yang bisa kupikirkan
 
 51
 00:01:55,040 --> 00:01:57,759
-adalah salah satu dari ini
+adalah salah satu dari ini.
 
 52
 00:01:58,560 --> 00:02:02,000
-oh  itu sangat buruk maaf
+oh, itu sangat buruk, maaf.
 
 53
 00:02:02,880 --> 00:02:07,680
-oke jadi ini dia mobil yang
+jadi ini dia, sebuah mobil.
 
 54
 00:02:05,600 --> 00:02:10,319
-kamu suka oh begitulah
+kamu mungkin "oh jadi begitu",
 
 55
 00:02:07,680 --> 00:02:12,319
-kalau aku punya mobil dan itu um baiklah
+kalau aku punya mobil... dan...
 
 56
 00:02:10,319 --> 00:02:14,879
-anggap saja demi kesederhanaan um
+demi kesederhanaan, anggap saja
 
 57
 00:02:12,319 --> 00:02:17,280
-itu melakukan putaran di trek melingkar
+mobilnya melakukan putaran di trek melingkar
 
 58
 00:02:14,879 --> 00:02:18,640
-oke sekarang cukup  tentu saja
+sekarang, cukup jelas bahwa
 
 59
 00:02:17,280 --> 00:02:21,120
-jika itu adalah mobil berukuran normal, tidak ada
+itu adalah mobil berukuran normal, tidak ada
 
 60
 00:02:18,640 --> 00:02:22,879
@@ -240,7 +240,7 @@ tali dengan tegangan yang menahannya ke arah
 
 61
 00:02:21,120 --> 00:02:25,680
-tengah lintasan tepat pada
+tengah lintasan kan? pada
 
 62
 00:02:22,879 --> 00:02:28,239
@@ -252,23 +252,23 @@ benda besar yang memberikan gravitasi pada mobil yang
 
 64
 00:02:28,239 --> 00:02:35,599
-menahannya di lintasan, jadi bagaimana cara melaju
+menahannya di lintasan, jadi bagaimana caranya bergerak
 
 65
 00:02:32,239 --> 00:02:37,120
-dalam lingkaran?  gaya apa yang membuatnya tetap
+secara melingkar? gaya apa yang membuatnya tetap
 
 66
 00:02:37,120 --> 00:02:44,160
-menghadap ke dalam? siapa yang mengambil
+menghadap ke dalam? ada yang tahu?
 
 67
 00:02:41,760 --> 00:02:46,239
-jawabannya adalah gesekannya
+jawabannya adalah gesekannya.
 
 68
 00:02:44,160 --> 00:02:48,000
-sekarang tunggu sebentar kita sudah
+sekarang, tunggu sebentar, kita sudah
 
 69
 00:02:46,239 --> 00:02:49,840
@@ -276,11 +276,11 @@ terbiasa dengan gagasan
 
 70
 00:02:48,000 --> 00:02:52,160
-seperti bahkan ketika kita bergerak ke kanan,
+seperti... bahkan ketika kita bergerak,
 
 71
 00:02:49,840 --> 00:02:54,160
-gesekan itu baik  tentang apa yang memperlambatmu
+gesekan adalah sesuatu yang akan memperlambatmu.
 
 72
 00:02:52,160 --> 00:02:56,319
@@ -288,11 +288,11 @@ kamu menggelindingkan sesuatu dan pada
 
 73
 00:02:54,160 --> 00:02:58,400
-akhirnya benda itu akan berhenti karena gesekan
+akhirnya benda itu akan berhenti, karena gesekan
 
 74
 00:02:56,319 --> 00:02:59,840
-akan menghentikannya dengan baik. Idenya adalah bahwa
+akan menghentikannya. idenya adalah bahwa
 
 75
 00:02:58,400 --> 00:03:04,519
@@ -300,7 +300,7 @@ gesekan
 
 76
 00:02:59,840 --> 00:03:04,519
-pada dasarnya adalah gaya reaksi
+pada dasarnya adalah gaya reaksi,
 
 77
 00:03:05,040 --> 00:03:07,760
@@ -312,51 +312,51 @@ sesuatu dan kemudian gesekan akan mendorong
 
 79
 00:03:07,760 --> 00:03:12,720
-kembali oke sekarang yang terjadi adalah ini
+kembali. sekarang, yang terjadi adalah
 
 80
 00:03:09,920 --> 00:03:15,680
-mobil berputar baik-baik saja
+mobil ini bergerak secara melingkar. 
 
 81
 00:03:12,720 --> 00:03:17,920
-menurut inersia kan hukum pertama ke
+menurut inersia, hukum pertama, ke
 
 82
 00:03:15,680 --> 00:03:20,080
-arah mana mobil itu dengan seluruh
+arah mana mobil itu, dengan seluruh
 
 83
 00:03:17,920 --> 00:03:22,319
-massa inersianya ingin
+massa inersianya... mobil itu ingin
 
 84
 00:03:20,080 --> 00:03:22,319
-melaju ke arah mana
+melaju ke arah mana?
 
 85
 00:03:23,760 --> 00:03:26,799
-apakah ada dua pilihan
+ada dua pilihan untuk
 
 86
 00:03:25,360 --> 00:03:29,040
-inersia kan ia akan
+inersia kan? ia akan
 
 87
 00:03:26,799 --> 00:03:31,280
-diam kan?  dalam keadaan diam
+diam kan? apakah ia dalam keadaan diam?
 
 88
 00:03:29,040 --> 00:03:32,400
-tidak atau akan terjadi
+tidak... atau akan terjadi
 
 89
 00:03:32,400 --> 00:03:36,959
-gerak garis lurus beraturan ya jadi yang
+gerak garis lurus beraturan kan? jadi yang
 
 90
 00:03:34,319 --> 00:03:39,519
-ingin dilakukannya adalah tidak membungkuk seperti ini
+ingin dilakukannya adalah tidak membungkuk seperti ini,
 
 91
 00:03:36,959 --> 00:03:40,640
@@ -364,27 +364,27 @@ ia ingin
 
 92
 00:03:39,519 --> 00:03:43,519
-terus melaju
+terus melaju.
 
 93
 00:03:40,640 --> 00:03:46,080
-jadi situasi yang normal adalah
+jadi situasi yang normal adalah...
 
 94
 00:03:43,519 --> 00:03:47,519
-situasi default untuk mobil ini adalah um
+situasi default untuk mobil ini adalah
 
 95
 00:03:46,080 --> 00:03:50,799
-adalah jenis ini  situasinya benar jadi ia
+situasi semacam ini kan? jadi ia akan
 
 96
 00:03:47,519 --> 00:03:53,680
-mengarah ke luar jadi
+bergerak mengarah ke luar, jadi
 
 97
 00:03:50,799 --> 00:03:55,840
-gaya geseknya bereaksi melawan kanan itu
+gaya geseknya bereaksi melawan itu kan?
 
 98
 00:03:53,680 --> 00:03:56,959
@@ -392,7 +392,7 @@ dan jadi ada gaya menyamping yang bekerja
 
 99
 00:03:55,840 --> 00:03:58,080
-ke arah tengah dan itulah yang
+ke arah tengah, dan itulah yang
 
 100
 00:03:56,959 --> 00:04:00,159
@@ -412,7 +412,7 @@ ada cengkeraman
 
 104
 00:04:05,120 --> 00:04:08,480
-di ban
+di ban,
 
 105
 00:04:06,480 --> 00:04:10,239
@@ -420,63 +420,63 @@ dan di jalan kanan karena kalau
 
 106
 00:04:08,480 --> 00:04:12,560
-grip itu dilepas
+tidak ada grip di ban,
 
 107
 00:04:10,239 --> 00:04:14,720
-lalu yang terjadi gesekannya tidak cukup
+gesekannya dengan jalan tidak akan cukup
 
 108
 00:04:12,560 --> 00:04:18,000
-kan ini akan mengambil alih dan
+yang mana akan membuat mobilnya
 
 109
 00:04:14,720 --> 00:04:20,160
-selip ke luar oke
+selip. oke,
 
 110
 00:04:18,000 --> 00:04:22,079
-makanya anda tahu kondisi hujan
+makanya saat kondisi hujan, 
 
 111
 00:04:20,160 --> 00:04:24,479
-atau ban mobil anda benar-benar
+atau ban mobil kamu benar-benar
 
 112
 00:04:22,079 --> 00:04:26,400
-tua dan botak dan tidak memiliki pegangan yang cukup
+tua dan sudah aus, dan tidak memiliki grip yang cukup,
 
 113
 00:04:24,479 --> 00:04:27,759
-maka Anda akan mendapatkan ini
+hal ini akan terjadi.
 
 114
 00:04:26,400 --> 00:04:28,960
-Anda akan pergi ke arah
+mobilnya akan selip ke arah
 
 115
 00:04:27,759 --> 00:04:30,960
-garis singgung sebenarnya ke sanalah
+garis singgung sebenarnya, ke sanalah
 
 116
 00:04:28,960 --> 00:04:32,639
-Anda akan pergi
+mobilnya akan pergi.
 
 117
 00:04:30,960 --> 00:04:34,720
-jadi ini semacam masalah tapi  kami
+jadi ini semacam masalah, tapi kita
 
 118
 00:04:32,639 --> 00:04:36,320
-mengatasinya dengan ban tapi ada
+sudah mengatasinya dengan ban. tapi ada
 
 119
 00:04:34,720 --> 00:04:38,160
-cara lain untuk mengatasinya ada
+cara lain untuk mengatasinya, 
 
 120
 00:04:36,320 --> 00:04:39,840
-cara lain untuk mengatasinya jadi
+jadi
 
 121
 00:04:38,160 --> 00:04:40,720
@@ -484,59 +484,59 @@ perancang jalan memanfaatkan hal-hal
 
 122
 00:04:39,840 --> 00:04:42,479
-yang disebut
+yang disebut...
 
 123
 00:04:40,720 --> 00:04:44,320
-dan inilah um kami
+dan inilah...
 
 124
 00:04:42,479 --> 00:04:47,919
-inilah hal terakhir kami yang
+inilah hal yang kita 
 
 125
 00:04:44,320 --> 00:04:47,919
-disebut jalur membelok jalur tepian
+sebut dengan jalur membelok. jalur membelok
 
 126
 00:04:50,320 --> 00:04:54,960
-adalah tempat Anda berbelok
+adalah tempat kamu berbelok
 
 127
 00:04:52,720 --> 00:04:57,120
-di sekitar kanan yang mereka lakukan adalah mereka memasang
+kan? yang mereka lakukan adalah mereka memasang
 
 128
 00:04:54,960 --> 00:05:00,000
-tanggul mereka meninggikan sebagian jalan
+tanggul, mereka meninggikan sebagian jalan,
 
 129
 00:04:57,120 --> 00:05:02,400
-tidak semuanya oke sehingga ada
+tidak semuanya... sehingga ada
 
 130
 00:05:00,000 --> 00:05:05,840
-gaya yang bekerja di dalam oke saya ingin Anda
+gaya yang bekerja menuju ke arah dalam. aku ingin kamu
 
 131
 00:05:02,400 --> 00:05:07,440
-mengingat bola bola setengah bola berukuran dua meter yang sangat besar yang
+mengingat mangkuk, setengah bola berukuran dua meter
 
 132
 00:05:05,840 --> 00:05:10,560
-kami
+yang sangat besar yang kemarin sudah 
 
 133
 00:05:07,440 --> 00:05:12,320
-lihat benar
+kita lihat.
 
 134
 00:05:10,560 --> 00:05:15,039
-oke kami  sedang melihat ini kemarin,
+kita sudah melihat ini kemarin,
 
 135
 00:05:12,320 --> 00:05:16,240
-kan, kita perhatikan baik-baik saja,
+kan, kita sudah perhatikan bahwa,
 
 136
 00:05:16,240 --> 00:05:22,000
@@ -556,75 +556,75 @@ kemudian ada gaya lain yang terlibat
 
 140
 00:05:25,520 --> 00:05:29,360
-yang juga mendorong ke dalamnya.  gayanya
+yang juga mendorong ke dalamnya. gaya apa itu?
 
 141
 00:05:29,360 --> 00:05:33,360
-adalah gaya normal kan, jadi jika di sinilah
+gaya normal kan? jadi jika di sinilah
 
 142
 00:05:31,360 --> 00:05:35,360
-saya berada, Anda tahu bahwa gaya normal
+aku berada, kamu tahu... gaya normalnya
 
 143
 00:05:33,360 --> 00:05:37,039
-menuju ke sana tegak lurus terhadap permukaan
+menuju ke sana, tegak lurus terhadap permukaan
 
 144
 00:05:35,360 --> 00:05:40,000
-mangkuk atau tegak lurus terhadap
+mangkuk, atau tegak lurus terhadap
 
 145
 00:05:37,039 --> 00:05:42,639
-permukaan benda apa pun yang Anda gunakan, um bola kerucut,
+permukaan benda apa pun yang kamu gunakan: mangkuk, kerucut,
 
 146
 00:05:40,000 --> 00:05:44,320
-semua hal semacam itu oke
+semua hal semacam itu.
 
 147
 00:05:42,639 --> 00:05:45,680
-jadi jalur bank manfaatkan
+jadi jalur membelok memanfaatkan hal
 
 148
 00:05:44,320 --> 00:05:47,440
-ini mari kita gambar satu dan kamu akan lihat
+ini. mari kita gambar satu dan kamu akan lihat
 
 149
 00:05:45,680 --> 00:05:49,120
-apa yang terjadi
+apa yang terjadi.
 
 150
 00:05:47,440 --> 00:05:51,600
-pertama kita akan melakukannya dari samping jadi kamu buat
+pertama kita akan melakukannya dari samping, jadi kamu buat
 
 151
 00:05:49,120 --> 00:05:53,600
-segitiga kecil seperti ini
+segitiga kecil seperti ini.
 
 152
 00:05:51,600 --> 00:05:55,360
-oke sekarang ini agak berlebihan
+sekarang, ini agak berlebihan,
 
 153
 00:05:53,600 --> 00:05:57,039
-um kamu hampir tidak pernah melihatnya  jalur tepian
+kamu hampir tidak pernah melihat jalur membelok
 
 154
 00:05:55,360 --> 00:05:58,560
-yang sangat curam tetapi jika kita membuatnya
+securam ini. tetapi jika kita membuatnya
 
 155
 00:05:57,039 --> 00:05:59,840
-realistis sulit untuk melihat apa yang
+realistis, sulit untuk melihat apa yang
 
 156
 00:05:58,560 --> 00:06:02,960
-terjadi oke
+terjadi.
 
 157
 00:05:59,840 --> 00:06:06,400
-jadi alih-alih jalannya rata oke,
+jadi alih-alih jalannya rata,
 
 158
 00:06:02,960 --> 00:06:09,600
@@ -632,15 +632,15 @@ sebagian jalan di luar belokannya
 
 159
 00:06:06,400 --> 00:06:12,800
-ditimbun oke lalu benda ini
+ditimbun, lalu benda ini
 
 160
 00:06:09,600 --> 00:06:12,800
-berbelok
+berbelok.
 
 161
 00:06:16,160 --> 00:06:19,919
-oke  jadi ada belokan jadi kita
+jadi ada belokan di sana, jadi kita
 
 162
 00:06:17,919 --> 00:06:21,440
@@ -648,11 +648,11 @@ lihat dari sana supaya
 
 163
 00:06:19,919 --> 00:06:23,360
-lebih jelas saya mungkin taruh di
+lebih jelas. aku mungkin akan taruh... di
 
 164
 00:06:21,440 --> 00:06:25,280
-sini ada tepi yang tidak bisa kita lihat di
+sini ada tepian yang tidak bisa kita lihat, di
 
 165
 00:06:23,360 --> 00:06:28,639
@@ -660,15 +660,15 @@ luar tepi bawah
 
 166
 00:06:25,280 --> 00:06:28,639
-tanggul, jadi kalau saya beri titik, itu
+tanggul, jadi kalau aku beri titik, itu
 
 167
 00:06:30,639 --> 00:06:35,280
-agak lebih tinggi  disana kamu bisa
+agak lebih tinggi... seperti itu. kamu bisa
 
 168
 00:06:32,080 --> 00:06:37,840
-melihat apa yang terjadi oke jadi
+melihat apa yang terjadi, jadi
 
 169
 00:06:35,280 --> 00:06:38,880
@@ -676,11 +676,11 @@ apa yang terjadi adalah saat kita memutar belokan ini
 
 170
 00:06:38,880 --> 00:06:43,759
-oke
+oke...
 
 171
 00:06:40,400 --> 00:06:44,960
-akan ada gaya normal kan
+akan ada gaya normal kan?
 
 172
 00:06:43,759 --> 00:06:47,360
@@ -688,23 +688,23 @@ gaya normal itu menuju ke
 
 173
 00:06:44,960 --> 00:06:50,240
-arah itu jadi kamu bisa lihat kalau kita menyelesaikannya
+arah itu, jadi kamu bisa lihat kalau kita menyelesaikannya,
 
 174
 00:06:47,360 --> 00:06:52,400
-dengan benar, gaya itu akan terjadi  bagian vertikal ke
+gaya itu akan mempunyai bagian vertikal,
 
 175
 00:06:50,240 --> 00:06:54,080
-kanan tetapi juga memiliki bagian horizontal
+tetapi juga memiliki bagian horizontal,
 
 176
 00:06:52,400 --> 00:06:55,840
-yang sentripetal mengarah ke
+itulah gaya sentripetal, ia mengarah ke
 
 177
 00:06:54,080 --> 00:06:58,639
-tengah belokan jadi ini akan
+tengah belokan. jadi ini akan
 
 178
 00:06:55,840 --> 00:07:00,880
@@ -712,7 +712,7 @@ membantu mobil kita tetap di jalan dan tidak
 
 179
 00:06:58,639 --> 00:07:03,039
-melakukan hal ini oke
+melakukan hal ini. 
 
 180
 00:07:00,880 --> 00:07:04,720
@@ -720,11 +720,11 @@ jadi untuk memahami situasi ini dan mengetahui
 
 181
 00:07:03,039 --> 00:07:06,800
-apa yang sedang terjadi  mari kita bahas lebih
+apa yang sedang terjadi, mari kita bahas lebih
 
 182
 00:07:04,720 --> 00:07:08,720
-detail lagi, jadi lanjutkan menggambar
+detail lagi. jadi lanjutkan menggambar
 
 183
 00:07:06,800 --> 00:07:12,360
@@ -744,23 +744,23 @@ gaya apa lagi yang bekerja pada
 
 187
 00:07:22,240 --> 00:07:26,960
-benda ini,
+benda ini> 
 
 188
 00:07:23,360 --> 00:07:26,960
-gravitasinya bagus, jadi mari kita pakai itu,
+gravitasi, bagus, jadi mari kita pakai itu,
 
 189
 00:07:28,479 --> 00:07:33,440
-oke, begitulah  pergi
+oke, begitulah...
 
 190
 00:07:31,360 --> 00:07:35,680
-sekarang itu um itu melingkar kamu tidak
+sekarang, itu melingkar, kamu tidak
 
 191
 00:07:33,440 --> 00:07:37,440
-perlu memiliki semuanya Maksudku kamu tahu kita
+perlu memiliki semua... Maksudku kamu tahu kita
 
 192
 00:07:35,680 --> 00:07:39,120
@@ -772,7 +772,7 @@ trek melingkar tapi bukan itu yang biasanya
 
 194
 00:07:39,120 --> 00:07:42,400
-terjadi biasanya kami ingin
+terjadi, biasanya kita ingin
 
 195
 00:07:40,880 --> 00:07:43,520
@@ -780,11 +780,11 @@ benar-benar berbelok dan tidak hanya berputar-putar
 
 196
 00:07:42,400 --> 00:07:46,000
-dan berputar-putar
+dan berputar-putar,
 
 197
 00:07:43,520 --> 00:07:48,319
-tapi masih ada untuk busur ini kan
+tapi masih ada untuk busur ini kan?
 
 198
 00:07:46,000 --> 00:07:50,639
@@ -792,11 +792,11 @@ masih ada pusatnya oke
 
 199
 00:07:48,319 --> 00:07:51,919
-sekarang hati-hati ada beberapa ada
+sekarang hati-hati ada beberapa... ada
 
 200
 00:07:50,639 --> 00:07:52,960
-banyak pusat berbeda yang bisa saya
+banyak pusat berbeda yang bisa aku
 
 201
 00:07:51,919 --> 00:07:54,800
@@ -804,11 +804,11 @@ bicarakan di sini karena ada
 
 202
 00:07:52,960 --> 00:07:57,840
-banyak lingkaran berbeda yang bisa saya gambar
+banyak lingkaran berbeda yang bisa aku gambar.
 
 203
 00:07:54,800 --> 00:08:00,319
-misalnya  ini um pusat
+misalnya di sini adalah pusat
 
 204
 00:07:57,840 --> 00:08:02,240
@@ -816,47 +816,47 @@ lingkaran dan letaknya di
 
 205
 00:08:00,319 --> 00:08:03,440
-tanah datar oke bukan di bagian yang lebih tinggi
+tanah datar, bukan di bagian yang lebih tinggi
 
 206
 00:08:02,240 --> 00:08:05,759
-kan
+kan?
 
 207
 00:08:03,440 --> 00:08:07,440
-tapi tidak terlalu berguna bagi kami
+tapi ini tidak terlalu berguna bagi kita,
 
 208
 00:08:05,759 --> 00:08:09,280
-pusat khusus ini tidak terlalu berguna bagi
+titik pusat ini tidak terlalu berguna bagi
 
 209
 00:08:07,440 --> 00:08:11,120
-kami karena jika Anda mengemudi di sepanjang
+kita karena jika kamu mengemudikan
 
 210
 00:08:09,280 --> 00:08:12,560
-mobilmu di sebelah kanan
+mobilmu... 
 
 211
 00:08:11,120 --> 00:08:14,879
-jadi ini mobilku
+jadi ini mobilku,
 
 212
 00:08:12,560 --> 00:08:15,919
-dan um kamu mengemudi di sepanjang jalan ini
+dan um kamu mengemudi di sepanjang jalan ini,
 
 213
 00:08:14,879 --> 00:08:18,639
-oke
+oke...
 
 214
 00:08:15,919 --> 00:08:20,240
-pusat massa mobil di sebelah kanan
+pusat massa mobil
 
 215
 00:08:18,639 --> 00:08:22,639
-harus berada di tengah jalan dan
+harusnya berada di tengah jalan dan
 
 216
 00:08:20,240 --> 00:08:24,560
@@ -864,43 +864,43 @@ itulah sebabnya aku menggambar objekku dan semua
 
 217
 00:08:22,639 --> 00:08:27,039
-gaya yang bekerja padanya  Saya telah menggambarnya di
+gaya yang bekerja padanya... aku telah menggambarnya di
 
 218
 00:08:24,560 --> 00:08:28,800
-tengah sana oke sekarang itu terangkat
+tengah sana. sekarang, itu terangkat
 
 219
 00:08:27,039 --> 00:08:31,120
-dari tanah, bisakah Anda melihatnya jadi oleh
+dari tanah, bisakah kamu melihatnya? jadi oleh
 
 220
 00:08:28,800 --> 00:08:33,039
-karena itu saya akan menaikkan pusat
+karena itu aku akan menaikkan titik pusat
 
 221
 00:08:31,120 --> 00:08:35,360
-yang saya minati juga dari
+yang aku inginkan juga dari
 
 222
 00:08:33,039 --> 00:08:37,680
-tanah jadi kira-kira seperti di sini saya
+tanah, jadi kira-kira di sini...
 
 223
 00:08:35,360 --> 00:08:37,680
-kira jadi di
+jadi di
 
 224
 00:08:38,159 --> 00:08:43,440
-sana  adalah pusat gerak sebenarnya
+sanalah pusat gerak sebenarnya.
 
 225
 00:08:41,039 --> 00:08:45,040
-jika saya gambarkan sebuah lingkaran mendatar sekarang
+jika aku gambarkan sebuah lingkaran mendatar, sekarang
 
 226
 00:08:43,440 --> 00:08:47,519
-berbaris seperti ini ini adalah
+akan menjadi seperti ini. ini adalah
 
 227
 00:08:45,040 --> 00:08:47,519
@@ -908,19 +908,19 @@ jari-jarinya, itulah
 
 228
 00:08:48,880 --> 00:08:53,120
-jari-jari
+jari-jari dari
 
 229
 00:08:50,720 --> 00:08:54,399
-gerak melingkar yang sebenarnya oke
+gerak melingkar yang sebenarnya.
 
 230
 00:08:53,120 --> 00:08:57,519
-saya
+aku akan
 
 231
 00:08:54,399 --> 00:08:59,600
-tandai itu sebagai pusatnya oke
+tandai itu sebagai pusatnya. 
 
 232
 00:08:57,519 --> 00:09:01,600
@@ -928,11 +928,11 @@ kita perlu tahu di sudut mana titik ini
 
 233
 00:08:59,600 --> 00:09:03,040
-tertanam  jadi saya sebut sudut ini di
+tertancap, jadi aku sebut sudut ini di
 
 234
 00:09:01,600 --> 00:09:05,360
-sini theta
+sini. theta...
 
 235
 00:09:03,040 --> 00:09:06,640
@@ -944,11 +944,11 @@ punya tinggi
 
 237
 00:09:06,640 --> 00:09:10,320
-di sini
+di sini...
 
 238
 00:09:07,519 --> 00:09:11,680
-dari tepi yang ditinggikan
+dari tepi yang ditinggikan,
 
 239
 00:09:10,320 --> 00:09:13,120
@@ -956,7 +956,7 @@ dan terakhir kita perlu mengetahui
 
 240
 00:09:11,680 --> 00:09:15,920
-lebar jalan
+lebar jalan,
 
 241
 00:09:13,120 --> 00:09:20,160
@@ -964,4 +964,4 @@ jadi kita sebut itu
 
 242
 00:09:15,920 --> 00:09:20,160
-d untuk jarak oke
+d untuk jarak (Alih bahasa oleh Karel Bondan)
