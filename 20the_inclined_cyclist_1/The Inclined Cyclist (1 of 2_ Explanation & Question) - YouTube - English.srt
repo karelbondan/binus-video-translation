@@ -1,0 +1,1159 @@
+1
+00:00:00,240 --> 00:00:05,360
+we've been looking at uniform circular
+
+2
+00:00:01,680 --> 00:00:05,360
+motion for quite some time
+
+3
+00:00:05,759 --> 00:00:09,200
+and we've established the important
+
+4
+00:00:07,040 --> 00:00:10,960
+things right
+
+5
+00:00:09,200 --> 00:00:12,960
+in terms of vertical motion because
+
+6
+00:00:10,960 --> 00:00:14,480
+we've we've solely been dealing with
+
+7
+00:00:12,960 --> 00:00:15,839
+horizontal circles right so we've got
+
+8
+00:00:14,480 --> 00:00:17,359
+bird's eye view right now we're looking
+
+9
+00:00:15,839 --> 00:00:19,199
+down at this
+
+10
+00:00:17,359 --> 00:00:21,600
+vertical motion
+
+11
+00:00:19,199 --> 00:00:23,680
+no forces acting okay so we don't need
+
+12
+00:00:21,600 --> 00:00:24,800
+to worry about that here but we have
+
+13
+00:00:23,680 --> 00:00:27,599
+this
+
+14
+00:00:24,800 --> 00:00:29,439
+centripetal force acting yeah so either
+
+15
+00:00:27,599 --> 00:00:31,679
+in terms of your angular velocity mr
+
+16
+00:00:29,439 --> 00:00:34,079
+omega squared or as we looked at this
+
+17
+00:00:31,679 --> 00:00:36,719
+morning more helpfully
+
+18
+00:00:34,079 --> 00:00:38,399
+mv squared on r and we realize that that
+
+19
+00:00:36,719 --> 00:00:41,600
+can be accounted for by
+
+20
+00:00:38,399 --> 00:00:42,559
+tension and string or gravity or this
+
+21
+00:00:41,600 --> 00:00:45,120
+morning
+
+22
+00:00:42,559 --> 00:00:48,160
+bank tracks right so if we sort of
+
+23
+00:00:45,120 --> 00:00:50,079
+elevate one part of a road
+
+24
+00:00:48,160 --> 00:00:51,680
+like so at some angle and we're heading
+
+25
+00:00:50,079 --> 00:00:53,680
+along
+
+26
+00:00:51,680 --> 00:00:56,000
+this normal force the reaction force is
+
+27
+00:00:53,680 --> 00:00:59,840
+pushing you toward the center right so
+
+28
+00:00:56,000 --> 00:00:59,840
+you stay on the road
+
+29
+00:01:03,680 --> 00:01:06,640
+now
+
+30
+00:01:04,479 --> 00:01:08,720
+here's the problem though
+
+31
+00:01:06,640 --> 00:01:10,400
+when you don't have a bait track you
+
+32
+00:01:08,720 --> 00:01:11,760
+don't have a bank track how do you do
+
+33
+00:01:10,400 --> 00:01:14,080
+this we've already discussed that you've
+
+34
+00:01:11,760 --> 00:01:15,840
+got like you know friction on the wheels
+
+35
+00:01:14,080 --> 00:01:17,759
+and that's good okay
+
+36
+00:01:15,840 --> 00:01:19,360
+but as you'll see in a second sometimes
+
+37
+00:01:17,759 --> 00:01:21,200
+you don't have much friction on the
+
+38
+00:01:19,360 --> 00:01:24,200
+wheels to count on
+
+39
+00:01:21,200 --> 00:01:24,200
+example
+
+40
+00:01:26,159 --> 00:01:30,400
+let's have a look
+
+41
+00:01:28,880 --> 00:01:31,920
+now
+
+42
+00:01:30,400 --> 00:01:32,799
+i had to show you this because i thought
+
+43
+00:01:31,920 --> 00:01:34,560
+okay
+
+44
+00:01:32,799 --> 00:01:37,439
+not everyone can ride a bike i can't
+
+45
+00:01:34,560 --> 00:01:39,759
+assume this anymore now as the song as
+
+46
+00:01:37,439 --> 00:01:41,360
+this cyclist is rounding his corner you
+
+47
+00:01:39,759 --> 00:01:43,439
+can see what's going on i know the
+
+48
+00:01:41,360 --> 00:01:44,720
+camera is a slight angle
+
+49
+00:01:43,439 --> 00:01:46,079
+but you can see what's happening in a
+
+50
+00:01:44,720 --> 00:01:47,439
+second there's a shot which i'm going to
+
+51
+00:01:46,079 --> 00:01:48,720
+freeze that makes it really really
+
+52
+00:01:47,439 --> 00:01:52,320
+obvious okay
+
+53
+00:01:48,720 --> 00:01:54,240
+in order to go around the turn and to be
+
+54
+00:01:52,320 --> 00:01:56,000
+able to do it at sufficient velocity to
+
+55
+00:01:54,240 --> 00:01:58,079
+you know he's trying to go pretty fast
+
+56
+00:01:56,000 --> 00:02:00,079
+you can see what he's doing
+
+57
+00:01:58,079 --> 00:02:02,479
+perfect
+
+58
+00:02:00,079 --> 00:02:05,040
+he doesn't have an embankment right
+
+59
+00:02:02,479 --> 00:02:06,719
+instead he's banking well he's banking
+
+60
+00:02:05,040 --> 00:02:08,160
+himself actually
+
+61
+00:02:06,719 --> 00:02:10,560
+in terms of aircraft if you've got a
+
+62
+00:02:08,160 --> 00:02:13,280
+plane that's like this to turn from side
+
+63
+00:02:10,560 --> 00:02:15,200
+to side they call it banking right so
+
+64
+00:02:13,280 --> 00:02:18,000
+this is the scenario that we've got and
+
+65
+00:02:15,200 --> 00:02:18,800
+this is what we're going to finish with
+
+66
+00:02:18,000 --> 00:02:20,879
+so
+
+67
+00:02:18,800 --> 00:02:22,480
+let's draw ourselves a fresh diagram
+
+68
+00:02:20,879 --> 00:02:24,959
+let's imagine looking onto this guy and
+
+69
+00:02:22,480 --> 00:02:27,680
+i'm not even gonna bother trying to draw
+
+70
+00:02:24,959 --> 00:02:29,840
+a cyclist okay but if we have the
+
+71
+00:02:27,680 --> 00:02:31,840
+vertical okay
+
+72
+00:02:29,840 --> 00:02:34,400
+like this this is upright so let's
+
+73
+00:02:31,840 --> 00:02:36,640
+imagine this is a cyclist just cycling
+
+74
+00:02:34,400 --> 00:02:37,440
+on a normal straight path no problems
+
+75
+00:02:36,640 --> 00:02:39,519
+okay
+
+76
+00:02:37,440 --> 00:02:41,519
+but he's off at an angle so he's off
+
+77
+00:02:39,519 --> 00:02:42,959
+something like this
+
+78
+00:02:41,519 --> 00:02:45,200
+okay so
+
+79
+00:02:42,959 --> 00:02:46,319
+there's my cyclist can you see it's a
+
+80
+00:02:45,200 --> 00:02:47,200
+cyclist
+
+81
+00:02:46,319 --> 00:02:49,920
+now
+
+82
+00:02:47,200 --> 00:02:51,360
+because he is banking because he's
+
+83
+00:02:49,920 --> 00:02:53,360
+banking right
+
+84
+00:02:51,360 --> 00:02:55,599
+friction is no longer acting in the same
+
+85
+00:02:53,360 --> 00:02:58,159
+way as it would if he was just upright
+
+86
+00:02:55,599 --> 00:02:58,959
+okay in fact friction is taking him this
+
+87
+00:02:58,159 --> 00:03:00,800
+way
+
+88
+00:02:58,959 --> 00:03:03,200
+okay does that make sense now it's a
+
+89
+00:03:00,800 --> 00:03:06,159
+horizontal row it's a horizontal row so
+
+90
+00:03:03,200 --> 00:03:07,840
+this is the norm the reaction force okay
+
+91
+00:03:06,159 --> 00:03:10,720
+and this over here
+
+92
+00:03:07,840 --> 00:03:12,640
+it's f not for force but for friction
+
+93
+00:03:10,720 --> 00:03:15,440
+okay makes sense
+
+94
+00:03:12,640 --> 00:03:18,080
+now what we want is for him to
+
+95
+00:03:15,440 --> 00:03:19,680
+bank at just the right amount at just
+
+96
+00:03:18,080 --> 00:03:21,360
+the right angle
+
+97
+00:03:19,680 --> 00:03:23,360
+such that
+
+98
+00:03:21,360 --> 00:03:24,879
+he's going to head in but he's not going
+
+99
+00:03:23,360 --> 00:03:26,480
+to topple okay now how do we make sure
+
+100
+00:03:24,879 --> 00:03:29,040
+things don't topple i want you to think
+
+101
+00:03:26,480 --> 00:03:32,720
+back to when we had
+
+102
+00:03:29,040 --> 00:03:34,560
+the keys on top of a flat surface
+
+103
+00:03:32,720 --> 00:03:36,400
+so when you look at this scenario here's
+
+104
+00:03:34,560 --> 00:03:38,239
+my keys
+
+105
+00:03:36,400 --> 00:03:39,760
+now what makes this a stable situation
+
+106
+00:03:38,239 --> 00:03:42,319
+i'll get these strings out of the way
+
+107
+00:03:39,760 --> 00:03:43,440
+what makes this a stable situation
+
+108
+00:03:42,319 --> 00:03:46,480
+is that
+
+109
+00:03:43,440 --> 00:03:48,640
+friction here is acting directly onto
+
+110
+00:03:46,480 --> 00:03:50,239
+the body so it's not going anywhere
+
+111
+00:03:48,640 --> 00:03:52,080
+right so if you were to draw the
+
+112
+00:03:50,239 --> 00:03:54,080
+friction force here well it's not moving
+
+113
+00:03:52,080 --> 00:03:56,480
+but it would be facing in this direction
+
+114
+00:03:54,080 --> 00:03:58,000
+the same direction as the normal okay in
+
+115
+00:03:56,480 --> 00:04:01,040
+this situation it's going in another
+
+116
+00:03:58,000 --> 00:04:03,280
+direction because he is banking okay
+
+117
+00:04:01,040 --> 00:04:07,120
+and when you add up these two forces
+
+118
+00:04:03,280 --> 00:04:09,120
+together in order to make it stable
+
+119
+00:04:07,120 --> 00:04:11,760
+you want the sum of these two forces the
+
+120
+00:04:09,120 --> 00:04:13,519
+resultant force to be going just like
+
+121
+00:04:11,760 --> 00:04:15,760
+with the keys right
+
+122
+00:04:13,519 --> 00:04:17,759
+exactly in line with the object because
+
+123
+00:04:15,760 --> 00:04:20,639
+if it's not for instance
+
+124
+00:04:17,759 --> 00:04:23,040
+suppose he banked so far over that the
+
+125
+00:04:20,639 --> 00:04:25,440
+resultant force was not this way but you
+
+126
+00:04:23,040 --> 00:04:27,120
+know say over this way what would happen
+
+127
+00:04:25,440 --> 00:04:29,919
+to the cyclist
+
+128
+00:04:27,120 --> 00:04:31,680
+he'd fall over right because his body is
+
+129
+00:04:29,919 --> 00:04:35,120
+this way force is acting this way and
+
+130
+00:04:31,680 --> 00:04:38,080
+down he goes okay so what we want is for
+
+131
+00:04:35,120 --> 00:04:40,560
+these angles to match up exactly
+
+132
+00:04:38,080 --> 00:04:40,560
+so that
+
+133
+00:04:41,040 --> 00:04:47,600
+the resultant force lines up exactly
+
+134
+00:04:43,680 --> 00:04:47,600
+with the cyclist like so
+
+135
+00:04:48,320 --> 00:04:52,000
+okay so we're going to call that
+
+136
+00:04:50,400 --> 00:04:54,400
+r for resultant force i know that we
+
+137
+00:04:52,000 --> 00:04:56,000
+were trying to avoid putting on
+
+138
+00:04:54,400 --> 00:04:58,080
+forces that aren't really forces that's
+
+139
+00:04:56,000 --> 00:04:59,759
+the sum of two forces but i'm putting it
+
+140
+00:04:58,080 --> 00:05:01,840
+here so you can see it's got to line up
+
+141
+00:04:59,759 --> 00:05:04,160
+with the cyclist we might even label him
+
+142
+00:05:01,840 --> 00:05:04,160
+as such
+
+143
+00:05:04,400 --> 00:05:07,759
+okay now
+
+144
+00:05:06,080 --> 00:05:09,120
+we need more information on here in
+
+145
+00:05:07,759 --> 00:05:11,520
+order to resolve the forces and see
+
+146
+00:05:09,120 --> 00:05:14,400
+what's going on okay so when you had a
+
+147
+00:05:11,520 --> 00:05:16,160
+bank track it made sense to say well
+
+148
+00:05:14,400 --> 00:05:18,639
+we'll call that angle theta that's the
+
+149
+00:05:16,160 --> 00:05:19,680
+most sensible place to put it
+
+150
+00:05:18,639 --> 00:05:22,000
+that's the
+
+151
+00:05:19,680 --> 00:05:23,280
+inclination from the horizontal okay now
+
+152
+00:05:22,000 --> 00:05:25,759
+where do you think would be the most
+
+153
+00:05:23,280 --> 00:05:29,120
+sensible place to put an angle
+
+154
+00:05:25,759 --> 00:05:30,960
+on this diagram let me label some things
+
+155
+00:05:29,120 --> 00:05:31,840
+let's call this a
+
+156
+00:05:30,960 --> 00:05:32,960
+b
+
+157
+00:05:31,840 --> 00:05:35,199
+c
+
+158
+00:05:32,960 --> 00:05:37,520
+d so now we've got a coordinate system
+
+159
+00:05:35,199 --> 00:05:39,039
+which angle would you name which angle
+
+160
+00:05:37,520 --> 00:05:40,400
+do you think is the most appropriate to
+
+161
+00:05:39,039 --> 00:05:43,120
+say
+
+162
+00:05:40,400 --> 00:05:45,440
+here's an angle that represents how far
+
+163
+00:05:43,120 --> 00:05:47,360
+i'm banked how far i'm inclined what do
+
+164
+00:05:45,440 --> 00:05:48,160
+you think
+
+165
+00:05:47,360 --> 00:05:50,560
+d
+
+166
+00:05:48,160 --> 00:05:53,600
+db which
+
+167
+00:05:50,560 --> 00:05:55,840
+dba who reckons dba ybd quite a few of
+
+168
+00:05:53,600 --> 00:05:57,360
+you okay now hands down
+
+169
+00:05:55,840 --> 00:05:59,759
+obviously you can see i can define any
+
+170
+00:05:57,360 --> 00:06:00,960
+angle i like i think abd is a good
+
+171
+00:05:59,759 --> 00:06:02,560
+choice though
+
+172
+00:06:00,960 --> 00:06:04,720
+it is a good choice okay so i'm going to
+
+173
+00:06:02,560 --> 00:06:06,560
+put theta here the reason why i think
+
+174
+00:06:04,720 --> 00:06:08,800
+it's a good choice because what's the
+
+175
+00:06:06,560 --> 00:06:10,560
+normal situation the regular situation
+
+176
+00:06:08,800 --> 00:06:11,440
+you're cycling along and you are up
+
+177
+00:06:10,560 --> 00:06:13,440
+right
+
+178
+00:06:11,440 --> 00:06:15,840
+so you would say i'm at zero degrees
+
+179
+00:06:13,440 --> 00:06:17,680
+that's my normal situation just like
+
+180
+00:06:15,840 --> 00:06:19,840
+here what's the normal situation of a
+
+181
+00:06:17,680 --> 00:06:22,720
+road
+
+182
+00:06:19,840 --> 00:06:25,520
+horizontal right so here theta is how
+
+183
+00:06:22,720 --> 00:06:26,560
+much am i changing from the horizontal
+
+184
+00:06:25,520 --> 00:06:29,360
+but because we're talking about a
+
+185
+00:06:26,560 --> 00:06:31,680
+cyclist is usually vertical right the
+
+186
+00:06:29,360 --> 00:06:32,560
+change is measured from the body
+
+187
+00:06:31,680 --> 00:06:35,360
+okay
+
+188
+00:06:32,560 --> 00:06:37,440
+so far so good so let's try and resolve
+
+189
+00:06:35,360 --> 00:06:39,440
+the forces here and see what's going on
+
+190
+00:06:37,440 --> 00:06:42,560
+okay um if i've got a
+
+191
+00:06:39,440 --> 00:06:44,960
+theta over here i can join up some
+
+192
+00:06:42,560 --> 00:06:46,479
+right angle triangles here okay okay so
+
+193
+00:06:44,960 --> 00:06:50,000
+i've got right in each other here my
+
+194
+00:06:46,479 --> 00:06:51,919
+name over here and there's theta okay
+
+195
+00:06:50,000 --> 00:06:54,720
+so the two forces that i'm interested in
+
+196
+00:06:51,919 --> 00:06:57,280
+right f magnitude along that way and
+
+197
+00:06:54,720 --> 00:07:00,840
+magnitude up that way okay
+
+198
+00:06:57,280 --> 00:07:03,840
+they're related by well if you put f up
+
+199
+00:07:00,840 --> 00:07:05,199
+here okay because i've got um i've got
+
+200
+00:07:03,840 --> 00:07:07,919
+opposite sides of a rectangle here no
+
+201
+00:07:05,199 --> 00:07:11,440
+problems right in relation to theta have
+
+202
+00:07:07,919 --> 00:07:13,680
+a look at this triangle here abd
+
+203
+00:07:11,440 --> 00:07:15,199
+just put it out on its own right you've
+
+204
+00:07:13,680 --> 00:07:17,360
+got the friction force going in that
+
+205
+00:07:15,199 --> 00:07:18,800
+direction you've got your normal force
+
+206
+00:07:17,360 --> 00:07:20,400
+going in that direction and there's
+
+207
+00:07:18,800 --> 00:07:22,720
+theta so what trig ratio would you
+
+208
+00:07:20,400 --> 00:07:22,720
+choose
+
+209
+00:07:23,280 --> 00:07:27,360
+you'd choose tan wouldn't you you can
+
+210
+00:07:25,199 --> 00:07:30,639
+say tan theta
+
+211
+00:07:27,360 --> 00:07:32,880
+that's equal to f over n okay so that's
+
+212
+00:07:30,639 --> 00:07:35,280
+useful because it relates these two via
+
+213
+00:07:32,880 --> 00:07:36,639
+the angle that we've got okay
+
+214
+00:07:35,280 --> 00:07:38,240
+so now that you've done that we've got
+
+215
+00:07:36,639 --> 00:07:40,240
+the diagram we've done triggering
+
+216
+00:07:38,240 --> 00:07:44,240
+geometry that's pretty much all there is
+
+217
+00:07:40,240 --> 00:07:47,039
+to it what would be your third step
+
+218
+00:07:44,240 --> 00:07:49,680
+think back to the conical pendulum
+
+219
+00:07:47,039 --> 00:07:51,440
+we want to resolve right horizontally
+
+220
+00:07:49,680 --> 00:07:52,160
+vertically okay
+
+221
+00:07:51,440 --> 00:07:54,240
+so
+
+222
+00:07:52,160 --> 00:07:57,280
+horizontally actually vertically first
+
+223
+00:07:54,240 --> 00:07:59,440
+because vertically simpler
+
+224
+00:07:57,280 --> 00:08:01,759
+what forces are there what forces can
+
+225
+00:07:59,440 --> 00:08:01,759
+you see
+
+226
+00:08:02,080 --> 00:08:07,199
+you've just got one vertical force n
+
+227
+00:08:05,440 --> 00:08:08,319
+right and it should be well he's on a
+
+228
+00:08:07,199 --> 00:08:09,680
+flat road
+
+229
+00:08:08,319 --> 00:08:11,120
+he's we don't want him to be bumping up
+
+230
+00:08:09,680 --> 00:08:13,360
+and down or digging into the ground
+
+231
+00:08:11,120 --> 00:08:15,199
+right so you've got that force exactly
+
+232
+00:08:13,360 --> 00:08:17,039
+equal and opposite to
+
+233
+00:08:15,199 --> 00:08:20,000
+gravity right so in fact we really
+
+234
+00:08:17,039 --> 00:08:21,599
+should put that here
+
+235
+00:08:20,000 --> 00:08:22,400
+so that's what's happening vertically
+
+236
+00:08:21,599 --> 00:08:23,840
+okay
+
+237
+00:08:22,400 --> 00:08:26,919
+what about horizontally this is a little
+
+238
+00:08:23,840 --> 00:08:26,919
+more interesting
+
+239
+00:08:28,240 --> 00:08:32,639
+what's the only force that's acting
+
+240
+00:08:29,599 --> 00:08:32,639
+horizontally in this case
+
+241
+00:08:33,360 --> 00:08:36,800
+it's the centripetal force which in this
+
+242
+00:08:34,800 --> 00:08:38,080
+case is just owing to friction right
+
+243
+00:08:36,800 --> 00:08:40,159
+because it's banking over and friction
+
+244
+00:08:38,080 --> 00:08:41,519
+is going that way so the friction should
+
+245
+00:08:40,159 --> 00:08:42,240
+be equal to
+
+246
+00:08:41,519 --> 00:08:44,399
+now
+
+247
+00:08:42,240 --> 00:08:45,760
+we're talking about a cyclist right so
+
+248
+00:08:44,399 --> 00:08:47,440
+is he likely to think in terms of
+
+249
+00:08:45,760 --> 00:08:49,440
+radians per second
+
+250
+00:08:47,440 --> 00:08:52,080
+probably not right so therefore we'll go
+
+251
+00:08:49,440 --> 00:08:53,519
+with mv squared on r
+
+252
+00:08:52,080 --> 00:08:56,560
+all good
+
+253
+00:08:53,519 --> 00:08:57,760
+okay so can you see how i can put one
+
+254
+00:08:56,560 --> 00:08:58,720
+two
+
+255
+00:08:57,760 --> 00:08:59,760
+three
+
+256
+00:08:58,720 --> 00:09:01,279
+together
+
+257
+00:08:59,760 --> 00:09:05,040
+how would you do it what would be a nice
+
+258
+00:09:01,279 --> 00:09:05,040
+neat way of putting them together
+
+259
+00:09:05,920 --> 00:09:10,399
+we can do some division right what would
+
+260
+00:09:07,680 --> 00:09:10,399
+you divide by
+
+261
+00:09:11,519 --> 00:09:16,399
+i've got f over n here right i've got f
+
+262
+00:09:14,160 --> 00:09:18,000
+here and n so i'm gonna go with three on
+
+263
+00:09:16,399 --> 00:09:19,200
+two
+
+264
+00:09:18,000 --> 00:09:21,519
+i think that's the way that i would do
+
+265
+00:09:19,200 --> 00:09:24,000
+it okay because that will let me bring
+
+266
+00:09:21,519 --> 00:09:27,040
+tan into it okay so that gives me on the
+
+267
+00:09:24,000 --> 00:09:28,399
+left hand side f over m
+
+268
+00:09:27,040 --> 00:09:30,000
+what does it give you on the right hand
+
+269
+00:09:28,399 --> 00:09:31,440
+side
+
+270
+00:09:30,000 --> 00:09:33,279
+v squared
+
+271
+00:09:31,440 --> 00:09:34,560
+on rg
+
+272
+00:09:33,279 --> 00:09:37,040
+so fast for me
+
+273
+00:09:34,560 --> 00:09:40,240
+so you're getting this 10 feet up from
+
+274
+00:09:37,040 --> 00:09:40,240
+equation one right
+
+275
+00:09:40,560 --> 00:09:44,320
+now does this look familiar
+
+276
+00:09:42,320 --> 00:09:46,399
+this should look familiar this is almost
+
+277
+00:09:44,320 --> 00:09:48,160
+exactly the same as what we saw with the
+
+278
+00:09:46,399 --> 00:09:49,680
+bank track right
+
+279
+00:09:48,160 --> 00:09:52,160
+shouldn't surprise us because what the
+
+280
+00:09:49,680 --> 00:09:54,160
+cyclist is trying to do is mimic this
+
+281
+00:09:52,160 --> 00:09:57,360
+situation except he just doesn't have
+
+282
+00:09:54,160 --> 00:09:59,440
+obey he's making it in his body okay
+
+283
+00:09:57,360 --> 00:10:04,040
+so what i really want is the angle theta
+
+284
+00:09:59,440 --> 00:10:04,040
+equals so i've got tan inverse
+
+285
+00:10:04,959 --> 00:10:10,160
+they go okay so that that's how i find
+
+286
+00:10:07,760 --> 00:10:11,279
+the angle of inclination away from the
+
+287
+00:10:10,160 --> 00:10:14,000
+vertical
+
+288
+00:10:11,279 --> 00:10:15,440
+based on how fast i'm going and what's
+
+289
+00:10:14,000 --> 00:10:19,200
+the corner that i have to go around how
+
+290
+00:10:15,440 --> 00:10:19,200
+big is it or how small is it okay
