@@ -88,67 +88,67 @@ dikurangi 2,
 
 19
 00:00:56,840 --> 00:01:00,879
-oke uh aku mungkin harus mengerjakan yang lain oh ya
+oke, uh, aku mungkin harus mengerjakan yang satunya. oh ya,
 
 20
 00:00:59,039 --> 00:01:03,280
-tidak tidak apa-apa ya tidak
+tidak, tidak apa-apa... ya, tidak
 
 21
 00:01:00,879 --> 00:01:04,879
-apa-apa jadi kamu mendapatkan dua n sama dan kemudian
+apa-apa. jadi kamu dapat 2 n sama dengan... dan kemudian
 
 22
 00:01:03,280 --> 00:01:07,840
-semuanya terbalik
+semuanya kebalikannya.
 
 23
 00:01:04,879 --> 00:01:10,080
-oke kamu akan melakukannya  dapatkan um
+oke, kamu akan mendapatkan um...
 
 24
 00:01:07,840 --> 00:01:10,080
-empat
+4,
 
 25
 00:01:10,240 --> 00:01:14,080
-satu dikurangi dua nol dua g pada akar tiga
+1 dikurangi 2, 0... 2 g per akar 3
 
 26
 00:01:12,880 --> 00:01:15,680
-dikurangi empat
+dikurangi 4,
 
 27
 00:01:14,080 --> 00:01:19,200
-benar kamu tinggal mulai dari sana dan kamu
+kamu tinggal mulai dari sana dan kamu
 
 28
 00:01:15,680 --> 00:01:19,200
-memasukkan nilai berapa pun yang kamu inginkan
+masukkan nilai berapa pun yang kamu inginkan
 
 29
 00:01:19,439 --> 00:01:23,920
-untuk itu oke
+untuk itu, oke...
 
 30
 00:01:21,200 --> 00:01:26,960
-jadi ini adalah seberapa banyak kerucut itu mendorong
+jadi ini adalah seberapa banyak kerucut itu mendorong.
 
 31
 00:01:23,920 --> 00:01:30,799
-oke dan ini adalah berapa banyak di mana
+oke, dan ini adalah berapa banyak... di mana
 
 32
 00:01:26,960 --> 00:01:30,799
-ini  adalah seberapa kuat tarikan talinya
+tadi... ini adalah seberapa kuat tarikan talinya.
 
 33
 00:01:30,880 --> 00:01:34,560
-pertanyaan terakhir hampir sampai yang paling
+pertanyaan terakhir, hampir selesai... ini yang paling
 
 34
 00:01:32,159 --> 00:01:36,240
-menarik oke
+menarik... oke,
 
 35
 00:01:34,560 --> 00:01:38,079
@@ -156,31 +156,31 @@ aku ingin tahu seberapa cepat aku dapat memutar
 
 36
 00:01:36,240 --> 00:01:40,640
-benda ini sehingga benda ini akan tetap di sana
+benda ini, sehingga benda ini akan tetap di sana.
 
 37
 00:01:38,079 --> 00:01:42,799
-izinkan aku mengajukan pertanyaan ini kepada kamu
+izinkan aku menanyakan pertanyaan ini padamu:
 
 38
 00:01:40,640 --> 00:01:44,479
-pada titik
+pada titik apa...
 
 39
 00:01:42,799 --> 00:01:46,399
-seperti apa dalam semua ini  pada titik manakah
+dalam konteks ini, pada titik manakah
 
 40
 00:01:44,479 --> 00:01:49,280
-ia akan lepas landas pada
+ia akan lepas dari lintasannya? pada
 
 41
 00:01:46,399 --> 00:01:51,600
-titik manakah ia akan lepas landas Itu adalah
+titik manakah ia akan lepas? itu adalah
 
 42
 00:01:49,280 --> 00:01:53,840
-saat normal kan ketika
+saat gaya normalnya kan... ketika
 
 43
 00:01:51,600 --> 00:01:55,680
@@ -188,51 +188,51 @@ tidak lagi mengeluarkan gaya apa pun
 
 44
 00:01:53,840 --> 00:01:58,320
-seperti arus, ia berhenti menyentuh
+seperti saat ini, ia berhenti menyentuh
 
 45
 00:01:55,680 --> 00:02:01,280
-kerucut jadi oleh karena itu n harusnya nol kan
+kerucutnya kan? jadi oleh karena itu n harusnya nol. 
 
 46
 00:01:58,320 --> 00:02:02,399
-jadi jika aku ingin menyelesaikannya  n sama dengan
+jadi jika aku ingin menyelesaikannya, n sama dengan
 
 47
 00:02:01,280 --> 00:02:04,320
-nol sama dengan
+nol. 
 
 48
 00:02:02,399 --> 00:02:07,759
-nol itulah yang aku coba
+itulah yang aku coba
 
 49
 00:02:04,320 --> 00:02:11,039
-cari tepat pada titik itu berhenti oke
+cari. pada titik itu ia berhenti. oke,
 
 50
 00:02:07,759 --> 00:02:11,039
-di mana aku akan memasukkan ini ke
+di mana aku akan memasukkan ini? 
 
 51
 00:02:11,680 --> 00:02:14,319
-mungkin
+mungkin...
 
 52
 00:02:14,319 --> 00:02:17,200
-yang ini
+yang ini... yang ini...
 
 53
 00:02:15,360 --> 00:02:18,000
-karena nanti kamu akan sembuh t t
+karena nanti kamu akan mendapatkan t, t
 
 54
 00:02:18,000 --> 00:02:24,080
-dikurangi 0 sama dengan 4 v kuadrat oke  jadi sekarang
+dikurangi 0 sama dengan 4 v kuadrat. oke, jadi sekarang
 
 55
 00:02:22,400 --> 00:02:27,040
-aku akan menyelesaikan v
+aku akan menyelesaikan v.
 
 56
 00:02:24,080 --> 00:02:28,879
@@ -240,11 +240,11 @@ berapa tegangan t pada 4 sama dengan v
 
 57
 00:02:27,040 --> 00:02:30,720
-kuadrat
+kuadrat?
 
 58
 00:02:28,879 --> 00:02:32,560
-sekarang jangan bingung jangan bingung
+jangan bingung, jangan tertukar
 
 59
 00:02:30,720 --> 00:02:34,640
@@ -252,7 +252,7 @@ dengan
 
 60
 00:02:32,560 --> 00:02:37,200
-bagian ini di sini karena ini adalah
+bagian ini di sini, karena ini adalah
 
 61
 00:02:34,640 --> 00:02:41,599
@@ -260,60 +260,60 @@ tegangan tertentu untuk
 
 62
 00:02:37,200 --> 00:02:43,200
-kecepatan tertentu berapa tegangan di sini
+kecepatan tertentu. berapa tegangannya di sini?
 
 63
 00:02:41,599 --> 00:02:45,599
-dimana  aku mendapatkan ini dari persamaan
+aku mendapatkan ini dari persamaan
 
 64
 00:02:43,200 --> 00:02:45,599
-dua kan
+kedua.
 
 65
 00:02:45,920 --> 00:02:51,440
-jika kamu pergi ke persamaan satu
+jika kamu lihat persamaan satu,
 
 66
 00:02:48,959 --> 00:02:54,879
-ketika gaya normalnya nol maka
+ketika gaya normalnya nol, maka
 
 67
 00:02:51,440 --> 00:02:57,280
-tegangan kamu hanya dua g di akar tiga
+tegangannya adalah 2 g per akar 3.
 
 68
 00:02:54,879 --> 00:03:00,000
-dua g di akar tiga
+2 g per akar 3
 
 69
 00:02:57,280 --> 00:03:01,200
-dibagi empat
+dibagi 4.
 
 70
 00:03:00,000 --> 00:03:02,840
-oke
+oke,
 
 71
 00:03:01,200 --> 00:03:08,879
-jadi
+jadi,
 
 72
 00:03:02,840 --> 00:03:13,360
-batalkan v kuadrat sama dengan g di 2 akar 3  ..
+habis dibagi... v kuadrat sama dengan g per 2 akar 3.
 
 73
 00:03:08,879 --> 00:03:15,440
-jadi inilah kecepatan yang bisa aku tempuh
+jadi inilah kecepatan yang bisa aku tempuh,
 
 74
 00:03:13,360 --> 00:03:17,599
-dan pada saat ini aku akan lepas
+dan pada saat ini aku akan keluar
 
 75
 00:03:15,440 --> 00:03:21,840
-landas dari kerucut oke aku tidak bisa melaju
+lintasan dari kerucutnya. oke, aku tidak bisa melaju
 
 76
 00:03:17,599 --> 00:03:21,840
-lebih cepat dari itu, itulah batas atasmu
+lebih cepat dari itu, itulah batas atasmu (Alih bahasa oleh Karel Bondan)
