@@ -1,0 +1,699 @@
+1
+00:00:00,399 --> 00:00:02,879
+kita akan mendapatkan beberapa angka untuk ini
+
+2
+00:00:01,839 --> 00:00:04,240
+oke
+
+3
+00:00:02,879 --> 00:00:07,200
+ketika Anda melingkari bola setiap empat
+
+4
+00:00:04,240 --> 00:00:07,200
+detik kita akan mendapatkan angka
+
+5
+00:00:07,600 --> 00:00:11,120
+dan kemudian ketika kita meningkatkan
+
+6
+00:00:09,360 --> 00:00:11,920
+sudut dan kecepatan linier
+
+7
+00:00:11,120 --> 00:00:14,320
+ke kanan sebagian
+
+8
+00:00:11,920 --> 00:00:16,640
+besar dari Anda sebagian besar dari Anda tidak
+
+9
+00:00:14,320 --> 00:00:18,640
+semua orang kecuali untuk ini  sebagian besar
+
+10
+00:00:16,640 --> 00:00:20,080
+termasuk saya ketika saya pertama kali memikirkan
+
+11
+00:00:18,640 --> 00:00:22,880
+pertanyaan ini yang buruk karena saya
+
+12
+00:00:20,080 --> 00:00:25,039
+merancang pertanyaannya um adalah saya pikir
+
+13
+00:00:22,880 --> 00:00:26,560
+saya pikir ketegangan akan meningkat saat
+
+14
+00:00:25,039 --> 00:00:28,000
+ini ada intuisi untuk itu kan
+
+15
+00:00:26,560 --> 00:00:30,000
+karena kita telah melihat situasi seperti ini
+
+16
+00:00:28,000 --> 00:00:31,920
+sebelumnya benar itu terjadi  pada
+
+17
+00:00:30,000 --> 00:00:33,840
+kecepatan lembut yang bagus ini dan saya tahu Anda
+
+18
+00:00:31,920 --> 00:00:36,800
+tidak melakukannya dengan saya tetapi Anda dapat membayangkan
+
+19
+00:00:33,840 --> 00:00:39,040
+tangan saya tidak menarik, ketegangan
+
+20
+00:00:36,800 --> 00:00:41,200
+pada tali tidak terlalu tinggi sekarang ketika saya
+
+21
+00:00:39,040 --> 00:00:42,640
+meningkatkan kecepatan, tali itu mulai menarik
+
+22
+00:00:41,200 --> 00:00:45,120
+lebih banyak dan saya harus melakukannya  tunggu berapa
+
+23
+00:00:42,640 --> 00:00:47,120
+banyak yang akan terbang begitu saja, jadi
+
+24
+00:00:45,120 --> 00:00:48,239
+ketegangan pada talinya saat aku meningkatkan kecepatannya,
+
+25
+00:00:48,239 --> 00:00:52,000
+itu juga meningkat oke
+
+26
+00:00:50,800 --> 00:00:54,719
+jadi mari kita lihat dan lihat apa yang
+
+27
+00:00:52,000 --> 00:00:56,160
+terjadi pada matematika, kan,
+
+28
+00:00:54,719 --> 00:00:57,840
+hal pertama yang paling sering aku lakukan
+
+29
+00:00:56,160 --> 00:00:59,680
+dari kalian yang mengeksekusi ini baik-baik saja adalah
+
+30
+00:00:57,840 --> 00:01:01,760
+saya akan mengambil semua konstanta saya
+
+31
+00:00:59,680 --> 00:01:05,439
+dan saya akan melemparkannya ke sini
+
+32
+00:01:01,760 --> 00:01:06,720
+oke jadi kita akan melakukannya secara vertikal dulu
+
+33
+00:01:05,439 --> 00:01:08,880
+oke
+
+34
+00:01:06,720 --> 00:01:09,600
+jadi apa yang kita dapatkan di sini
+
+35
+00:01:08,880 --> 00:01:12,320
+t
+
+36
+00:01:09,600 --> 00:01:14,720
+cos pi pada 6 yang
+
+37
+00:01:12,320 --> 00:01:15,759
+bulat  dua
+
+38
+00:01:14,720 --> 00:01:18,400
+benar
+
+39
+00:01:15,759 --> 00:01:22,200
+um plus n
+
+40
+00:01:18,400 --> 00:01:22,200
+karena pon empat
+
+41
+00:01:29,040 --> 00:01:31,920
+kamu cukup tahu tentang aku untuk tahu aku
+
+42
+00:01:30,240 --> 00:01:33,280
+sangat suka percakapan yang kamu
+
+43
+00:01:31,920 --> 00:01:34,880
+lakukan,
+
+44
+00:01:33,280 --> 00:01:36,240
+maksudku tidak semua orang punya
+
+45
+00:01:34,880 --> 00:01:40,400
+pendapat yang sama di mana kamu berada
+
+46
+00:01:36,240 --> 00:01:42,640
+adalah oke ya bagus tidak apa-apa
+
+47
+00:01:40,400 --> 00:01:44,880
+di mana kita
+
+48
+00:01:42,640 --> 00:01:46,479
+cos alpha apa yang  disebut alpha
+
+49
+00:01:44,880 --> 00:01:48,880
+cos pi dan empat itu
+
+50
+00:01:46,479 --> 00:01:49,680
+satu per dua oke
+
+51
+00:01:49,680 --> 00:01:55,600
+sama dengan sekarang kita tahu apa itu massa dan
+
+52
+00:01:51,840 --> 00:01:57,520
+gravitasi itu aku harus bilang dikalikan 9,8
+
+53
+00:01:55,600 --> 00:01:59,119
+oke sejauh ini bagus mari
+
+54
+00:01:57,520 --> 00:02:02,240
+kita bereskan ini sedikit oke
+
+55
+00:01:59,119 --> 00:02:05,439
+ini akan jadi apa itu 19,6
+
+56
+00:02:02,240 --> 00:02:07,119
+19,6  tapi aku ingin membereskannya
+
+57
+00:02:05,439 --> 00:02:10,560
+sedikit jadi aku akan
+
+58
+00:02:07,119 --> 00:02:12,480
+mengalikannya dengan dua juga oke jadi
+
+59
+00:02:10,560 --> 00:02:14,959
+apa yang akan aku dapatkan di sini adalah itu akan menjadi
+
+60
+00:02:12,480 --> 00:02:16,800
+akar tiga, kalikan ini dengan dua, kamu
+
+61
+00:02:14,959 --> 00:02:19,360
+mendapatkan
+
+62
+00:02:16,800 --> 00:02:19,360
+akar  dua
+
+63
+00:02:20,000 --> 00:02:24,000
+oke jadi ini akan menjadi empat kali lipat
+
+64
+00:02:21,680 --> 00:02:27,120
+dari yang oh saya tidak tahu
+
+65
+00:02:24,000 --> 00:02:28,400
+19,6 ditambah 19,6 yaitu 30
+
+66
+00:02:27,120 --> 00:02:30,560
+uh
+
+67
+00:02:28,400 --> 00:02:32,319
+8,2 no 9,2
+
+68
+00:02:30,560 --> 00:02:33,280
+9,2 tentu saja tidak ada hasil kali oke begitulah
+
+69
+00:02:33,280 --> 00:02:38,720
+persamaan yang saya dapatkan dari
+
+70
+00:02:34,640 --> 00:02:40,560
+gaya vertikal oke secara horizontal
+
+71
+00:02:38,720 --> 00:02:42,319
+oke aku akan pergi ke sini dan aku akan
+
+72
+00:02:40,560 --> 00:02:44,640
+melakukan hal yang persis sama aku hanya akan
+
+73
+00:02:42,319 --> 00:02:46,720
+menghemat sedikit waktu ketika kamu
+
+74
+00:02:44,640 --> 00:02:50,640
+mengalikannya kamu harus mendapatkan
+
+75
+00:02:46,720 --> 00:02:52,720
+t ditambah faktor yang sama karena itu
+
+76
+00:02:50,640 --> 00:02:55,920
+bertanda alpha masih satu di root  dua dan
+
+77
+00:02:52,720 --> 00:02:58,800
+kamu akan mendapatkan saya pikir empat
+
+78
+00:02:55,920 --> 00:03:01,760
+niggas kuadrat ya apakah itu baik-baik saja
+
+79
+00:02:58,800 --> 00:03:04,560
+sekarang dalam kasus khusus ini kan saya perlu
+
+80
+00:03:01,760 --> 00:03:08,400
+mencari tahu berapa meter yang benar
+
+81
+00:03:04,560 --> 00:03:10,080
+um empat detik itu berapa lama
+
+82
+00:03:08,400 --> 00:03:11,200
+berapa lama waktu yang dibutuhkan untuk pergi seberapa jauh
+
+83
+00:03:10,080 --> 00:03:14,000
+ya
+
+84
+00:03:11,200 --> 00:03:15,120
+satu putaran yang merupakan dua pi
+
+85
+00:03:14,000 --> 00:03:15,920
+radian
+
+86
+00:03:15,120 --> 00:03:17,680
+benar
+
+87
+00:03:15,920 --> 00:03:21,680
+dan saya menaruhnya dalam urutan ini karena omega
+
+88
+00:03:17,680 --> 00:03:25,440
+adalah radian per detik oke jadi sebagian
+
+89
+00:03:21,680 --> 00:03:27,760
+omega akan menjadi pi pada dua radian
+
+90
+00:03:25,440 --> 00:03:30,560
+per detik semuanya baik-
+
+91
+00:03:27,760 --> 00:03:32,640
+baik saja jadi ketika Anda melemparkannya ke dalam uh Anda
+
+92
+00:03:30,560 --> 00:03:35,440
+mengkuadratkannya'  akan memberimu pi
+
+93
+00:03:32,640 --> 00:03:36,720
+kuadrat pada empat empat kali pi kuadrat pada
+
+94
+00:03:35,440 --> 00:03:40,000
+empat
+
+95
+00:03:36,720 --> 00:03:40,000
+pi kuadrat ya
+
+96
+00:03:41,120 --> 00:03:44,720
+oke lihat
+
+97
+00:03:42,959 --> 00:03:48,319
+oke jadi lalu apa yang kita lakukan pada
+
+98
+00:03:44,720 --> 00:03:48,319
+titik ini apa yang kita coba lakukan
+
+99
+00:03:49,599 --> 00:03:54,159
+kita mencoba menyelesaikan ketegangan dengan benar
+
+100
+00:03:51,840 --> 00:03:56,400
+sehingga Anda melihat dua persamaan ini  benar,
+
+101
+00:03:54,159 --> 00:03:58,319
+kamu lihat, angka ini lebih besar
+
+102
+00:03:56,400 --> 00:04:00,400
+dari ini jadi menurutku kamu akan melakukan satu
+
+103
+00:03:58,319 --> 00:04:02,159
+dikurangi dua ya,
+
+104
+00:04:00,400 --> 00:04:03,680
+menghemat sedikit waktu, pada akhirnya kamu
+
+105
+00:04:02,159 --> 00:04:07,360
+menyelesaikan t dan menurutku satu desimal
+
+106
+00:04:03,680 --> 00:04:10,319
+kamu mendapatkan 40,1 newton sejauh ini
+
+107
+00:04:07,360 --> 00:04:12,239
+bagus oke sekarang kapan  kamu ke bagian b
+
+108
+00:04:10,319 --> 00:04:15,120
+banyak yang sama tapi apa perubahannya
+
+109
+00:04:12,239 --> 00:04:20,400
+di baris mana aku harus menyesuaikannya
+
+110
+00:04:15,120 --> 00:04:22,160
+baris satu baris dua baris tiga baris empat
+
+111
+00:04:20,400 --> 00:04:24,000
+baris ini tidak berfungsi lagi
+
+112
+00:04:22,160 --> 00:04:26,800
+karena sejalan dengan ini yang sejalan
+
+113
+00:04:24,000 --> 00:04:29,520
+dengan ini kan  tapi itu berubah oke
+
+114
+00:04:26,800 --> 00:04:31,120
+jadi alih-alih omega menjadi pi dua saat
+
+115
+00:04:29,520 --> 00:04:34,400
+Anda mengunyah ini, saya pikir Anda mendapat dua
+
+116
+00:04:31,120 --> 00:04:35,280
+pi pada tiga radian per detik
+
+117
+00:04:34,400 --> 00:04:36,240
+oke
+
+118
+00:04:35,280 --> 00:04:39,120
+jadi Anda akan mendapatkan sesuatu
+
+119
+00:04:36,240 --> 00:04:41,040
+yang berbeda di sisi kanan ini
+
+120
+00:04:39,120 --> 00:04:43,520
+ketika Anda melakukan hal yang sama dan  kamu
+
+121
+00:04:41,040 --> 00:04:44,720
+lanjutkan dan selesaikan dengan benar tegangan
+
+122
+00:04:43,520 --> 00:04:46,199
+talinya seperti apa 20
+
+123
+00:04:44,720 --> 00:04:47,840
+sesuatu
+
+124
+00:04:46,199 --> 00:04:50,479
+29.6
+
+125
+00:04:47,840 --> 00:04:52,160
+29.6
+
+126
+00:04:52,160 --> 00:04:56,080
+tegangan talinya
+
+127
+00:04:53,919 --> 00:04:57,360
+berkurang bagaimana tegangan talinya bisa
+
+128
+00:04:57,360 --> 00:05:04,880
+kurang pas sepertinya semakin menarik
+
+129
+00:05:01,039 --> 00:05:06,400
+saya semakin cepat  aku membuatnya berputar
+
+130
+00:05:04,880 --> 00:05:08,400
+tapi tentu saja
+
+131
+00:05:06,400 --> 00:05:10,320
+di gambar ini ada yang
+
+132
+00:05:08,400 --> 00:05:11,919
+hilang kan yang hilang dari
+
+133
+00:05:10,320 --> 00:05:13,680
+gambar ini
+
+134
+00:05:11,919 --> 00:05:15,280
+yang hilang adalah tidak ada bola
+
+135
+00:05:13,680 --> 00:05:17,600
+karena terus terang aku tidak punya mangkuk
+
+136
+00:05:15,280 --> 00:05:18,400
+itu lho, hanya sebesar ini oke
+
+137
+00:05:18,400 --> 00:05:21,840
+tapi apa bedanya  bola bergerak
+
+138
+00:05:20,479 --> 00:05:25,280
+ke kanan
+
+139
+00:05:21,840 --> 00:05:27,360
+bola mendorong gaya reaksinya
+
+140
+00:05:25,280 --> 00:05:30,320
+mendorong ke arah ini oke
+
+141
+00:05:27,360 --> 00:05:32,880
+sekarang karena benda ini menjadi lebih cepat kan kamu
+
+142
+00:05:30,320 --> 00:05:35,199
+bisa sekarang kamu dapat menganggap ini
+
+143
+00:05:32,880 --> 00:05:37,039
+seperti memikirkan bagaimana aku bilang oh oke kamu
+
+144
+00:05:35,199 --> 00:05:38,960
+tahu jadi itu menarik tanganku lebih ke
+
+145
+00:05:37,039 --> 00:05:40,960
+kanan  itu menarik lebih
+
+146
+00:05:38,960 --> 00:05:43,280
+jauh jika saya melepaskannya itu akan benar-benar terbang ke kanan
+
+147
+00:05:40,960 --> 00:05:46,000
+tetapi jika ada bola di sana
+
+148
+00:05:43,280 --> 00:05:47,600
+bola itu mendorong kembali ke kanan dan
+
+149
+00:05:46,000 --> 00:05:49,919
+karena itu mendorong lebih banyak ke
+
+150
+00:05:47,600 --> 00:05:53,039
+arah itu karena lebih cepat
+
+151
+00:05:49,919 --> 00:05:55,840
+bola juga mendorong kembali lebih ke kanan jadi oleh
+
+152
+00:05:53,039 --> 00:05:57,440
+karena itu  ketegangan pada tali
+
+153
+00:05:55,840 --> 00:06:00,880
+turun
+
+154
+00:05:57,440 --> 00:06:02,479
+karena gaya reaksi bertambah, itu
+
+155
+00:06:00,880 --> 00:06:04,720
+masuk akal.
+
+156
+00:06:02,479 --> 00:06:06,800
+Ini agak berlawanan dengan intuisi kan, tetapi
+
+157
+00:06:04,720 --> 00:06:09,120
+kebanyakan dari kita mengantisipasi bahwa gaya reaksi
+
+158
+00:06:06,800 --> 00:06:11,360
+akan bertambah bukan berkurang karena
+
+159
+00:06:09,120 --> 00:06:13,600
+kita lupa bahwa ada bola di sana dan bola
+
+160
+00:06:11,360 --> 00:06:16,720
+itu menyumbangkan gayanya sendiri dan
+
+161
+00:06:13,600 --> 00:06:18,479
+gaya itu berubah berdasarkan kamu tahu kamu
+
+162
+00:06:16,720 --> 00:06:20,240
+mendorong meja, semakin keras kamu mendorongnya, semakin
+
+163
+00:06:18,479 --> 00:06:21,440
+keras pula meja itu mendorongnya ke belakang kecuali tentu saja
+
+164
+00:06:20,240 --> 00:06:24,400
+kamu tahu kamu benar-benar kuat ketika meja itu
+
+165
+00:06:21,440 --> 00:06:26,240
+hancur tapi aku tidak sekuat itu oke
+
+166
+00:06:24,400 --> 00:06:28,080
+jadi aku pilih contoh ini  karena dua
+
+167
+00:06:26,240 --> 00:06:30,240
+alasan karena belahan bumi itu rumit
+
+168
+00:06:28,080 --> 00:06:32,000
+karena sudut normal berubah
+
+169
+00:06:30,240 --> 00:06:34,000
+berlawanan dengan kerucut selalu
+
+170
+00:06:32,000 --> 00:06:35,600
+sama selalu sama oke jadi Anda
+
+171
+00:06:34,000 --> 00:06:37,600
+memerlukan lebih banyak informasi untuk menyelesaikannya tetapi
+
+172
+00:06:35,600 --> 00:06:40,240
+kedua ini memberi Anda
+
+173
+00:06:37,600 --> 00:06:41,919
+hasil kontra-intuitif yang sangat keren jadi  Saya harap Anda
+
+174
+00:06:40,240 --> 00:06:47,039
+mempelajari sesuatu saat Anda mencapai
+
+175
+00:06:41,919 --> 00:06:47,039
+nomor ini dan otak meledak oke

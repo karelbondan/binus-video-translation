@@ -1,0 +1,723 @@
+1
+00:00:00,399 --> 00:00:02,879
+we're going to get some numbers for this
+
+2
+00:00:01,839 --> 00:00:04,240
+okay
+
+3
+00:00:02,879 --> 00:00:07,200
+when you circle the ball every four
+
+4
+00:00:04,240 --> 00:00:07,200
+seconds we'll get a number
+
+5
+00:00:07,600 --> 00:00:11,120
+and then when we increase
+
+6
+00:00:09,360 --> 00:00:11,920
+the angular and the linear velocity
+
+7
+00:00:11,120 --> 00:00:14,320
+right
+
+8
+00:00:11,920 --> 00:00:16,640
+most of you the vast majority of you not
+
+9
+00:00:14,320 --> 00:00:18,640
+everyone but for this vast majority
+
+10
+00:00:16,640 --> 00:00:20,080
+including me when i first thought about
+
+11
+00:00:18,640 --> 00:00:22,880
+this question which is bad because i
+
+12
+00:00:20,080 --> 00:00:25,039
+designed the question um is i thought
+
+13
+00:00:22,880 --> 00:00:26,560
+i thought tension would increase right
+
+14
+00:00:25,039 --> 00:00:28,000
+now there's some intuition to that right
+
+15
+00:00:26,560 --> 00:00:30,000
+because we've looked at these kinds of
+
+16
+00:00:28,000 --> 00:00:31,920
+situations before right it's going at
+
+17
+00:00:30,000 --> 00:00:33,840
+this nice gentle speed and i know you're
+
+18
+00:00:31,920 --> 00:00:36,800
+not doing it with me but you can imagine
+
+19
+00:00:33,840 --> 00:00:39,040
+it's not tugging on my hand the tension
+
+20
+00:00:36,800 --> 00:00:41,200
+in the string is not very high now as i
+
+21
+00:00:39,040 --> 00:00:42,640
+increase the speed it starts to pull
+
+22
+00:00:41,200 --> 00:00:45,120
+more and i have to hold on to it how
+
+23
+00:00:42,640 --> 00:00:47,120
+much just going to fly off right so
+
+24
+00:00:45,120 --> 00:00:48,239
+tension in the string as i increase the
+
+25
+00:00:47,120 --> 00:00:50,800
+speed
+
+26
+00:00:48,239 --> 00:00:52,000
+it's also increasing okay
+
+27
+00:00:50,800 --> 00:00:54,719
+so let's have a look and see what
+
+28
+00:00:52,000 --> 00:00:56,160
+happens to the maths right
+
+29
+00:00:54,719 --> 00:00:57,840
+the very first thing i'm going to do
+
+30
+00:00:56,160 --> 00:00:59,680
+most of you executed this just fine is
+
+31
+00:00:57,840 --> 00:01:01,760
+i'm going to take all of my constants
+
+32
+00:00:59,680 --> 00:01:05,439
+and i'm going to throw them into here
+
+33
+00:01:01,760 --> 00:01:06,720
+okay so we'll do vertically first
+
+34
+00:01:05,439 --> 00:01:08,880
+okay
+
+35
+00:01:06,720 --> 00:01:09,600
+so what do we got here
+
+36
+00:01:08,880 --> 00:01:12,320
+t
+
+37
+00:01:09,600 --> 00:01:14,720
+cos pi on 6 which is
+
+38
+00:01:12,320 --> 00:01:15,759
+round two
+
+39
+00:01:14,720 --> 00:01:18,400
+right
+
+40
+00:01:15,759 --> 00:01:22,200
+um plus n
+
+41
+00:01:18,400 --> 00:01:22,200
+cause pound four
+
+42
+00:01:29,040 --> 00:01:31,920
+you know enough about me to know i
+
+43
+00:01:30,240 --> 00:01:33,280
+really like the conversation you're
+
+44
+00:01:31,920 --> 00:01:34,880
+having
+
+45
+00:01:33,280 --> 00:01:36,240
+just i mean not everyone got to the same
+
+46
+00:01:34,880 --> 00:01:40,400
+point where you were
+
+47
+00:01:36,240 --> 00:01:42,640
+is that okay yeah great it's okay
+
+48
+00:01:40,400 --> 00:01:44,880
+where are we
+
+49
+00:01:42,640 --> 00:01:46,479
+cos alpha what's called alpha
+
+50
+00:01:44,880 --> 00:01:48,880
+cos pi and four it's
+
+51
+00:01:46,479 --> 00:01:49,680
+one over two right
+
+52
+00:01:48,880 --> 00:01:51,840
+okay
+
+53
+00:01:49,680 --> 00:01:55,600
+equals now we know what the mass is and
+
+54
+00:01:51,840 --> 00:01:57,520
+gravity that's i should say times 9.8
+
+55
+00:01:55,600 --> 00:01:59,119
+okay so far so good
+
+56
+00:01:57,520 --> 00:02:02,240
+let's tidy this up a little bit okay
+
+57
+00:01:59,119 --> 00:02:05,439
+this is going to be what's that 19.6
+
+58
+00:02:02,240 --> 00:02:07,119
+19.6 but i sort of want to clean this up
+
+59
+00:02:05,439 --> 00:02:10,560
+a little bit right so i'm going to
+
+60
+00:02:07,119 --> 00:02:12,480
+multiply through by two as well okay so
+
+61
+00:02:10,560 --> 00:02:14,959
+what i'm going to get here is that'll be
+
+62
+00:02:12,480 --> 00:02:16,800
+root three t multiply this by two you
+
+63
+00:02:14,959 --> 00:02:19,360
+get
+
+64
+00:02:16,800 --> 00:02:19,360
+root two
+
+65
+00:02:20,000 --> 00:02:24,000
+okay so this is going to be four times
+
+66
+00:02:21,680 --> 00:02:27,120
+that which is oh i don't know
+
+67
+00:02:24,000 --> 00:02:28,400
+19.6 plus 19.6 which is 30
+
+68
+00:02:27,120 --> 00:02:30,560
+uh
+
+69
+00:02:28,400 --> 00:02:32,319
+8.2 no 9.2
+
+70
+00:02:30,560 --> 00:02:33,280
+9.2 of course there's no product okay
+
+71
+00:02:32,319 --> 00:02:34,640
+there you go
+
+72
+00:02:33,280 --> 00:02:38,720
+there's equation one which i get from
+
+73
+00:02:34,640 --> 00:02:40,560
+vertical forces okay horizontally
+
+74
+00:02:38,720 --> 00:02:42,319
+okay i'm going to go here and i'm going
+
+75
+00:02:40,560 --> 00:02:44,640
+to do exactly the same thing i'll just
+
+76
+00:02:42,319 --> 00:02:46,720
+save us a bit of time when you multiply
+
+77
+00:02:44,640 --> 00:02:50,640
+it out you should get
+
+78
+00:02:46,720 --> 00:02:52,720
+t plus this same factor because it's
+
+79
+00:02:50,640 --> 00:02:55,920
+signed alpha still one on root two and
+
+80
+00:02:52,720 --> 00:02:58,800
+you're going to get i think four
+
+81
+00:02:55,920 --> 00:03:01,760
+squared yeah is that right okay
+
+82
+00:02:58,800 --> 00:03:04,560
+now in this particular case right i need
+
+83
+00:03:01,760 --> 00:03:08,400
+to work out what a meter is right
+
+84
+00:03:04,560 --> 00:03:10,080
+um four seconds that's how long
+
+85
+00:03:08,400 --> 00:03:11,200
+that's how long it takes to go how far
+
+86
+00:03:10,080 --> 00:03:14,000
+yeah
+
+87
+00:03:11,200 --> 00:03:15,120
+one revolution which is two pi
+
+88
+00:03:14,000 --> 00:03:15,920
+radians
+
+89
+00:03:15,120 --> 00:03:17,680
+right
+
+90
+00:03:15,920 --> 00:03:21,680
+and i put it in this order because omega
+
+91
+00:03:17,680 --> 00:03:25,440
+is radians per second okay so in part a
+
+92
+00:03:21,680 --> 00:03:27,760
+omega will be pi on two radians
+
+93
+00:03:25,440 --> 00:03:30,560
+per second all good
+
+94
+00:03:27,760 --> 00:03:32,640
+okay so when you throw that in uh you
+
+95
+00:03:30,560 --> 00:03:35,440
+square it it'll get you pi
+
+96
+00:03:32,640 --> 00:03:36,720
+squared on four four times pi squared on
+
+97
+00:03:35,440 --> 00:03:40,000
+four
+
+98
+00:03:36,720 --> 00:03:40,000
+pi squared yep
+
+99
+00:03:41,120 --> 00:03:44,720
+okay see
+
+100
+00:03:42,959 --> 00:03:48,319
+okay so then what did we do at this
+
+101
+00:03:44,720 --> 00:03:48,319
+point what are we trying to do
+
+102
+00:03:49,599 --> 00:03:54,159
+we're trying to solve for tension right
+
+103
+00:03:51,840 --> 00:03:56,400
+so you look at these two equations right
+
+104
+00:03:54,159 --> 00:03:58,319
+you see that well this number is bigger
+
+105
+00:03:56,400 --> 00:04:00,400
+than this so i think you would do one
+
+106
+00:03:58,319 --> 00:04:02,159
+minus two yes
+
+107
+00:04:00,400 --> 00:04:03,680
+save you a bit of time eventually you
+
+108
+00:04:02,159 --> 00:04:07,360
+solve for t and i think to one decimal
+
+109
+00:04:03,680 --> 00:04:10,319
+place you get 40.1 newtons so far so
+
+110
+00:04:07,360 --> 00:04:12,239
+good okay now when you go to part b a
+
+111
+00:04:10,319 --> 00:04:15,120
+lot of this is the same but what changes
+
+112
+00:04:12,239 --> 00:04:20,400
+at what line do i have to adjust things
+
+113
+00:04:15,120 --> 00:04:22,160
+line one line two line three line four
+
+114
+00:04:20,400 --> 00:04:24,000
+this line doesn't work anymore does it
+
+115
+00:04:22,160 --> 00:04:26,800
+because it goes with this which goes
+
+116
+00:04:24,000 --> 00:04:29,520
+with this right but that's changed okay
+
+117
+00:04:26,800 --> 00:04:31,120
+so instead of omega being pi on two when
+
+118
+00:04:29,520 --> 00:04:34,400
+you crunch this in i think you get two
+
+119
+00:04:31,120 --> 00:04:35,280
+pi on three radians per second
+
+120
+00:04:34,400 --> 00:04:36,240
+okay
+
+121
+00:04:35,280 --> 00:04:39,120
+so you're going to get something
+
+122
+00:04:36,240 --> 00:04:41,040
+different on this right hand side
+
+123
+00:04:39,120 --> 00:04:43,520
+when you do the same thing and you go
+
+124
+00:04:41,040 --> 00:04:44,720
+ahead and solve right the tension in the
+
+125
+00:04:43,520 --> 00:04:46,199
+string is what is it it's like 20
+
+126
+00:04:44,720 --> 00:04:47,840
+something
+
+127
+00:04:46,199 --> 00:04:50,479
+29.6
+
+128
+00:04:47,840 --> 00:04:52,160
+29.6
+
+129
+00:04:50,479 --> 00:04:53,919
+it's less
+
+130
+00:04:52,160 --> 00:04:56,080
+the tension in the string
+
+131
+00:04:53,919 --> 00:04:57,360
+is less how can the tension in the
+
+132
+00:04:56,080 --> 00:05:01,039
+stream
+
+133
+00:04:57,360 --> 00:05:04,880
+be less right it seems to be pulling on
+
+134
+00:05:01,039 --> 00:05:06,400
+me more the faster i make it spin
+
+135
+00:05:04,880 --> 00:05:08,400
+but of course
+
+136
+00:05:06,400 --> 00:05:10,320
+in this picture there's something
+
+137
+00:05:08,400 --> 00:05:11,919
+missing isn't there what's missing from
+
+138
+00:05:10,320 --> 00:05:13,680
+this picture
+
+139
+00:05:11,919 --> 00:05:15,280
+what's missing is there's no ball
+
+140
+00:05:13,680 --> 00:05:17,600
+because well frankly i don't have a bowl
+
+141
+00:05:15,280 --> 00:05:18,400
+that's you know that's just this big
+
+142
+00:05:17,600 --> 00:05:20,479
+okay
+
+143
+00:05:18,400 --> 00:05:21,840
+but what difference does the ball make
+
+144
+00:05:20,479 --> 00:05:25,280
+right
+
+145
+00:05:21,840 --> 00:05:27,360
+the ball is pushing its reaction force
+
+146
+00:05:25,280 --> 00:05:30,320
+is pushing in this direction okay
+
+147
+00:05:27,360 --> 00:05:32,880
+now as this thing gets faster right you
+
+148
+00:05:30,320 --> 00:05:35,199
+can you can now think of this
+
+149
+00:05:32,880 --> 00:05:37,039
+as think about how i said oh okay you
+
+150
+00:05:35,199 --> 00:05:38,960
+know so it's pulling on my hand more
+
+151
+00:05:37,039 --> 00:05:40,960
+right it's pulling further away further
+
+152
+00:05:38,960 --> 00:05:43,280
+away if i let go it'll really fly right
+
+153
+00:05:40,960 --> 00:05:46,000
+but if there's a ball there
+
+154
+00:05:43,280 --> 00:05:47,600
+the ball's pushing back right and
+
+155
+00:05:46,000 --> 00:05:49,919
+because it's pushing more in that
+
+156
+00:05:47,600 --> 00:05:53,039
+direction because it's going faster
+
+157
+00:05:49,919 --> 00:05:55,840
+the ball is also pushing back more right
+
+158
+00:05:53,039 --> 00:05:57,440
+so therefore the tension in the string
+
+159
+00:05:55,840 --> 00:06:00,880
+drops
+
+160
+00:05:57,440 --> 00:06:02,479
+because the reaction force increases
+
+161
+00:06:00,880 --> 00:06:04,720
+does that make sense
+
+162
+00:06:02,479 --> 00:06:06,800
+it's a bit counter-intuitive right but
+
+163
+00:06:04,720 --> 00:06:09,120
+most of us when we anticipated that it
+
+164
+00:06:06,800 --> 00:06:11,360
+would increase not decrease is because
+
+165
+00:06:09,120 --> 00:06:13,600
+we forgot that there's a ball there and
+
+166
+00:06:11,360 --> 00:06:16,720
+it contributes its own force and that
+
+167
+00:06:13,600 --> 00:06:18,479
+force changes based on you know you push
+
+168
+00:06:16,720 --> 00:06:20,240
+on a table the harder you push on it the
+
+169
+00:06:18,479 --> 00:06:21,440
+harder it pushes back unless of course
+
+170
+00:06:20,240 --> 00:06:24,400
+you know you're really strong when it
+
+171
+00:06:21,440 --> 00:06:26,240
+crumbles but i'm not that strong okay
+
+172
+00:06:24,400 --> 00:06:28,080
+so i picked out this example for two
+
+173
+00:06:26,240 --> 00:06:30,240
+reasons because the hemisphere is tricky
+
+174
+00:06:28,080 --> 00:06:32,000
+because the angle of the normal changes
+
+175
+00:06:30,240 --> 00:06:34,000
+as opposed to the cone it's always the
+
+176
+00:06:32,000 --> 00:06:35,600
+same it's always the same okay so you
+
+177
+00:06:34,000 --> 00:06:37,600
+need more information to solve it but
+
+178
+00:06:35,600 --> 00:06:40,240
+secondly it gives you this really cool
+
+179
+00:06:37,600 --> 00:06:41,919
+counter-intuitive result so i hope you
+
+180
+00:06:40,240 --> 00:06:47,039
+learned something as you got to this
+
+181
+00:06:41,919 --> 00:06:47,039
+number and brain exploded okay
