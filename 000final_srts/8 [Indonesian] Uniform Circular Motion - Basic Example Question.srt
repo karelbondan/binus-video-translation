@@ -1,0 +1,591 @@
+1
+00:00:00,480 --> 00:00:04,240
+Sekarang apa yang ingin aku selesaikan adalah
+
+2
+00:00:02,800 --> 00:00:06,480
+empat hal ini... mari kita
+
+3
+00:00:04,240 --> 00:00:08,000
+dapatkan semua informasinya, lalu mari kita kerjakan
+
+4
+00:00:06,480 --> 00:00:10,160
+dalam... bukan dalam istilah-istilah
+
+5
+00:00:08,000 --> 00:00:11,759
+yang mereka berikan kepada kita, seperti 
+
+6
+00:00:10,160 --> 00:00:13,200
+label-label ini yang adalah penanda 
+
+7
+00:00:11,759 --> 00:00:14,160
+berguna bagi kita, yang akan coba kita
+
+8
+00:00:13,200 --> 00:00:15,360
+selesaikan...
+
+9
+00:00:14,160 --> 00:00:17,760
+bukunya tidak memberimu banyak informasi ya? 
+
+10
+00:00:15,360 --> 00:00:20,480
+um, mereka bilang... oke itu adalah
+
+11
+00:00:17,760 --> 00:00:22,400
+gerak melingkar beraturan...
+
+12
+00:00:20,480 --> 00:00:24,080
+kedengarannya mirip seperti 
+
+13
+00:00:22,400 --> 00:00:25,920
+gerak harmonik sederhana... bagaimanapun kamu akan 
+
+14
+00:00:24,080 --> 00:00:30,080
+terbiasa dengannya. gerak melingkar beraturan... 
+
+15
+00:00:25,920 --> 00:00:33,840
+jadi diketahui radiusnya adalah 2, 
+
+16
+00:00:30,080 --> 00:00:36,160
+dan ia bergerak dengan kecepatan 80 putaran per
+
+17
+00:00:33,840 --> 00:00:38,320
+menit. Info ini sangat
+
+18
+00:00:36,160 --> 00:00:40,719
+penting, jadi ingat-ingatlah. 
+
+19
+00:00:38,320 --> 00:00:43,120
+sekarang, apa soalnya...? bagian
+
+20
+00:00:40,719 --> 00:00:45,200
+a, soalnya tentang kecepatan sudut... apa
+
+21
+00:00:43,120 --> 00:00:46,719
+istilah untuk kecepatan sudut? 
+
+22
+00:00:45,200 --> 00:00:49,039
+omega, bagus!
+
+23
+00:00:46,719 --> 00:00:51,520
+jadi, kita akan menyelesaikannya sebentar lagi. untuk soal b,
+
+24
+00:00:49,039 --> 00:00:54,640
+soalnya tentang kecepatan. bagaimana kamu mengerjakannya? 
+
+25
+00:00:55,920 --> 00:01:01,520
+jadi....
+
+26
+00:00:58,879 --> 00:01:03,600
+ada perubahan sudut, tapi kita 
+
+27
+00:01:01,520 --> 00:01:05,280
+ingin perubahan panjang busur. jadi
+
+28
+00:01:03,600 --> 00:01:07,680
+kalau kita ingin tahu panjang busurnya, kita akan
+
+29
+00:01:05,280 --> 00:01:09,520
+mengalikannya dengan jari-jarinya, tidak
+
+30
+00:01:07,680 --> 00:01:10,799
+terlalu sulit...
+
+31
+00:01:09,520 --> 00:01:13,200
+masuk akal? 
+
+32
+00:01:10,799 --> 00:01:14,159
+ya? tidak? oke...
+
+33
+00:01:13,200 --> 00:01:16,640
+soal c...
+
+34
+00:01:14,159 --> 00:01:17,360
+menanyakan besaran percepatannya. jadi kamu
+
+35
+00:01:16,640 --> 00:01:19,280
+punya
+
+36
+00:01:17,360 --> 00:01:21,840
+percepatan, tetapi kamu hanya ingin
+
+37
+00:01:19,280 --> 00:01:23,680
+besarannya saja; hanya ukurannya... oke, lalu
+
+38
+00:01:21,840 --> 00:01:25,520
+soal terakhir menanyakan tentang
+
+39
+00:01:23,680 --> 00:01:27,360
+periode. oke, mari kita
+
+40
+00:01:25,520 --> 00:01:30,560
+bahas satu per satu.
+
+41
+00:01:27,360 --> 00:01:32,560
+itu harusnya a, maaf...
+
+42
+00:01:30,560 --> 00:01:35,360
+bagaimana cara kita mencari kecepatan sudut? 
+
+43
+00:01:32,560 --> 00:01:38,840
+baik, diketahui bahwa perputarannya adalah
+
+44
+00:01:35,360 --> 00:01:41,280
+80 kali per menit, benar? 
+
+45
+00:01:38,840 --> 00:01:42,880
+mari kita anggap itu sebagai titik awal kita.
+
+46
+00:01:42,880 --> 00:01:48,159
+sekarang, untuk setiap putaran penuh, berapa
+
+47
+00:01:45,920 --> 00:01:50,240
+radiannya? 
+
+48
+00:01:48,159 --> 00:01:54,240
+jawabannya adalah dua pi, kan? jadi 80
+
+49
+00:01:50,240 --> 00:01:57,360
+putaran kalau dijabarkan adalah 80 dikali
+
+50
+00:01:54,240 --> 00:01:59,360
+2 pi radian, oke jadi sekarang aku punya
+
+51
+00:01:57,360 --> 00:02:01,840
+sebuah sudut, dan dari situ aku bisa cari 
+
+52
+00:01:59,360 --> 00:02:02,880
+kecepatan sudutnya. oke, ini harusnya per
+
+53
+00:02:01,840 --> 00:02:04,399
+menit,
+
+54
+00:02:02,880 --> 00:02:06,719
+tapi aku tidak mau itu per menit,
+
+55
+00:02:04,399 --> 00:02:09,360
+karena satuan untuk omega harusnya 
+
+56
+00:02:06,719 --> 00:02:12,239
+adalah radian per detik,
+
+57
+00:02:09,360 --> 00:02:14,720
+dan itulah mengapa kamu
+
+58
+00:02:12,239 --> 00:02:16,239
+harus membaginya. oke jadi ini adalah 
+
+59
+00:02:14,720 --> 00:02:17,040
+160
+
+60
+00:02:16,239 --> 00:02:18,640
+pi
+
+61
+00:02:17,040 --> 00:02:20,239
+radian per
+
+62
+00:02:18,640 --> 00:02:22,480
+60 detik.
+
+63
+00:02:20,239 --> 00:02:24,720
+lalu setelah dibagi, berapa hasil yang
+
+64
+00:02:22,480 --> 00:02:26,400
+kamu dapatkan?
+
+65
+00:02:24,720 --> 00:02:28,560
+80 per... 8 per 3? 
+
+66
+00:02:26,400 --> 00:02:30,640
+karena di sana ada 0... 
+
+67
+00:02:28,560 --> 00:02:31,760
+8 pi per 3
+
+68
+00:02:30,640 --> 00:02:33,200
+radian
+
+69
+00:02:31,760 --> 00:02:35,360
+per detik.
+
+70
+00:02:33,200 --> 00:02:36,959
+bagus, bagus...
+
+71
+00:02:35,360 --> 00:02:39,280
+sekarang mari kita lanjut ke 
+
+72
+00:02:36,959 --> 00:02:40,720
+bagian b.
+
+73
+00:02:39,280 --> 00:02:42,080
+tunggu... ya? tidak? ya? ok... 
+
+74
+00:02:42,080 --> 00:02:44,959
+aku tidak ingin lanjut dulu sebelum kalian 
+
+75
+00:02:43,360 --> 00:02:46,720
+paham, oke? 
+
+76
+00:02:44,959 --> 00:02:47,840
+um, bagaimana cara mencari kecepatan? 
+
+77
+00:02:47,840 --> 00:02:53,200
+r dikali omega, kan? aku juga tahu r 
+
+78
+00:02:50,319 --> 00:02:54,640
+itu apa: nilainya adalah dua, jadi 
+
+79
+00:02:53,200 --> 00:02:57,440
+aku tulis dua 
+
+80
+00:02:54,640 --> 00:02:58,800
+pi... maaf, 16 pi
+
+81
+00:02:57,440 --> 00:03:02,000
+per 3. sekarang, 
+
+82
+00:02:58,800 --> 00:03:02,000
+satuan dari r apa? 
+
+83
+00:03:02,159 --> 00:03:06,720
+um,
+
+84
+00:03:03,760 --> 00:03:08,560
+2 meter kan? aku harusnya tulis 2 meter 
+
+85
+00:03:06,720 --> 00:03:10,080
+di atas sana. 
+
+86
+00:03:08,560 --> 00:03:11,840
+dan hal hebat tentang radian adalah
+
+87
+00:03:10,080 --> 00:03:13,920
+kita tidak perlu menghitung konversi ke satuan lain,
+
+88
+00:03:11,840 --> 00:03:16,400
+satuan dari ini adalah
+
+89
+00:03:13,920 --> 00:03:19,280
+meter per detik.
+
+90
+00:03:16,400 --> 00:03:20,720
+sekarang, bagian c. untuk mencari 
+
+91
+00:03:19,280 --> 00:03:23,200
+percepatan...
+
+92
+00:03:20,720 --> 00:03:24,879
+bagaimana kita mencari percepatan? 
+
+93
+00:03:23,200 --> 00:03:26,400
+kita mulai dari
+
+94
+00:03:24,879 --> 00:03:27,440
+perpindahan, kecepatan, percepatan, 
+
+95
+00:03:26,400 --> 00:03:31,959
+dan seterusnya...
+
+96
+00:03:27,440 --> 00:03:31,959
+bagaimana cara mendapatkan percepatan di sini?
+
+97
+00:03:34,159 --> 00:03:37,680
+coba angkat tangan yang tahu, aku takkan menanyaimu, 
+
+98
+00:03:35,760 --> 00:03:40,080
+tapi siapa yang punya jawaban untuk ini?
+
+99
+00:03:37,680 --> 00:03:41,599
+oke, bagus, ada lagi yang lain? 
+
+100
+00:03:40,080 --> 00:03:43,440
+yahh... masa 2 aja yang angkat tangan? 
+
+101
+00:03:41,599 --> 00:03:45,840
+aku mau kalian lihat lagi catatan kalian, 
+
+102
+00:03:43,440 --> 00:03:47,200
+kita sudah pernah bahas ini sebelumnya. 
+
+103
+00:03:45,840 --> 00:03:49,200
+coba buka lagi catatannya, belum
+
+104
+00:03:47,200 --> 00:03:53,159
+banyak catatan tentang gerakan melingkar. 
+
+105
+00:03:49,200 --> 00:03:53,159
+ayo, pasti ada... 
+
+106
+00:04:04,560 --> 00:04:07,040
+sudah ketemu?
+
+107
+00:04:12,840 --> 00:04:16,880
+aku tahu kemarin ada beberapa yang tidak masuk, 
+
+108
+00:04:15,519 --> 00:04:19,199
+tapi yang kemarin masuk,
+
+109
+00:04:16,880 --> 00:04:21,840
+harusnya kalian kemarin sudah catat lho, hayo...
+
+110
+00:04:19,199 --> 00:04:23,440
+bukannya rumusnya r omega kuadrat? 
+
+111
+00:04:21,840 --> 00:04:25,360
+ya? sudah ingat? 
+
+112
+00:04:23,440 --> 00:04:27,280
+ga terlalu sulit juga kan rumusnya? 
+
+113
+00:04:25,360 --> 00:04:29,199
+jadi kamu ambil nilai dari variabel ini
+
+114
+00:04:27,280 --> 00:04:30,720
+untuk mengerjakan soalnya. 
+
+115
+00:04:29,199 --> 00:04:34,960
+itu radiusnya,
+
+116
+00:04:30,720 --> 00:04:36,880
+dikalikan omega kuadrat. 
+
+117
+00:04:34,960 --> 00:04:38,880
+jadi itu rumusnya,
+
+118
+00:04:36,880 --> 00:04:43,120
+lalu 2 dikalikan 
+
+119
+00:04:38,880 --> 00:04:44,160
+64... 128 pi kuadrat
+
+120
+00:04:43,120 --> 00:04:45,440
+per...
+
+121
+00:04:44,160 --> 00:04:48,800
+sembilan...? 
+
+122
+00:04:45,440 --> 00:04:51,360
+ya benar. yang ditanyakan besaran ya... 
+
+123
+00:04:48,800 --> 00:04:54,479
+satuan untuk besaran apa? 
+
+124
+00:04:51,360 --> 00:04:56,479
+meter per detik kuadrat
+
+125
+00:04:54,479 --> 00:04:59,360
+keren, selesai sudah. 
+
+126
+00:04:56,479 --> 00:05:00,479
+bagian terakhir... berhubungan dengan periode...
+
+127
+00:04:59,360 --> 00:05:02,400
+berapa lama waktu yang dibutuhkan adalah yang aku
+
+128
+00:05:00,479 --> 00:05:04,800
+maksud... periode geraknya... berapa lama waktu yang 
+
+129
+00:05:02,400 --> 00:05:07,280
+dibutuhkan untuk melakukan 1 perputaran penuh...
+
+130
+00:05:04,800 --> 00:05:10,160
+kita sudah mengerjakan ini sebelumnya kan? 
+
+131
+00:05:07,280 --> 00:05:13,919
+kamu punya total dua radian pi
+
+132
+00:05:10,160 --> 00:05:16,160
+untuk satu putaran dan kamu membaginya dengan
+
+133
+00:05:13,919 --> 00:05:17,360
+kecepatan sudut kan, omeganya...
+
+134
+00:05:17,360 --> 00:05:23,039
+jadi hasilnya akan menjadi 2 pi per... dalam kurung 8 pi
+
+135
+00:05:20,639 --> 00:05:25,600
+per 3.
+
+136
+00:05:23,039 --> 00:05:29,520
+mari kerjakan... ada 4, habis... habis...
+
+137
+00:05:25,600 --> 00:05:31,039
+habis, habis... 3 per 4
+
+138
+00:05:29,520 --> 00:05:33,120
+detik.
+
+139
+00:05:31,039 --> 00:05:34,320
+apa ini masuk akal? 
+
+140
+00:05:33,120 --> 00:05:37,520
+kelihatannya benar...
+
+141
+00:05:34,320 --> 00:05:39,199
+iya benar... apakah sesuai dengan gambarannya?
+
+142
+00:05:37,520 --> 00:05:41,520
+menurutku iya... ada 60 detik di jam
+
+143
+00:05:39,199 --> 00:05:43,919
+pengukur waktu, ia akan bergerak mundur 
+
+144
+00:05:41,520 --> 00:05:45,919
+lalu mati. dan kalau dibulatkan ke bawah,
+
+145
+00:05:43,919 --> 00:05:47,680
+putarannya jadi sekitar 80 kali. jadi
+
+146
+00:05:45,919 --> 00:05:49,919
+butuh waktu kurang dari satu detik untuk
+
+147
+00:05:47,680 --> 00:05:52,919
+menyelesaikannya, jadi tidak terlalu lama
+
+148
+00:05:49,919 --> 00:05:52,919
+oke (Alih bahasa oleh Karel Bondan)

@@ -1,0 +1,935 @@
+1
+00:00:00,240 --> 00:00:04,560
+Baiklah, kita ingin beralih dari memikirkan
+
+2
+00:00:02,159 --> 00:00:06,879
+hal-hal horizontal ke...
+
+3
+00:00:04,560 --> 00:00:08,880
+Saya sebenarnya tidak bergerak hanya dalam
+
+4
+00:00:06,879 --> 00:00:10,960
+arah horizontal dan vertikal,
+
+5
+00:00:08,880 --> 00:00:12,480
+saya bergerak mengelilingi benda ini, dan Anda mungkin
+
+6
+00:00:10,960 --> 00:00:14,559
+ingat
+
+7
+00:00:12,480 --> 00:00:16,880
+pada suatu titik tertentu... kecepatan saya pada
+
+8
+00:00:14,559 --> 00:00:18,640
+titik ini akan bersinggungan dengan sebuah garis singgung.
+
+9
+00:00:16,880 --> 00:00:20,320
+Secara harafiah, titik itu akan bersinggungan dengan
+
+10
+00:00:18,640 --> 00:00:22,080
+garis singgung. Jadi saya tidak mau memikirkan
+
+11
+00:00:20,320 --> 00:00:25,199
+tentang naik dan turun; Saya ingin memikirkan
+
+12
+00:00:22,080 --> 00:00:26,400
+bagaimana kaitannya dengan perputaran. Oke,
+
+13
+00:00:25,199 --> 00:00:29,199
+jadi hal pertama yang akan saya lakukan adalah...
+
+14
+00:00:26,400 --> 00:00:31,920
+Saya akan mengilustrasikan kedua gaya ini
+
+15
+00:00:29,199 --> 00:00:33,920
+ke dalam diagram ini, inilah intinya. Oke,
+
+16
+00:00:31,920 --> 00:00:35,680
+dan saya akan letakkan gaya x...
+
+17
+00:00:33,920 --> 00:00:38,160
+gaya tersebut akan mengarah
+
+18
+00:00:35,680 --> 00:00:39,680
+ke sini. Oke, alasan mengapa
+
+19
+00:00:38,160 --> 00:00:41,760
+harus ke arah ini adalah karena jika
+
+20
+00:00:39,680 --> 00:00:43,520
+saya berada di sebuah bidang kartesius, Anda tahu bagaimana
+
+21
+00:00:41,760 --> 00:00:45,120
+biasanya dalam...
+
+22
+00:00:43,520 --> 00:00:46,960
+dalam pertanyaan mekanika, gaya... segala macam
+
+23
+00:00:45,120 --> 00:00:48,719
+yang berhubungan, kita yang putuskan. Oh, saya akan
+
+24
+00:00:46,960 --> 00:00:51,680
+menentukan arah ini sebagai positif, saya akan menentukan 
+
+25
+00:00:48,719 --> 00:00:53,680
+arah itu sebagai positif, dan sebagainya...
+
+26
+00:00:51,680 --> 00:00:54,960
+Tapi begitu Anda berada di dalam bidang kartesius, 
+
+27
+00:00:53,680 --> 00:00:57,199
+positif dan negatif
+
+28
+00:00:54,960 --> 00:00:59,440
+sudah ditentukan, ya kan?
+
+29
+00:00:57,199 --> 00:01:02,559
+Yang itu pasti positif dan yang itu pasti
+
+30
+00:00:59,440 --> 00:01:04,960
+positif kan? Jadi gaya ini
+
+31
+00:01:02,559 --> 00:01:06,400
+menghadap ke arah ini.
+
+32
+00:01:04,960 --> 00:01:09,600
+Sekarang perlu diingat
+
+33
+00:01:06,400 --> 00:01:11,439
+itu tanda minus, oleh karena itu
+
+34
+00:01:09,600 --> 00:01:14,000
+gaya resultan sebenarnya mengarah ke
+
+35
+00:01:11,439 --> 00:01:16,000
+sana, tetapi saya harus menarik
+
+36
+00:01:14,000 --> 00:01:18,640
+garis ke arah sini agar minusnya masuk
+
+37
+00:01:16,000 --> 00:01:22,240
+akal. Oke, jadi gaya ini
+
+38
+00:01:18,640 --> 00:01:24,640
+adalah gaya horizontal,
+
+39
+00:01:22,240 --> 00:01:28,240
+Sekarang saya juga mempunyai gaya vertikal jadi saya
+
+40
+00:01:24,640 --> 00:01:28,240
+akan menggambarnya seperti ini.
+
+41
+00:01:28,799 --> 00:01:32,880
+Sekarang aku mencoba memikirkan hal ini
+
+42
+00:01:30,640 --> 00:01:35,680
+tidak hanya dalam bidang horizontal dan vertikal tetapi juga
+
+43
+00:01:32,880 --> 00:01:37,360
+perputaran. Oke, jadi di sini kita memberi isyarat
+
+44
+00:01:35,680 --> 00:01:39,280
+warna lain.
+
+45
+00:01:37,360 --> 00:01:42,640
+Yang ingin aku pikirkan adalah
+
+46
+00:01:39,280 --> 00:01:44,399
+akan ada gaya singgung. Ketika aku
+
+47
+00:01:42,640 --> 00:01:47,119
+menjumlahkan keduanya akan ada
+
+48
+00:01:44,399 --> 00:01:48,720
+kekuatan yang mendorongku. Jadi
+
+49
+00:01:47,119 --> 00:01:51,360
+aku akan memasukkan semacam
+
+50
+00:01:48,720 --> 00:01:55,200
+sumbu singgung...
+
+51
+00:01:51,360 --> 00:01:56,560
+yang seperti ini...
+
+52
+00:01:55,200 --> 00:01:58,640
+itu garis singgung yang buruk tapi kamu mengerti
+
+53
+00:01:56,560 --> 00:02:00,399
+maksudnya... oke, jadi ada kekuatan yang
+
+54
+00:01:58,640 --> 00:02:02,000
+mengarah ke sini,
+
+55
+00:02:00,399 --> 00:02:04,960
+lalu ada juga gaya yang
+
+56
+00:02:02,000 --> 00:02:08,479
+relatif terhadap titik pusat, jadi ia mengarah
+
+57
+00:02:04,960 --> 00:02:10,479
+kira-kira seperti ini...
+
+58
+00:02:08,479 --> 00:02:11,520
+eh, meleset... ya udah lah ya gapapa...
+
+59
+00:02:10,479 --> 00:02:12,800
+Oke,
+
+60
+00:02:11,520 --> 00:02:15,920
+jadi
+
+61
+00:02:12,800 --> 00:02:18,080
+Anda punya gaya tangensial, jadi
+
+62
+00:02:15,920 --> 00:02:20,239
+kita sebut saja ini sumbu singgung kita.
+
+63
+00:02:18,080 --> 00:02:22,560
+Tapi tunggu dulu, 
+
+64
+00:02:20,239 --> 00:02:23,680
+kalau ini adalah sumbu singgung, itu masuk
+
+65
+00:02:22,560 --> 00:02:24,959
+akal.
+
+66
+00:02:23,680 --> 00:02:26,239
+Tapi menurut Anda
+
+67
+00:02:24,959 --> 00:02:27,520
+apa nama yang cocok jika kita pakai 
+
+68
+00:02:26,239 --> 00:02:29,440
+bahasa yang kita tahu
+
+69
+00:02:27,520 --> 00:02:30,400
+untuk sumbu lain yang tegak lurus ini?
+
+70
+00:02:30,400 --> 00:02:33,120
+Normal kan? itu adalah
+
+71
+00:02:31,840 --> 00:02:35,680
+normal lingkarannya. Normalnya
+
+72
+00:02:33,120 --> 00:02:36,879
+tegak lurus, 90 derajat kalau Anda lihat. Oke,
+
+73
+00:02:35,680 --> 00:02:39,120
+jadi
+
+74
+00:02:36,879 --> 00:02:41,680
+sepanjang sumbu ini saya akan mempunyai
+
+75
+00:02:39,120 --> 00:02:43,519
+gaya singgung, sebut saja
+
+76
+00:02:41,680 --> 00:02:46,000
+arah geraknya. Seperti ini cenderung
+
+77
+00:02:43,519 --> 00:02:47,200
+seperti itu, jadi aku punya
+
+78
+00:02:46,000 --> 00:02:49,040
+Ft...
+
+79
+00:02:47,200 --> 00:02:50,640
+Saya tulis dalam huruf kapital...
+
+80
+00:02:49,040 --> 00:02:51,519
+Ft yang mengarah ke sana,
+
+81
+00:02:51,519 --> 00:02:56,239
+dan ada juga gaya yang mengarah ke sini, 
+
+82
+00:02:54,080 --> 00:02:58,159
+yang adalah gaya normalnya. Saya membuat 
+
+83
+00:02:56,239 --> 00:03:00,400
+positif menjauh dari titik asal karena gayanya
+
+84
+00:02:58,159 --> 00:03:02,239
+membuat saya menjauhi titik asal. 
+
+85
+00:03:00,400 --> 00:03:04,560
+Jadi saya punya positif yang mengarah ke sana,
+
+86
+00:03:02,239 --> 00:03:06,480
+dan saya juga punya positif yang mengarah ke
+
+87
+00:03:04,560 --> 00:03:08,239
+sana. Oke,
+
+88
+00:03:06,480 --> 00:03:10,959
+sejauh ini bagus...
+
+89
+00:03:08,239 --> 00:03:13,599
+jadi sekarang pertanyaan saya adalah bagaimana saya menghubungkan
+
+90
+00:03:10,959 --> 00:03:16,959
+kedua gaya ini
+
+91
+00:03:13,599 --> 00:03:18,000
+dalam kaitannya dengan kedua gaya ini?
+
+92
+00:03:16,959 --> 00:03:19,280
+Coba Anda pikirkan...
+
+93
+00:03:18,000 --> 00:03:21,760
+Apa Anda ingat waktu kita mengerjakan
+
+94
+00:03:19,280 --> 00:03:24,239
+soal-soal volume? Jika Anda punya volume...
+
+95
+00:03:21,760 --> 00:03:26,480
+yang bentuknya aneh... eh kira-kira seperti
+
+96
+00:03:24,239 --> 00:03:26,480
+ini...
+
+97
+00:03:30,879 --> 00:03:34,560
+apa Anda ingat hal ini? Jadi Anda 
+
+98
+00:03:32,480 --> 00:03:36,879
+ambil hiperbolanya, dan kemudian Anda
+
+99
+00:03:34,560 --> 00:03:38,640
+berpikir: Baiklah, mari kita ambil garis y sama dengan x
+
+100
+00:03:36,879 --> 00:03:40,159
+sebagai gantinya, karena kita dapat memutarnya
+
+101
+00:03:38,640 --> 00:03:42,640
+disekitar itu dan kita masih bisa membentuk
+
+102
+00:03:40,159 --> 00:03:44,560
+volume. Kita melakukan itu. Oke,
+
+103
+00:03:42,640 --> 00:03:47,040
+tapi di sini Anda bisa melihat bahwa alih-alih
+
+104
+00:03:44,560 --> 00:03:48,879
+memiliki... yaa... x dan y tidak terlalu
+
+105
+00:03:47,040 --> 00:03:50,959
+berguna untuk mengiris bentuk melintang dengan
+
+106
+00:03:48,879 --> 00:03:52,720
+cara itu. Anda tidak mendapatkan penampang yang berguna...
+
+107
+00:03:50,959 --> 00:03:54,560
+Anda tidak mendapatkan irisan dan Anda tidak mendapatkan
+
+108
+00:03:52,720 --> 00:03:56,560
+hal serupa dan Anda tidak mendapatkan cangkang,
+
+109
+00:03:54,560 --> 00:03:58,000
+Anda tidak mendapatkan apa pun yang berguna. Jadi itu sebabnya kita
+
+110
+00:03:56,560 --> 00:03:59,360
+mengubahnya.
+
+111
+00:03:58,000 --> 00:04:01,439
+Dalam hal ini kita menyebutnya
+
+112
+00:03:59,360 --> 00:04:03,840
+seperti sumbu ketinggian. Jadi kita
+
+113
+00:04:01,439 --> 00:04:06,159
+melakukan hal yang sama persis:
+
+114
+00:04:03,840 --> 00:04:07,360
+kita mengubah horizontal... vertikal...
+
+115
+00:04:07,360 --> 00:04:13,280
+menjadi garis singgung dan normal, benar?
+
+116
+00:04:10,159 --> 00:04:15,840
+Jadi yang kita perlukan adalah trigonometri.
+
+117
+00:04:13,280 --> 00:04:17,919
+Saya akan menggunakan warna ketiga. 
+
+118
+00:04:15,840 --> 00:04:19,680
+Jadi misalnya mari kita pikirkan tentang
+
+119
+00:04:17,919 --> 00:04:21,759
+gaya horizontal ini,
+
+120
+00:04:19,680 --> 00:04:24,800
+bisakah Anda lihat bahwa gaya horizontal
+
+121
+00:04:21,759 --> 00:04:27,440
+juga berkontribusi ke gaya normal?
+
+122
+00:04:24,800 --> 00:04:29,360
+Dan beberapa juga ke garis singgung... oke,
+
+123
+00:04:27,440 --> 00:04:34,240
+dan Anda dapat menunjukkannya dengan beberapa
+
+124
+00:04:29,360 --> 00:04:37,240
+segitiga, oke, jadi saya punya
+
+125
+00:04:34,240 --> 00:04:37,240
+ini...
+
+126
+00:04:44,960 --> 00:04:49,919
+oke jadi apa yang baru saja saya gambar?
+
+127
+00:04:47,520 --> 00:04:51,759
+yang baru saja saya gambar adalah...
+
+128
+00:04:49,919 --> 00:04:53,840
+berapa banyak
+
+129
+00:04:51,759 --> 00:04:54,880
+gaya horizontal berkontribusi pada arah ini,
+
+130
+00:04:54,880 --> 00:04:58,639
+dan berapa banyak gaya horizontal
+
+131
+00:04:56,560 --> 00:05:00,880
+yang berkontribusi pada arah ini, pada masing-masing
+
+132
+00:04:58,639 --> 00:05:03,520
+dua sumbu baru yang saya definisikan?
+
+133
+00:05:00,880 --> 00:05:05,360
+Oke, sekarang untuk mengubah ini... apa 
+
+134
+00:05:03,520 --> 00:05:06,960
+kalian sadar sebelah bagian ada di sini,
+
+135
+00:05:05,360 --> 00:05:09,680
+dan yang lainnya ada di sini? Saya akan memerlukan 
+
+136
+00:05:06,960 --> 00:05:12,000
+seseorang untuk membantu saya... oke, jadi
+
+137
+00:05:09,680 --> 00:05:14,479
+kita sudah tahu bahwa kita mendefinisikan
+
+138
+00:05:12,000 --> 00:05:16,080
+theta sebagai sudut dan sudut
+
+139
+00:05:14,479 --> 00:05:19,680
+dan sudut, benar? Sehingga akan ada
+
+140
+00:05:16,080 --> 00:05:21,039
+di sini, kira-kira... ada theta. Oke,
+
+141
+00:05:19,680 --> 00:05:22,720
+pada saat yang sama, saya kira, meskipun
+
+142
+00:05:21,039 --> 00:05:24,639
+itu tidak begitu relevan tapi
+
+143
+00:05:22,720 --> 00:05:28,160
+kita berputar ke arah ini, 
+
+144
+00:05:24,639 --> 00:05:31,199
+dan kecepatan sudut itu adalah
+
+145
+00:05:28,160 --> 00:05:33,440
+omega, jadi saya akan
+
+146
+00:05:31,199 --> 00:05:35,520
+meneruskannya.
+
+147
+00:05:33,440 --> 00:05:36,880
+Sekarang tetha ada di situ... tetha ada di
+
+148
+00:05:35,520 --> 00:05:39,199
+situ... di
+
+149
+00:05:36,880 --> 00:05:43,199
+mana lagi ada theta?
+
+150
+00:05:39,199 --> 00:05:45,120
+Di sini, yang berguna bagi Anda...
+
+151
+00:05:43,199 --> 00:05:46,800
+lalu lihat... oh iya, ingat,
+
+152
+00:05:45,120 --> 00:05:48,800
+kamu punya sumbu x di sini,
+
+153
+00:05:46,800 --> 00:05:52,479
+lalu kamu punya gaya dalam
+
+154
+00:05:48,800 --> 00:05:55,199
+arah x, jadi kedua garis ini
+
+155
+00:05:52,479 --> 00:05:57,360
+sejajar, masuk akal?
+
+156
+00:05:55,199 --> 00:06:00,000
+Jadi di mana kamu melihat theta?
+
+157
+00:05:57,360 --> 00:06:00,000
+di mana thetanya?
+
+158
+00:06:00,080 --> 00:06:02,639
+Sekarang,
+
+159
+00:06:00,880 --> 00:06:04,000
+saya dapat lihat beberapa angkat tangan... uh, akan 
+
+160
+00:06:02,639 --> 00:06:05,280
+membantu jika saya menulis beberapa huruf di sini...
+
+161
+00:06:04,000 --> 00:06:08,080
+dan buku teksnya memang mencantumkan
+
+162
+00:06:05,280 --> 00:06:10,240
+huruf-huruf itu, seperti a b c d
+
+163
+00:06:08,080 --> 00:06:12,080
+e f g... tahulah kalau saya menghindari
+
+164
+00:06:10,240 --> 00:06:13,840
+memakainya karena diagramnya
+
+165
+00:06:12,080 --> 00:06:15,039
+bakal kacau balau kalau semua alfabet dimasukkan
+
+166
+00:06:13,840 --> 00:06:16,479
+ke sana.
+
+167
+00:06:15,039 --> 00:06:18,240
+Saya pikir Anda bisa lihat
+
+168
+00:06:16,479 --> 00:06:20,880
+sudut-sudut yang bersesuaian pada garis sejajar,
+
+169
+00:06:18,240 --> 00:06:21,759
+jadi saya melihat ada theta di sana, masuk
+
+170
+00:06:20,880 --> 00:06:23,360
+akal?
+
+171
+00:06:21,759 --> 00:06:26,000
+Oke, 
+
+172
+00:06:23,360 --> 00:06:28,560
+itu berarti aku bisa tahu
+
+173
+00:06:26,000 --> 00:06:30,319
+gaya apa yang ada di sini, karena
+
+174
+00:06:28,560 --> 00:06:32,560
+yang Anda punya adalah...
+
+175
+00:06:30,319 --> 00:06:33,759
+saya telah membentuk beberapa segitiga siku-siku
+
+176
+00:06:32,560 --> 00:06:35,360
+di sini... semua gaya-gaya ini saling
+
+177
+00:06:33,759 --> 00:06:37,120
+tegak lurus, itulah sebabnya
+
+178
+00:06:35,360 --> 00:06:39,039
+aku mengoperasikan mereka...
+
+179
+00:06:37,120 --> 00:06:40,479
+Oke, sekarang lihat saja segitiga kecil ini...
+
+180
+00:06:39,039 --> 00:06:41,759
+lihatlah segitiga kecil ini...
+
+181
+00:06:40,479 --> 00:06:44,080
+aku akan menggambarnya saja di sini...
+
+182
+00:06:41,759 --> 00:06:44,080
+...
+
+183
+00:06:44,240 --> 00:06:49,360
+Oke, Anda punya gaya horizontal yang
+
+184
+00:06:46,639 --> 00:06:51,360
+mengarah ke sini, jadi sisi ini punya
+
+185
+00:06:49,360 --> 00:06:53,440
+panjang ini, karena ingat panjang
+
+186
+00:06:51,360 --> 00:06:55,120
+ini itu penting, karena mewakili berapa
+
+187
+00:06:53,440 --> 00:06:57,199
+banyak gaya yang ada... jika pendek,
+
+188
+00:06:55,120 --> 00:06:59,280
+maka gayanya akan jadi sangat kecil. Oke,
+
+189
+00:06:57,199 --> 00:07:00,720
+Jadi itu Fx, dan saya sedang mencoba mencari tahu
+
+190
+00:06:59,280 --> 00:07:02,639
+apa ini...
+
+191
+00:07:00,720 --> 00:07:03,919
+dan saya sudah menentukan
+
+192
+00:07:02,639 --> 00:07:06,400
+melalui trigonometri... maaf, maksudnya 
+
+193
+00:07:03,919 --> 00:07:09,440
+melalui geometri... tapi begitulah.
+
+194
+00:07:06,400 --> 00:07:11,759
+Bagaimana cara Anda mengekspresikan tanda itu... 
+
+195
+00:07:09,440 --> 00:07:11,759
+gaya itu...?
+
+196
+00:07:12,400 --> 00:07:15,880
+Tanda tanya...?
+
+197
+00:07:17,199 --> 00:07:21,039
+Saya punya um... saya punya
+
+198
+00:07:18,880 --> 00:07:23,360
+segitiga siku-siku, saya bisa menggunakan
+
+199
+00:07:21,039 --> 00:07:25,280
+trigonometri segitiga siku-siku. Berapa rasio
+
+200
+00:07:23,360 --> 00:07:26,080
+yang menghubungkan kedua sisi ini? Ia adalah cos, kan?
+
+201
+00:07:26,080 --> 00:07:31,039
+Cos theta
+
+202
+00:07:29,120 --> 00:07:32,479
+berbatasan
+
+203
+00:07:31,039 --> 00:07:34,560
+dengan sisi
+
+204
+00:07:32,479 --> 00:07:36,479
+miring, benar?
+
+205
+00:07:34,560 --> 00:07:38,880
+Jadi oleh karena itu sisi yang tidak diketahui ini
+
+206
+00:07:36,479 --> 00:07:41,919
+mewakili gaya ini sepanjang
+
+207
+00:07:38,880 --> 00:07:45,680
+arah normal menjauhi titik asal, benar?
+
+208
+00:07:41,919 --> 00:07:47,360
+Gaya itu adalah Fx cos theta, itu adalah
+
+209
+00:07:45,680 --> 00:07:49,440
+bagian dari gaya horizontal yang
+
+210
+00:07:47,360 --> 00:07:51,599
+menuju ke arah itu. Oke, jadi izinkan saya
+
+211
+00:07:49,440 --> 00:07:56,080
+memberinya warna.
+
+212
+00:07:51,599 --> 00:07:57,840
+Fx cos theta... oke, itu bagus...
+
+213
+00:07:56,080 --> 00:07:59,199
+Tapi saya belum selesai, saya ingin tahu
+
+214
+00:07:57,840 --> 00:08:00,560
+tentang bagian ini karena ada
+
+215
+00:07:59,199 --> 00:08:03,120
+bagian lain yang menuju ke
+
+216
+00:08:00,560 --> 00:08:06,000
+arah ini sepanjang sumbu singgung ini, kan?
+
+217
+00:08:03,120 --> 00:08:06,000
+Bagaimana cara menyelesaikannya?
+
+218
+00:08:07,520 --> 00:08:10,080
+Kita gunakan sudut yang bersesuaian untuk pergi dari
+
+219
+00:08:08,960 --> 00:08:12,400
+sini ke sini kan?
+
+220
+00:08:10,080 --> 00:08:15,360
+Apa lagi yang bisa saya gunakan?
+
+221
+00:08:12,400 --> 00:08:15,360
+Perhatikan baik-baik,
+
+222
+00:08:15,759 --> 00:08:20,000
+saya bisa melakukan... um, pasti aku bisa melakukan beberapa
+
+223
+00:08:17,840 --> 00:08:21,680
+sudut bergantian juga, karena
+
+224
+00:08:20,000 --> 00:08:23,759
+semua ini tegak lurus dan
+
+225
+00:08:21,680 --> 00:08:26,000
+sejajar. Menurutku ada
+
+226
+00:08:23,759 --> 00:08:27,919
+theta di sini, kamu lihat sudut yang bergantian itu...
+
+227
+00:08:26,000 --> 00:08:30,240
+itu... itulah zmu untuk zoro
+
+228
+00:08:27,919 --> 00:08:32,399
+Jadi, aku bisa melakukan hal yang sama, aku bisa
+
+229
+00:08:30,240 --> 00:08:35,360
+memutarnya kembali. Aku akan menyingkatnya...
+
+230
+00:08:32,399 --> 00:08:37,200
+akan ada Fx sin theta
+
+231
+00:08:35,360 --> 00:08:38,479
+ke arah itu, oke, kamu bisa
+
+232
+00:08:37,200 --> 00:08:40,320
+menggambar segitiganya,
+
+233
+00:08:38,479 --> 00:08:43,120
+tapi yang di papan tulis juga sudah cukup jelas,
+
+234
+00:08:40,320 --> 00:08:43,120
+oke... (Alih bahasa oleh Karel Bondan)
