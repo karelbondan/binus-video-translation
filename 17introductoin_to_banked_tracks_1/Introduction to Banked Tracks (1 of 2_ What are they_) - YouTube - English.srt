@@ -1,0 +1,991 @@
+1
+00:00:01,520 --> 00:00:05,680
+so far in circular motion
+
+2
+00:00:04,400 --> 00:00:08,080
+uh we've looked at the fact that if
+
+3
+00:00:05,680 --> 00:00:09,679
+we've got and we really spent the bulk
+
+4
+00:00:08,080 --> 00:00:11,120
+of our time on uniform circular motion
+
+5
+00:00:09,679 --> 00:00:12,559
+because that's what most of it is and
+
+6
+00:00:11,120 --> 00:00:15,839
+when it's not uniform you can't do as
+
+7
+00:00:12,559 --> 00:00:18,160
+many interesting things with it
+
+8
+00:00:15,839 --> 00:00:19,840
+any kind of circular motion
+
+9
+00:00:18,160 --> 00:00:21,760
+you've got to have some kind of
+
+10
+00:00:19,840 --> 00:00:23,680
+centripetal force essentially before you
+
+11
+00:00:21,760 --> 00:00:26,640
+remember what that means it's facing
+
+12
+00:00:23,680 --> 00:00:28,640
+toward the center right we looked at
+
+13
+00:00:26,640 --> 00:00:30,960
+this and we said well that that force
+
+14
+00:00:28,640 --> 00:00:32,960
+that's acting toward the center right it
+
+15
+00:00:30,960 --> 00:00:34,960
+can come from a variety of things it
+
+16
+00:00:32,960 --> 00:00:37,600
+might come from
+
+17
+00:00:34,960 --> 00:00:40,640
+tension in a string some kind of medium
+
+18
+00:00:37,600 --> 00:00:42,879
+like that right it might come from if
+
+19
+00:00:40,640 --> 00:00:44,640
+this is like you know a celestial body
+
+20
+00:00:42,879 --> 00:00:47,120
+or planet something like that that force
+
+21
+00:00:44,640 --> 00:00:49,520
+might come from gravity okay
+
+22
+00:00:47,120 --> 00:00:52,719
+and we noticed that it had to be just
+
+23
+00:00:49,520 --> 00:00:58,079
+the right amount of force it had to be
+
+24
+00:00:52,719 --> 00:01:00,239
+m r omega squared or or m v squared on r
+
+25
+00:00:58,079 --> 00:01:02,559
+right what would happen if it was just a
+
+26
+00:01:00,239 --> 00:01:05,600
+little bit too much force pulling toward
+
+27
+00:01:02,559 --> 00:01:05,600
+the center what would happen
+
+28
+00:01:05,760 --> 00:01:10,000
+it would spiral in that's exactly right
+
+29
+00:01:07,760 --> 00:01:12,159
+um this force is just enough to change
+
+30
+00:01:10,000 --> 00:01:13,680
+the direction of velocity so it goes
+
+31
+00:01:12,159 --> 00:01:15,840
+around at this curve but if it's too
+
+32
+00:01:13,680 --> 00:01:18,080
+great it will change it too much right
+
+33
+00:01:15,840 --> 00:01:20,240
+and it'll start to go inward
+
+34
+00:01:18,080 --> 00:01:21,759
+and if it's not enough conversely what
+
+35
+00:01:20,240 --> 00:01:23,920
+would happen
+
+36
+00:01:21,759 --> 00:01:25,759
+it would spiral outwards right it would
+
+37
+00:01:23,920 --> 00:01:27,280
+go wee and it wouldn't it wouldn't get
+
+38
+00:01:25,759 --> 00:01:28,159
+caught okay
+
+39
+00:01:27,280 --> 00:01:30,000
+so
+
+40
+00:01:28,159 --> 00:01:32,320
+these are the two ideas that we've been
+
+41
+00:01:30,000 --> 00:01:34,320
+looking at right
+
+42
+00:01:32,320 --> 00:01:36,400
+but i have this question to you right uh
+
+43
+00:01:34,320 --> 00:01:41,280
+we were talking about strings with
+
+44
+00:01:36,400 --> 00:01:43,759
+tension or um planets with gravity
+
+45
+00:01:41,280 --> 00:01:46,880
+we actually observe though many things
+
+46
+00:01:43,759 --> 00:01:48,880
+that move in circles like this okay but
+
+47
+00:01:46,880 --> 00:01:51,040
+there's no string holding the thing in
+
+48
+00:01:48,880 --> 00:01:52,079
+and there's no gravity necessarily
+
+49
+00:01:51,040 --> 00:01:54,000
+holding it
+
+50
+00:01:52,079 --> 00:01:55,040
+uh and the easiest example i could think
+
+51
+00:01:54,000 --> 00:01:57,759
+of
+
+52
+00:01:55,040 --> 00:01:57,759
+is one of these
+
+53
+00:01:58,560 --> 00:02:02,000
+oh that's terrible sorry
+
+54
+00:02:02,880 --> 00:02:07,680
+all right so here you go here's a car
+
+55
+00:02:05,600 --> 00:02:10,319
+you're like oh that's what it is
+
+56
+00:02:07,680 --> 00:02:12,319
+if i have a car and it's um well let's
+
+57
+00:02:10,319 --> 00:02:14,879
+just say for the sake of simplicity um
+
+58
+00:02:12,319 --> 00:02:17,280
+it is doing laps around a circular track
+
+59
+00:02:14,879 --> 00:02:18,640
+okay now quite obviously
+
+60
+00:02:17,280 --> 00:02:21,120
+if it's a normal sized car there's no
+
+61
+00:02:18,640 --> 00:02:22,879
+string with tension holding it toward
+
+62
+00:02:21,120 --> 00:02:25,680
+the center of the tracks right at the
+
+63
+00:02:22,879 --> 00:02:28,239
+same time we assume there's no enormous
+
+64
+00:02:25,680 --> 00:02:32,239
+body exerting gravity on the car that
+
+65
+00:02:28,239 --> 00:02:35,599
+keeps it on the track so how does it go
+
+66
+00:02:32,239 --> 00:02:37,120
+in a circle what is the force that keeps
+
+67
+00:02:35,599 --> 00:02:41,760
+it
+
+68
+00:02:37,120 --> 00:02:44,160
+face towards the inside any takers
+
+69
+00:02:41,760 --> 00:02:46,239
+the answer is it's friction
+
+70
+00:02:44,160 --> 00:02:48,000
+now hold on a second we're kind of used
+
+71
+00:02:46,239 --> 00:02:49,840
+to we're kind of used to the idea of
+
+72
+00:02:48,000 --> 00:02:52,160
+like even when we move around right
+
+73
+00:02:49,840 --> 00:02:54,160
+friction is kind of what slows you down
+
+74
+00:02:52,160 --> 00:02:56,319
+you you roll something and then
+
+75
+00:02:54,160 --> 00:02:58,400
+eventually it will stop because friction
+
+76
+00:02:56,319 --> 00:02:59,840
+will stop it right well the idea is that
+
+77
+00:02:58,400 --> 00:03:04,519
+friction
+
+78
+00:02:59,840 --> 00:03:04,519
+is mainly a reaction force right
+
+79
+00:03:05,040 --> 00:03:07,760
+when something's pushing against
+
+80
+00:03:06,400 --> 00:03:09,920
+something and then friction will push
+
+81
+00:03:07,760 --> 00:03:12,720
+back okay now what's happening is this
+
+82
+00:03:09,920 --> 00:03:15,680
+car is going around okay well according
+
+83
+00:03:12,720 --> 00:03:17,920
+to inertia right the first law
+
+84
+00:03:15,680 --> 00:03:20,080
+which way does that car with all of its
+
+85
+00:03:17,920 --> 00:03:22,319
+inertial mass which way does it want to
+
+86
+00:03:20,080 --> 00:03:22,319
+go
+
+87
+00:03:23,760 --> 00:03:26,799
+is it that there's there's two options
+
+88
+00:03:25,360 --> 00:03:29,040
+for inertia right it's either going to
+
+89
+00:03:26,799 --> 00:03:31,280
+be at rest is it at rest
+
+90
+00:03:29,040 --> 00:03:32,400
+no or it'll be
+
+91
+00:03:31,280 --> 00:03:34,319
+uniform
+
+92
+00:03:32,400 --> 00:03:36,959
+straight line motion right so what it
+
+93
+00:03:34,319 --> 00:03:39,519
+wants to do is not bend around like this
+
+94
+00:03:36,959 --> 00:03:40,640
+it wants to
+
+95
+00:03:39,519 --> 00:03:43,519
+keep going
+
+96
+00:03:40,640 --> 00:03:46,080
+right so the normal sort of situation is
+
+97
+00:03:43,519 --> 00:03:47,519
+the default situation for this car is um
+
+98
+00:03:46,080 --> 00:03:50,799
+is this kind of situation right so it's
+
+99
+00:03:47,519 --> 00:03:53,680
+going outward so therefore the friction
+
+100
+00:03:50,799 --> 00:03:55,840
+force it's reacting against that right
+
+101
+00:03:53,680 --> 00:03:56,959
+and so there's a sideways force acting
+
+102
+00:03:55,840 --> 00:03:58,080
+toward the middle and that's what's
+
+103
+00:03:56,959 --> 00:04:00,159
+keeping it
+
+104
+00:03:58,080 --> 00:04:03,360
+in the circular path right now that is
+
+105
+00:04:00,159 --> 00:04:05,120
+why it's so important that there is um
+
+106
+00:04:03,360 --> 00:04:06,480
+there is grip
+
+107
+00:04:05,120 --> 00:04:08,480
+on the tires
+
+108
+00:04:06,480 --> 00:04:10,239
+and on the road right because if you
+
+109
+00:04:08,480 --> 00:04:12,560
+take that grip away
+
+110
+00:04:10,239 --> 00:04:14,720
+then what happens there's not enough
+
+111
+00:04:12,560 --> 00:04:18,000
+friction right this will take over and
+
+112
+00:04:14,720 --> 00:04:20,160
+it'll skid outwards okay
+
+113
+00:04:18,000 --> 00:04:22,079
+so that's why you know rainy conditions
+
+114
+00:04:20,160 --> 00:04:24,479
+or if the tires on your car are really
+
+115
+00:04:22,079 --> 00:04:26,400
+old and bald and don't have enough grip
+
+116
+00:04:24,479 --> 00:04:27,759
+on them then you're going to have this
+
+117
+00:04:26,400 --> 00:04:28,960
+you're going to go off in the direction
+
+118
+00:04:27,759 --> 00:04:30,960
+of the tangent actually that's where
+
+119
+00:04:28,960 --> 00:04:32,639
+you're going to go
+
+120
+00:04:30,960 --> 00:04:34,720
+so this is kind of a problem but we sort
+
+121
+00:04:32,639 --> 00:04:36,320
+of overcome it with tires but there's
+
+122
+00:04:34,720 --> 00:04:38,160
+another way to overcome it there's
+
+123
+00:04:36,320 --> 00:04:39,840
+another way to overcome it so road
+
+124
+00:04:38,160 --> 00:04:40,720
+designers take advantage of these things
+
+125
+00:04:39,840 --> 00:04:42,479
+called
+
+126
+00:04:40,720 --> 00:04:44,320
+and here's our um
+
+127
+00:04:42,479 --> 00:04:47,919
+here's our final thing
+
+128
+00:04:44,320 --> 00:04:47,919
+what are called banked tracks
+
+129
+00:04:50,320 --> 00:04:54,960
+a bank track is where you are turning
+
+130
+00:04:52,720 --> 00:04:57,120
+around right what they do is they put an
+
+131
+00:04:54,960 --> 00:05:00,000
+embankment they raise part of the road
+
+132
+00:04:57,120 --> 00:05:02,400
+not all of it okay so that there's a
+
+133
+00:05:00,000 --> 00:05:05,840
+force acting inward okay i want you to
+
+134
+00:05:02,400 --> 00:05:07,440
+remember the ball the enormous two meter
+
+135
+00:05:05,840 --> 00:05:10,560
+across hemispherical ball we were
+
+136
+00:05:07,440 --> 00:05:12,320
+looking at right
+
+137
+00:05:10,560 --> 00:05:15,039
+okay we're looking at this yesterday
+
+138
+00:05:12,320 --> 00:05:16,240
+right we noticed that well okay you've
+
+139
+00:05:15,039 --> 00:05:18,479
+got
+
+140
+00:05:16,240 --> 00:05:22,000
+this circular path being traced out you
+
+141
+00:05:18,479 --> 00:05:23,919
+do have we had a string up here attached
+
+142
+00:05:22,000 --> 00:05:25,520
+which was exerting tension right but
+
+143
+00:05:23,919 --> 00:05:27,600
+then there was another force involved
+
+144
+00:05:25,520 --> 00:05:29,360
+that was also pushing in which force was
+
+145
+00:05:27,600 --> 00:05:31,360
+that
+
+146
+00:05:29,360 --> 00:05:33,360
+was the normal force right so if this is
+
+147
+00:05:31,360 --> 00:05:35,360
+where i am you know the normal force is
+
+148
+00:05:33,360 --> 00:05:37,039
+going there perpendicular to the surface
+
+149
+00:05:35,360 --> 00:05:40,000
+of the bowl or perpendicular to the
+
+150
+00:05:37,039 --> 00:05:42,639
+surface of whatever you're on um ball
+
+151
+00:05:40,000 --> 00:05:44,320
+cone all those kinds of things okay
+
+152
+00:05:42,639 --> 00:05:45,680
+so the bank tracks take advantage of
+
+153
+00:05:44,320 --> 00:05:47,440
+this let's draw one and you'll see
+
+154
+00:05:45,680 --> 00:05:49,120
+what's going on
+
+155
+00:05:47,440 --> 00:05:51,600
+first we'll do it side on so you do a
+
+156
+00:05:49,120 --> 00:05:53,600
+little sort of triangle like this
+
+157
+00:05:51,600 --> 00:05:55,360
+okay now this is a bit of exaggeration
+
+158
+00:05:53,600 --> 00:05:57,039
+um you almost never see a bank track
+
+159
+00:05:55,360 --> 00:05:58,560
+that is this steep but if we make it
+
+160
+00:05:57,039 --> 00:05:59,840
+realistic it's hard to see what's going
+
+161
+00:05:58,560 --> 00:06:02,960
+on okay
+
+162
+00:05:59,840 --> 00:06:06,400
+so instead of the road being flat okay
+
+163
+00:06:02,960 --> 00:06:09,600
+part of the road the outside of the turn
+
+164
+00:06:06,400 --> 00:06:12,800
+is embanked up okay and then this thing
+
+165
+00:06:09,600 --> 00:06:12,800
+it curves around
+
+166
+00:06:16,160 --> 00:06:19,919
+okay so there's the turn so we're
+
+167
+00:06:17,919 --> 00:06:21,440
+looking on from there just to make it a
+
+168
+00:06:19,919 --> 00:06:23,360
+little bit clearer i might put in
+
+169
+00:06:21,440 --> 00:06:25,280
+there's an edge here that we can't see
+
+170
+00:06:23,360 --> 00:06:28,639
+this outside bottom edge of the
+
+171
+00:06:25,280 --> 00:06:28,639
+embankment so if i dot that
+
+172
+00:06:30,639 --> 00:06:35,280
+went a bit higher there you can kind of
+
+173
+00:06:32,080 --> 00:06:37,840
+see what's going on okay so
+
+174
+00:06:35,280 --> 00:06:38,880
+what's happened is as we go around this
+
+175
+00:06:37,840 --> 00:06:40,400
+turn
+
+176
+00:06:38,880 --> 00:06:43,759
+okay
+
+177
+00:06:40,400 --> 00:06:44,960
+there's going to be a normal force right
+
+178
+00:06:43,759 --> 00:06:47,360
+the normal force is going in that
+
+179
+00:06:44,960 --> 00:06:50,240
+direction so you can see when we resolve
+
+180
+00:06:47,360 --> 00:06:52,400
+it right it'll have a vertical part
+
+181
+00:06:50,240 --> 00:06:54,080
+right but it also has a horizontal part
+
+182
+00:06:52,400 --> 00:06:55,840
+that is centripetal it's headed toward
+
+183
+00:06:54,080 --> 00:06:58,639
+the center of the turn so this is going
+
+184
+00:06:55,840 --> 00:07:00,880
+to help our car stay on the road and not
+
+185
+00:06:58,639 --> 00:07:03,039
+do this thing okay
+
+186
+00:07:00,880 --> 00:07:04,720
+so to understand this situation and know
+
+187
+00:07:03,039 --> 00:07:06,800
+what's going on let's put a bit more on
+
+188
+00:07:04,720 --> 00:07:08,720
+detail onto this so catch up draw this
+
+189
+00:07:06,800 --> 00:07:12,360
+diagram and let's start to label some
+
+190
+00:07:08,720 --> 00:07:12,360
+bits onto it
+
+191
+00:07:18,319 --> 00:07:22,240
+we've got our normal force there
+
+192
+00:07:20,960 --> 00:07:23,360
+what's another force that's acting on
+
+193
+00:07:22,240 --> 00:07:26,960
+this thing
+
+194
+00:07:23,360 --> 00:07:26,960
+gravity good so let's put that on
+
+195
+00:07:28,479 --> 00:07:33,440
+okay there you go
+
+196
+00:07:31,360 --> 00:07:35,680
+now it's um it is circular you don't
+
+197
+00:07:33,440 --> 00:07:37,440
+need to have all of i mean you know we
+
+198
+00:07:35,680 --> 00:07:39,120
+talked about a car doing laps around a
+
+199
+00:07:37,440 --> 00:07:40,880
+circular track but that's not usually
+
+200
+00:07:39,120 --> 00:07:42,400
+what's happening usually we want to
+
+201
+00:07:40,880 --> 00:07:43,520
+actually do a turn and not just go round
+
+202
+00:07:42,400 --> 00:07:46,000
+and round and round
+
+203
+00:07:43,520 --> 00:07:48,319
+but there is still for this arc right
+
+204
+00:07:46,000 --> 00:07:50,639
+there is still a center to this okay
+
+205
+00:07:48,319 --> 00:07:51,919
+now watch out there's a couple there's
+
+206
+00:07:50,639 --> 00:07:52,960
+lots of different centers that i can
+
+207
+00:07:51,919 --> 00:07:54,800
+talk about here because there are lots
+
+208
+00:07:52,960 --> 00:07:57,840
+of different circles that i could draw
+
+209
+00:07:54,800 --> 00:08:00,319
+for instance here is a um a center of
+
+210
+00:07:57,840 --> 00:08:02,240
+the circle and it's on the flat of the
+
+211
+00:08:00,319 --> 00:08:03,440
+ground okay not on the higher banked
+
+212
+00:08:02,240 --> 00:08:05,759
+part right
+
+213
+00:08:03,440 --> 00:08:07,440
+but it's not very useful to us this this
+
+214
+00:08:05,759 --> 00:08:09,280
+particular center is not very useful to
+
+215
+00:08:07,440 --> 00:08:11,120
+us because if you're driving along in
+
+216
+00:08:09,280 --> 00:08:12,560
+your car right
+
+217
+00:08:11,120 --> 00:08:14,879
+so here's my car
+
+218
+00:08:12,560 --> 00:08:15,919
+and um you're driving along this road
+
+219
+00:08:14,879 --> 00:08:18,639
+okay
+
+220
+00:08:15,919 --> 00:08:20,240
+the center of the mass of the car right
+
+221
+00:08:18,639 --> 00:08:22,639
+should be on the center of the road and
+
+222
+00:08:20,240 --> 00:08:24,560
+that's why i've drawn my object and all
+
+223
+00:08:22,639 --> 00:08:27,039
+the forces acting on it i've drawn it at
+
+224
+00:08:24,560 --> 00:08:28,800
+the center there okay now that's raised
+
+225
+00:08:27,039 --> 00:08:31,120
+off the ground can you see that so
+
+226
+00:08:28,800 --> 00:08:33,039
+therefore i'm going to raise the center
+
+227
+00:08:31,120 --> 00:08:35,360
+that i'm interested in also off the
+
+228
+00:08:33,039 --> 00:08:37,680
+ground so something like here i'm
+
+229
+00:08:35,360 --> 00:08:37,680
+guessing
+
+230
+00:08:38,159 --> 00:08:43,440
+so there is the actual center of motion
+
+231
+00:08:41,039 --> 00:08:45,040
+if i picture a horizontal circle now it
+
+232
+00:08:43,440 --> 00:08:47,519
+lines up like this this would be the
+
+233
+00:08:45,040 --> 00:08:47,519
+radius
+
+234
+00:08:48,880 --> 00:08:53,120
+there's the radius of the actual
+
+235
+00:08:50,720 --> 00:08:54,399
+circular motion okay
+
+236
+00:08:53,120 --> 00:08:57,519
+i'll
+
+237
+00:08:54,399 --> 00:08:59,600
+mark that as the center okay
+
+238
+00:08:57,519 --> 00:09:01,600
+we need to know what angle this is
+
+239
+00:08:59,600 --> 00:09:03,040
+embedded at so i'll call this angle over
+
+240
+00:09:01,600 --> 00:09:05,360
+here theta
+
+241
+00:09:03,040 --> 00:09:06,640
+this is at a right angle
+
+242
+00:09:05,360 --> 00:09:07,519
+got a height
+
+243
+00:09:06,640 --> 00:09:10,320
+here
+
+244
+00:09:07,519 --> 00:09:11,680
+of the raised edge
+
+245
+00:09:10,320 --> 00:09:13,120
+and then lastly we need to know the
+
+246
+00:09:11,680 --> 00:09:15,920
+width of the road
+
+247
+00:09:13,120 --> 00:09:20,160
+so we'll call that
+
+248
+00:09:15,920 --> 00:09:20,160
+d for distance okay
