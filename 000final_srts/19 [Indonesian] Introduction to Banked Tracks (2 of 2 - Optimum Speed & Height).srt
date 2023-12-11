@@ -1,0 +1,1111 @@
+1
+00:00:00,320 --> 00:00:03,360
+ini... kamu tahu, aku tahu itu bukan
+
+2
+00:00:01,839 --> 00:00:04,720
+pendulum berbentuk kerucut tetapi kita masih
+
+3
+00:00:03,360 --> 00:00:07,359
+mengalami hal yang sama kita telah
+
+4
+00:00:04,720 --> 00:00:09,440
+menggambar diagram dengan benar aku telah memasukkan
+
+5
+00:00:07,359 --> 00:00:12,719
+gaya fisik yang ada di sana
+
+6
+00:00:09,440 --> 00:00:16,240
+apa yang harus aku lakukan selanjutnya
+
+7
+00:00:12,719 --> 00:00:19,199
+langkah pertama adalah menggambar langkah kedua adalah
+
+8
+00:00:16,240 --> 00:00:20,400
+trigonometri dan geometri sehingga aku dapat mengerjakan
+
+9
+00:00:19,199 --> 00:00:21,920
+hal seperti ini ketika aku mulai
+
+10
+00:00:20,400 --> 00:00:23,920
+menyelesaikan gaya-gayanya, ke arah mana 
+
+11
+00:00:21,920 --> 00:00:25,279
+semuanya menghadap, jadi yang akan aku
+
+12
+00:00:23,920 --> 00:00:27,439
+lakukan adalah aku hanya akan mengambil bagian dari
+
+13
+00:00:25,279 --> 00:00:29,439
+diagram ini, bagian ini di mana gaya-gaya
+
+14
+00:00:27,439 --> 00:00:32,480
+ditarik secara terpisah sehingga aku
+
+15
+00:00:29,439 --> 00:00:32,480
+dapat memahaminya sedikit lebih baik
+
+16
+00:00:43,440 --> 00:00:48,079
+oke jadi ada gaya normal
+
+17
+00:00:46,239 --> 00:00:49,440
+sekarang ke arah mana
+
+18
+00:00:48,079 --> 00:00:51,280
+semua gaya dan semua
+
+19
+00:00:49,440 --> 00:00:52,640
+besarannya pergi ketika aku mulai menyelesaikan
+
+20
+00:00:51,280 --> 00:00:54,239
+masalah ini oke jadi jika kamu punya beberapa
+
+21
+00:00:52,640 --> 00:00:55,600
+warna di sana
+
+22
+00:00:54,239 --> 00:00:59,399
+kamu dapat melihat ada
+
+23
+00:00:55,600 --> 00:00:59,399
+komponen horizontal seperti ini
+
+24
+00:01:01,199 --> 00:01:04,799
+dan kamu dapat melihat secara penting bahwa
+
+25
+00:01:03,199 --> 00:01:07,040
+komponen horizontal dari gaya normal ini
+
+26
+00:01:04,799 --> 00:01:08,479
+adalah sentripetal, ia mengarah ke o
+
+27
+00:01:07,040 --> 00:01:10,799
+jadi bagus itulah yang kita ingin
+
+28
+00:01:08,479 --> 00:01:12,400
+lakukan, jadi aku akan menyelesaikannya
+
+29
+00:01:10,799 --> 00:01:13,439
+sebentar lagi...
+
+30
+00:01:12,400 --> 00:01:14,960
+dan kemudian kamu mendapatkan
+
+31
+00:01:13,439 --> 00:01:17,439
+komponen vertikal yang bergerak seperti yang kamu
+
+32
+00:01:14,960 --> 00:01:17,439
+harapkan
+
+33
+00:01:22,240 --> 00:01:26,240
+baiklah
+
+34
+00:01:23,439 --> 00:01:28,320
+jadi lihat bersama aku
+
+35
+00:01:26,240 --> 00:01:32,720
+sudut apa yang bisa kita gunakan
+
+36
+00:01:28,320 --> 00:01:32,720
+di sini apa yang bisa kita manfaatkan
+
+37
+00:01:34,799 --> 00:01:38,799
+jadi ada beberapa garis yang paralel,
+
+38
+00:01:36,799 --> 00:01:40,400
+ada beberapa sudut berseberangan jika
+
+39
+00:01:38,799 --> 00:01:44,000
+kamu melakukan PRmu aku yakin kamu pasti tahu
+
+40
+00:01:40,400 --> 00:01:46,399
+kamu tahu di atas sini kamu akan mempunyai
+
+41
+00:01:44,000 --> 00:01:47,920
+tetha sudut berseberangan dan karena ini
+
+42
+00:01:46,399 --> 00:01:49,840
+adalah normalnya itu berarti
+
+43
+00:01:47,920 --> 00:01:52,640
+keduanya saling melengkapi jadi aku punya
+
+44
+00:01:49,840 --> 00:01:55,200
+90 dikurangi theta disana,
+
+45
+00:01:52,640 --> 00:01:58,159
+90 dikurangi theta 90 itu berarti theta
+
+46
+00:01:55,200 --> 00:01:58,159
+ada di sudut ini
+
+47
+00:01:58,479 --> 00:02:02,640
+oke dengan sudut alternatif yang sama kamu
+
+48
+00:02:00,399 --> 00:02:04,479
+bisa melihat theta akan ada di sini oke dan
+
+49
+00:02:02,640 --> 00:02:06,399
+hanya itu yang kamu perlukan untuk mengetahui berapa
+
+50
+00:02:04,479 --> 00:02:08,479
+besaran semua gaya oke
+
+51
+00:02:06,399 --> 00:02:10,560
+misalnya yang vertikal
+
+52
+00:02:08,479 --> 00:02:12,160
+kamu punya sisi samping dan kamu punya
+
+53
+00:02:10,560 --> 00:02:13,440
+sisi miring, kita telah melihat ini beberapa kali
+
+54
+00:02:12,160 --> 00:02:14,959
+sebelumnya, kita sudah mulai terbiasa dengan
+
+55
+00:02:13,440 --> 00:02:16,080
+ini, jelas ini akan menjadi n plus
+
+56
+00:02:14,959 --> 00:02:16,959
+theta
+
+57
+00:02:16,080 --> 00:02:20,720
+benar?
+
+58
+00:02:16,959 --> 00:02:23,840
+dan sebaliknya kamu akan memiliki n sin theta
+
+59
+00:02:20,720 --> 00:02:23,840
+dalam arah horizontal
+
+60
+00:02:25,040 --> 00:02:28,720
+jadi sekarang aku telah menyelesaikan semuanya sekarang aku
+
+61
+00:02:26,959 --> 00:02:30,480
+dapat meletakkannya dalam bentuk vertikal dan
+
+62
+00:02:28,720 --> 00:02:31,840
+horizontal dan berkata baik secara vertikal aku
+
+63
+00:02:30,480 --> 00:02:34,160
+tidak ingin naik dan turun tetapi
+
+64
+00:02:31,840 --> 00:02:35,599
+secara horizontal aku akan berada dalam lingkaran ini
+
+65
+00:02:34,160 --> 00:02:38,160
+jadi secara
+
+66
+00:02:35,599 --> 00:02:38,160
+vertikal
+
+67
+00:02:39,519 --> 00:02:44,640
+n cos theta akan mengarah naik dan
+
+68
+00:02:41,680 --> 00:02:48,000
+mg turun, dan keduanya
+
+69
+00:02:44,640 --> 00:02:52,319
+harusnya sama satu sama lain jadi
+
+70
+00:02:48,000 --> 00:02:53,760
+n cos theta sama dengan mg
+
+71
+00:02:52,319 --> 00:02:56,720
+tidak ada yang terlalu dramatis di sana apa yang
+
+72
+00:02:53,760 --> 00:02:56,720
+terjadi secara horizontal
+
+73
+00:03:03,440 --> 00:03:07,680
+kamu hanya mendapat satu gaya yang bekerja secara
+
+74
+00:03:05,280 --> 00:03:10,800
+horizontal saat ini oke
+
+75
+00:03:07,680 --> 00:03:13,599
+jadi kamu punya n sin theta dan itu
+
+76
+00:03:10,800 --> 00:03:15,440
+mengarah ke tengah sehingga seharusnya
+
+77
+00:03:13,599 --> 00:03:17,519
+sama dengan... sekarang
+
+78
+00:03:15,440 --> 00:03:19,920
+kita terbiasa menulis mr omega kuadrat
+
+79
+00:03:17,519 --> 00:03:21,519
+terlebih dahulu tetapi karena ini adalah
+
+80
+00:03:19,920 --> 00:03:24,080
+jalur tanggul dan kita sedang memikirkan lebih banyak
+
+81
+00:03:21,519 --> 00:03:25,680
+tentang mobil kan, kita tidak melihat... kita
+
+82
+00:03:24,080 --> 00:03:27,599
+biasanya tidak berkendara seperti oh wow aku
+
+83
+00:03:25,680 --> 00:03:30,560
+mengambil tikungan ini, kamu tahu pi per
+
+84
+00:03:27,599 --> 00:03:32,560
+tiga radian per detik jadi mungkin
+
+85
+00:03:30,560 --> 00:03:34,319
+daripada mr omega kuadrat kita akan melakukan m
+
+86
+00:03:32,560 --> 00:03:36,560
+v dikuadratkan per r oke menurutku itu
+
+87
+00:03:34,319 --> 00:03:37,760
+lebih masuk akal
+
+88
+00:03:36,560 --> 00:03:40,000
+oke karena kita akan mengetahui kecepatan linier
+
+89
+00:03:40,000 --> 00:03:44,000
+sekarang ini adalah
+
+90
+00:03:41,440 --> 00:03:46,560
+dunia yang ideal oke kita berkeliling dan
+
+91
+00:03:44,000 --> 00:03:48,239
+satu-satunya gaya yang bekerja saling
+
+92
+00:03:46,560 --> 00:03:49,840
+menyeimbangkan satu sama lain kamu akan
+
+93
+00:03:48,239 --> 00:03:52,000
+segera melihat apa yang terjadi ketika kasusnya bukan
+
+94
+00:03:49,840 --> 00:03:54,560
+seperti itu.
+
+95
+00:03:52,000 --> 00:03:56,560
+tapi aku ingin berlatih dengan baik berapa
+
+96
+00:03:54,560 --> 00:03:57,439
+kecepatan yang harus aku ambil di tikungan ini
+
+97
+00:03:56,560 --> 00:03:59,519
+oke
+
+98
+00:03:57,439 --> 00:04:01,280
+jadi bagaimana aku akan menyelesaikannya aku
+
+99
+00:03:59,519 --> 00:04:04,239
+punya v kuadrat di sana itulah yang ingin aku
+
+100
+00:04:01,280 --> 00:04:05,439
+kerjakan oke jadi jika aku menyebut yang ini
+
+101
+00:04:04,239 --> 00:04:07,920
+dan menyebut dua ini, ke
+
+102
+00:04:09,280 --> 00:04:14,480
+arah mana aku harus pergi dan apa yang harus aku
+
+103
+00:04:11,120 --> 00:04:17,120
+lakukan, haruskah aku menambahkan, mengurangi...
+
+104
+00:04:14,480 --> 00:04:17,120
+ada yang tahu? 
+
+105
+00:04:18,880 --> 00:04:23,040
+cara paling baik untuk mendapatkan v
+
+106
+00:04:21,440 --> 00:04:25,040
+kuadrat dan semacam persamaan sederhana yang bagus
+
+107
+00:04:23,040 --> 00:04:27,600
+hanya untuk v kuadrat dan kemudian
+
+108
+00:04:25,040 --> 00:04:29,120
+v
+
+109
+00:04:27,600 --> 00:04:30,320
+aku pikir kita harus membaginya kan?
+
+110
+00:04:29,120 --> 00:04:32,400
+benar, karena itu akan menghilangkan
+
+111
+00:04:30,320 --> 00:04:34,000
+ujung-ujungnya itu akan menghilangkan m
+
+112
+00:04:32,400 --> 00:04:35,600
+uh dan kamu bisa jika kamu melakukannya dengan cara ini
+
+113
+00:04:34,000 --> 00:04:37,759
+kamu hanya akan mendapatkan 10, yang
+
+114
+00:04:35,600 --> 00:04:40,240
+akan berguna untuk dirinya sendiri jadi
+
+115
+00:04:37,759 --> 00:04:43,120
+jika aku membagi jadi aku seharusnya mengatakan 2
+
+116
+00:04:40,240 --> 00:04:45,280
+dibagi 1. ujungnya akan habis dibagi, kamu
+
+117
+00:04:43,120 --> 00:04:49,360
+hanya akan mendapatkan m itu juga akan habis dibagi, apa yang
+
+118
+00:04:45,280 --> 00:04:50,800
+akan aku dapatkan v kuadrat per gr
+
+119
+00:04:50,800 --> 00:04:55,360
+baiklah
+
+120
+00:04:52,560 --> 00:04:59,600
+jadi sekarang jika aku mengatur ulang ini
+
+121
+00:04:55,360 --> 00:05:01,440
+sedikit, v kuadrat sama dengan gr tan theta oke
+
+122
+00:04:59,600 --> 00:05:04,080
+letakkan kotak di sekelilingnya
+
+123
+00:05:01,440 --> 00:05:07,039
+letakkan kotak di sekeliling ini karena
+
+124
+00:05:04,080 --> 00:05:10,080
+ini memberitahu kamu adalah kecepatan optimal
+
+125
+00:05:07,039 --> 00:05:12,000
+untuk mengambil belokan ini. ini adalah kecepatan optimalnya,
+
+126
+00:05:10,080 --> 00:05:15,120
+semuanya dikuadratkan jadi
+
+127
+00:05:12,000 --> 00:05:17,440
+tidak masalah dalam kasus ini oke
+
+128
+00:05:15,120 --> 00:05:18,800
+ini adalah p optimal mengingat radius
+
+129
+00:05:17,440 --> 00:05:20,960
+jalannya,
+
+130
+00:05:18,800 --> 00:05:23,840
+atau lekukan jalan dan berapa pun
+
+131
+00:05:20,960 --> 00:05:27,440
+sudut jalan yang kamu belok
+
+132
+00:05:23,840 --> 00:05:29,440
+saat ini, tidak apa-apa, itu bagus um, tapi
+
+133
+00:05:27,440 --> 00:05:31,600
+itu semacam asumsi bahwa jalan tersebut
+
+134
+00:05:29,440 --> 00:05:33,120
+sudah ada di sana seolah-olah memiliki radius tertentu.
+
+135
+00:05:31,600 --> 00:05:35,520
+ia akan melangkah sejauh itu dan kamu dapat
+
+136
+00:05:33,120 --> 00:05:38,160
+mengukur sudutnya, jika aku
+
+137
+00:05:35,520 --> 00:05:40,080
+seorang perancang jalan, aku sebenarnya berada dalam
+
+138
+00:05:38,160 --> 00:05:41,440
+posisi di mana aku dapat memutuskan
+
+139
+00:05:41,440 --> 00:05:45,360
+ini, jadi aku
+
+140
+00:05:43,600 --> 00:05:47,039
+melihatnya dari sudut pandang yang sangat berbeda.
+
+141
+00:05:45,360 --> 00:05:49,199
+aku sedang membuat jalan dan aku
+
+142
+00:05:47,039 --> 00:05:50,479
+berpikir hmm seberapa jauh aku harus buat tanggul
+
+143
+00:05:49,199 --> 00:05:51,759
+ini oke
+
+144
+00:05:50,479 --> 00:05:53,600
+karena aku bisa, kamu tahu aku bisa menaruh
+
+145
+00:05:51,759 --> 00:05:55,520
+berapa pun jumlah tanah dan beton serta
+
+146
+00:05:53,600 --> 00:05:57,199
+bahan-bahan lain untuk membuat ketinggian seperti ini oke
+
+147
+00:05:55,520 --> 00:05:59,039
+jadi bagaimana aku akan melakukan ini, ini sedikit
+
+148
+00:05:57,199 --> 00:06:01,039
+trik aljabar yang bagus
+
+149
+00:05:59,039 --> 00:06:03,199
+ingat sudah kubilang um
+
+150
+00:06:01,039 --> 00:06:04,000
+diagram ini sebenarnya jauh dari skala
+
+151
+00:06:03,199 --> 00:06:06,080
+kan,
+
+152
+00:06:04,000 --> 00:06:08,160
+sudut ini tidak akan
+
+153
+00:06:06,080 --> 00:06:09,039
+terlalu tinggi dan ketika kamu memikirkannya
+
+154
+00:06:08,160 --> 00:06:10,240
+seperti
+
+155
+00:06:09,039 --> 00:06:11,520
+kamu memikirkan jalan yang telah kamu
+
+156
+00:06:10,240 --> 00:06:12,560
+lalui dan jika kamu pernah berada di
+
+157
+00:06:11,520 --> 00:06:14,160
+jalan raya
+
+158
+00:06:12,560 --> 00:06:17,520
+dan kamu pernah melihat istilah seperti ini,
+
+159
+00:06:14,160 --> 00:06:19,680
+tanjakannya akan sangat landai
+
+160
+00:06:17,520 --> 00:06:21,440
+untuk mengambil tikungan ini oke jadi dengan
+
+161
+00:06:19,680 --> 00:06:23,759
+kata lain kamu memiliki nilai theta yang kecil
+
+162
+00:06:28,319 --> 00:06:30,479
+oke
+
+163
+00:06:29,280 --> 00:06:32,479
+sekarang salah satu hal itu kamu mungkin
+
+164
+00:06:30,479 --> 00:06:34,800
+ingat saat pertama kali mengerjakan
+
+165
+00:06:32,479 --> 00:06:36,560
+trigonometri um maaf kalkulus
+
+166
+00:06:34,800 --> 00:06:40,240
+fungsi trigonometri
+
+167
+00:06:36,560 --> 00:06:42,560
+adalah tan theta, dan sin theta
+
+168
+00:06:40,240 --> 00:06:44,400
+sangat berdekatan untuk nilai
+
+169
+00:06:42,560 --> 00:06:46,720
+theta yang kecil kan karena sepertinya
+
+170
+00:06:44,400 --> 00:06:49,599
+aku akan menggunakan ruang kosong ini saja
+
+171
+00:06:46,720 --> 00:06:52,800
+di sini sin dan kemudian ini tan dan
+
+172
+00:06:49,599 --> 00:06:52,800
+kemudian itu sudah terlalu jauh ada
+
+173
+00:06:52,880 --> 00:06:57,840
+asimtot pi per dua
+
+174
+00:06:54,800 --> 00:06:59,599
+kan jadi di sini mereka hampir
+
+175
+00:06:57,840 --> 00:07:02,400
+sama atau perbedaan di antara
+
+176
+00:06:59,599 --> 00:07:05,440
+mereka dapat diabaikan oke jadi aku dapat mengatakan
+
+177
+00:07:02,400 --> 00:07:06,160
+sin theta akan menjadi kira-kira sama
+
+178
+00:07:05,440 --> 00:07:07,360
+dengan
+
+179
+00:07:06,160 --> 00:07:09,120
+tan theta
+
+180
+00:07:07,360 --> 00:07:10,639
+apakah itu benar?
+
+181
+00:07:09,120 --> 00:07:12,880
+oke sekarang yang akan aku lakukan adalah aku
+
+182
+00:07:10,639 --> 00:07:15,039
+akan menggantinya ke baris ini
+
+183
+00:07:12,880 --> 00:07:20,400
+mungkin aku akan menyebutnya tiga sehingga aku bisa melakukan
+
+184
+00:07:15,039 --> 00:07:20,400
+ini oke jadi aku akan sub menjadi
+
+185
+00:07:20,880 --> 00:07:24,479
+tiga, oke
+
+186
+00:07:22,880 --> 00:07:26,720
+jadi daripada tan theta di sini aku
+
+187
+00:07:24,479 --> 00:07:30,319
+akan mengatakan itu sin theta dan itu
+
+188
+00:07:26,720 --> 00:07:32,400
+kira-kira sama dengan v kuadrat per gr
+
+189
+00:07:30,319 --> 00:07:34,400
+cukup dekat, oke dan alasan mengapa
+
+190
+00:07:32,400 --> 00:07:36,400
+ini berguna alasan mengapa aku akan pergi
+
+191
+00:07:34,400 --> 00:07:39,360
+ke sin theta adalah karena aku tahu apa
+
+192
+00:07:36,400 --> 00:07:42,000
+sin theta dalam
+
+193
+00:07:39,360 --> 00:07:44,400
+jarak ini di sini
+
+194
+00:07:42,000 --> 00:07:46,160
+sisi miringnya adalah d dan
+
+195
+00:07:44,400 --> 00:07:48,960
+sisi berlawanan dari sudut ini adalah h itulah yang aku
+
+196
+00:07:46,160 --> 00:07:54,639
+coba cari kan jadi ini benar-benar
+
+197
+00:07:48,960 --> 00:07:54,639
+sama dengan kebalikan dari sisi miring jadi ya
+
+198
+00:07:56,800 --> 00:08:00,879
+oke sekarang aku temukan perancang jalan dan aku
+
+199
+00:07:58,639 --> 00:08:02,800
+ingin mencari tahu seberapa tinggi aku harus membangun
+
+200
+00:08:00,879 --> 00:08:04,960
+tanggul ini... aku hanya perlu
+
+201
+00:08:02,800 --> 00:08:07,840
+mengalikan d
+
+202
+00:08:04,960 --> 00:08:08,800
+dan kemudian melihat apa yang kita dapatkan di sini
+
+203
+00:08:07,840 --> 00:08:11,199
+oke
+
+204
+00:08:08,800 --> 00:08:13,120
+sebelum kita memiliki kecepatan optimal, itu
+
+205
+00:08:11,199 --> 00:08:14,560
+jika jalan kamu sudah ada di sana
+
+206
+00:08:13,120 --> 00:08:16,400
+dan sudah diberikan radius pada
+
+207
+00:08:14,560 --> 00:08:17,599
+sudut tertentu oke tetapi jika kamu berada di
+
+208
+00:08:16,400 --> 00:08:19,599
+posisi berlawanan, kamu seperti "aku dapat
+
+209
+00:08:17,599 --> 00:08:22,400
+memutuskan jalan yang aku inginkan" maka
+
+210
+00:08:19,599 --> 00:08:22,400
+garis ini
+
+211
+00:08:22,479 --> 00:08:27,840
+akan memberi kamu
+
+212
+00:08:25,120 --> 00:08:27,840
+ketinggian
+
+213
+00:08:28,000 --> 00:08:31,919
+tanggul yang optimal oke sekarang perhatikan apa yang
+
+214
+00:08:29,919 --> 00:08:33,519
+bergantung
+
+215
+00:08:31,919 --> 00:08:36,159
+padanya, itu tergantung pada... mari mulai dari bawah
+
+216
+00:08:33,519 --> 00:08:38,000
+itu bergantung dengan r, itulah 
+
+217
+00:08:36,159 --> 00:08:39,760
+radius baris ini yang mungkin akan
+
+218
+00:08:38,000 --> 00:08:41,039
+diputuskan untukmu, dewannya akan berkata
+
+219
+00:08:39,760 --> 00:08:43,519
+"lihat, ke sinilah jalan
+
+220
+00:08:41,039 --> 00:08:46,160
+harus dilalui", jadi mereka menyediakannya untukmu
+
+221
+00:08:43,519 --> 00:08:48,480
+tergantung pada konstanta gravitasi tergantung pada d, 
+
+222
+00:08:46,160 --> 00:08:50,480
+apa itu d? 
+
+223
+00:08:48,480 --> 00:08:52,000
+lebar jalan bukan?
+
+224
+00:08:50,480 --> 00:08:53,519
+lagi sudah diputuskan untukmu bilang oke
+
+225
+00:08:52,000 --> 00:08:55,440
+baiklah lihat kita perlu tiga jalur untuk
+
+226
+00:08:53,519 --> 00:08:56,560
+jalan raya ini atau itu satu jalur atau apa pun
+
+227
+00:08:55,440 --> 00:09:00,080
+oke
+
+228
+00:08:56,560 --> 00:09:02,320
+sekarang bagian terakhirnya adalah v-persegi kan jadi kelihatan
+
+229
+00:09:00,080 --> 00:09:04,080
+seperti jika kamu tahu
+
+230
+00:09:02,320 --> 00:09:06,720
+di mana jalan kamu harus seberapa lebar kamu
+
+231
+00:09:04,080 --> 00:09:09,760
+tahu gravitasi dan kemudian jika kamu tahu
+
+232
+00:09:06,720 --> 00:09:11,920
+kecepatan yang diperlukan atau jika kamu ingin
+
+233
+00:09:09,760 --> 00:09:12,959
+kecepatan optimal tertentu seperti katakan oh aku
+
+234
+00:09:11,920 --> 00:09:15,600
+tidak tahu
+
+235
+00:09:12,959 --> 00:09:18,000
+batas kecepatan
+
+236
+00:09:15,600 --> 00:09:19,600
+kan kamu bilang lihat ini berada di jalan raya
+
+237
+00:09:18,000 --> 00:09:22,080
+orang harus mengambil tikungan ini dengan kecepatan
+
+238
+00:09:19,600 --> 00:09:23,440
+110 kilometer per jam bukannya
+
+239
+00:09:22,080 --> 00:09:24,959
+berada di posisi ini di mana kamu adalah
+
+240
+00:09:23,440 --> 00:09:27,040
+pengemudinya dan kamu berpikir seberapa cepat aku harus
+
+241
+00:09:24,959 --> 00:09:28,959
+melaju kamu berada di posisi ini kamu berkata lihat,
+
+242
+00:09:27,040 --> 00:09:30,399
+aku tahu seberapa cepat mereka harus pergi dan jadi
+
+243
+00:09:28,959 --> 00:09:32,080
+aku akan mensubstitusikannya ke sini
+
+244
+00:09:30,399 --> 00:09:34,080
+dan mengambil ketinggian apakah itu masuk
+
+245
+00:09:32,080 --> 00:09:35,519
+akal?
+
+246
+00:09:34,080 --> 00:09:39,200
+oke
+
+247
+00:09:35,519 --> 00:09:39,200
+jadi ini semua dalam dunia yang ideal
+
+248
+00:09:42,320 --> 00:09:46,480
+di mana semuanya dioptimalkan dan
+
+249
+00:09:44,080 --> 00:09:48,160
+semuanya bagus dan sempurna,
+
+250
+00:09:46,480 --> 00:09:49,760
+kecepatan optimal, tinggi optimal untuk
+
+251
+00:09:48,160 --> 00:09:52,000
+semuanya
+
+252
+00:09:49,760 --> 00:09:52,880
+tapi kita tidak hidup di dunia yang ideal,
+
+253
+00:09:52,000 --> 00:09:54,320
+bukan?
+
+254
+00:09:52,880 --> 00:09:56,480
+orang-orang mengambil tikungan dengan kecepatan yang berbeda-beda,
+
+255
+00:09:56,480 --> 00:10:01,839
+orang-orang mempunyai mobil dengan massa yang berbeda-beda
+
+256
+00:09:59,680 --> 00:10:04,720
+oke jadi apa yang akan terjadi adalah
+
+257
+00:10:01,839 --> 00:10:07,040
+misalnya kamu tahu um, misalkan ini adalah
+
+258
+00:10:04,720 --> 00:10:09,360
+sudut di sini, dan aku hanya
+
+259
+00:10:07,040 --> 00:10:11,920
+sedikit lebih gegabah daripada kamu jadi aku
+
+260
+00:10:09,360 --> 00:10:14,079
+pikir batas kecepatannya oke 110 aku langsung saja
+
+261
+00:10:11,920 --> 00:10:15,440
+dan aku ambil 110. tapi
+
+262
+00:10:14,079 --> 00:10:17,360
+semua orang seperti orang normal
+
+263
+00:10:15,440 --> 00:10:19,200
+lihat betapa ketatnya tikungan itu
+
+264
+00:10:17,360 --> 00:10:20,640
+sehingga orang-orang akan
+
+265
+00:10:19,200 --> 00:10:22,399
+melambat ketika mereka mendekatinya, mungkin 90
+
+266
+00:10:20,640 --> 00:10:25,279
+kilometer per jam oke
+
+267
+00:10:22,399 --> 00:10:27,600
+uh atau mungkin kamu punya mobil yang sangat berat
+
+268
+00:10:25,279 --> 00:10:29,040
+oke jadi ketika kamu punya mobil yang berat
+
+269
+00:10:27,600 --> 00:10:30,640
+akan ada lebih banyak gaya yang bertindak ke
+
+270
+00:10:29,040 --> 00:10:32,560
+arah ini ke arah ini kan
+
+271
+00:10:30,640 --> 00:10:34,399
+dan aku punya mobil ringan jadi itu akan
+
+272
+00:10:32,560 --> 00:10:36,399
+berjalan... jadi kita harus memperhitungkan semua
+
+273
+00:10:34,399 --> 00:10:38,480
+hal ini oke
+
+274
+00:10:36,399 --> 00:10:40,079
+jadi ini adalah dunia yang ideal
+
+275
+00:10:38,480 --> 00:10:42,079
+kamu bisa mengesampingkan semua itu kita akan
+
+276
+00:10:40,079 --> 00:10:43,920
+menggambar diagram baru untuk
+
+277
+00:10:42,079 --> 00:10:46,480
+dunia yang tidak ideal oke dan aku perlu lebih banyak
+
+278
+00:10:43,920 --> 00:10:46,480
+ruang lagi (Alih bahasa oleh Karel Bondan)

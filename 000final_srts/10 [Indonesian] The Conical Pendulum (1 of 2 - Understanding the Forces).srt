@@ -1,0 +1,1295 @@
+1
+00:00:00,560 --> 00:00:04,080
+oke dan um di awal
+
+2
+00:00:02,480 --> 00:00:07,200
+mekanika aku tunjukkan ini kan, aku bilang
+
+3
+00:00:04,080 --> 00:00:09,840
+oke lihat misalkan kamu punya berat
+
+4
+00:00:07,200 --> 00:00:13,040
+kan um kamu punya sebuah benda bermassa dan
+
+5
+00:00:09,840 --> 00:00:16,480
+digantung pada tali oke dan
+
+6
+00:00:13,040 --> 00:00:17,199
+jika benda itu berputar seperti ini um kamu punya
+
+7
+00:00:17,199 --> 00:00:21,199
+tegangan tali gravitasimu
+
+8
+00:00:19,199 --> 00:00:22,880
+dan bentuk yang
+
+9
+00:00:21,199 --> 00:00:25,359
+ditelusuri benda ini
+
+10
+00:00:22,880 --> 00:00:27,519
+adalah kerucut ini kan tapi disebut
+
+11
+00:00:25,359 --> 00:00:28,800
+pendulum berbentuk kerucut karena benda
+
+12
+00:00:27,519 --> 00:00:31,199
+yang sebenarnya bergerak adalah
+
+13
+00:00:28,800 --> 00:00:32,880
+pendulum dan sebenarnya bukan kerucut,
+
+14
+00:00:31,199 --> 00:00:34,640
+kita hanya membayangkan kerucut yang ada di
+
+15
+00:00:32,880 --> 00:00:36,800
+sana oke
+
+16
+00:00:34,640 --> 00:00:38,320
+jadi karena kita menggeneralisasi kita akan
+
+17
+00:00:36,800 --> 00:00:41,040
+memberi banyak label pada ini
+
+18
+00:00:38,320 --> 00:00:42,719
+dan karena kita memikirkan tentang gaya
+
+19
+00:00:41,040 --> 00:00:44,079
+dan banyak dimensi, semua hal semacam itu
+
+20
+00:00:42,719 --> 00:00:46,320
+akan ada banyak jadi cobalah untuk
+
+21
+00:00:44,079 --> 00:00:48,079
+tidak kewalahan, jadi di sinilah
+
+22
+00:00:46,320 --> 00:00:51,440
+kita akan mulai
+
+23
+00:00:48,079 --> 00:00:54,320
+ada partikel p
+
+24
+00:00:51,440 --> 00:00:56,399
+oke jadi apakah partikel p itu? 
+
+25
+00:00:54,320 --> 00:00:57,600
+kadang-kadang disebut juga sebagai bob,
+
+26
+00:00:56,399 --> 00:00:58,800
+um...
+
+27
+00:00:57,600 --> 00:01:00,399
+untungnya tidak ada robert di
+
+28
+00:00:58,800 --> 00:01:02,879
+kelas ini tapi bagaimanapun juga
+
+29
+00:01:00,399 --> 00:01:05,519
+partikel bob apa pun itu digantungkan di
+
+30
+00:01:02,879 --> 00:01:08,240
+ujung dari sebuah tali oke
+
+31
+00:01:05,519 --> 00:01:11,880
+massanya m kilo jadi aku akan
+
+32
+00:01:08,240 --> 00:01:11,880
+menuliskannya di sini
+
+33
+00:01:14,240 --> 00:01:18,720
+besarnya m kilo
+
+34
+00:01:16,400 --> 00:01:21,840
+dan panjang tali ini kita sebut
+
+35
+00:01:18,720 --> 00:01:24,080
+l untuk panjangnya oke jadi aku akan
+
+36
+00:01:21,840 --> 00:01:27,080
+melakukannya, tidak, aku akan terus menggerakkan warna ini
+
+37
+00:01:28,799 --> 00:01:33,759
+oke jadi panjangnya l
+
+38
+00:01:31,360 --> 00:01:35,680
+meter kan
+
+39
+00:01:33,759 --> 00:01:37,119
+uh itu tergantung dari titik tetap ini di
+
+40
+00:01:35,680 --> 00:01:39,119
+atas sini
+
+41
+00:01:37,119 --> 00:01:41,040
+titik tetap, oke...
+
+42
+00:01:39,119 --> 00:01:42,880
+secara alami akan disebut f untuk "tetap", tapi itu
+
+43
+00:01:41,040 --> 00:01:45,439
+gaya kita secara alami disebut p untuk
+
+44
+00:01:42,880 --> 00:01:47,759
+titik, tapi itu partikel jadi yang
+
+45
+00:01:45,439 --> 00:01:49,759
+perlu kita katakan, kamu bilang c aku tidak tahu, sebut saja seperti itu,
+
+46
+00:01:47,759 --> 00:01:50,720
+oke,
+
+47
+00:01:49,759 --> 00:01:53,520
+titik tetap di atas sana tempat benda itu
+
+48
+00:01:50,720 --> 00:01:56,159
+digantung.
+
+49
+00:01:53,520 --> 00:01:57,040
+Kita punya kecepatan sudut
+
+50
+00:01:57,040 --> 00:02:01,520
+omega tapi inilah masalahnya um
+
+51
+00:01:59,840 --> 00:02:04,000
+tanpa membuat seperti aku mencoba... 
+
+52
+00:02:01,520 --> 00:02:06,159
+sebelum membuat diagram ini sesederhana
+
+53
+00:02:04,000 --> 00:02:08,479
+mungkin aku kira jika kamu memasukkan
+
+54
+00:02:06,159 --> 00:02:10,879
+omega ke dalam diagram ini
+
+55
+00:02:08,479 --> 00:02:12,640
+maka akan berada di sini kan... 
+
+56
+00:02:10,879 --> 00:02:14,800
+sebenarnya mungkin bahkan di sini,
+
+57
+00:02:12,640 --> 00:02:16,319
+karena itu adalah perubahan
+
+58
+00:02:14,800 --> 00:02:18,959
+sudutnya kan
+
+59
+00:02:16,319 --> 00:02:21,040
+jadi apa yang kita dapatkan di sini
+
+60
+00:02:18,959 --> 00:02:23,200
+adalah o, yakni titik asal yang mana kamu
+
+61
+00:02:21,040 --> 00:02:24,400
+mempunyai lingkaran ini tentu saja
+
+62
+00:02:23,200 --> 00:02:26,000
+saat ini tidak terlihat melingkar karena kita
+
+63
+00:02:24,400 --> 00:02:28,400
+melihatnya dari sudut pandang ini tetapi
+
+64
+00:02:26,000 --> 00:02:30,000
+jika kita melihatnya dari atas ke bawah kamu mendapatkan sebuah
+
+65
+00:02:28,400 --> 00:02:31,840
+lingkaran oke
+
+66
+00:02:30,000 --> 00:02:33,680
+karena sumbu... bukan, bidang dari
+
+67
+00:02:31,840 --> 00:02:35,040
+lingkaran ini adalah horizontal kita menyebutnya
+
+68
+00:02:33,680 --> 00:02:37,280
+lingkaran horizontal yang merupakan
+
+69
+00:02:35,040 --> 00:02:38,879
+frasa aneh seperti siklus yang sama ke
+
+70
+00:02:37,280 --> 00:02:41,440
+mana pun mereka pergi, tetapi ini berbicara
+
+71
+00:02:38,879 --> 00:02:42,879
+tentang bidang di mana ia berada.
+
+72
+00:02:41,440 --> 00:02:46,239
+baik, hal lain apa yang kita
+
+73
+00:02:42,879 --> 00:02:48,000
+perlukan um, kamu punya
+
+74
+00:02:46,239 --> 00:02:50,640
+pusatnya, oh kita butuh radius kita butuh
+
+75
+00:02:48,000 --> 00:02:53,280
+radius jadi inilah radius
+
+76
+00:02:50,640 --> 00:02:56,879
+r meter dari pusat ke
+
+77
+00:02:53,280 --> 00:02:59,680
+ujung gerak oke
+
+78
+00:02:56,879 --> 00:03:01,120
+dan sekarang aku ingin mengajukan tiga pertanyaan
+
+79
+00:02:59,680 --> 00:03:04,120
+dan semuanya akan dalam istilah umum... 
+
+80
+00:03:09,599 --> 00:03:13,360
+pertama, kereta... dan kemudian apalah itu...
+
+81
+00:03:12,080 --> 00:03:15,360
+oke,
+
+82
+00:03:13,360 --> 00:03:17,680
+di sini tiga pertanyaan yang ingin aku
+
+83
+00:03:15,360 --> 00:03:19,760
+tanyakan oke
+
+84
+00:03:17,680 --> 00:03:21,280
+pertama-tama apa ketegangan
+
+85
+00:03:19,760 --> 00:03:23,360
+talinya? pertanyaan ini selalu diajukan kepadamu,
+
+86
+00:03:21,280 --> 00:03:24,080
+apa yang dimaksud t
+
+87
+00:03:24,080 --> 00:03:28,400
+untuk ketegangan? dapatkah kita mengevaluasinya dalam kaitannya
+
+88
+00:03:25,840 --> 00:03:29,599
+dengan semua hal yang ada di sini, oke
+
+89
+00:03:28,400 --> 00:03:32,239
+kedua um
+
+90
+00:03:29,599 --> 00:03:35,840
+sudut ini yang terbentuk di sini
+
+91
+00:03:32,239 --> 00:03:38,959
+sudut antara vertikal
+
+92
+00:03:35,840 --> 00:03:40,720
+dan tali oke
+
+93
+00:03:38,959 --> 00:03:43,680
+itu sudut apa dan ia 
+
+94
+00:03:40,720 --> 00:03:45,360
+bergantung dengan apa? apa yang membuat sudut itu...
+
+95
+00:03:43,680 --> 00:03:47,280
+kamu sebenarnya bisa mulai mengantisipasi
+
+96
+00:03:45,360 --> 00:03:50,000
+ini, apa yang membuat sudut itu...
+
+97
+00:03:47,280 --> 00:03:53,200
+cukup kecil, seperti pendulum berbentuk kerucut yang sempit
+
+98
+00:03:50,000 --> 00:03:55,360
+atau apa yang membuat sudut itu?
+
+99
+00:03:53,200 --> 00:03:57,360
+kenapa? ia bergantung dengan apa?
+
+100
+00:03:55,360 --> 00:04:00,080
+besaran apa yang mempengaruhinya? kamu bisa mulai
+
+101
+00:03:57,360 --> 00:04:02,720
+mengantisipasi beberapa jawaban kan jadi
+
+102
+00:04:00,080 --> 00:04:05,280
+hal kedua yang akan kita cari adalah
+
+103
+00:04:02,720 --> 00:04:06,400
+ekspresi untuk theta
+
+104
+00:04:05,280 --> 00:04:09,200
+oke
+
+105
+00:04:06,400 --> 00:04:11,040
+pertanyaan terakhir, berapa
+
+106
+00:04:09,200 --> 00:04:14,439
+tinggi keseluruhan sistem ini,
+
+107
+00:04:14,560 --> 00:04:18,799
+seberapa jauh pusat gerak melingkar
+
+108
+00:04:18,799 --> 00:04:22,880
+dari titik di mana tali
+
+109
+00:04:20,959 --> 00:04:26,680
+digantung?
+
+110
+00:04:22,880 --> 00:04:26,680
+berapa ketinggian ini di sini?
+
+111
+00:04:28,320 --> 00:04:33,440
+oke jadi inilah pertanyaannya
+
+112
+00:04:31,280 --> 00:04:35,360
+sekarang, di mana kita akan memulai
+
+113
+00:04:33,440 --> 00:04:36,720
+seperti biasanya ketika kita mengerjakan
+
+114
+00:04:35,360 --> 00:04:38,880
+pertanyaan mekanika, kita ingin mencari tahu di mana
+
+115
+00:04:36,720 --> 00:04:41,120
+semua gayanya, sekarang kamu benar-benar
+
+116
+00:04:38,880 --> 00:04:43,840
+memerlukan beberapa warna lagi di sini kan
+
+117
+00:04:41,120 --> 00:04:45,440
+um jenis gaya pertama yang paling mudah untuk
+
+118
+00:04:43,840 --> 00:04:47,199
+dikhawatirkan adalah gravitasi karena gravitasi
+
+119
+00:04:45,440 --> 00:04:49,440
+selalu hampir sama,
+
+120
+00:04:47,199 --> 00:04:50,560
+selalu pergi dari partikel. ngomong-ngomong
+
+121
+00:04:49,440 --> 00:04:53,520
+semua gaya akan
+
+122
+00:04:50,560 --> 00:04:54,639
+dipusatkan di sini dari partikel ke bawah
+
+123
+00:04:53,520 --> 00:04:56,960
+tidak apa-apa,
+
+124
+00:04:54,639 --> 00:04:58,960
+sebenarnya aku harus melakukannya dalam... oh tidak
+
+125
+00:04:56,960 --> 00:05:01,039
+warna itu seharusnya  meskipun um sekarang
+
+126
+00:04:58,960 --> 00:05:04,639
+berapa gaya gravitasi dalam
+
+127
+00:05:01,039 --> 00:05:06,639
+situasi ini? aku punya massa m kilo
+
+128
+00:05:04,639 --> 00:05:08,880
+gravitasi tidak didefinisikan untuk kamu sebagai 9,8 atau
+
+129
+00:05:06,639 --> 00:05:11,120
+10 kita bisa menyebutnya g jadi
+
+130
+00:05:08,880 --> 00:05:14,080
+besarnya gaya ini akan menjadi
+
+131
+00:05:11,120 --> 00:05:17,120
+mg, cukup sederhana..
+
+132
+00:05:14,080 --> 00:05:20,000
+oke sehingga mudah untuk disesuaikan,
+
+133
+00:05:17,120 --> 00:05:21,280
+tapi lalu apa gaya utama lain yang
+
+134
+00:05:20,000 --> 00:05:25,360
+berperan di sini?
+
+135
+00:05:21,280 --> 00:05:27,199
+dan di mana ia diletakkan pada diagram? ia
+
+136
+00:05:25,360 --> 00:05:29,360
+akan menjadi ketegangan 
+
+137
+00:05:27,199 --> 00:05:31,360
+tali yang akan aku coba temukan, oke
+
+138
+00:05:29,360 --> 00:05:34,320
+sekarang di mana ketegangan ini, di mana akan menjadi
+
+139
+00:05:31,360 --> 00:05:36,080
+tempat yang baik untuk mengilustrasikannya... 
+
+140
+00:05:34,320 --> 00:05:37,280
+ia harus datang... ia bekerja pada
+
+141
+00:05:36,080 --> 00:05:38,960
+partikel benar jadi aku akan mulai
+
+142
+00:05:37,280 --> 00:05:41,199
+dari sini dan itu akan ke
+
+143
+00:05:38,960 --> 00:05:43,840
+arah kembali ke atas ke mana pun
+
+144
+00:05:41,199 --> 00:05:46,240
+tali itu diikatkan, oke jadi aku punya misalnya
+
+145
+00:05:46,240 --> 00:05:50,320
+aku mungkin melakukannya seperti itu
+
+146
+00:05:48,400 --> 00:05:54,080
+oke
+
+147
+00:05:50,320 --> 00:05:55,759
+jadi jangan bingung um ketegangan ini
+
+148
+00:05:54,080 --> 00:05:57,680
+dengan keseluruhan panjangnya dari
+
+149
+00:05:55,759 --> 00:05:58,960
+tali itu hanya gaya yang menarik ke
+
+150
+00:05:57,680 --> 00:06:01,919
+arah yang sama dengan
+
+151
+00:05:58,960 --> 00:06:02,880
+tarikan tali itu oke
+
+152
+00:06:01,919 --> 00:06:04,479
+sekarang yang
+
+153
+00:06:02,880 --> 00:06:06,479
+perlu kita
+
+154
+00:06:04,479 --> 00:06:08,880
+kerjakan di sini adalah
+
+155
+00:06:06,479 --> 00:06:11,039
+gaya apa yang ada pada
+
+156
+00:06:08,880 --> 00:06:13,440
+partikelnya? gaya apa saja? 
+
+157
+00:06:11,039 --> 00:06:16,160
+jadi kita akan mulai dengan yang sederhana
+
+158
+00:06:13,440 --> 00:06:18,319
+berapakah gaya vertikal yang ada pada benda tersebut sekarang aku
+
+159
+00:06:16,160 --> 00:06:22,240
+berpikir tentang gaya resultan
+
+160
+00:06:18,319 --> 00:06:22,240
+jadi secara vertikal
+
+161
+00:06:22,960 --> 00:06:27,039
+seberapa jauh gaya tersebut bergerak ke atas dan ke bawah
+
+162
+00:06:24,960 --> 00:06:29,440
+seiring berjalannya waktu
+
+163
+00:06:27,039 --> 00:06:31,360
+jawabannya tidak bergerak ke atas atau ke bawah sama sekali
+
+164
+00:06:29,440 --> 00:06:33,440
+hanya bergerak dalam lingkaran horizontal ini
+
+165
+00:06:31,360 --> 00:06:37,440
+hanya diam di bidang ini.
+
+166
+00:06:33,440 --> 00:06:39,520
+oke jadi secara vertikal tidak ada gerakan
+
+167
+00:06:37,440 --> 00:06:41,360
+oke dan itu memberitahumu bahwa
+
+168
+00:06:39,520 --> 00:06:42,400
+gaya ke bawah dari gravitasi ini
+
+169
+00:06:42,400 --> 00:06:47,280
+harus dilawan oleh gaya ke atas yang sama besar dan
+
+170
+00:06:44,960 --> 00:06:49,680
+berlawanan arah, dari mana
+
+171
+00:06:49,680 --> 00:06:53,199
+datangnya? tegangan, karena
+
+172
+00:06:51,440 --> 00:06:55,919
+tegangan ini diberi arah sehingga
+
+173
+00:06:53,199 --> 00:06:57,599
+akan ada bagian vertikal
+
+174
+00:06:55,919 --> 00:07:01,800
+dan akan ada
+
+175
+00:06:57,599 --> 00:07:01,800
+bagian horizontal, jadi mari kita gambarkan keduanya
+
+176
+00:07:04,080 --> 00:07:07,080
+um
+
+177
+00:07:30,400 --> 00:07:34,800
+oke jadi
+
+178
+00:07:32,720 --> 00:07:36,880
+sekarang kita setidaknya secara visual sudah
+
+179
+00:07:34,800 --> 00:07:38,479
+menyelesaikan gaya-gaya ini oke kita perlu
+
+180
+00:07:36,880 --> 00:07:40,160
+menggunakan sedikit geometri untuk mengetahui berapa
+
+181
+00:07:38,479 --> 00:07:41,759
+besar gaya-gaya tersebut, kita
+
+182
+00:07:40,160 --> 00:07:43,840
+telah mengetahui arahnya di sana, tetapi aku
+
+183
+00:07:41,759 --> 00:07:45,360
+ingin tahu seberapa besar gaya-gaya itu, jadi
+
+184
+00:07:43,840 --> 00:07:46,960
+kita akan melakukan trik yang sama seperti yang kita lakukan dengan
+
+185
+00:07:45,360 --> 00:07:49,280
+lingkaran pada bidang koordinat
+
+186
+00:07:46,960 --> 00:07:51,440
+sebelum kamu punya theta di sini kan
+
+187
+00:07:49,280 --> 00:07:53,919
+yang berarti theta seharusnya berada di...
+
+188
+00:07:51,440 --> 00:07:53,919
+di mana harusnya tetha itu berada?
+
+189
+00:07:55,039 --> 00:07:58,560
+ya, ya.. kamu punya
+
+190
+00:07:57,199 --> 00:08:02,240
+sudut alternatif di sini kan
+
+191
+00:07:58,560 --> 00:08:04,400
+jadi kamu punya di sini
+
+192
+00:08:02,240 --> 00:08:06,240
+kamu juga punya di sana, dan itu
+
+193
+00:08:04,400 --> 00:08:07,840
+artinya kamu juga punya, kamu juga punya
+
+194
+00:08:06,240 --> 00:08:10,879
+sudut-sudut yang bersesuaian kan, kamu
+
+195
+00:08:07,840 --> 00:08:12,720
+punya di sana oke
+
+196
+00:08:10,879 --> 00:08:15,919
+jadi itu artinya di segitiga ini
+
+197
+00:08:12,720 --> 00:08:17,360
+yang siku-siku oke
+
+198
+00:08:15,919 --> 00:08:20,080
+aku ingin tahu berapa besar
+
+199
+00:08:17,360 --> 00:08:21,599
+gaya vertikal ini oke itu ada di sisi samping,
+
+200
+00:08:20,080 --> 00:08:23,360
+itu ada di sisi samping, ini
+
+201
+00:08:21,599 --> 00:08:24,560
+sisi miringnya oke jadi kamu mungkin bisa
+
+202
+00:08:23,360 --> 00:08:28,479
+mengantisipasi kita sudah mengerjakan pertanyaan seperti
+
+203
+00:08:24,560 --> 00:08:28,479
+ini sebelumnya apa ini jadinya
+
+204
+00:08:29,440 --> 00:08:33,919
+t cos theta kan karena cos
+
+205
+00:08:31,360 --> 00:08:35,440
+theta adalah samping dibagi miring, jadi kamu
+
+206
+00:08:33,919 --> 00:08:38,120
+mengalikannya dengan sisi miring yaitu
+
+207
+00:08:35,440 --> 00:08:40,479
+t, jadi itu t cos
+
+208
+00:08:38,120 --> 00:08:41,919
+theta oke
+
+209
+00:08:40,479 --> 00:08:44,320
+dengan cara yang persis sama kamu dapat menggunakan
+
+210
+00:08:41,919 --> 00:08:46,160
+argumen yang sama untuk horizontalnya, kamu
+
+211
+00:08:44,320 --> 00:08:47,360
+akan mendapatkan t
+
+212
+00:08:46,160 --> 00:08:49,279
+sin theta
+
+213
+00:08:47,360 --> 00:08:50,240
+oke bagus sekali
+
+214
+00:08:49,279 --> 00:08:52,000
+sekarang mari
+
+215
+00:08:50,240 --> 00:08:53,519
+kita kembali ke mengapa kita berbicara
+
+216
+00:08:52,000 --> 00:08:55,600
+tentang vertikal horizontal di
+
+217
+00:08:53,519 --> 00:08:57,680
+sejak awal tadi? siapa yang bilang tidak ada gerakan?
+
+218
+00:08:55,600 --> 00:09:00,240
+jadi kamu... ini ke bawah, ini
+
+219
+00:08:57,680 --> 00:09:03,200
+ke atas, besarnya harus sama persis
+
+220
+00:09:00,240 --> 00:09:06,920
+satu sama lain oke jadi
+
+221
+00:09:03,200 --> 00:09:06,920
+itu berarti seperti ini
+
+222
+00:09:08,240 --> 00:09:11,279
+sejauh ini bagus
+
+223
+00:09:09,680 --> 00:09:13,120
+oke
+
+224
+00:09:11,279 --> 00:09:15,920
+secara horizontal apa yang terjadi jelas
+
+225
+00:09:13,120 --> 00:09:17,440
+sesuatu yang jauh lebih menarik
+
+226
+00:09:15,920 --> 00:09:19,120
+secara horizontal
+
+227
+00:09:17,440 --> 00:09:21,839
+karena itu lingkaran horizontal
+
+228
+00:09:19,120 --> 00:09:24,800
+ada gerak, gerak apa yang ada di situ?
+
+229
+00:09:21,839 --> 00:09:28,080
+gerak melingkar beraturan
+
+230
+00:09:24,800 --> 00:09:28,959
+oke jadi itu berarti aku dapat mengatakan
+
+231
+00:09:28,080 --> 00:09:33,120
+bahwa
+
+232
+00:09:28,959 --> 00:09:34,160
+gaya ke dalam ini, ini um, ini t
+
+233
+00:09:33,120 --> 00:09:37,839
+sin
+
+234
+00:09:34,160 --> 00:09:37,839
+theta, yang sama dengan...?
+
+235
+00:09:39,120 --> 00:09:42,959
+seharusnya sama dengan... kita sudah pernah membahas
+
+236
+00:09:40,800 --> 00:09:45,839
+ini kan, gayanya, 
+
+237
+00:09:42,959 --> 00:09:48,959
+gaya sentripetal kembali ke pusat itu m r
+
+238
+00:09:45,839 --> 00:09:51,360
+omega kuadrat sekarang hanya sedikit
+
+239
+00:09:48,959 --> 00:09:53,279
+titik referensi di sini um mr omega
+
+240
+00:09:51,360 --> 00:09:56,080
+kuadrat kanan itu gaya resultan kamu
+
+241
+00:09:53,279 --> 00:09:58,800
+pada partikel di bidang horizontal ini
+
+242
+00:09:56,080 --> 00:10:02,079
+oke tapi kamu tidak boleh
+
+243
+00:09:58,800 --> 00:10:04,720
+menempatkan tuan omega kuadrat pada
+
+244
+00:10:02,079 --> 00:10:06,399
+diagrammu, inilah alasannya, oke
+
+245
+00:10:04,720 --> 00:10:08,880
+dalam kasus ini kebetulan keduanya
+
+246
+00:10:06,399 --> 00:10:10,800
+sama persis oke karena
+
+247
+00:10:08,880 --> 00:10:12,480
+ini adalah satu-satunya gaya yang menariknya kembali
+
+248
+00:10:10,800 --> 00:10:14,000
+ke tengah
+
+249
+00:10:12,480 --> 00:10:15,680
+tetapi dalam kasus lain dalam contoh aku
+
+250
+00:10:14,000 --> 00:10:17,440
+akan menunjukkan kepada kamu sekitar 10 menit, tidak 
+
+251
+00:10:15,680 --> 00:10:19,839
+seperti itu kan? ada
+
+252
+00:10:17,440 --> 00:10:22,240
+gaya-gaya lain yang berperan dan mereka semua
+
+253
+00:10:19,839 --> 00:10:25,519
+berkumpul untuk menghasilkan ini, inilah
+
+254
+00:10:22,240 --> 00:10:27,040
+gaya resultannya,
+
+255
+00:10:27,040 --> 00:10:31,760
+jadi karena sebenarnya ini bukan
+
+256
+00:10:29,040 --> 00:10:33,440
+benda fisik, itu bukan tegangan, itu bukan
+
+257
+00:10:31,760 --> 00:10:34,959
+gravitasi, itulah yang terjadi jika kamu
+
+258
+00:10:33,440 --> 00:10:36,959
+menjumlahkan keseluruhannya. sekumpulan gaya lain yang
+
+259
+00:10:34,959 --> 00:10:38,800
+tidak kamu masukkan ke dalam diagrammu, oke kamu
+
+260
+00:10:36,959 --> 00:10:40,640
+bisa masukkan ini dan ini dan ini
+
+261
+00:10:38,800 --> 00:10:43,279
+semuanya tapi inilah yang terjadi
+
+262
+00:10:40,640 --> 00:10:44,640
+ketika kamu menjumlahkan semua itu
+
+263
+00:10:43,279 --> 00:10:46,480
+oke,
+
+264
+00:10:44,640 --> 00:10:48,480
+sejauh ini bagus
+
+265
+00:10:46,480 --> 00:10:50,800
+apa yang harus aku lakukan sekarang? apa yang dapat
+
+266
+00:10:48,480 --> 00:10:51,920
+aku lakukan, ke mana aku akan melangkah... maksudku
+
+267
+00:10:50,800 --> 00:10:53,920
+ini adalah pertanyaan pertama yang aku tanyakan
+
+268
+00:10:51,920 --> 00:10:57,399
+untuk ketegangan,
+
+269
+00:10:53,920 --> 00:10:57,399
+apa yang akan kamu lakukan?
+
+270
+00:11:05,120 --> 00:11:08,959
+berapa nomorku... ada yang punya saran
+
+271
+00:11:06,959 --> 00:11:11,040
+apa angka yang harus kutulis untuk
+
+272
+00:11:08,959 --> 00:11:11,040
+t?
+
+273
+00:11:11,200 --> 00:11:13,279
+bagus,
+
+274
+00:11:12,160 --> 00:11:15,760
+sebut saja ini
+
+275
+00:11:13,279 --> 00:11:18,480
+persamaan satu ya
+
+276
+00:11:15,760 --> 00:11:21,440
+persamaan dua, apa yang harus kulakukan dengannya? 
+
+277
+00:11:18,480 --> 00:11:23,839
+satu kali tambah dua kali
+
+278
+00:11:21,440 --> 00:11:25,360
+tunggu kalikan ini dengan... sebab kalikan
+
+279
+00:11:23,839 --> 00:11:27,760
+ini dengan sin ya
+
+280
+00:11:25,360 --> 00:11:29,680
+apa yang akan dilakukan
+
+281
+00:11:27,760 --> 00:11:31,680
+kamu akan mendapatkan cos kuadrat sin
+
+282
+00:11:29,680 --> 00:11:35,600
+kuadrat itu agak berguna bukan? jadi ayo kita
+
+283
+00:11:31,680 --> 00:11:37,600
+coba oke, 1 kali
+
+284
+00:11:35,600 --> 00:11:38,480
+cos ditambah
+
+285
+00:11:37,600 --> 00:11:40,079
+2
+
+286
+00:11:38,480 --> 00:11:43,279
+kali
+
+287
+00:11:40,079 --> 00:11:44,880
+sin oke jadi mari kita lacak ini bersama,
+
+288
+00:11:43,279 --> 00:11:46,320
+apa yang akan kamu dapatkan di sini?
+
+289
+00:11:44,880 --> 00:11:48,959
+kamu akan memiliki
+
+290
+00:11:46,320 --> 00:11:50,800
+t cos kuadrat theta
+
+291
+00:11:48,959 --> 00:11:52,959
+dan kemudian kamu akan mendapatkan
+
+292
+00:11:50,800 --> 00:11:53,920
+m g cos
+
+293
+00:11:52,959 --> 00:11:55,600
+theta. ya, di
+
+294
+00:11:55,600 --> 00:12:00,480
+sini kamu akan mendapatkan t
+
+295
+00:11:58,000 --> 00:12:04,560
+sin kuadrat theta
+
+296
+00:12:00,480 --> 00:12:05,839
+dan kamu akan mendapatkan m r omega kuadrat
+
+297
+00:12:04,560 --> 00:12:08,079
+sin
+
+298
+00:12:05,839 --> 00:12:09,200
+oke jadi kamu bisa melihat cos kuadratmu, dan
+
+299
+00:12:08,079 --> 00:12:12,480
+sin kuadratmu akan
+
+300
+00:12:09,200 --> 00:12:15,440
+menyatu. kamu akan punya t di sini, dan
+
+301
+00:12:12,480 --> 00:12:15,440
+itu memberimu ini
+
+302
+00:12:18,800 --> 00:12:22,399
+oke sekarang
+
+303
+00:12:20,959 --> 00:12:23,760
+menurutku kita bisa dorong sedikit lebih jauh mengenai
+
+304
+00:12:22,399 --> 00:12:26,320
+ini aku pikir kita bisa membahasnya lebih
+
+305
+00:12:23,760 --> 00:12:28,720
+jauh lagi um alasannya adalah
+
+306
+00:12:26,320 --> 00:12:30,240
+karena theta kan? Ngomong-ngomong ini semua benar,
+
+307
+00:12:28,720 --> 00:12:32,720
+tidak ada yang salah dengan itu
+
+308
+00:12:30,240 --> 00:12:34,800
+tapi aku tidak tahu apa itu theta,
+
+309
+00:12:32,720 --> 00:12:37,040
+aku tidak tahu, aku belum sampai ke sana,
+
+310
+00:12:34,800 --> 00:12:39,120
+jadi meskipun ini benar, satu...
+
+311
+00:12:37,040 --> 00:12:40,800
+itu agak berantakan, dua...
+
+312
+00:12:39,120 --> 00:12:43,600
+ada hal yang tidak diketahui di dalamnya sehingga aku agak
+
+313
+00:12:40,800 --> 00:12:45,279
+terjebak. saat ini yang aku tahu dalam
+
+314
+00:12:43,600 --> 00:12:47,040
+situasinya, yang mana sangat erat
+
+315
+00:12:45,279 --> 00:12:49,440
+hubungannya dengan theta
+
+316
+00:12:47,040 --> 00:12:51,519
+adalah aku tahu l, aku tahu apa itu l, 
+
+317
+00:12:49,440 --> 00:12:55,680
+mereka berada dalam segitiga yang sama
+
+318
+00:12:51,519 --> 00:12:57,279
+oke jadi terlepas dari garis ini di sini, itu
+
+319
+00:12:55,680 --> 00:12:58,639
+tidak apa-apa...
+
+320
+00:12:57,279 --> 00:13:00,000
+tapi bisakah aku menemukan sesuatu yang lebih
+
+321
+00:12:58,639 --> 00:13:01,680
+berguna
+
+322
+00:13:00,000 --> 00:13:05,200
+dalam hal hal-hal yang sebenarnya aku tahu,
+
+323
+00:13:01,680 --> 00:13:08,200
+daripada hal-hal yang aku tidak tahu?
+
+324
+00:13:05,200 --> 00:13:08,200
+hmm... (Alih bahasa oleh Karel Bondan)

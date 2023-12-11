@@ -1,0 +1,967 @@
+1
+00:00:01,520 --> 00:00:05,680
+sejauh ini, dalam gerak melingkar
+
+2
+00:00:04,400 --> 00:00:08,080
+eh kita telah melihat fakta bahwa jika
+
+3
+00:00:05,680 --> 00:00:09,679
+kita telah dan benar-benar menghabiskan sebagian besar
+
+4
+00:00:08,080 --> 00:00:11,120
+waktu kita pada gerak melingkar beraturan
+
+5
+00:00:09,679 --> 00:00:12,559
+karena itulah sebagian besar tentang materi gerak melingkar, dan
+
+6
+00:00:11,120 --> 00:00:15,839
+bila tidak seragam, kamu tidak dapat melakukan 
+
+7
+00:00:12,559 --> 00:00:18,160
+banyak hal menarik dengannya.
+
+8
+00:00:15,839 --> 00:00:19,840
+segala jenis gerak melingkar,
+
+9
+00:00:18,160 --> 00:00:21,760
+kamu harus memiliki semacam
+
+10
+00:00:19,840 --> 00:00:23,680
+gaya sentripetal. pada dasarnya sebelum kamu
+
+11
+00:00:21,760 --> 00:00:26,640
+mengingat apa artinya, ia menghadap
+
+12
+00:00:23,680 --> 00:00:28,640
+ke arah pusat. kita sudah bahas tentang
+
+13
+00:00:26,640 --> 00:00:30,960
+ini dan kita setuju bahwa gaya itu
+
+14
+00:00:28,640 --> 00:00:32,960
+mengarah ke arah pusat, itu
+
+15
+00:00:30,960 --> 00:00:34,960
+bisa berasal dari berbagai macam hal,
+
+16
+00:00:32,960 --> 00:00:37,600
+mungkin berasal dari
+
+17
+00:00:34,960 --> 00:00:40,640
+tegangan tali, semacam media,
+
+18
+00:00:37,600 --> 00:00:42,879
+mungkin berasal dari... jika
+
+19
+00:00:40,640 --> 00:00:44,640
+ini seperti benda langit,
+
+20
+00:00:42,879 --> 00:00:47,120
+atau planet, sesuatu seperti itu, gaya itu
+
+21
+00:00:44,640 --> 00:00:49,520
+mungkin berasal dari gravitasi.
+
+22
+00:00:47,120 --> 00:00:52,719
+dan kita perhatikan bahwa
+
+23
+00:00:49,520 --> 00:00:58,079
+jumlah gayanya harus tepat, bentuk dari gayanya harus
+
+24
+00:00:52,719 --> 00:01:00,239
+m r omega kuadrat atau m v kuadrat per r.
+
+25
+00:00:58,079 --> 00:01:02,559
+apa yang akan terjadi jika
+
+26
+00:01:00,239 --> 00:01:05,600
+gaya yang ditarik terlalu besar ke arah
+
+27
+00:01:02,559 --> 00:01:05,600
+pusat? apa yang akan terjadi? ia akan bergerak
+
+28
+00:01:05,760 --> 00:01:10,000
+secara spiral menuju ke pusatnya, betul sekali.
+
+29
+00:01:07,760 --> 00:01:12,159
+gaya ini cukup untuk mengubah
+
+30
+00:01:10,000 --> 00:01:13,680
+arah kecepatan sehingga
+
+31
+00:01:12,159 --> 00:01:15,840
+berputar pada kurva ini, tetapi jika terlalu
+
+32
+00:01:13,680 --> 00:01:18,080
+besar maka akan mengubahnya terlalu banyak,
+
+33
+00:01:15,840 --> 00:01:20,240
+dan akan mulai bergerak masuk ke dalam,
+
+34
+00:01:18,080 --> 00:01:21,759
+dan jika gayanya tidak cukup, apa
+
+35
+00:01:20,240 --> 00:01:23,920
+akan terjadi?
+
+36
+00:01:21,759 --> 00:01:25,759
+ia akan berputar ke luar kan? menjauhi titik pusat... ia akan
+
+37
+00:01:23,920 --> 00:01:27,280
+weeee, dan ia tidak akan itu tidak akan
+
+38
+00:01:25,759 --> 00:01:28,159
+tertangkap.
+
+39
+00:01:27,280 --> 00:01:30,000
+jadi
+
+40
+00:01:28,159 --> 00:01:32,320
+ini adalah dua ide yang telah kita
+
+41
+00:01:30,000 --> 00:01:34,320
+pelajari, benar? 
+
+42
+00:01:32,320 --> 00:01:36,400
+tetapi aku punya pertanyaan ini untukmu. 
+
+43
+00:01:34,320 --> 00:01:41,280
+kita baru saja membicarakan tentang tali dengan
+
+44
+00:01:36,400 --> 00:01:43,759
+tegangan, atau planet dengan gravitasi...
+
+45
+00:01:41,280 --> 00:01:46,880
+sebenarnya kita telah mengamati banyak benda
+
+46
+00:01:43,759 --> 00:01:48,880
+yang bergerak dalam lingkaran, seperti ini... tapi
+
+47
+00:01:46,880 --> 00:01:51,040
+tidak ada tali yang menahan benda itu,
+
+48
+00:01:48,880 --> 00:01:52,079
+dan tidak ada gravitasi yang
+
+49
+00:01:51,040 --> 00:01:54,000
+menahannya.
+
+50
+00:01:52,079 --> 00:01:55,040
+dan contoh termudah yang bisa kupikirkan
+
+51
+00:01:55,040 --> 00:01:57,759
+adalah salah satu dari ini.
+
+52
+00:01:58,560 --> 00:02:02,000
+oh, itu sangat buruk, maaf.
+
+53
+00:02:02,880 --> 00:02:07,680
+jadi ini dia, sebuah mobil.
+
+54
+00:02:05,600 --> 00:02:10,319
+kamu mungkin "oh jadi begitu",
+
+55
+00:02:07,680 --> 00:02:12,319
+kalau aku punya mobil... dan...
+
+56
+00:02:10,319 --> 00:02:14,879
+demi kesederhanaan, anggap saja
+
+57
+00:02:12,319 --> 00:02:17,280
+mobilnya melakukan putaran di trek melingkar
+
+58
+00:02:14,879 --> 00:02:18,640
+sekarang, cukup jelas bahwa
+
+59
+00:02:17,280 --> 00:02:21,120
+itu adalah mobil berukuran normal, tidak ada
+
+60
+00:02:18,640 --> 00:02:22,879
+tali dengan tegangan yang menahannya ke arah
+
+61
+00:02:21,120 --> 00:02:25,680
+tengah lintasan kan? pada
+
+62
+00:02:22,879 --> 00:02:28,239
+saat yang sama kita asumsikan tidak ada
+
+63
+00:02:25,680 --> 00:02:32,239
+benda besar yang memberikan gravitasi pada mobil yang
+
+64
+00:02:28,239 --> 00:02:35,599
+menahannya di lintasan, jadi bagaimana caranya bergerak
+
+65
+00:02:32,239 --> 00:02:37,120
+secara melingkar? gaya apa yang membuatnya tetap
+
+66
+00:02:37,120 --> 00:02:44,160
+menghadap ke dalam? ada yang tahu?
+
+67
+00:02:41,760 --> 00:02:46,239
+jawabannya adalah gesekannya.
+
+68
+00:02:44,160 --> 00:02:48,000
+sekarang, tunggu sebentar, kita sudah
+
+69
+00:02:46,239 --> 00:02:49,840
+terbiasa dengan gagasan
+
+70
+00:02:48,000 --> 00:02:52,160
+seperti... bahkan ketika kita bergerak,
+
+71
+00:02:49,840 --> 00:02:54,160
+gesekan adalah sesuatu yang akan memperlambatmu.
+
+72
+00:02:52,160 --> 00:02:56,319
+kamu menggelindingkan sesuatu dan pada
+
+73
+00:02:54,160 --> 00:02:58,400
+akhirnya benda itu akan berhenti, karena gesekan
+
+74
+00:02:56,319 --> 00:02:59,840
+akan menghentikannya. idenya adalah bahwa
+
+75
+00:02:58,400 --> 00:03:04,519
+gesekan
+
+76
+00:02:59,840 --> 00:03:04,519
+pada dasarnya adalah gaya reaksi,
+
+77
+00:03:05,040 --> 00:03:07,760
+ketika sesuatu mendorong
+
+78
+00:03:06,400 --> 00:03:09,920
+sesuatu dan kemudian gesekan akan mendorong
+
+79
+00:03:07,760 --> 00:03:12,720
+kembali. sekarang, yang terjadi adalah
+
+80
+00:03:09,920 --> 00:03:15,680
+mobil ini bergerak secara melingkar. 
+
+81
+00:03:12,720 --> 00:03:17,920
+menurut inersia, hukum pertama, ke
+
+82
+00:03:15,680 --> 00:03:20,080
+arah mana mobil itu, dengan seluruh
+
+83
+00:03:17,920 --> 00:03:22,319
+massa inersianya... mobil itu ingin
+
+84
+00:03:20,080 --> 00:03:22,319
+melaju ke arah mana?
+
+85
+00:03:23,760 --> 00:03:26,799
+ada dua pilihan untuk
+
+86
+00:03:25,360 --> 00:03:29,040
+inersia kan? ia akan
+
+87
+00:03:26,799 --> 00:03:31,280
+diam kan? apakah ia dalam keadaan diam?
+
+88
+00:03:29,040 --> 00:03:32,400
+tidak... atau akan terjadi
+
+89
+00:03:32,400 --> 00:03:36,959
+gerak garis lurus beraturan kan? jadi yang
+
+90
+00:03:34,319 --> 00:03:39,519
+ingin dilakukannya adalah tidak membungkuk seperti ini,
+
+91
+00:03:36,959 --> 00:03:40,640
+ia ingin
+
+92
+00:03:39,519 --> 00:03:43,519
+terus melaju.
+
+93
+00:03:40,640 --> 00:03:46,080
+jadi situasi yang normal adalah...
+
+94
+00:03:43,519 --> 00:03:47,519
+situasi default untuk mobil ini adalah
+
+95
+00:03:46,080 --> 00:03:50,799
+situasi semacam ini kan? jadi ia akan
+
+96
+00:03:47,519 --> 00:03:53,680
+bergerak mengarah ke luar, jadi
+
+97
+00:03:50,799 --> 00:03:55,840
+gaya geseknya bereaksi melawan itu kan?
+
+98
+00:03:53,680 --> 00:03:56,959
+dan jadi ada gaya menyamping yang bekerja
+
+99
+00:03:55,840 --> 00:03:58,080
+ke arah tengah, dan itulah yang
+
+100
+00:03:56,959 --> 00:04:00,159
+membuatnya tetap berada
+
+101
+00:03:58,080 --> 00:04:03,360
+di jalur melingkar saat ini, itulah
+
+102
+00:04:00,159 --> 00:04:05,120
+mengapa sangat penting bahwa ada um
+
+103
+00:04:03,360 --> 00:04:06,480
+ada cengkeraman
+
+104
+00:04:05,120 --> 00:04:08,480
+di ban,
+
+105
+00:04:06,480 --> 00:04:10,239
+dan di jalan kanan karena kalau
+
+106
+00:04:08,480 --> 00:04:12,560
+tidak ada grip di ban,
+
+107
+00:04:10,239 --> 00:04:14,720
+gesekannya dengan jalan tidak akan cukup
+
+108
+00:04:12,560 --> 00:04:18,000
+yang mana akan membuat mobilnya
+
+109
+00:04:14,720 --> 00:04:20,160
+selip. oke,
+
+110
+00:04:18,000 --> 00:04:22,079
+makanya saat kondisi hujan, 
+
+111
+00:04:20,160 --> 00:04:24,479
+atau ban mobil kamu benar-benar
+
+112
+00:04:22,079 --> 00:04:26,400
+tua dan sudah aus, dan tidak memiliki grip yang cukup,
+
+113
+00:04:24,479 --> 00:04:27,759
+hal ini akan terjadi.
+
+114
+00:04:26,400 --> 00:04:28,960
+mobilnya akan selip ke arah
+
+115
+00:04:27,759 --> 00:04:30,960
+garis singgung sebenarnya, ke sanalah
+
+116
+00:04:28,960 --> 00:04:32,639
+mobilnya akan pergi.
+
+117
+00:04:30,960 --> 00:04:34,720
+jadi ini semacam masalah, tapi kita
+
+118
+00:04:32,639 --> 00:04:36,320
+sudah mengatasinya dengan ban. tapi ada
+
+119
+00:04:34,720 --> 00:04:38,160
+cara lain untuk mengatasinya, 
+
+120
+00:04:36,320 --> 00:04:39,840
+jadi
+
+121
+00:04:38,160 --> 00:04:40,720
+perancang jalan memanfaatkan hal-hal
+
+122
+00:04:39,840 --> 00:04:42,479
+yang disebut...
+
+123
+00:04:40,720 --> 00:04:44,320
+dan inilah...
+
+124
+00:04:42,479 --> 00:04:47,919
+inilah hal yang kita 
+
+125
+00:04:44,320 --> 00:04:47,919
+sebut dengan jalur membelok. jalur membelok
+
+126
+00:04:50,320 --> 00:04:54,960
+adalah tempat kamu berbelok
+
+127
+00:04:52,720 --> 00:04:57,120
+kan? yang mereka lakukan adalah mereka memasang
+
+128
+00:04:54,960 --> 00:05:00,000
+tanggul, mereka meninggikan sebagian jalan,
+
+129
+00:04:57,120 --> 00:05:02,400
+tidak semuanya... sehingga ada
+
+130
+00:05:00,000 --> 00:05:05,840
+gaya yang bekerja menuju ke arah dalam. aku ingin kamu
+
+131
+00:05:02,400 --> 00:05:07,440
+mengingat mangkuk, setengah bola berukuran dua meter
+
+132
+00:05:05,840 --> 00:05:10,560
+yang sangat besar yang kemarin sudah 
+
+133
+00:05:07,440 --> 00:05:12,320
+kita lihat.
+
+134
+00:05:10,560 --> 00:05:15,039
+kita sudah melihat ini kemarin,
+
+135
+00:05:12,320 --> 00:05:16,240
+kan, kita sudah perhatikan bahwa,
+
+136
+00:05:16,240 --> 00:05:22,000
+jalur melingkar ini sedang ditelusuri,
+
+137
+00:05:18,479 --> 00:05:23,919
+kita sudah memasang tali di sini
+
+138
+00:05:22,000 --> 00:05:25,520
+yang memberikan tegangan, kan, tetapi
+
+139
+00:05:23,919 --> 00:05:27,600
+kemudian ada gaya lain yang terlibat
+
+140
+00:05:25,520 --> 00:05:29,360
+yang juga mendorong ke dalamnya. gaya apa itu?
+
+141
+00:05:29,360 --> 00:05:33,360
+gaya normal kan? jadi jika di sinilah
+
+142
+00:05:31,360 --> 00:05:35,360
+aku berada, kamu tahu... gaya normalnya
+
+143
+00:05:33,360 --> 00:05:37,039
+menuju ke sana, tegak lurus terhadap permukaan
+
+144
+00:05:35,360 --> 00:05:40,000
+mangkuk, atau tegak lurus terhadap
+
+145
+00:05:37,039 --> 00:05:42,639
+permukaan benda apa pun yang kamu gunakan: mangkuk, kerucut,
+
+146
+00:05:40,000 --> 00:05:44,320
+semua hal semacam itu.
+
+147
+00:05:42,639 --> 00:05:45,680
+jadi jalur membelok memanfaatkan hal
+
+148
+00:05:44,320 --> 00:05:47,440
+ini. mari kita gambar satu dan kamu akan lihat
+
+149
+00:05:45,680 --> 00:05:49,120
+apa yang terjadi.
+
+150
+00:05:47,440 --> 00:05:51,600
+pertama kita akan melakukannya dari samping, jadi kamu buat
+
+151
+00:05:49,120 --> 00:05:53,600
+segitiga kecil seperti ini.
+
+152
+00:05:51,600 --> 00:05:55,360
+sekarang, ini agak berlebihan,
+
+153
+00:05:53,600 --> 00:05:57,039
+kamu hampir tidak pernah melihat jalur membelok
+
+154
+00:05:55,360 --> 00:05:58,560
+securam ini. tetapi jika kita membuatnya
+
+155
+00:05:57,039 --> 00:05:59,840
+realistis, sulit untuk melihat apa yang
+
+156
+00:05:58,560 --> 00:06:02,960
+terjadi.
+
+157
+00:05:59,840 --> 00:06:06,400
+jadi alih-alih jalannya rata,
+
+158
+00:06:02,960 --> 00:06:09,600
+sebagian jalan di luar belokannya
+
+159
+00:06:06,400 --> 00:06:12,800
+ditimbun, lalu benda ini
+
+160
+00:06:09,600 --> 00:06:12,800
+berbelok.
+
+161
+00:06:16,160 --> 00:06:19,919
+jadi ada belokan di sana, jadi kita
+
+162
+00:06:17,919 --> 00:06:21,440
+lihat dari sana supaya
+
+163
+00:06:19,919 --> 00:06:23,360
+lebih jelas. aku mungkin akan taruh... di
+
+164
+00:06:21,440 --> 00:06:25,280
+sini ada tepian yang tidak bisa kita lihat, di
+
+165
+00:06:23,360 --> 00:06:28,639
+luar tepi bawah
+
+166
+00:06:25,280 --> 00:06:28,639
+tanggul, jadi kalau aku beri titik, itu
+
+167
+00:06:30,639 --> 00:06:35,280
+agak lebih tinggi... seperti itu. kamu bisa
+
+168
+00:06:32,080 --> 00:06:37,840
+melihat apa yang terjadi, jadi
+
+169
+00:06:35,280 --> 00:06:38,880
+apa yang terjadi adalah saat kita memutar belokan ini
+
+170
+00:06:38,880 --> 00:06:43,759
+oke...
+
+171
+00:06:40,400 --> 00:06:44,960
+akan ada gaya normal kan?
+
+172
+00:06:43,759 --> 00:06:47,360
+gaya normal itu menuju ke
+
+173
+00:06:44,960 --> 00:06:50,240
+arah itu, jadi kamu bisa lihat kalau kita menyelesaikannya,
+
+174
+00:06:47,360 --> 00:06:52,400
+gaya itu akan mempunyai bagian vertikal,
+
+175
+00:06:50,240 --> 00:06:54,080
+tetapi juga memiliki bagian horizontal,
+
+176
+00:06:52,400 --> 00:06:55,840
+itulah gaya sentripetal, ia mengarah ke
+
+177
+00:06:54,080 --> 00:06:58,639
+tengah belokan. jadi ini akan
+
+178
+00:06:55,840 --> 00:07:00,880
+membantu mobil kita tetap di jalan dan tidak
+
+179
+00:06:58,639 --> 00:07:03,039
+melakukan hal ini. 
+
+180
+00:07:00,880 --> 00:07:04,720
+jadi untuk memahami situasi ini dan mengetahui
+
+181
+00:07:03,039 --> 00:07:06,800
+apa yang sedang terjadi, mari kita bahas lebih
+
+182
+00:07:04,720 --> 00:07:08,720
+detail lagi. jadi lanjutkan menggambar
+
+183
+00:07:06,800 --> 00:07:12,360
+diagram ini dan mulai memberi label pada beberapa
+
+184
+00:07:08,720 --> 00:07:12,360
+bagiannya.
+
+185
+00:07:18,319 --> 00:07:22,240
+Kita punya gaya normal di sana,
+
+186
+00:07:20,960 --> 00:07:23,360
+gaya apa lagi yang bekerja pada
+
+187
+00:07:22,240 --> 00:07:26,960
+benda ini> 
+
+188
+00:07:23,360 --> 00:07:26,960
+gravitasi, bagus, jadi mari kita pakai itu,
+
+189
+00:07:28,479 --> 00:07:33,440
+oke, begitulah...
+
+190
+00:07:31,360 --> 00:07:35,680
+sekarang, itu melingkar, kamu tidak
+
+191
+00:07:33,440 --> 00:07:37,440
+perlu memiliki semua... Maksudku kamu tahu kita
+
+192
+00:07:35,680 --> 00:07:39,120
+berbicara tentang mobil yang melakukan putaran di
+
+193
+00:07:37,440 --> 00:07:40,880
+trek melingkar tapi bukan itu yang biasanya
+
+194
+00:07:39,120 --> 00:07:42,400
+terjadi, biasanya kita ingin
+
+195
+00:07:40,880 --> 00:07:43,520
+benar-benar berbelok dan tidak hanya berputar-putar
+
+196
+00:07:42,400 --> 00:07:46,000
+dan berputar-putar,
+
+197
+00:07:43,520 --> 00:07:48,319
+tapi masih ada untuk busur ini kan?
+
+198
+00:07:46,000 --> 00:07:50,639
+masih ada pusatnya oke
+
+199
+00:07:48,319 --> 00:07:51,919
+sekarang hati-hati ada beberapa... ada
+
+200
+00:07:50,639 --> 00:07:52,960
+banyak pusat berbeda yang bisa aku
+
+201
+00:07:51,919 --> 00:07:54,800
+bicarakan di sini karena ada
+
+202
+00:07:52,960 --> 00:07:57,840
+banyak lingkaran berbeda yang bisa aku gambar.
+
+203
+00:07:54,800 --> 00:08:00,319
+misalnya di sini adalah pusat
+
+204
+00:07:57,840 --> 00:08:02,240
+lingkaran dan letaknya di
+
+205
+00:08:00,319 --> 00:08:03,440
+tanah datar, bukan di bagian yang lebih tinggi
+
+206
+00:08:02,240 --> 00:08:05,759
+kan?
+
+207
+00:08:03,440 --> 00:08:07,440
+tapi ini tidak terlalu berguna bagi kita,
+
+208
+00:08:05,759 --> 00:08:09,280
+titik pusat ini tidak terlalu berguna bagi
+
+209
+00:08:07,440 --> 00:08:11,120
+kita karena jika kamu mengemudikan
+
+210
+00:08:09,280 --> 00:08:12,560
+mobilmu... 
+
+211
+00:08:11,120 --> 00:08:14,879
+jadi ini mobilku,
+
+212
+00:08:12,560 --> 00:08:15,919
+dan um kamu mengemudi di sepanjang jalan ini,
+
+213
+00:08:14,879 --> 00:08:18,639
+oke...
+
+214
+00:08:15,919 --> 00:08:20,240
+pusat massa mobil
+
+215
+00:08:18,639 --> 00:08:22,639
+harusnya berada di tengah jalan dan
+
+216
+00:08:20,240 --> 00:08:24,560
+itulah sebabnya aku menggambar objekku dan semua
+
+217
+00:08:22,639 --> 00:08:27,039
+gaya yang bekerja padanya... aku telah menggambarnya di
+
+218
+00:08:24,560 --> 00:08:28,800
+tengah sana. sekarang, itu terangkat
+
+219
+00:08:27,039 --> 00:08:31,120
+dari tanah, bisakah kamu melihatnya? jadi oleh
+
+220
+00:08:28,800 --> 00:08:33,039
+karena itu aku akan menaikkan titik pusat
+
+221
+00:08:31,120 --> 00:08:35,360
+yang aku inginkan juga dari
+
+222
+00:08:33,039 --> 00:08:37,680
+tanah, jadi kira-kira di sini...
+
+223
+00:08:35,360 --> 00:08:37,680
+jadi di
+
+224
+00:08:38,159 --> 00:08:43,440
+sanalah pusat gerak sebenarnya.
+
+225
+00:08:41,039 --> 00:08:45,040
+jika aku gambarkan sebuah lingkaran mendatar, sekarang
+
+226
+00:08:43,440 --> 00:08:47,519
+akan menjadi seperti ini. ini adalah
+
+227
+00:08:45,040 --> 00:08:47,519
+jari-jarinya, itulah
+
+228
+00:08:48,880 --> 00:08:53,120
+jari-jari dari
+
+229
+00:08:50,720 --> 00:08:54,399
+gerak melingkar yang sebenarnya.
+
+230
+00:08:53,120 --> 00:08:57,519
+aku akan
+
+231
+00:08:54,399 --> 00:08:59,600
+tandai itu sebagai pusatnya. 
+
+232
+00:08:57,519 --> 00:09:01,600
+kita perlu tahu di sudut mana titik ini
+
+233
+00:08:59,600 --> 00:09:03,040
+tertancap, jadi aku sebut sudut ini di
+
+234
+00:09:01,600 --> 00:09:05,360
+sini. theta...
+
+235
+00:09:03,040 --> 00:09:06,640
+ini sudut siku-siku,
+
+236
+00:09:05,360 --> 00:09:07,519
+punya tinggi
+
+237
+00:09:06,640 --> 00:09:10,320
+di sini...
+
+238
+00:09:07,519 --> 00:09:11,680
+dari tepi yang ditinggikan,
+
+239
+00:09:10,320 --> 00:09:13,120
+dan terakhir kita perlu mengetahui
+
+240
+00:09:11,680 --> 00:09:15,920
+lebar jalan,
+
+241
+00:09:13,120 --> 00:09:20,160
+jadi kita sebut itu
+
+242
+00:09:15,920 --> 00:09:20,160
+d untuk jarak (Alih bahasa oleh Karel Bondan)
