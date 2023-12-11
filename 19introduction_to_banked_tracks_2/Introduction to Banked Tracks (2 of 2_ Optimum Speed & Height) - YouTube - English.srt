@@ -1,0 +1,1135 @@
+1
+00:00:00,320 --> 00:00:03,360
+this was you know i know it's not a
+
+2
+00:00:01,839 --> 00:00:04,720
+conical pendulum but we're still going
+
+3
+00:00:03,360 --> 00:00:07,359
+through the same kinds of things we have
+
+4
+00:00:04,720 --> 00:00:09,440
+drawn a diagram right i've put on the
+
+5
+00:00:07,359 --> 00:00:12,719
+physical forces that are there
+
+6
+00:00:09,440 --> 00:00:16,240
+what do i do next
+
+7
+00:00:12,719 --> 00:00:19,199
+i did step one was to draw step two is
+
+8
+00:00:16,240 --> 00:00:20,400
+trig and geometry so that i can work out
+
+9
+00:00:19,199 --> 00:00:21,920
+like this thing when i get towards
+
+10
+00:00:20,400 --> 00:00:23,920
+resolving its forces which way is
+
+11
+00:00:21,920 --> 00:00:25,279
+everything facing okay so what i'm going
+
+12
+00:00:23,920 --> 00:00:27,439
+to do is i'm just going to take part of
+
+13
+00:00:25,279 --> 00:00:29,439
+this diagram this part where the forces
+
+14
+00:00:27,439 --> 00:00:32,480
+are draw that out separately so that i
+
+15
+00:00:29,439 --> 00:00:32,480
+can understand a little better
+
+16
+00:00:43,440 --> 00:00:48,079
+okay so there's the normal force right
+
+17
+00:00:46,239 --> 00:00:49,440
+now which way
+
+18
+00:00:48,079 --> 00:00:51,280
+are all of the forces and all their
+
+19
+00:00:49,440 --> 00:00:52,640
+magnitudes going when i start to resolve
+
+20
+00:00:51,280 --> 00:00:54,239
+this thing okay so if you've got some
+
+21
+00:00:52,640 --> 00:00:55,600
+colors there
+
+22
+00:00:54,239 --> 00:00:59,399
+you can see there's a horizontal
+
+23
+00:00:55,600 --> 00:00:59,399
+component like this
+
+24
+00:01:01,199 --> 00:01:04,799
+and you can see importantly that this
+
+25
+00:01:03,199 --> 00:01:07,040
+horizontal component of the normal force
+
+26
+00:01:04,799 --> 00:01:08,479
+it's centripetal it's headed towards o
+
+27
+00:01:07,040 --> 00:01:10,799
+so that's good that's what we want it to
+
+28
+00:01:08,479 --> 00:01:12,400
+do right so i'll work out what that is
+
+29
+00:01:10,799 --> 00:01:13,439
+in a second
+
+30
+00:01:12,400 --> 00:01:14,960
+and then you've got the vertical
+
+31
+00:01:13,439 --> 00:01:17,439
+component which is heading off like you
+
+32
+00:01:14,960 --> 00:01:17,439
+would expect
+
+33
+00:01:22,240 --> 00:01:26,240
+all right
+
+34
+00:01:23,439 --> 00:01:28,320
+so have a look with me
+
+35
+00:01:26,240 --> 00:01:32,720
+what angles can we use
+
+36
+00:01:28,320 --> 00:01:32,720
+in here what can we take advantage of
+
+37
+00:01:34,799 --> 00:01:38,799
+so there's some there's some parallel
+
+38
+00:01:36,799 --> 00:01:40,400
+lines there's some alternate angles if
+
+39
+00:01:38,799 --> 00:01:44,000
+you do your work i'm pretty sure you
+
+40
+00:01:40,400 --> 00:01:46,399
+should find you know up here you'll have
+
+41
+00:01:44,000 --> 00:01:47,920
+theta alternate angles and because this
+
+42
+00:01:46,399 --> 00:01:49,840
+is the normal right that means that
+
+43
+00:01:47,920 --> 00:01:52,640
+these two are complementary so i've got
+
+44
+00:01:49,840 --> 00:01:55,200
+90 minus theta there is that all right
+
+45
+00:01:52,640 --> 00:01:58,159
+90 minus theta 90 that means that theta
+
+46
+00:01:55,200 --> 00:01:58,159
+is up in this corner
+
+47
+00:01:58,479 --> 00:02:02,640
+okay by the same alternate angles you
+
+48
+00:02:00,399 --> 00:02:04,479
+can see theta will be over here okay and
+
+49
+00:02:02,640 --> 00:02:06,399
+that's all you need to work out what the
+
+50
+00:02:04,479 --> 00:02:08,479
+magnitudes of all the forces are okay
+
+51
+00:02:06,399 --> 00:02:10,560
+for instance the vertical one right
+
+52
+00:02:08,479 --> 00:02:12,160
+you've got adjacent and you've got
+
+53
+00:02:10,560 --> 00:02:13,440
+hypotenuse we've seen this a few times
+
+54
+00:02:12,160 --> 00:02:14,959
+before right starting to get the hang of
+
+55
+00:02:13,440 --> 00:02:16,080
+it this is clearly going to be n plus
+
+56
+00:02:14,959 --> 00:02:16,959
+theta
+
+57
+00:02:16,080 --> 00:02:20,720
+right
+
+58
+00:02:16,959 --> 00:02:23,840
+and conversely you'll have n sine theta
+
+59
+00:02:20,720 --> 00:02:23,840
+in the horizontal direction
+
+60
+00:02:25,040 --> 00:02:28,720
+so now i've resolved everything now i
+
+61
+00:02:26,959 --> 00:02:30,480
+can put it in terms of vertical and
+
+62
+00:02:28,720 --> 00:02:31,840
+horizontal and say well vertically i
+
+63
+00:02:30,480 --> 00:02:34,160
+don't want to be going up and down but
+
+64
+00:02:31,840 --> 00:02:35,599
+horizontally i'm going in this circle
+
+65
+00:02:34,160 --> 00:02:38,160
+right so
+
+66
+00:02:35,599 --> 00:02:38,160
+vertically
+
+67
+00:02:39,519 --> 00:02:44,640
+you've got n cos theta going up and
+
+68
+00:02:41,680 --> 00:02:48,000
+you've got mg going down right and those
+
+69
+00:02:44,640 --> 00:02:52,319
+should be equal to each other right so
+
+70
+00:02:48,000 --> 00:02:53,760
+n cos theta equals mg
+
+71
+00:02:52,319 --> 00:02:56,720
+nothing too dramatic there what's
+
+72
+00:02:53,760 --> 00:02:56,720
+happening horizontally
+
+73
+00:03:03,440 --> 00:03:07,680
+you've only got a single force acting
+
+74
+00:03:05,280 --> 00:03:10,800
+horizontally at the moment anyway okay
+
+75
+00:03:07,680 --> 00:03:13,599
+so you've got n sine theta and it's
+
+76
+00:03:10,800 --> 00:03:15,440
+going towards the center so that should
+
+77
+00:03:13,599 --> 00:03:17,519
+be equal to now
+
+78
+00:03:15,440 --> 00:03:19,920
+we're used to writing mr omega squared
+
+79
+00:03:17,519 --> 00:03:21,519
+first right but being that this is bank
+
+80
+00:03:19,920 --> 00:03:24,080
+tracks and we're kind of thinking more
+
+81
+00:03:21,519 --> 00:03:25,680
+about cars right we don't see we're not
+
+82
+00:03:24,080 --> 00:03:27,599
+usually driving around like oh wow i'm
+
+83
+00:03:25,680 --> 00:03:30,560
+taking this corner at you know pi on
+
+84
+00:03:27,599 --> 00:03:32,560
+three radians per second so probably
+
+85
+00:03:30,560 --> 00:03:34,319
+rather than mr omega squared we'll do m
+
+86
+00:03:32,560 --> 00:03:36,560
+v squared on r okay i think that that
+
+87
+00:03:34,319 --> 00:03:37,760
+makes more sense
+
+88
+00:03:36,560 --> 00:03:40,000
+okay because we will know linear
+
+89
+00:03:37,760 --> 00:03:41,440
+velocity
+
+90
+00:03:40,000 --> 00:03:44,000
+now this is in an
+
+91
+00:03:41,440 --> 00:03:46,560
+ideal world okay we're going around and
+
+92
+00:03:44,000 --> 00:03:48,239
+the only forces acting are exactly
+
+93
+00:03:46,560 --> 00:03:49,840
+balancing each other out you'll see
+
+94
+00:03:48,239 --> 00:03:52,000
+shortly what happens when that is not
+
+95
+00:03:49,840 --> 00:03:54,560
+the case okay
+
+96
+00:03:52,000 --> 00:03:56,560
+but i want to work out well what is that
+
+97
+00:03:54,560 --> 00:03:57,439
+speed at which i should take this corner
+
+98
+00:03:56,560 --> 00:03:59,519
+okay
+
+99
+00:03:57,439 --> 00:04:01,280
+so how am i going to work this out i've
+
+100
+00:03:59,519 --> 00:04:04,239
+got v squared there that's what i want
+
+101
+00:04:01,280 --> 00:04:05,439
+to work out okay so if i call this one
+
+102
+00:04:04,239 --> 00:04:07,920
+and call this
+
+103
+00:04:05,439 --> 00:04:07,920
+two
+
+104
+00:04:09,280 --> 00:04:14,480
+which way should i go and what should i
+
+105
+00:04:11,120 --> 00:04:17,120
+do should i add subtract
+
+106
+00:04:14,480 --> 00:04:17,120
+any takers
+
+107
+00:04:18,880 --> 00:04:23,040
+what's the cleanest way to get to v
+
+108
+00:04:21,440 --> 00:04:25,040
+squared and a nice simple sort of
+
+109
+00:04:23,040 --> 00:04:27,600
+equation just for v squared and then
+
+110
+00:04:25,040 --> 00:04:29,120
+hence v
+
+111
+00:04:27,600 --> 00:04:30,320
+i think we should divide shouldn't we
+
+112
+00:04:29,120 --> 00:04:32,400
+right because that'll get rid of the
+
+113
+00:04:30,320 --> 00:04:34,000
+ends it'll get rid of the m's
+
+114
+00:04:32,400 --> 00:04:35,600
+uh and you can if you do it this way
+
+115
+00:04:34,000 --> 00:04:37,759
+you'll just get 10 figure right which
+
+116
+00:04:35,600 --> 00:04:40,240
+will be useful for its own thing okay so
+
+117
+00:04:37,759 --> 00:04:43,120
+if i divide so i should have said 2
+
+118
+00:04:40,240 --> 00:04:45,280
+divided by 1. ends will cancel you'll
+
+119
+00:04:43,120 --> 00:04:49,360
+just get that m's will also cancel what
+
+120
+00:04:45,280 --> 00:04:50,800
+am i going to get v squared on g
+
+121
+00:04:49,360 --> 00:04:52,560
+r
+
+122
+00:04:50,800 --> 00:04:55,360
+alright
+
+123
+00:04:52,560 --> 00:04:59,600
+so now if i just rearrange this a little
+
+124
+00:04:55,360 --> 00:05:01,440
+bit v squared equals g r tan theta okay
+
+125
+00:04:59,600 --> 00:05:04,080
+put a box around that
+
+126
+00:05:01,440 --> 00:05:07,039
+put a box around this because
+
+127
+00:05:04,080 --> 00:05:10,080
+what this tells you is the optimum speed
+
+128
+00:05:07,039 --> 00:05:12,000
+to take this turn this is the optimum or
+
+129
+00:05:10,080 --> 00:05:15,120
+velocity speed it's all squared so it
+
+130
+00:05:12,000 --> 00:05:17,440
+doesn't matter in this case okay
+
+131
+00:05:15,120 --> 00:05:18,800
+this is the optimus p given the radius
+
+132
+00:05:17,440 --> 00:05:20,960
+of the road
+
+133
+00:05:18,800 --> 00:05:23,840
+or the curve of the road and whatever
+
+134
+00:05:20,960 --> 00:05:27,440
+angle you're in banked at
+
+135
+00:05:23,840 --> 00:05:29,440
+now that's fine that's good um but
+
+136
+00:05:27,440 --> 00:05:31,600
+that's sort of assuming the road's
+
+137
+00:05:29,440 --> 00:05:33,120
+already there like it has a given radius
+
+138
+00:05:31,600 --> 00:05:35,520
+it's going to go that far and you can
+
+139
+00:05:33,120 --> 00:05:38,160
+measure how the angle is right if i were
+
+140
+00:05:35,520 --> 00:05:40,080
+a road designer okay i actually am in
+
+141
+00:05:38,160 --> 00:05:41,440
+the position where i get to decide what
+
+142
+00:05:40,080 --> 00:05:43,600
+these are
+
+143
+00:05:41,440 --> 00:05:45,360
+based on this right so i'm looking at
+
+144
+00:05:43,600 --> 00:05:47,039
+this from a very different point of view
+
+145
+00:05:45,360 --> 00:05:49,199
+okay i'm making the road and i'm
+
+146
+00:05:47,039 --> 00:05:50,479
+thinking hmm how far should i embank
+
+147
+00:05:49,199 --> 00:05:51,759
+this okay
+
+148
+00:05:50,479 --> 00:05:53,600
+because i can you know i can put
+
+149
+00:05:51,759 --> 00:05:55,520
+whatever amount of dirt and concrete and
+
+150
+00:05:53,600 --> 00:05:57,199
+stuff to make this kind of height okay
+
+151
+00:05:55,520 --> 00:05:59,039
+so how will i do this it's a bit of a
+
+152
+00:05:57,199 --> 00:06:01,039
+fancy algebraic trick
+
+153
+00:05:59,039 --> 00:06:03,199
+remember i told you um
+
+154
+00:06:01,039 --> 00:06:04,000
+this diagram is actually way off scale
+
+155
+00:06:03,199 --> 00:06:06,080
+right
+
+156
+00:06:04,000 --> 00:06:08,160
+this angle theta is not really going to
+
+157
+00:06:06,080 --> 00:06:09,039
+be that high and when you think about it
+
+158
+00:06:08,160 --> 00:06:10,240
+like
+
+159
+00:06:09,039 --> 00:06:11,520
+you think about the roads that you've
+
+160
+00:06:10,240 --> 00:06:12,560
+traveled on and if you've been on a
+
+161
+00:06:11,520 --> 00:06:14,160
+highway
+
+162
+00:06:12,560 --> 00:06:17,520
+and you've seen terms like this they'll
+
+163
+00:06:14,160 --> 00:06:19,680
+be very very gentle inclines right in
+
+164
+00:06:17,520 --> 00:06:21,440
+order to take these curves okay so in
+
+165
+00:06:19,680 --> 00:06:23,759
+other words you have small values of
+
+166
+00:06:21,440 --> 00:06:23,759
+theta
+
+167
+00:06:28,319 --> 00:06:30,479
+okay
+
+168
+00:06:29,280 --> 00:06:32,479
+now one of the things that you might
+
+169
+00:06:30,479 --> 00:06:34,800
+remember from when you first did the
+
+170
+00:06:32,479 --> 00:06:36,560
+trigonometry of um sorry the calculus of
+
+171
+00:06:34,800 --> 00:06:40,240
+trigonometric functions right
+
+172
+00:06:36,560 --> 00:06:42,560
+is that tan theta right and sine theta
+
+173
+00:06:40,240 --> 00:06:44,400
+are very close together for small values
+
+174
+00:06:42,560 --> 00:06:46,720
+of theta right because they look like
+
+175
+00:06:44,400 --> 00:06:49,599
+i'll just use this empty space
+
+176
+00:06:46,720 --> 00:06:52,800
+here's sine and then here is tan and
+
+177
+00:06:49,599 --> 00:06:52,800
+then well it's gone too far
+
+178
+00:06:52,880 --> 00:06:57,840
+there's that asymptote of pi on two
+
+179
+00:06:54,800 --> 00:06:59,599
+right so in here they're pretty much the
+
+180
+00:06:57,840 --> 00:07:02,400
+same thing or the difference between
+
+181
+00:06:59,599 --> 00:07:05,440
+them is negligible okay so i can say
+
+182
+00:07:02,400 --> 00:07:06,160
+sine theta is going to be roughly equal
+
+183
+00:07:05,440 --> 00:07:07,360
+to
+
+184
+00:07:06,160 --> 00:07:09,120
+tan theta
+
+185
+00:07:07,360 --> 00:07:10,639
+is that right
+
+186
+00:07:09,120 --> 00:07:12,880
+okay now what i'm going to do is i'm
+
+187
+00:07:10,639 --> 00:07:15,039
+going to substitute that into this line
+
+188
+00:07:12,880 --> 00:07:20,400
+maybe i'll call this three so i can do
+
+189
+00:07:15,039 --> 00:07:20,400
+this okay so i'm going to sub into
+
+190
+00:07:20,880 --> 00:07:24,479
+three okay
+
+191
+00:07:22,880 --> 00:07:26,720
+so instead of tan theta over here i'm
+
+192
+00:07:24,479 --> 00:07:30,319
+going to say that's sine theta and it's
+
+193
+00:07:26,720 --> 00:07:32,400
+roughly equal to v squared on gr
+
+194
+00:07:30,319 --> 00:07:34,400
+close enough okay and the reason why
+
+195
+00:07:32,400 --> 00:07:36,400
+this is useful the reason why i would go
+
+196
+00:07:34,400 --> 00:07:39,360
+to sine theta is because i know what
+
+197
+00:07:36,400 --> 00:07:42,000
+sine theta is in terms of
+
+198
+00:07:39,360 --> 00:07:44,400
+these distances here right
+
+199
+00:07:42,000 --> 00:07:46,160
+this hypotenuse is d and this opposite
+
+200
+00:07:44,400 --> 00:07:48,960
+side to the angle is h that's what i'm
+
+201
+00:07:46,160 --> 00:07:54,639
+trying to find right so this is really
+
+202
+00:07:48,960 --> 00:07:54,639
+equal to opposite on hypotenuse so yeah
+
+203
+00:07:56,800 --> 00:08:00,879
+okay now i find the road designer and i
+
+204
+00:07:58,639 --> 00:08:02,800
+want to work out how high should i make
+
+205
+00:08:00,879 --> 00:08:04,960
+this embankment right i just have to
+
+206
+00:08:02,800 --> 00:08:07,840
+multiply d across
+
+207
+00:08:04,960 --> 00:08:08,800
+and then look at what we've got here
+
+208
+00:08:07,840 --> 00:08:11,199
+okay
+
+209
+00:08:08,800 --> 00:08:13,120
+before we had optimum speed that's
+
+210
+00:08:11,199 --> 00:08:14,560
+that's if you the road's already there
+
+211
+00:08:13,120 --> 00:08:16,400
+and it already has a given radius at a
+
+212
+00:08:14,560 --> 00:08:17,599
+given angle okay but if you're in the
+
+213
+00:08:16,400 --> 00:08:19,599
+opposite position you're like i can
+
+214
+00:08:17,599 --> 00:08:22,400
+decide what i want the road to be then
+
+215
+00:08:19,599 --> 00:08:22,400
+this line
+
+216
+00:08:22,479 --> 00:08:27,840
+will give you the optimum
+
+217
+00:08:25,120 --> 00:08:27,840
+height
+
+218
+00:08:28,000 --> 00:08:31,919
+of the embankment okay now notice what
+
+219
+00:08:29,919 --> 00:08:33,519
+it depends on
+
+220
+00:08:31,919 --> 00:08:36,159
+it depends on let's go from the bottom
+
+221
+00:08:33,519 --> 00:08:38,000
+it depends on r right that's that's the
+
+222
+00:08:36,159 --> 00:08:39,760
+radius of this row that's probably going
+
+223
+00:08:38,000 --> 00:08:41,039
+to be decided for you right the council
+
+224
+00:08:39,760 --> 00:08:43,519
+is like look this is where the road has
+
+225
+00:08:41,039 --> 00:08:46,160
+to go so they they provide that to you
+
+226
+00:08:43,519 --> 00:08:48,480
+depends on gravity constant depends on d
+
+227
+00:08:46,160 --> 00:08:50,480
+what was d again
+
+228
+00:08:48,480 --> 00:08:52,000
+that's that's the road width isn't it
+
+229
+00:08:50,480 --> 00:08:53,519
+again that's decided for you say okay
+
+230
+00:08:52,000 --> 00:08:55,440
+well look we need three lanes for this
+
+231
+00:08:53,519 --> 00:08:56,560
+highway or it's one lane or whatever
+
+232
+00:08:55,440 --> 00:09:00,080
+okay
+
+233
+00:08:56,560 --> 00:09:02,320
+now the final piece is v-square right so
+
+234
+00:09:00,080 --> 00:09:04,080
+it's like look if you know
+
+235
+00:09:02,320 --> 00:09:06,720
+where your road has to be how wide you
+
+236
+00:09:04,080 --> 00:09:09,760
+know gravity and then if you know
+
+237
+00:09:06,720 --> 00:09:11,920
+a required speed or if you want a
+
+238
+00:09:09,760 --> 00:09:12,959
+particular optimum speed like say oh i
+
+239
+00:09:11,920 --> 00:09:15,600
+don't know
+
+240
+00:09:12,959 --> 00:09:18,000
+a speed limit
+
+241
+00:09:15,600 --> 00:09:19,600
+right you say look this is on a highway
+
+242
+00:09:18,000 --> 00:09:22,080
+people should be taking this curve at
+
+243
+00:09:19,600 --> 00:09:23,440
+110 kilometers per hour right instead of
+
+244
+00:09:22,080 --> 00:09:24,959
+being in this position where you're the
+
+245
+00:09:23,440 --> 00:09:27,040
+driver and you're like how fast should i
+
+246
+00:09:24,959 --> 00:09:28,959
+go you're in this position you say look
+
+247
+00:09:27,040 --> 00:09:30,399
+i know how fast they should go and so
+
+248
+00:09:28,959 --> 00:09:32,080
+i'm going to substitute that into here
+
+249
+00:09:30,399 --> 00:09:34,080
+and get a height out does that make
+
+250
+00:09:32,080 --> 00:09:35,519
+sense
+
+251
+00:09:34,080 --> 00:09:39,200
+okay
+
+252
+00:09:35,519 --> 00:09:39,200
+so this is all in an ideal world
+
+253
+00:09:42,320 --> 00:09:46,480
+where everything is optimized and
+
+254
+00:09:44,080 --> 00:09:48,160
+everything is nice and perfect right
+
+255
+00:09:46,480 --> 00:09:49,760
+optimum speed optimum height for
+
+256
+00:09:48,160 --> 00:09:52,000
+everything
+
+257
+00:09:49,760 --> 00:09:52,880
+but we don't live in an ideal world do
+
+258
+00:09:52,000 --> 00:09:54,320
+we
+
+259
+00:09:52,880 --> 00:09:56,480
+people take corners at all different
+
+260
+00:09:54,320 --> 00:09:59,680
+speeds
+
+261
+00:09:56,480 --> 00:10:01,839
+people have cars of all different masses
+
+262
+00:09:59,680 --> 00:10:04,720
+okay so what's going to happen is for
+
+263
+00:10:01,839 --> 00:10:07,040
+instance you know um suppose this is
+
+264
+00:10:04,720 --> 00:10:09,360
+this corner here right and i'm just a
+
+265
+00:10:07,040 --> 00:10:11,920
+little bit more reckless than you so i'm
+
+266
+00:10:09,360 --> 00:10:14,079
+like okay speed limit's 110 i just go
+
+267
+00:10:11,920 --> 00:10:15,440
+ahead and i take it 110. but everyone
+
+268
+00:10:14,079 --> 00:10:17,360
+else all the normal people they're like
+
+269
+00:10:15,440 --> 00:10:19,200
+look at the how tight that curve is
+
+270
+00:10:17,360 --> 00:10:20,640
+right so people come in and they slow
+
+271
+00:10:19,200 --> 00:10:22,399
+down they approach it maybe 90
+
+272
+00:10:20,640 --> 00:10:25,279
+kilometers an hour okay
+
+273
+00:10:22,399 --> 00:10:27,600
+uh or maybe you have like a really heavy
+
+274
+00:10:25,279 --> 00:10:29,040
+car okay so when you have a heavy car
+
+275
+00:10:27,600 --> 00:10:30,640
+there's going to be more forces acting
+
+276
+00:10:29,040 --> 00:10:32,560
+this direction in this direction right
+
+277
+00:10:30,640 --> 00:10:34,399
+and i've got a light car so it's going
+
+278
+00:10:32,560 --> 00:10:36,399
+to go so we have to account for all of
+
+279
+00:10:34,399 --> 00:10:38,480
+these things okay
+
+280
+00:10:36,399 --> 00:10:40,079
+so this is an ideal world
+
+281
+00:10:38,480 --> 00:10:42,079
+you can rule all that off we're going to
+
+282
+00:10:40,079 --> 00:10:43,920
+draw a new diagram for a
+
+283
+00:10:42,079 --> 00:10:46,480
+non-ideal world okay and i need more
+
+284
+00:10:43,920 --> 00:10:46,480
+space
